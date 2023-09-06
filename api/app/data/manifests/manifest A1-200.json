@@ -1,0 +1,25 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://images.is.ed.ac.uk/luna/images/LUNAIIIF80.png",
+    "@type": "sc:Manifest",
+    "label": "Notebook No.200",
+    "metadata": [],
+    "description": "Following the completion of the 5th Edition of his Elements of Geology (Manual of Elementary Geology) in February 1855, Charles and Mary Lyell visit Berlin, where this Notebook was written. Leonard G. Wilson in his book 'Sir Charles Lyell's Scientific Journals on the Species Question' (YUP 1970) records that this trip was taken to visit family and friends, stopping at Paris on their return. There is no index to this Notebook.",
+    "viewingDirection": "left-to-right",
+    "viewingHint": "paged",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": "",
+    "sequences": [
+        {
+            "@id": "http://1441c503-4239-4fa3-8c81-9eb0ce1fc209",
+            "@type": "sc:Sequence",
+            "label": [
+                {
+                    "@value": "Normal Sequence",
+                    "@language": "en"
+                }
+            ],
+            "canvases": []
+        }
+    ]
+}
