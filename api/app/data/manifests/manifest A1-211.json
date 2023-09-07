@@ -1,0 +1,25 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://images.is.ed.ac.uk/luna/images/LUNAIIIF80.png",
+    "@type": "sc:Manifest",
+    "label": "Notebook No.211",
+    "metadata": [],
+    "description": "Lyell is in London, working on Madeira and Canary Islands research notes, shells and specimens. Leonard G. Wilson in his book 'Sir Charles Lyell's Scientific Journals on the Species Question' (YUP 1970) records that Georges Hartung comes to London from Germany in November 1855, and they work together on the results of their explorations some 18 months previously. ",
+    "viewingDirection": "left-to-right",
+    "viewingHint": "paged",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": "",
+    "sequences": [
+        {
+            "@id": "http://1441c503-4239-4fa3-8c81-9eb0ce1fc209",
+            "@type": "sc:Sequence",
+            "label": [
+                {
+                    "@value": "Normal Sequence",
+                    "@language": "en"
+                }
+            ],
+            "canvases": []
+        }
+    ]
+}
