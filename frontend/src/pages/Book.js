@@ -7,13 +7,13 @@ import links from "../content/booklinks.json"
 import {Link} from "react-router-dom";
 
 
-function BookInfo({textContent}) {
+function BookInfo({textContent, image}) {
     console.log(textContent)
     return (
         <div>
             <div className="">
                 <div className="about-box py-3">
-                    <img className="about2-img float-end me-4" style={{width: "350px"}} src={pr_ft}
+                    <img className="about2-img float-end me-4" style={{width: "350px"}} src={image}
                          alt="notebook cover"/>
                     <h3>{textContent.header}</h3><br/>
                     <p>{textContent.intro}</p>
@@ -91,8 +91,10 @@ function ToggleTable({data}) {
 
 function Books() {
 
-    const prince = links["Principles of Geology"]
-    const prince2 = textContent["Principles of Geology"]
+    const images = {
+        "Principles of Geology": pr_ft,
+        "Elements of Geology": el_bd
+    }
     return (
         <div>
             <Top
@@ -105,6 +107,7 @@ function Books() {
                 <div className="my-5 container">
                     <BookInfo
                         textContent={textContent[bookName]}
+                        image = {images[bookName]}
                     />
 
                     <ToggleTable
