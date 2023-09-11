@@ -3,88 +3,29 @@ import Top from "../components/Header"
 import pr_ft from "../images/principles_front.png"
 import el_bd from "../images/Elements_binding_light.jpg"
 import textContent from "../content/books.json"
+import links from "../content/booklinks.json"
 import {Link} from "react-router-dom";
 
 
-const ToggleTable = ({ data }) => {
-  const [isTableVisible, setIsTableVisible] = useState(false);
-
-  const toggleTable = () => {
-    setIsTableVisible(!isTableVisible);
-  };
-
-  return (
-    <div>
-      <button className="btn btn-green" onClick={toggleTable}>
-        {isTableVisible ? '1st edition' : '1st edition'}
-      </button>
-      {isTableVisible && (
-        <table className="table mt-3" style={{width: "900px"}}>
-          <thead>
-            <tr>
-              <th>Document</th>
-              <th>Source</th>
-              <th>Link</th>
-            </tr>
-          </thead>
-          <tbody>
-            {data.map((row, index) => (
-              <tr key={index}>
-                <td>{row.Document}</td>
-                <td>{row.Source}</td>
-                <td>
-                  <a href={row.Link} target="_blank" rel="">
-                    {row.LinkText}
-                  </a>
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      )}
-    </div>
-  );
-};
-
-
-function BookInfo() {
-    const tableData = {"1st edition":[
-    {
-      Document: 'Principles of Geology 1st edition, 1st vol. Jan. 1830',
-      Source: 'Internet archive',
-      Link: 'https://archive.org/details/ PrinciplesgeoloVol1Lyel/page/n13/mode/2up\n',
-      LinkText: 'https://archive.org/details/ PrinciplesgeoloVol1Lyel/page/n13/mode/2up\n',
-    },
-    {
-      Document: 'Principles of Geology 1st edition, 2nd vol. Jan. 1832',
-      Source: 'Internet archive',
-      Link: 'https://archive.org/details/ PrinciplesgeoloVol2Lyel/page/n9/mode/2up\n',
-      LinkText: 'https://archive.org/details/ PrinciplesgeoloVol2Lyel/page/n9/mode/2up\n',
-    },
-    {
-      Document: 'Principles of Geology 1st edition, 3rd vol. May 1833\n',
-      Source: 'Internet archive',
-      Link: 'https://archive.org/details/ PrinciplesgeoloV3Lyel/page/n11/mode/2up\n',
-      LinkText: 'https://archive.org/details/ PrinciplesgeoloV3Lyel/page/n11/mode/2up\n',
-    },
-  ]}
+function BookInfo({textContent}) {
+    console.log(textContent)
     return (
         <div>
-            <div className="container">
+            <div className="">
                 <div className="about-box py-3">
                     <img className="about2-img float-end me-4" style={{width: "350px"}} src={pr_ft}
                          alt="notebook cover"/>
                     <h3>{textContent.header}</h3><br/>
                     <p>{textContent.intro}</p>
-                    <p>Access to a digital first edition can be found at the Internet Archives here: <Link to="https://archive.org/details/PrinciplesgeoloVol1Lyel/page/n13/mode/2up">https://archive.org/details/PrinciplesgeoloVol1Lyel/page/n13/mode/2up</Link></p>
-                    <br/><h5>{textContent.principles.conclusion}</h5>
+                    <p>Access to a digital first edition can be found at the Internet Archives here: <Link
+                        to="https://archive.org/details/PrinciplesgeoloVol1Lyel/page/n13/mode/2up">https://archive.org/details/PrinciplesgeoloVol1Lyel/page/n13/mode/2up</Link>
+                    </p>
+                    <br/><h5>{textContent.conclusion}</h5>
                     <div>
-                        {textContent.principles.mainContent.map((paragraph, index) => (
+                        {textContent["mainContent"].map((paragraph, index) => (
                             <p key={index}>{paragraph}</p>
                         ))}
                     </div>
-                    <p>{textContent.principles.conclusion}</p>
-                    <ToggleTable data={tableData} />
                 </div>
                 <div>
 
@@ -96,11 +37,62 @@ function BookInfo() {
 }
 
 
+function ToggleTable({data}) {
+    const [selectedEdition, setSelectedEdition] = useState(null);
+
+    const handleEditionClick = (edition) => {
+        setSelectedEdition(edition);
+    };
+    console.log(data)
+
+    return (
+        <div>
+            <div>
+
+                {Object.keys(data).map((edition) => (
+                    <button
+                        key={edition}
+                        onClick={() => handleEditionClick(edition)}
+                        className={selectedEdition === edition ? 'btn bk-green m-1' : 'btn  btn-outline-secondary m-1'}
+                    >
+                        {edition}
+                    </button>
+                ))}
+            </div>
+
+            {selectedEdition && (
+                <table>
+                    <thead>
+                    <tr>
+                        <th>Document</th>
+                        <th>Source</th>
+                        <th>Link</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {data[selectedEdition].map((item, index) => (
+                        <tr key={index}>
+                            <td>{item.Document}</td>
+                            <td>{item.Source}</td>
+                            <td>
+                                <a href={item.Link} target="_blank" rel="noopener noreferrer">
+                                    {item.Link}
+                                </a>
+                            </td>
+                        </tr>
+                    ))}
+                    </tbody>
+                </table>
+            )}
+        </div>
+    );
+}
+
 
 function Books() {
 
-
-
+    const prince = links["Principles of Geology"]
+    const prince2 = textContent["Principles of Geology"]
     return (
         <div>
             <Top
@@ -109,7 +101,18 @@ function Books() {
                 size={{height: "200px", text: "50px"}}
             />
 
-            <BookInfo/>
+            {Object.keys(textContent).map((bookName) => (
+                <div className="my-5 container">
+                    <BookInfo
+                        textContent={textContent[bookName]}
+                    />
+
+                    <ToggleTable
+                        data={links[bookName]}
+                    />
+                </div>
+                ))}
+
 
         </div>
     )

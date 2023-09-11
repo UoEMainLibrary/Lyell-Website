@@ -24,7 +24,7 @@ export default function Items() {
 
             </div>
             <ExploreButton/>
-            <div className="container py-auto">
+            <div className="container py-auto mb-5">
                 <div className="row center">
                     <HoverBox
                         info={{link: "/about", size: "small"}}
