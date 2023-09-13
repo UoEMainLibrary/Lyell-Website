@@ -27,7 +27,7 @@ const TagList = ({headerText, jsonData, onClick}) => {
         left: 0,
         width: '100%',
         height: '2px',
-        backgroundColor: 'green',
+        backgroundColor: 'dodgerblue',
         transform: isListVisible ? 'scaleX(1)' : 'scaleX(0)',
         transition: 'transform 0.2s ease',
     };

@@ -8,7 +8,7 @@ import Top from "../components/Header";
 function SingleResult({obj}) {
     return (
         <div key={obj.id} className="row align-items-center my-4">
-            <div className="col-lg-9 col-md-6 col-sm-12">
+            <div className="col-lg-9 col-md-8 col-sm-12">
                 <div className="d-flex justify-content-between align-items-center">
                     <Link to={obj.link} style={{textDecoration: 'none'}}><h3
                         className="font-weight-light custom-heading">{obj.title}</h3></Link>
@@ -17,13 +17,13 @@ function SingleResult({obj}) {
                 <p className="my-1"><strong> shelfmark: </strong> {obj.shelfmark}</p>
                 <p>{obj.body}</p>
             </div>
-            <div className="col-lg-3 col-md-5">
+            <div className="col-lg-3 col-md-4">
                 <Link to={obj.link}>
                     <img
                         className="img-fluid rounded mb-4 mb-lg-0"
                         src={obj.image}
                         alt=""
-                        style={{height: "300px"}}
+                        style={{maxHeight: "300px"}}
                     />
                 </Link>
             </div>
@@ -139,6 +139,7 @@ function Explore() {
 
     useEffect(() => {
         const activeTags = searchParams.getAll('tag');
+        setCurrentPage(1)
         setFilterTags(activeTags);
     }, [searchParams]);
 
@@ -152,11 +153,13 @@ function Explore() {
 
     const handleNextPage = () => {
         setCurrentPage((prevPage) => prevPage + 1);
+        window.scrollTo(0, 0);
     };
 
     const handlePrevPage = () => {
         if (currentPage > 1) {
             setCurrentPage((prevPage) => prevPage - 1);
+            window.scrollTo(0, 0);
         }
     };
 
@@ -179,7 +182,7 @@ function Explore() {
             />
             <div className="mx-5 my-5">
                 <div className="row">
-                    <div className="col-3 bg-light py-3">
+                    <div className="col-12 col-md-3 bg-light py-3">
                         <SearchBar searchParams={searchParams} setSearchParams={setSearchParams}/>
                         <TagFilter filterTags={filterTags} searchParams={searchParams}
                                    setSearchParams={setSearchParams}/>
@@ -191,8 +194,12 @@ function Explore() {
                     </div>
                     <div className="col">
                         <div className="row p-3" style={{borderBottom: '2px solid lightgrey'}}>
-                            <p className="col-9 m-0">Showing {startIndex+1}-{endIndex} of {searchData.amount} results</p>
-                            <div className="col">
+                            {searchData.amount < itemsPerPage ? (
+                                <p className="col-4 col-md m-0">Showing {searchData.amount} results</p>
+                            ):(
+                                <p className="col-4 col-md m-0">Showing {startIndex+1}-{endIndex} of {searchData.amount} results</p>
+                            )}
+                            <div className="col-7 col-md-4">
                                 <label className="mx-2" htmlFor="itemsPerPage">Items per Page: </label>
                                 <select
                                     id="itemsPerPage"
@@ -210,11 +217,11 @@ function Explore() {
                             result={searchData.results.slice(startIndex, endIndex)} // Display a subset of results based on pagination
                         />
                         <div className="pagination">
-                            <button className="btn mx-2" onClick={handlePrevPage} disabled={currentPage === 1}>
+                            <button className="btn btn-outline-secondary mx-2" onClick={handlePrevPage} disabled={currentPage === 1}>
                                 Prev
                             </button>
                             <span>Page {currentPage}</span>
-                            <button className="btn mx-2" onClick={handleNextPage} disabled={endIndex >= searchData.results.length}>
+                            <button className="btn btn-outline-secondary mx-2" onClick={handleNextPage} disabled={endIndex >= searchData.results.length}>
                                 Next
                             </button>
                         </div>

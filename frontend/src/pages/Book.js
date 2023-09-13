@@ -1,7 +1,9 @@
 import React, {useState} from "react";
 import Top from "../components/Header"
 import pr_ft from "../images/principles_front.png"
-import el_bd from "../images/Elements_binding_light.jpg"
+import el_bd_l from "../images/Elements_binding_light.jpg"
+import el_bd from "../images/Elements_binding.jpg"
+import el_ft from "../images/Elements_front.jpg"
 import textContent from "../content/books.json"
 import links from "../content/booklinks.json"
 import {Link} from "react-router-dom";
@@ -10,35 +12,34 @@ import {Link} from "react-router-dom";
 function BookInfo({textContent, image}) {
     console.log(textContent)
     return (
-        <div>
-            <div className="">
-                <div className="about-box py-3">
-                    <img className="about2-img float-end me-4" style={{width: "350px"}} src={image}
-                         alt="notebook cover"/>
-                    <h3>{textContent.header}</h3><br/>
-                    <p>{textContent.intro}</p>
-                    <p>Access to a digital first edition can be found at the Internet Archives here: <Link
-                        to="https://archive.org/details/PrinciplesgeoloVol1Lyel/page/n13/mode/2up">https://archive.org/details/PrinciplesgeoloVol1Lyel/page/n13/mode/2up</Link>
-                    </p>
-                    <br/><h5>{textContent.conclusion}</h5>
-                    <div>
-                        {textContent["mainContent"].map((paragraph, index) => (
-                            <p key={index}>{paragraph}</p>
-                        ))}
-                    </div>
-                </div>
+        <div className="row">
+            <div className="col-8 about-box py-3">
+                <h3>{textContent.header}</h3><br/>
+                <p>{textContent.intro}</p>
+                <p>Access to a digital first edition can be found at the Internet Archives here: <Link
+                    to="https://archive.org/details/PrinciplesgeoloVol1Lyel/page/n13/mode/2up">https://archive.org/details/PrinciplesgeoloVol1Lyel/page/n13/mode/2up</Link>
+                </p>
+                <br/><h5>{textContent.conclusion}</h5>
                 <div>
-
-
+                    {textContent["mainContent"].map((paragraph, index) => (
+                        <p key={index}>{paragraph}</p>
+                    ))}
                 </div>
             </div>
+            <div className="col-4">
+                {image.map((img) => (
+                    <img className="mx-5 mt-4" style={{maxWidth: "350px", height: "auto"}} src={img}
+                     alt="notebook cover"/>
+                ))}
+
+                </div>
         </div>
     )
 }
 
 
 function ToggleTable({data}) {
-    const [selectedEdition, setSelectedEdition] = useState(null);
+    const [selectedEdition, setSelectedEdition] = useState(Object.keys(data)[0]);
 
     const handleEditionClick = (edition) => {
         setSelectedEdition(edition);
@@ -61,7 +62,7 @@ function ToggleTable({data}) {
             </div>
 
             {selectedEdition && (
-                <table>
+                <table className="table mt-3" style={{maxWidth: "1000px"}}>
                     <thead>
                     <tr>
                         <th>Document</th>
@@ -73,7 +74,7 @@ function ToggleTable({data}) {
                     {data[selectedEdition].map((item, index) => (
                         <tr key={index}>
                             <td>{item.Document}</td>
-                            <td>{item.Source}</td>
+                            <td style={{minWidth: "150px"}}>{item.Source}</td>
                             <td>
                                 <a href={item.Link} target="_blank" rel="noopener noreferrer">
                                     {item.Link}
@@ -90,35 +91,72 @@ function ToggleTable({data}) {
 
 
 function Books() {
-
     const images = {
-        "Principles of Geology": pr_ft,
-        "Elements of Geology": el_bd
-    }
+        "Principles of Geology": [pr_ft],
+        "Elements of Geology": [el_bd, el_ft],
+        "American travelogues": [],
+        "Antiquity of Man": [],
+        "Life, Letters and Journals": []
+    };
+
+
+    const handleKeyClick = (bookName) => {
+        // Scroll to the relevant section using a scroll function (scrollToSection)
+        scrollToSection(bookName);
+    };
+
+    // Function to scroll to the relevant section
+    const scrollToSection = (sectionName) => {
+        const sectionElement = document.getElementById(sectionName);
+        if (sectionElement) {
+            sectionElement.scrollIntoView({behavior: 'smooth'});
+        }
+    };
+
+  const keyItemStyle = {
+    cursor: 'pointer', // Change cursor to pointer on hover
+      marginLeft: "5%",
+      textDecoration: "underline"
+  };
+
     return (
-        <div>
+        <div >
             <Top
                 title={"Published works"}
-                imageURL={el_bd}
+                imageURL={el_bd_l}
                 size={{height: "200px", text: "50px"}}
             />
+            <div className="container">
+            <p className="lead py-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique.
+                A pellentesque sit amet porttitor eget dolor. Pellentesque elit eget gravida cum sociis natoque penatibus.
+                Sed pulvinar proin gravida hendrerit lectus a. Lorem ipsum dolor sit amet consectetur. </p>
+            {/* Display a list of keys */}
+            <ul className="bold-text" style={keyItemStyle}>
+                {Object.keys(textContent).map((bookName) => (
+                    <li className="m-1 mb-3" key={bookName} onClick={() => handleKeyClick(bookName)}>
+                        {bookName}
+                    </li>
+                ))}
+            </ul>
+                <p className="text-center m-0">Information on the books taken from A brief Bibliography of Charles Lyell by Stuart Baldwin<br/>List of books with links compiled by Ms Felicity MacKenzie</p>
 
             {Object.keys(textContent).map((bookName) => (
-                <div className="my-5 container">
+                <div className="my-5 top-bar" key={bookName}  id={bookName}>
                     <BookInfo
                         textContent={textContent[bookName]}
-                        image = {images[bookName]}
+                        image={images[bookName]}
                     />
 
-                    <ToggleTable
-                        data={links[bookName]}
-                    />
+                    {/* Assign an ID to each section based on bookName */}
+                    <div>
+                        <ToggleTable data={links[bookName]}/>
+                    </div>
                 </div>
-                ))}
-
-
+            ))}
+                </div>
         </div>
-    )
+    );
 }
 
 export default Books;

@@ -168,8 +168,7 @@
         "Source": "Hathi Trust",
         "Link": "https://babel.hathitrust.org/cgi/pt?id=hvd.32044005333687&view=1up&seq=11"
       }
-    ],
-    "null": []
+    ]
   },
   "Elements of Geology": {
     "1st edition": [
@@ -228,7 +227,7 @@
     ]
   },
   "American travelogues": {
-    "all_links": [
+    "all links": [
       {
         "Document": "Travels in North America. 2 vols, 1st vol. 1845",
         "Source": "Hathi Trust",
@@ -252,31 +251,31 @@
     ]
   },
   "Antiquity of Man": {
-    "all_links": [
+    "all links": [
       {
         "Document": "Geological Evidences of the Antiquity of Man 1 vol. 1st edition, Feb. 1863",
         "Source": "Hathi Trust",
-        "Column3": "https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t8x92264p&view=1up&seq=9"
+        "Link": "https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t8x92264p&view=1up&seq=9"
       },
       {
         "Document": "Geological Evidences of the Antiquity of Man 1 vol. 2nd edition, April 1863",
         "Source": "Hathi Trust",
-        "Column3": "https://archive.org/details/B-001-002-190/page/n11/mode/1up"
+        "Link": "https://archive.org/details/B-001-002-190/page/n11/mode/1up"
       },
       {
         "Document": "Geological Evidences of the Antiquity of Man 1 vol. 3rd edition, Nov. 1863",
         "Source": "Hathi Trust",
-        "Column3": "https://archive.org/details/geologicalevide02lyelgoog/page/n7/mode/2up"
+        "Link": "https://archive.org/details/geologicalevide02lyelgoog/page/n7/mode/2up"
       },
       {
         "Document": "Geological Evidences of the Antiquity of Man 1 vol. 4th edition, May 1873",
         "Source": "Hathi Trust",
-        "Column3": "https://archive.org/details/bub_gb_m4ppZ_zJ9JwC/page/n8/mode/1up"
+        "Link": "https://archive.org/details/bub_gb_m4ppZ_zJ9JwC/page/n8/mode/1up"
       }
     ]
   },
   "Life, Letters and Journals": {
-    "all_links": [
+    "all links": [
       {
         "Document": "Lyell, Katharine Murray, ed. Life Letters and Journals of Sir Charles Lyell 2 vols, 1st vol. 1881",
         "Source": "Hathi Trust",
