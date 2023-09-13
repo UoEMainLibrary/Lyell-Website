@@ -142,7 +142,7 @@ function Books() {
                 <p className="text-center m-0">Information on the books taken from A brief Bibliography of Charles Lyell by Stuart Baldwin<br/>List of books with links compiled by Ms Felicity MacKenzie</p>
 
             {Object.keys(textContent).map((bookName) => (
-                <div className="my-5 top-bar" key={bookName}  id={bookName}>
+                <div className="my-5 top-bar-green" key={bookName}  id={bookName}>
                     <BookInfo
                         textContent={textContent[bookName]}
                         image={images[bookName]}

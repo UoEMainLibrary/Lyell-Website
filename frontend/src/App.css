@@ -1,4 +1,5 @@
 
-.top-bar {border-top: 5px solid rgb(10, 103, 38);}
+.top-bar-green {border-top: 5px solid rgb(10, 103, 38);}
+.top-bar-red {border-top: 5px solid rgb(128, 39, 39);}
 .bold-text {font-size: 20px}
 .bk-green {background-color: darkseagreen}

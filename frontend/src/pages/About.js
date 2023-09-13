@@ -14,7 +14,7 @@ function Section({content, img, landscape}) {
     return (
         <div className="my-5" style={{marginLeft: "10%"}}>
 
-            <div className="row align-items-center top-bar pt-3">
+            <div className="row align-items-center top-bar-red pt-3">
                 <div className={`col-lg-5 order-2 order-lg-2 pt-3`} >
                     <img src={img} alt="Image" className="" style={imageStyle}/>
                 </div>
