@@ -71,7 +71,6 @@ function IiifItem({objFull}) {
 }
 
 function PlainItem({objFull}) {
-    console.log(objFull)
     return (
         <div className="bg-dark">
             <div style={{borderBottom: "4px solid black", height: "55px"}}>
@@ -114,7 +113,6 @@ export default function Item() {
                 data["index"] = false
                 for (let i = 0; i < notes.length; i++) {
                     if (notes[i]["content"].includes("</lb>") || notes[i]["content"].includes("<lb/>")) {
-                        console.log("wow")
                         const formattedIndex = notes[i]["content"]
                             .replace(/<lb\/>/g, "<br/>")
                             .replace(/<lb><\/lb>/g, "<br/>")
