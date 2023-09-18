@@ -56,7 +56,7 @@ export default function Home() {
                             }}
                         />
                         <HoverBox
-                            info={{link: "/something"}}
+                            info={{link: "/elsewhere"}}
                             content={{
                                 title: "Lyell elsewhere",
                                 detail: "brief summary of items and location",
