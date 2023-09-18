@@ -50,7 +50,7 @@ export default function Elsewhere() {
         <div style={{backgroundColor: "rgb(70,70,70)"}}>
             <Top
                 title={"About Charles Lyell"}
-                imageURL={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~121185~458574/full/!500,500/0/default.jpg"}
+                imageURL={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~83972~103414/full/!1300,1300/0/default.jpg"}
                 size={{height: "300px"}}
             />
             <div className="container pb-5">
