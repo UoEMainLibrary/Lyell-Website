@@ -33,7 +33,7 @@ function Info() {
             <div>
                 <Top
                     title={""}
-                    imageURL={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~127589~468155/full/1052,/0/default.jpg"}
+                    imageURL={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~127573~468171/0,0,5693,6000/712,/0/default.jpg"}
                     size={{height:"200px"}}
                 />
                 <Content
@@ -49,11 +49,11 @@ function Info() {
             <div>
                 <Top
                     title={""}
-                    imageURL={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~119644~453885/full/!1000,1000/0/default.jpg"}
+                    imageURL={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~83972~103414/full/!1300,1300/0/default.jpg"}
                     size={{height:"200px"}}
                 />
                 <Content
-                    image={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~119644~453885/full/!1000,1000/0/default.jpg"}
+                    image={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~83972~103414/full/!1300,1300/0/default.jpg"}
                     data={data.notebooks}
                     head={"Papers"}
                 />
@@ -81,11 +81,11 @@ function Info() {
             <div>
                 <Top
                     title={""}
-                    imageURL={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~119644~453885/full/!1000,1000/0/default.jpg"}
+                    imageURL={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~127573~468171/0,0,5693,6000/712,/0/default.jpg"}
                     size={{height:"200px"}}
                 />
                 <Content
-                    image={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~119644~453885/full/!1000,1000/0/default.jpg"}
+                    image={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~84801~103462/full/717,/0/default.jpg"}
                     data={data.notebooks}
                     head={"Specimens"}
                 />

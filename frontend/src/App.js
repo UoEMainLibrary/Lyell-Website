@@ -8,6 +8,7 @@ import Overview from './pages/Overview';
 import Explore from './pages/Explore';
 import Info from './pages/Info';
 import Item from './pages/Item';
+import Elsewhere from "./pages/Elsewhere";
 import Navigation from "./components/Navigation";
 import Footer from "./components/Footer";
 
@@ -20,6 +21,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/books" element={<Books />} />
+          <Route path="/elsewhere" element={<Elsewhere />}/>
           <Route path="/collections" element={<Collections />}>
             <Route path="" element={<Overview />} />
             <Route path="explore" element={<Explore />} />

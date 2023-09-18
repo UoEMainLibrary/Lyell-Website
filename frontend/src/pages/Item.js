@@ -23,7 +23,7 @@ function IiifItem({objFull}) {
     return (
         <div className="py-3 bg-dark">
             <div className="row">
-                <div className="col-9 p-0">
+                <div className="col-12 col-lg-9 p-0">
                     <UV manifest={objFull["iiifManifest"]}
                         parentWidth={"100"}/>
                 </div>
