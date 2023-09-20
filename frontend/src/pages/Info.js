@@ -10,15 +10,15 @@ function Content({image, data, head}){
         <div>
         <div className="container my-5">
             <div className="py-3 row">
-                <div className="col">
+                <div className="col-12 col-lg">
                     <h2 className="text-center">{head}</h2>
                 {data.map((t, index) => (
                     <p key={index}>{t}</p>
                 ))}
+                    <ExploreButton/>
                 </div>
-                <img className="col-12 col-lg-4 ms-4 mt-5" style={{height: "400px", width: "auto"}} src={image} alt="notebook cover"/>
+                <img className="col-12 col-lg-4 ms-4 mt-5" style={{height: "200px", width: "400px"}} src={image} alt="notebook cover"/>
             </div>
-            <ExploreButton/>
         </div>
         </div>
     )

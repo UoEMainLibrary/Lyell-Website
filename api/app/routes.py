@@ -4,7 +4,6 @@ from app.models import TagHandler, create_search, get_item_from_shelfmark
 import json
 
 
-
 @app.route('/')
 @app.route('/api')
 def index():

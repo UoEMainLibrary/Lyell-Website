@@ -50,7 +50,7 @@ export default function Home() {
                             info={{link: "/books"}}
                             content={{
                                 detail: "brief introduction to the books not sure what to put here",
-                                image: book_cover,
+                                image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130439~471142/0,2000,6000,5000/750,/0/default.jpg",
                                 alt: "Book Cover",
                                 title: "Printed Books"
                             }}
@@ -60,7 +60,7 @@ export default function Home() {
                             content={{
                                 title: "Lyell elsewhere",
                                 detail: "brief summary of items and location",
-                                image: book_cover,
+                                image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEcar~4~4~46658~102417/full/1000,/0/default.jpg",
                                 alt: "Book Cover"
                             }}
                         />

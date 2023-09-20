@@ -17,3 +17,11 @@ h1 {
   font-weight: 700;
   font-size: 50px;
 }
+
+.dropdown-item {
+  background-color: #212529 !important;
+}
+.dropdown-item:focus,
+.dropdown-item:active {
+background-color: #949494 !important;
+}
