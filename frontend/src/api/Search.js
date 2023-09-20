@@ -10,7 +10,9 @@ export function useSearch() {
 
   const fetchDataFromAPI = async (query) => {
     const data = await fetchData("search?" + query);
-    setSearchData(data);
+    if(data !== {}){
+      setSearchData(data);
+    }
   };
 
   return { searchData, fetchDataFromAPI };

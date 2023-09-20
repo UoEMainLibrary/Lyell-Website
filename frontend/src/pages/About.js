@@ -56,10 +56,10 @@ export default function About() {
                         img={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEcar~4~4~46658~102417/full/1000,/0/default.jpg"}
                         landscape={true}
                     />
-                    <Section
-                        content={aboutH}
-                        img={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~119644~453885/full/!1000,1000/0/default.jpg"}
-                    />
+                    {/*<Section*/}
+                    {/*    content={aboutH}*/}
+                    {/*    img={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~119644~453885/full/!1000,1000/0/default.jpg"}*/}
+                    {/*/>*/}
 
                 </div>
             </div>

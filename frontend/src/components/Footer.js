@@ -19,15 +19,15 @@ export default function Footer() {
             <div className="d-flex flex-column">
               <a href="#" className="text-light mb-2 text-decoration-none">Privacy & Cookies</a>
               <a href="#" className="text-light mb-2 text-decoration-none">Licensing & Copyright</a>
-              <a href="#" className="text-light text-decoration-none">Copyright Accessibility</a>
+              <a href="#" className="text-light text-decoration-none">Accessibility</a>
             </div>
           </div>
           <div className="col-md-3">
             <h4>Resources</h4>
             <div className="d-flex flex-column">
-              <a href="#" className="text-light mb-2 text-decoration-none">Collection in ArchivesSpace</a>
+              <a href="https://archives.collections.ed.ac.uk/agents/people/86" className="text-light mb-2 text-decoration-none">Collection in ArchivesSpace</a>
               <a href="#" className="text-light mb-2 text-decoration-none">Guide to seeing the collection in person</a>
-              <a href="#" className="text-light text-decoration-none">Link 6</a>
+              <a href="#" className="text-light text-decoration-none">Example link</a>
             </div>
           </div>
         </div>

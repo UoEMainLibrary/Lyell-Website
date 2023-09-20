@@ -10,10 +10,9 @@ import {Link} from "react-router-dom";
 
 
 function BookInfo({textContent, image}) {
-    console.log(textContent)
     return (
         <div className="row">
-            <div className="col-8 about-box py-3">
+            <div className="col-12 col-lg-8 about-box py-3">
                 <h3>{textContent.header}</h3><br/>
                 <p>{textContent.intro}</p>
                 <p>Access to a digital first edition can be found at the Internet Archives here: <Link
@@ -26,9 +25,9 @@ function BookInfo({textContent, image}) {
                     ))}
                 </div>
             </div>
-            <div className="col-4">
+            <div className="row col col-lg-4">
                 {image.map((img) => (
-                    <img className="mx-5 mt-4" style={{maxWidth: "350px", height: "auto"}} src={img}
+                    <img className="col col-sm-5 col-lg-12 mx-2 my-4" style={{maxWidth: "350px", height: "auto"}} src={img}
                      alt="notebook cover"/>
                 ))}
 
@@ -44,7 +43,6 @@ function ToggleTable({data}) {
     const handleEditionClick = (edition) => {
         setSelectedEdition(edition);
     };
-    console.log(data)
 
     return (
         <div>
@@ -75,8 +73,8 @@ function ToggleTable({data}) {
                         <tr key={index}>
                             <td>{item.Document}</td>
                             <td style={{minWidth: "150px"}}>{item.Source}</td>
-                            <td>
-                                <a href={item.Link} target="_blank" rel="noopener noreferrer">
+                            <td style={{wordWrap: "break-word", maxWidth: "300px"}}>
+                                <a href={item.Link} style={{wordWrap: "break-word"}} target="_blank" rel="noopener noreferrer">
                                     {item.Link}
                                 </a>
                             </td>
@@ -92,8 +90,8 @@ function ToggleTable({data}) {
 
 function Books() {
     const images = {
-        "Principles of Geology": [pr_ft],
-        "Elements of Geology": [el_bd, el_ft],
+        "Principles of Geology": ["https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130438~471143/full/376,/0/default.jpg", pr_ft],
+        "Elements of Geology": ["https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130437~471144/full/372,/0/default.jpg", el_ft],
         "American travelogues": [],
         "Antiquity of Man": [],
         "Life, Letters and Journals": []
@@ -123,7 +121,7 @@ function Books() {
         <div >
             <Top
                 title={"Published works"}
-                imageURL={el_bd_l}
+                imageURL={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130434~471147/full/1000,/0/default.jpg"}
                 size={{height: "200px", text: "50px"}}
             />
             <div className="container">

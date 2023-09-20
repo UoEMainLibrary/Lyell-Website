@@ -1,34 +1,55 @@
 import React from 'react';
 import 'bootstrap/dist/js/bootstrap.bundle';
-import {NavLink} from "react-router-dom"; // Import Bootstrap JavaScript
-import next from '../images/next.png'
+import { NavLink } from 'react-router-dom';
+import next from '../images/next.png';
 
 const Navbar = () => {
   const dropdownStyle = {
-    color: "white"
+    color: 'white',
   };
+
   return (
-    <nav className="navbar navbar-dark bg-dark bold-text">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark bold-text">
       <div className="container-fluid">
-        <div className="navbar-left ps-2">
-          <img style={{height: "50px"}} src={next} alt="Logo" className="logo mx-3" />
-          <NavLink className="navbar-text" to="/">Charles Lyell</NavLink>
-        </div>
-        <div className="navbar-right">
-          <ul className="nav">
+        <img
+          style={{ height: '50px' }}
+          src={next}
+          alt="Logo"
+          className="logo mx-3"
+        />
+        <NavLink className="navbar-text" to="/">
+          Charles Lyell
+        </NavLink>
+
+        {/* Toggle button for small screens */}
+        <button
+          className="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span className="navbar-toggler-icon"></span>
+        </button>
+
+        <div className="collapse navbar-collapse navbar-right" id="navbarNav">
+          <ul className="navbar-nav ml-auto">
             <li className="nav-item">
-              <NavLink className="nav-link text-light" to="/about">About</NavLink>
+              <NavLink className="nav-link text-light" to="/about">
+                About
+              </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link text-light" to="/books">Books</NavLink>
-            </li>
-            <li className="nav-item">
-              <NavLink className="nav-link text-light" to="/elsewhere">Lyell elsewhere</NavLink>
+              <NavLink className="nav-link text-light" to="/books">
+                Books
+              </NavLink>
             </li>
             <li className="nav-item dropdown">
               <NavLink
                 className="nav-link dropdown-toggle text-light"
-                href="/collection"
+                to="/collection"
                 id="navbarDropdown"
                 role="button"
                 data-bs-toggle="dropdown"
@@ -36,12 +57,38 @@ const Navbar = () => {
               >
                 Collection
               </NavLink>
-              <ul className="dropdown-menu dropdown-menu-dark" style={dropdownStyle} aria-labelledby="navbarDropdown">
-                <li><NavLink className="dropdown-item" to="/collections/explore">Browse</NavLink></li>
-                <li><NavLink className="dropdown-item" to="/collections">About</NavLink></li>
-                <li><NavLink className="dropdown-item" to="/collections/about/notebooks">Notebooks</NavLink></li>
-                <li><NavLink className="dropdown-item" to="/collections/about/specimins">Specimins</NavLink></li>
+              <ul
+                className="dropdown-menu dropdown-menu-dark"
+                style={dropdownStyle}
+                aria-labelledby="navbarDropdown"
+              >
+                <li>
+                  <NavLink className="dropdown-item" to="/collections">
+                    About
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    to="/collections/about/notebooks"
+                  >
+                    Notebooks
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    to="/collections/about/specimens"
+                  >
+                    Specimens
+                  </NavLink>
+                </li>
               </ul>
+            </li>
+            <li className="nav-item">
+              <NavLink className="nav-link text-light" to="/elsewhere">
+                Lyell elsewhere
+              </NavLink>
             </li>
           </ul>
         </div>
