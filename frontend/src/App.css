@@ -4,3 +4,13 @@
 .top-bar-gold {border-top: 5px solid goldenrod;}
 .bold-text {font-size: 20px}
 .bk-green {background-color: darkseagreen}
+
+.btn-red {
+    background-color: rgb(128, 39, 39);
+    color: white;
+    border: rgb(28, 1, 1);
+}
+
+.btn-red:hover {
+    background-color: rgb(177, 67, 67);
+}

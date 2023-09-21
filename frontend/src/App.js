@@ -11,11 +11,13 @@ import Item from './pages/Item';
 import Elsewhere from "./pages/Elsewhere";
 import Navigation from "./components/Navigation";
 import Footer from "./components/Footer";
+import Tootop from "./components/Tootop";
 
 function App() {
   return (
     <div className="App">
       <BrowserRouter>
+        <Tootop/>
         <Navigation />
         <Routes>
           <Route path="/" element={<Home />} />

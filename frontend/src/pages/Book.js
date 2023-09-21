@@ -14,24 +14,24 @@ function BookInfo({textContent, image}) {
         <div className="row">
             <div className="col-12 col-lg-8 about-box py-3">
                 <h3>{textContent.header}</h3><br/>
-                <p>{textContent.intro}</p>
-                <p>Access to a digital first edition can be found at the Internet Archives here: <Link
-                    to="https://archive.org/details/PrinciplesgeoloVol1Lyel/page/n13/mode/2up">https://archive.org/details/PrinciplesgeoloVol1Lyel/page/n13/mode/2up</Link>
-                </p>
-                <br/><h5>{textContent.conclusion}</h5>
-                <div>
-                    {textContent["mainContent"].map((paragraph, index) => (
-                        <p key={index}>{paragraph}</p>
-                    ))}
-                </div>
+                <p dangerouslySetInnerHTML={{ __html: textContent.intro }}></p>
+                {/*<p>Access to a digital first edition can be found at the Internet Archives here: <Link*/}
+                {/*    to="https://archive.org/details/PrinciplesgeoloVol1Lyel/page/n13/mode/2up">https://archive.org/details/PrinciplesgeoloVol1Lyel/page/n13/mode/2up</Link>*/}
+                {/*</p>*/}
+                {/*<div>*/}
+                {/*    {textContent["mainContent"].map((paragraph, index) => (*/}
+                {/*        <p key={index}>{paragraph}</p>*/}
+                {/*    ))}*/}
+                {/*</div>*/}
             </div>
             <div className="row col col-lg-4">
                 {image.map((img) => (
-                    <img className="col col-sm-5 col-lg-12 mx-2 my-4" style={{maxWidth: "350px", height: "auto"}} src={img}
-                     alt="notebook cover"/>
+                    <img className="col col-sm-5 col-lg-12 mx-2 my-4" style={{maxWidth: "350px", height: "auto"}}
+                         src={img}
+                         alt="notebook cover"/>
                 ))}
 
-                </div>
+            </div>
         </div>
     )
 }
@@ -45,19 +45,18 @@ function ToggleTable({data}) {
     };
 
     return (
-        <div>
-            <div>
+        <div className="">
 
-                {Object.keys(data).map((edition) => (
-                    <button
-                        key={edition}
-                        onClick={() => handleEditionClick(edition)}
-                        className={selectedEdition === edition ? 'btn bk-green m-1' : 'btn  btn-outline-secondary m-1'}
-                    >
-                        {edition}
-                    </button>
-                ))}
-            </div>
+            {Object.keys(data).map((edition) => (
+                <button
+                    key={edition}
+                    onClick={() => handleEditionClick(edition)}
+                    className={selectedEdition === edition ? 'btn bk-green m-1' : 'btn  btn-outline-secondary m-1'}
+                >
+                    {edition}
+                </button>
+            ))}
+
 
             {selectedEdition && (
                 <table className="table mt-3" style={{maxWidth: "1000px"}}>
@@ -74,7 +73,8 @@ function ToggleTable({data}) {
                             <td>{item.Document}</td>
                             <td style={{minWidth: "150px"}}>{item.Source}</td>
                             <td style={{wordWrap: "break-word", maxWidth: "300px"}}>
-                                <a href={item.Link} style={{wordWrap: "break-word"}} target="_blank" rel="noopener noreferrer">
+                                <a href={item.Link} style={{wordWrap: "break-word"}} target="_blank"
+                                   rel="noopener noreferrer">
                                     {item.Link}
                                 </a>
                             </td>
@@ -90,8 +90,8 @@ function ToggleTable({data}) {
 
 function Books() {
     const images = {
-        "Principles of Geology": ["https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130438~471143/full/376,/0/default.jpg", pr_ft],
-        "Elements of Geology": ["https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130437~471144/full/372,/0/default.jpg", el_ft],
+        "Principles of Geology": ["https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130438~471143/full/376,/0/default.jpg"],
+        "Elements of Geology": ["https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130437~471144/full/372,/0/default.jpg"],
         "American travelogues": [],
         "Antiquity of Man": [],
         "Life, Letters and Journals": []
@@ -111,48 +111,67 @@ function Books() {
         }
     };
 
-  const keyItemStyle = {
-    cursor: 'pointer', // Change cursor to pointer on hover
-      marginLeft: "5%",
-      textDecoration: "underline"
-  };
+    const keyItemStyle = {
+        cursor: 'pointer', // Change cursor to pointer on hover
+        marginLeft: "5%",
+        textDecoration: "underline"
+    };
 
     return (
-        <div >
+        <div>
             <Top
-                title={"Published works"}
+                title={"Published books"}
                 imageURL={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130434~471147/full/1000,/0/default.jpg"}
                 size={{height: "200px", text: "50px"}}
             />
-            <div className="container">
-            <p className="lead py-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique.
-                A pellentesque sit amet porttitor eget dolor. Pellentesque elit eget gravida cum sociis natoque penatibus.
-                Sed pulvinar proin gravida hendrerit lectus a. Lorem ipsum dolor sit amet consectetur. </p>
-            {/* Display a list of keys */}
-            <ul className="bold-text" style={keyItemStyle}>
-                {Object.keys(textContent).map((bookName) => (
-                    <li className="m-1 mb-3" key={bookName} onClick={() => handleKeyClick(bookName)}>
-                        {bookName}
-                    </li>
-                ))}
-            </ul>
-                <p className="text-center m-0">Information on the books taken from A brief Bibliography of Charles Lyell by Stuart Baldwin<br/>List of books with links compiled by Ms Felicity MacKenzie</p>
+            <div className="container" style={{maxWidth: "1000px"}}>
+                <p className="important-text lead py-3"><em> Lyell’s Principles of Geology</em>, planned since 1827 when
+                    he was aged 30 and published in 1830, was the culmination of his interests, education and travel. He
+                    would go on to dedicate his life to writing education and travel books. </p>
+                <p>A career in Geology would appear a natural progression from Lyell’s interest in natural history
+                    study
+                    as a boy – shared with his sisters, via his Classics degree at Oxford - where he also attended
+                    Dr.
+                    WIlliam Buckland’s lectures on mineralogy and geology, to his training as a Barrister in London.
+                    Writing articles for the Quarterly Review gave Lyell the confidence that he could generate an
+                    income
+                    as an author – and geology would be his topic. </p>
+                <p>The following section presents Lyell’s printed books in chronological order, with links to
+                    versions
+                    online. </p>
+                <p className=" m-0">Special credit is due to Stephen A. Baldwin BSc (Open), PHC, FGS, FLS, FRI,
+                    whose
+                    comprehensive article Charles Lyell – a brief Bibliography (2013) details Lyell's literary
+                    career. <br/>
+                    Thanks also to Ms. Felicity MacKenzie, whose expertise has sourced digital versions to Lyell’s
+                    works
+                    online August 2023. </p>
 
-            {Object.keys(textContent).map((bookName) => (
-                <div className="my-5 top-bar-green" key={bookName}  id={bookName}>
-                    <BookInfo
-                        textContent={textContent[bookName]}
-                        image={images[bookName]}
-                    />
+                <div>
+                    <ul className="bold-text mt-3" style={keyItemStyle}>
+                        {Object.keys(textContent).map((bookName) => (
+                            <li className="m-1 mb-2" key={bookName}>
+                                <span onClick={() => handleKeyClick(bookName)}>{bookName}</span>
+                            </li>
+                        ))}
+                    </ul>
 
-                    {/* Assign an ID to each section based on bookName */}
-                    <div>
-                        <ToggleTable data={links[bookName]}/>
-                    </div>
+
+                    {Object.keys(textContent).map((bookName) => (
+                        <div className="my-5 top-bar-green" key={bookName} id={bookName}>
+                            <BookInfo
+                                textContent={textContent[bookName]}
+                                image={images[bookName]}
+                            />
+
+                            {/* Assign an ID to each section based on bookName */}
+                            <div>
+                                <ToggleTable data={links[bookName]}/>
+                            </div>
+                        </div>
+                    ))}
                 </div>
-            ))}
-                </div>
+            </div>
         </div>
     );
 }
