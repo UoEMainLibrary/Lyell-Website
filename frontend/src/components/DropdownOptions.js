@@ -36,7 +36,7 @@ const TagList = ({headerText, jsonData, onClick}) => {
 
     const onItemClick = (item) => {
         item["header"] = headerText
-        onClick(item); // Call the callback function with the clicked item
+        onClick(item);
     };
 
     return (

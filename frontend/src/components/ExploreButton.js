@@ -13,7 +13,7 @@ export default function ExploreButton() {
       width: '250px',
     };
   return (
-      <Link to="/collections/explore">
+      <Link to="/collections">
     <div className="my-5 " style={buttonStyle}>
         <svg
           width="24"

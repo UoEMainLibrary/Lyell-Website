@@ -21,7 +21,7 @@ function Section({content, img, landscape}) {
                 <div className={`col-lg-7 order-1 order-lg-1`}>
                     <h2 className="pb-5 text-center">{content.head}</h2>
                     {content.body.map((paragraph, index) => (
-                        <p key={index}>{paragraph}</p>
+                        <p key={index} dangerouslySetInnerHTML={{ __html: paragraph }}></p>
                     ))}
                 </div>
             </div>
@@ -43,14 +43,18 @@ export default function About() {
 
             <div className="my-5">
                 <div className="container py-4">
-                    <p className="text-center lead py-3">Learn more about Sir Charles Lyell (1797-1875) and his
-                        contribution to our understanding of the Earth's history and geological time.
+                    <p className="text-center important-text lead py-3">Learn more about Sir Charles Lyell and his work, from his travels to his findings
                     </p>
 
                     <Section
                         content={aboutT}
                         img={lyellImgp}
                     />
+                    <div  className="my-5 text-center" style={{marginLeft: "10%", backgroundColor: "whitesmoke", padding: "10px", maxWidth: "900px"}}>
+                        <p className="" style={{fontSize: "20px", fontWeight: "450"}}>The science of geology is enormously indebted to Lyell - more so, as I believe, than to any other man who ever lived. <br/>
+                        </p>
+                        <p>  - Charles DarwinFrancis Darwin, ed., The Life and Letters of Charles Darwin, (1887)   </p>
+                    </div>
                     <Section
                         content={aboutH}
                         img={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEcar~4~4~46658~102417/full/1000,/0/default.jpg"}

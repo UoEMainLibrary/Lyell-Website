@@ -5,6 +5,7 @@ import {fetchData} from "../api/ApiCall";
 
 
 function IiifItem({objFull}) {
+    const {id} = useParams();
     const [showIndex, setShowIndex] = useState(false);
 
     const handleIndexClick = () => {
@@ -24,7 +25,7 @@ function IiifItem({objFull}) {
         <div className="py-3 bg-dark">
             <div className="row">
                 <div className="col-12 col-lg-9 p-0">
-                    <UV manifest={objFull["iiifManifest"]}
+                    <UV manifest={id}
                         parentWidth={"100"}/>
                 </div>
                 <div className="col-3 bg-dark p-0">

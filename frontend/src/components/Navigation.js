@@ -11,13 +11,15 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark bold-text">
       <div className="container-fluid">
+        <NavLink to="/">
         <img
           style={{ height: '50px' }}
           src={next}
           alt="Logo"
           className="logo mx-3"
         />
-        <NavLink className="navbar-text" to="/">
+        </NavLink>
+        <NavLink className="navbar-text" style={{textDecoration: "none"}} to="/">
           Charles Lyell
         </NavLink>
 
@@ -34,7 +36,7 @@ const Navbar = () => {
           <span className="navbar-toggler-icon"></span>
         </button>
 
-        <div className="collapse navbar-collapse navbar-right" id="navbarNav">
+        <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
               <NavLink className="nav-link text-light" to="/about">
@@ -64,7 +66,7 @@ const Navbar = () => {
               >
                 <li>
                   <NavLink className="dropdown-item" to="/collections">
-                    About
+                    Collections
                   </NavLink>
                 </li>
                 <li>
@@ -81,6 +83,30 @@ const Navbar = () => {
                     to="/collections/about/specimens"
                   >
                     Specimens
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    to="/collections/about/off prints"
+                  >
+                    Off Prints
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    to="/collections/about/papers"
+                  >
+                    Papers
+                  </NavLink>
+                </li>
+                <li>
+                  <NavLink
+                    className="dropdown-item"
+                    to="/collections"
+                  >
+                    explore
                   </NavLink>
                 </li>
               </ul>

@@ -20,7 +20,7 @@ const ElsewhereBox = () => {
                         </p>
                     </div>
                     <div className="button">
-                        <button className="btn btn-primary">Go There</button>
+                        <button className="btn btn-red btn-primary px-4 py-2">Go There</button>
                     </div>
                 </div>
             </div>

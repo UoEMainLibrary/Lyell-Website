@@ -18,6 +18,11 @@ h1 {
   font-size: 50px;
 }
 
+.important-text {
+  font-size: 22px;
+  font-weight: 500;
+}
+
 .dropdown-item {
   background-color: #212529 !important;
 }

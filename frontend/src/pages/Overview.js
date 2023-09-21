@@ -14,20 +14,20 @@ export default function Items() {
             <Top
                 title={"Collections"}
                 imageURL={header}
-                size={{height:"200px", text:"50px"}}
+                size={{height: "200px", text: "50px"}}
             />
             <div className="bg-light text-center container">
-                <p className="text-center py-4 bold-text">The Sir Charles Lyells Collection held by the UOE is made up
-                    of a numbers of constituent collections, brought together over a span of nearly 100 years, forming
-                    one of the most comprehensive collections relating to nineteenth century science in the world.
-                    Browse the collection or learn more about it. </p>
+                <p className="text-center py-4 bold-text">The Sir Charles Lyell Collection held by the University of
+                    Edinburgh is made up of a number of constituent collections, brought together over a span of nearly
+                    100 years, forming one of the most comprehensive collections relating to nineteenth century science
+                    in the world. Browse the collection or learn more about it. </p>
 
             </div>
             <ExploreButton/>
             <div className="container py-auto mb-5">
                 <div className="row center">
                     <HoverBox
-                        info={{link: "/about", size: "small"}}
+                        info={{link: "/collections/about/overview", size: "small"}}
                         content={{
                             title: "Collection Overview",
                             detail: "",

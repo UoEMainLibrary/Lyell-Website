@@ -16,11 +16,7 @@ export default function Home() {
                 size={{height:"500px", text:"70px"}}
             />
             <div className="container text-center py-5 ">
-                <h3>place holder intro text</h3>
-                <p className="lead py-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                    voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                <p className="important-text lead py-3">This website aims to facilitate access and research into the work of Scottish-born geologist Sir Charles Lyell (1797 - 1875) providing links to his printed books, the comprehensive archive collection held at the University of Edinburgh and to other Lyell related content held elsewhere.
                 </p>
             </div>
             <div className="album py-5 bg-dark">
@@ -52,7 +48,7 @@ export default function Home() {
                                 detail: "brief introduction to the books not sure what to put here",
                                 image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130439~471142/0,2000,6000,5000/750,/0/default.jpg",
                                 alt: "Book Cover",
-                                title: "Printed Books"
+                                title: "Published Books"
                             }}
                         />
                         <HoverBox
@@ -71,7 +67,7 @@ export default function Home() {
             <div className="text-center py-5">
                 <h4>guide to the collection in person</h4>
                 <Link to='/collections/explore' className='btn-mobile'>
-                    <button type="button" className="btn btn-labeled btn-info px-5 py-2 mt-3">
+                    <button type="button" className="btn btn-red btn-labeled btn-info px-5 py-2 mt-3">
                         Library guide
                     </button>
                 </Link>
