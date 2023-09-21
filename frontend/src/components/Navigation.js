@@ -88,7 +88,7 @@ const Navbar = () => {
                 <li>
                   <NavLink
                     className="dropdown-item"
-                    to="/collections/about/specimens"
+                    to="/collections/about/off prints"
                   >
                     Off Prints
                   </NavLink>
@@ -96,7 +96,7 @@ const Navbar = () => {
                 <li>
                   <NavLink
                     className="dropdown-item"
-                    to="/collections/about/specimens"
+                    to="/collections/about/papers"
                   >
                     Papers
                   </NavLink>
