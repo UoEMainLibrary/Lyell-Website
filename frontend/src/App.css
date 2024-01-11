@@ -14,3 +14,13 @@
 .btn-red:hover {
     background-color: rgb(177, 67, 67);
 }
+
+.btn-blue {
+    background-color: rgb(26, 115, 203);
+    color: white;
+    border: rgb(28, 1, 1);
+}
+
+.btn-blue:hover {
+    background-color: rgb(121, 169, 241);
+}

@@ -43,7 +43,7 @@ export default function About() {
 
             <div className="my-5">
                 <div className="container py-4">
-                    <p className="text-center important-text lead py-3">Learn more about Sir Charles Lyell and his work, from his travels to his findings
+                    <p className="important-text lead py-3">Sir Charles Lyell (1797-1875) was a Scottish-born natural scientist whose geological work and publications prompted new and lasting understanding of the Earth’s history.
                     </p>
 
                     <Section

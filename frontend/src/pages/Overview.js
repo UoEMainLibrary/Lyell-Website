@@ -17,10 +17,11 @@ export default function Items() {
                 size={{height: "200px", text: "50px"}}
             />
             <div className="bg-light text-center container">
-                <p className="text-center py-4 bold-text">The Sir Charles Lyell Collection held by the University of
-                    Edinburgh is made up of a number of constituent collections, brought together over a span of nearly
-                    100 years, forming one of the most comprehensive collections relating to nineteenth century science
-                    in the world. Browse the collection or learn more about it. </p>
+                <p className="text-center py-4 bold-text">The Charles Lyell Collection held by the University of Edinburgh
+                    is one of the world’s most comprehensive collections on science in the nineteenth century, especially
+                    geology. It comprises the tools Lyell developed and used to evidence and articulate his theories,
+                    and to write his books. It is arranged according to its provenance. Here you can browse the collection
+                    or learn more about it.  </p>
 
             </div>
             <ExploreButton/>
@@ -42,7 +43,7 @@ export default function Items() {
                                     id: 1,
                                     title: "Notebooks",
                                     image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~121185~458574/full/!500,500/0/default.jpg",
-                                    detail: "The entire collection of scientific notebooks"
+                                    detail: "five series of Lyell’s original handwritten notebooks"
                                 }}
                             />
                             <AltBox
@@ -50,7 +51,7 @@ export default function Items() {
                                     id: 2,
                                     title: "Specimens",
                                     image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~84801~103462/full/!500,500/0/default.jpg",
-                                    detail: "Discover how the collection came together"
+                                    detail: "collected by Lyell to evidence his work"
                                 }}
                             />
                         </div>
@@ -60,15 +61,15 @@ export default function Items() {
                                     id: 3,
                                     title: "Papers",
                                     image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~84062~103420/full/!500,500/0/default.jpg",
-                                    detail: "Discover how the collection came together"
+                                    detail: "including correspondence, notes, lectures and manuscripts"
                                 }}
                             />
                             <AltBox
                                 page={{
                                     id: 4,
-                                    title: "Off Prints",
+                                    title: "OffPrints",
                                     image: offPrintImg,
-                                    detail: ""
+                                    detail: "articles and publications collected by Lyell"
                                 }}
                             />
                         </div>
