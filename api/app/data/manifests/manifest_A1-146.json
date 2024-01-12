@@ -1,0 +1,3764 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://images.is.ed.ac.uk/luna/images/LUNAIIIF80.png",
+    "@type": "sc:Manifest",
+    "label": "Notebook No.146",
+    "metadata": [
+        {
+            "label": "Shelfmark",
+            "value": "Coll-203/A1/146"
+        },
+        {
+            "label": "Holding Institution",
+            "value": "University of Edinburgh"
+        },
+        {
+            "label": "Catalogue Number",
+            "value": "180304"
+        },
+        {
+            "label": "Title",
+            "value": "Notebook No.146"
+        },
+        {
+            "label": "Creator",
+            "value": "Lyell, Sir Charles"
+        },
+        {
+            "label": "Rights Statement",
+            "value": "Out of Copyright. Free use."
+        },
+        {
+            "label": "Catalogue Entry",
+            "value": "https://archives.collections.ed.ac.uk/repositories/2/archival_objects/180304"
+        },
+        {
+            "label": "Repro File Type",
+            "value": "image/tiff"
+        },
+        {
+            "label": "Repro Rights Statement",
+            "value": "Copyright University of Edinburgh."
+        },
+        {
+            "label": "Repro Publication Status",
+            "value": "Full public access"
+        }
+    ],
+    "description": "Halifax - Liverpool",
+    "viewingDirection": "left-to-right",
+    "viewingHint": "paged",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": "",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": [
+                {
+                    "@value": "Normal Sequence",
+                    "@language": "en"
+                }
+            ],
+            "canvases": [
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115548~449205/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page uncounted",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00001"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "Cover"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page uncounted"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115548~449205/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115548~449205/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115548~449205",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6680,
+                                "height": 9549
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115548~449205/canvas/c1"
+                        }
+                    ],
+                    "width": 6680,
+                    "height": 9549
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115549~449204/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page uncounted",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00002"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page uncounted"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115549~449204/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115549~449204/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115549~449204",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6353,
+                                "height": 9447
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115549~449204/canvas/c1"
+                        }
+                    ],
+                    "width": 6353,
+                    "height": 9447
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115550~449203/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.1",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00003"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.1"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.1"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115550~449203/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115550~449203/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115550~449203",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6535,
+                                "height": 9454
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115550~449203/canvas/c1"
+                        }
+                    ],
+                    "width": 6535,
+                    "height": 9454
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115551~449202/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.2",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00004"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.2"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.2"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115551~449202/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115551~449202/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115551~449202",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6309,
+                                "height": 9471
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115551~449202/canvas/c1"
+                        }
+                    ],
+                    "width": 6309,
+                    "height": 9471
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115552~449201/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.3",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00005"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.3"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.3"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115552~449201/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115552~449201/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115552~449201",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6429,
+                                "height": 9432
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115552~449201/canvas/c1"
+                        }
+                    ],
+                    "width": 6429,
+                    "height": 9432
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115553~449200/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.4",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00006"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.4"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.4"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115553~449200/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115553~449200/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115553~449200",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6312,
+                                "height": 9476
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115553~449200/canvas/c1"
+                        }
+                    ],
+                    "width": 6312,
+                    "height": 9476
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115554~449199/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.5",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00007"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.5"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.5"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115554~449199/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115554~449199/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115554~449199",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6384,
+                                "height": 9432
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115554~449199/canvas/c1"
+                        }
+                    ],
+                    "width": 6384,
+                    "height": 9432
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115555~449198/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.6",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00008"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.6"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.6"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115555~449198/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115555~449198/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115555~449198",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6341,
+                                "height": 9496
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115555~449198/canvas/c1"
+                        }
+                    ],
+                    "width": 6341,
+                    "height": 9496
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115556~449197/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.7",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00009"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.7"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.7"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115556~449197/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115556~449197/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115556~449197",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6393,
+                                "height": 9427
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115556~449197/canvas/c1"
+                        }
+                    ],
+                    "width": 6393,
+                    "height": 9427
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115557~449196/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.8",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00010"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.8"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.8"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115557~449196/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115557~449196/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115557~449196",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6293,
+                                "height": 9451
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115557~449196/canvas/c1"
+                        }
+                    ],
+                    "width": 6293,
+                    "height": 9451
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115558~449195/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.9",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00011"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.9"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.9"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115558~449195/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115558~449195/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115558~449195",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6414,
+                                "height": 9414
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115558~449195/canvas/c1"
+                        }
+                    ],
+                    "width": 6414,
+                    "height": 9414
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115559~449194/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.10",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00012"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.10"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.10"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115559~449194/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115559~449194/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115559~449194",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6312,
+                                "height": 9476
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115559~449194/canvas/c1"
+                        }
+                    ],
+                    "width": 6312,
+                    "height": 9476
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115560~449193/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.11",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00013"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.11"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.11"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115560~449193/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115560~449193/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115560~449193",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6423,
+                                "height": 9439
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115560~449193/canvas/c1"
+                        }
+                    ],
+                    "width": 6423,
+                    "height": 9439
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115561~449192/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.12",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00014"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.12"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.12"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115561~449192/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115561~449192/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115561~449192",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6300,
+                                "height": 9482
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115561~449192/canvas/c1"
+                        }
+                    ],
+                    "width": 6300,
+                    "height": 9482
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115562~449191/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.13",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00015"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.13"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.13"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115562~449191/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115562~449191/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115562~449191",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6419,
+                                "height": 9432
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115562~449191/canvas/c1"
+                        }
+                    ],
+                    "width": 6419,
+                    "height": 9432
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115563~449190/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.14",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00016"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.14"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.14"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115563~449190/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115563~449190/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115563~449190",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6302,
+                                "height": 9486
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115563~449190/canvas/c1"
+                        }
+                    ],
+                    "width": 6302,
+                    "height": 9486
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115564~449189/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.15",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00017"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.15"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.15"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115564~449189/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115564~449189/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115564~449189",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6368,
+                                "height": 9421
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115564~449189/canvas/c1"
+                        }
+                    ],
+                    "width": 6368,
+                    "height": 9421
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115565~449188/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.16",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00018"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.16"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.16"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115565~449188/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115565~449188/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115565~449188",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6264,
+                                "height": 9451
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115565~449188/canvas/c1"
+                        }
+                    ],
+                    "width": 6264,
+                    "height": 9451
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115566~449187/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.17",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00019"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.17"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.17"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115566~449187/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115566~449187/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115566~449187",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6373,
+                                "height": 9427
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115566~449187/canvas/c1"
+                        }
+                    ],
+                    "width": 6373,
+                    "height": 9427
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115567~449186/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.18",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00020"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.18"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.18"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115567~449186/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115567~449186/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115567~449186",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6264,
+                                "height": 9451
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115567~449186/canvas/c1"
+                        }
+                    ],
+                    "width": 6264,
+                    "height": 9451
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115568~449185/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.19",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00021"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.19"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.19"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115568~449185/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115568~449185/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115568~449185",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6359,
+                                "height": 9432
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115568~449185/canvas/c1"
+                        }
+                    ],
+                    "width": 6359,
+                    "height": 9432
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115569~449184/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.20",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00022"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.20"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.20"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115569~449184/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115569~449184/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115569~449184",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6264,
+                                "height": 9451
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115569~449184/canvas/c1"
+                        }
+                    ],
+                    "width": 6264,
+                    "height": 9451
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115570~449183/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.21",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00023"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.21"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.21"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115570~449183/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115570~449183/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115570~449183",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6305,
+                                "height": 9443
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115570~449183/canvas/c1"
+                        }
+                    ],
+                    "width": 6305,
+                    "height": 9443
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115571~449182/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.22",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00024"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.22"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.22"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115571~449182/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115571~449182/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115571~449182",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6264,
+                                "height": 9451
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115571~449182/canvas/c1"
+                        }
+                    ],
+                    "width": 6264,
+                    "height": 9451
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115572~449181/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.23",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00025"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.23"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.23"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115572~449181/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115572~449181/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115572~449181",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6276,
+                                "height": 9461
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115572~449181/canvas/c1"
+                        }
+                    ],
+                    "width": 6276,
+                    "height": 9461
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115573~449180/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.24",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00026"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.24"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.24"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115573~449180/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115573~449180/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115573~449180",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6302,
+                                "height": 9576
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115573~449180/canvas/c1"
+                        }
+                    ],
+                    "width": 6302,
+                    "height": 9576
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115574~449179/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.25",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00027"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.25"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.25"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115574~449179/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115574~449179/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115574~449179",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6249,
+                                "height": 9503
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115574~449179/canvas/c1"
+                        }
+                    ],
+                    "width": 6249,
+                    "height": 9503
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115575~449178/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.26",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00028"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.26"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.26"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115575~449178/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115575~449178/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115575~449178",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6237,
+                                "height": 9479
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115575~449178/canvas/c1"
+                        }
+                    ],
+                    "width": 6237,
+                    "height": 9479
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115576~449177/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.27",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00029"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.27"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.27"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115576~449177/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115576~449177/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115576~449177",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6245,
+                                "height": 9483
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115576~449177/canvas/c1"
+                        }
+                    ],
+                    "width": 6245,
+                    "height": 9483
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115577~449176/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.28",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00030"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.28"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.28"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115577~449176/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115577~449176/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115577~449176",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6261,
+                                "height": 9496
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115577~449176/canvas/c1"
+                        }
+                    ],
+                    "width": 6261,
+                    "height": 9496
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115578~449175/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.29",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00031"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.29"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.29"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115578~449175/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115578~449175/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115578~449175",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6285,
+                                "height": 9452
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115578~449175/canvas/c1"
+                        }
+                    ],
+                    "width": 6285,
+                    "height": 9452
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115579~449174/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.30",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00032"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.30"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.30"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115579~449174/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115579~449174/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115579~449174",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6247,
+                                "height": 9494
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115579~449174/canvas/c1"
+                        }
+                    ],
+                    "width": 6247,
+                    "height": 9494
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115580~449173/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.31",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00033"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.31"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.31"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115580~449173/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115580~449173/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115580~449173",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6233,
+                                "height": 9466
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115580~449173/canvas/c1"
+                        }
+                    ],
+                    "width": 6233,
+                    "height": 9466
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115581~449172/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.32",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00034"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.32"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.32"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115581~449172/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115581~449172/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115581~449172",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6237,
+                                "height": 9479
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115581~449172/canvas/c1"
+                        }
+                    ],
+                    "width": 6237,
+                    "height": 9479
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115582~449171/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.33",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00035"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.33"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.33"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115582~449171/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115582~449171/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115582~449171",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6235,
+                                "height": 9456
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115582~449171/canvas/c1"
+                        }
+                    ],
+                    "width": 6235,
+                    "height": 9456
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115583~449170/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.34",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00036"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.34"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.34"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115583~449170/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115583~449170/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115583~449170",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6237,
+                                "height": 9479
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115583~449170/canvas/c1"
+                        }
+                    ],
+                    "width": 6237,
+                    "height": 9479
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115584~449169/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.35",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00037"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.35"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.35"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115584~449169/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115584~449169/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115584~449169",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6257,
+                                "height": 9467
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115584~449169/canvas/c1"
+                        }
+                    ],
+                    "width": 6257,
+                    "height": 9467
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115585~449168/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.36",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00038"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.36"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.36"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115585~449168/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115585~449168/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115585~449168",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6299,
+                                "height": 9501
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115585~449168/canvas/c1"
+                        }
+                    ],
+                    "width": 6299,
+                    "height": 9501
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115586~449167/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.37",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00039"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.37"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.37"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115586~449167/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115586~449167/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115586~449167",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6282,
+                                "height": 9529
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115586~449167/canvas/c1"
+                        }
+                    ],
+                    "width": 6282,
+                    "height": 9529
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115587~449166/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.38",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00040"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.38"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.38"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115587~449166/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115587~449166/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115587~449166",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6331,
+                                "height": 9526
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115587~449166/canvas/c1"
+                        }
+                    ],
+                    "width": 6331,
+                    "height": 9526
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115588~449165/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.39",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00041"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.39"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.39"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115588~449165/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115588~449165/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115588~449165",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6386,
+                                "height": 9573
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115588~449165/canvas/c1"
+                        }
+                    ],
+                    "width": 6386,
+                    "height": 9573
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115589~449164/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.40",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00042"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.40"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.40"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115589~449164/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115589~449164/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115589~449164",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6320,
+                                "height": 9550
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115589~449164/canvas/c1"
+                        }
+                    ],
+                    "width": 6320,
+                    "height": 9550
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115590~449163/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.41",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00043"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.41"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.41"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115590~449163/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115590~449163/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115590~449163",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6376,
+                                "height": 9547
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115590~449163/canvas/c1"
+                        }
+                    ],
+                    "width": 6376,
+                    "height": 9547
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115591~449162/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.42",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00044"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.42"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.42"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115591~449162/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115591~449162/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115591~449162",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6301,
+                                "height": 9525
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115591~449162/canvas/c1"
+                        }
+                    ],
+                    "width": 6301,
+                    "height": 9525
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115592~449161/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.43",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00045"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.43"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.43"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115592~449161/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115592~449161/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115592~449161",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6319,
+                                "height": 9536
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115592~449161/canvas/c1"
+                        }
+                    ],
+                    "width": 6319,
+                    "height": 9536
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115593~449160/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.44",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00046"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.44"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.44"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115593~449160/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115593~449160/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115593~449160",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6230,
+                                "height": 9516
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115593~449160/canvas/c1"
+                        }
+                    ],
+                    "width": 6230,
+                    "height": 9516
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115594~449159/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.45",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00047"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.45"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.45"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115594~449159/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115594~449159/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115594~449159",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6173,
+                                "height": 9536
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115594~449159/canvas/c1"
+                        }
+                    ],
+                    "width": 6173,
+                    "height": 9536
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115595~449158/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.46",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00048"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.46"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.46"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115595~449158/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115595~449158/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115595~449158",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6232,
+                                "height": 9530
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115595~449158/canvas/c1"
+                        }
+                    ],
+                    "width": 6232,
+                    "height": 9530
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115596~449157/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.47",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00049"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.47"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.47"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115596~449157/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115596~449157/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115596~449157",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6327,
+                                "height": 9550
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115596~449157/canvas/c1"
+                        }
+                    ],
+                    "width": 6327,
+                    "height": 9550
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115597~449156/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.48",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00050"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.48"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.48"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115597~449156/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115597~449156/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115597~449156",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6245,
+                                "height": 9525
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115597~449156/canvas/c1"
+                        }
+                    ],
+                    "width": 6245,
+                    "height": 9525
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115598~449155/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.49",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00051"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.49"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.49"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115598~449155/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115598~449155/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115598~449155",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6225,
+                                "height": 9570
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115598~449155/canvas/c1"
+                        }
+                    ],
+                    "width": 6225,
+                    "height": 9570
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115599~449154/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.50",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00052"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.50"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.50"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115599~449154/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115599~449154/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115599~449154",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6290,
+                                "height": 9524
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115599~449154/canvas/c1"
+                        }
+                    ],
+                    "width": 6290,
+                    "height": 9524
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115600~449153/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.51",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00053"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.51"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.51"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115600~449153/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115600~449153/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115600~449153",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6216,
+                                "height": 9550
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115600~449153/canvas/c1"
+                        }
+                    ],
+                    "width": 6216,
+                    "height": 9550
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115601~449152/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.52",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00054"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.52"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.52"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115601~449152/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115601~449152/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115601~449152",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6358,
+                                "height": 9545
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115601~449152/canvas/c1"
+                        }
+                    ],
+                    "width": 6358,
+                    "height": 9545
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115602~449151/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.53",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00055"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.53"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.53"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115602~449151/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115602~449151/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115602~449151",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6205,
+                                "height": 9552
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115602~449151/canvas/c1"
+                        }
+                    ],
+                    "width": 6205,
+                    "height": 9552
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115603~449150/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.54",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00056"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.54"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.54"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115603~449150/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115603~449150/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115603~449150",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6358,
+                                "height": 9545
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115603~449150/canvas/c1"
+                        }
+                    ],
+                    "width": 6358,
+                    "height": 9545
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115604~449149/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.55",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00057"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.55"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.55"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115604~449149/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115604~449149/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115604~449149",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6207,
+                                "height": 9566
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115604~449149/canvas/c1"
+                        }
+                    ],
+                    "width": 6207,
+                    "height": 9566
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115605~449148/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.56",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00058"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.56"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.56"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115605~449148/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115605~449148/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115605~449148",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6336,
+                                "height": 9520
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115605~449148/canvas/c1"
+                        }
+                    ],
+                    "width": 6336,
+                    "height": 9520
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115606~449147/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.57",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00059"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.57"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.57"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115606~449147/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115606~449147/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115606~449147",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6203,
+                                "height": 9548
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115606~449147/canvas/c1"
+                        }
+                    ],
+                    "width": 6203,
+                    "height": 9548
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115607~449146/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.58",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00060"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.58"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.58"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115607~449146/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115607~449146/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115607~449146",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6354,
+                                "height": 9524
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115607~449146/canvas/c1"
+                        }
+                    ],
+                    "width": 6354,
+                    "height": 9524
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115608~449145/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.59",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00061"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.59"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.59"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115608~449145/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115608~449145/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115608~449145",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6299,
+                                "height": 9498
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115608~449145/canvas/c1"
+                        }
+                    ],
+                    "width": 6299,
+                    "height": 9498
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115609~449144/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.60",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00062"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.60"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.60"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115609~449144/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115609~449144/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115609~449144",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6342,
+                                "height": 9510
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115609~449144/canvas/c1"
+                        }
+                    ],
+                    "width": 6342,
+                    "height": 9510
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115610~449143/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.61",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00063"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.61"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.61"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115610~449143/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115610~449143/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115610~449143",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6321,
+                                "height": 9523
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115610~449143/canvas/c1"
+                        }
+                    ],
+                    "width": 6321,
+                    "height": 9523
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115611~449142/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.62",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00064"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.62"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.62"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115611~449142/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115611~449142/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115611~449142",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6330,
+                                "height": 9508
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115611~449142/canvas/c1"
+                        }
+                    ],
+                    "width": 6330,
+                    "height": 9508
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115612~449141/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.63",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00065"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.63"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.63"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115612~449141/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115612~449141/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115612~449141",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6347,
+                                "height": 9504
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115612~449141/canvas/c1"
+                        }
+                    ],
+                    "width": 6347,
+                    "height": 9504
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115613~449140/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.64",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00066"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.64"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.64"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115613~449140/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115613~449140/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115613~449140",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6330,
+                                "height": 9508
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115613~449140/canvas/c1"
+                        }
+                    ],
+                    "width": 6330,
+                    "height": 9508
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115614~449139/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.65",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00067"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.65"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.65"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115614~449139/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115614~449139/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115614~449139",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6304,
+                                "height": 9520
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115614~449139/canvas/c1"
+                        }
+                    ],
+                    "width": 6304,
+                    "height": 9520
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115615~449138/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.66",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00068"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.66"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.66"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115615~449138/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115615~449138/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115615~449138",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6406,
+                                "height": 9484
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115615~449138/canvas/c1"
+                        }
+                    ],
+                    "width": 6406,
+                    "height": 9484
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115616~449137/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.67",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00069"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.67"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.67"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115616~449137/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115616~449137/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115616~449137",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6308,
+                                "height": 9511
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115616~449137/canvas/c1"
+                        }
+                    ],
+                    "width": 6308,
+                    "height": 9511
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115617~449136/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.68",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00070"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.68"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.68"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115617~449136/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115617~449136/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115617~449136",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6403,
+                                "height": 9496
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115617~449136/canvas/c1"
+                        }
+                    ],
+                    "width": 6403,
+                    "height": 9496
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115618~449135/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.69",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00071"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.69"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.69"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115618~449135/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115618~449135/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115618~449135",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6302,
+                                "height": 9484
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115618~449135/canvas/c1"
+                        }
+                    ],
+                    "width": 6302,
+                    "height": 9484
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115619~449134/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.70",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00072"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.70"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.70"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115619~449134/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115619~449134/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115619~449134",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6396,
+                                "height": 9481
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115619~449134/canvas/c1"
+                        }
+                    ],
+                    "width": 6396,
+                    "height": 9481
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115620~449133/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page p.71",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00073"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "p.71"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page p.71"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115620~449133/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115620~449133/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115620~449133",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6340,
+                                "height": 9480
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115620~449133/canvas/c1"
+                        }
+                    ],
+                    "width": 6340,
+                    "height": 9480
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115621~449132/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page uncounted",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00074"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page uncounted"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115621~449132/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115621~449132/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115621~449132",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6504,
+                                "height": 9463
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115621~449132/canvas/c1"
+                        }
+                    ],
+                    "width": 6504,
+                    "height": 9463
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115622~449131/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page uncounted",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00075"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page uncounted"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115622~449131/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115622~449131/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115622~449131",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6353,
+                                "height": 9530
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115622~449131/canvas/c1"
+                        }
+                    ],
+                    "width": 6353,
+                    "height": 9530
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115623~449130/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page uncounted",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00076"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page uncounted"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115623~449130/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115623~449130/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115623~449130",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6321,
+                                "height": 9488
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115623~449130/canvas/c1"
+                        }
+                    ],
+                    "width": 6321,
+                    "height": 9488
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115624~449129/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page uncounted",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00077"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page uncounted"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115624~449129/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115624~449129/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115624~449129",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6350,
+                                "height": 9542
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115624~449129/canvas/c1"
+                        }
+                    ],
+                    "width": 6350,
+                    "height": 9542
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115625~449128/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page uncounted",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00078"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page uncounted"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115625~449128/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115625~449128/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115625~449128",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6445,
+                                "height": 9520
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115625~449128/canvas/c1"
+                        }
+                    ],
+                    "width": 6445,
+                    "height": 9520
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115626~449127/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page uncounted",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00079"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page uncounted"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115626~449127/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115626~449127/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115626~449127",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6346,
+                                "height": 9480
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115626~449127/canvas/c1"
+                        }
+                    ],
+                    "width": 6346,
+                    "height": 9480
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115627~449126/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page uncounted",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00080"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "Cover"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page uncounted"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115627~449126/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115627~449126/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115627~449126",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 6628,
+                                "height": 9489
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115627~449126/canvas/c1"
+                        }
+                    ],
+                    "width": 6628,
+                    "height": 9489
+                },
+                {
+                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115628~449125/canvas/c1",
+                    "@type": "sc:Canvas",
+                    "label": "Notebook No.146, Lyell, Sir Charles - page uncounted",
+                    "description": "",
+                    "metadata": [
+                        {
+                            "label": "Work Record ID",
+                            "value": "ARC_153768861_001_00081"
+                        },
+                        {
+                            "label": "Subset Index",
+                            "value": "Cover"
+                        },
+                        {
+                            "label": "Repro Title",
+                            "value": "Notebook No.146, Lyell, Sir Charles - page uncounted"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115628~449125/full/!96,96/0/default.jpg",
+                        "format": "image/jpeg"
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115628~449125/full/!1024,1024/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115628~449125",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image"
+                                },
+                                "format": "image/jpeg",
+                                "width": 4282,
+                                "height": 9845
+                            },
+                            "on": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~115628~449125/canvas/c1"
+                        }
+                    ],
+                    "width": 4282,
+                    "height": 9845
+                }
+            ]
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 from flask import request
 from app import app
-from app.models import TagHandler, create_search, get_item_from_shelfmark
+from app.models import TagHandler, create_search, get_item_from_shelfmark, date_filter
 import json
 
 
@@ -12,7 +12,7 @@ def index():
 
 @app.route('/api/manifest/<obj_id>')
 def get_manifest(obj_id):
-    with open("app/data/manifests/manifest " + obj_id + ".json", "r") as file:
+    with open("app/data/manifests/manifest_" + obj_id + ".json", "r") as file:
         obj = json.loads(file.read())
     return obj
 
@@ -29,9 +29,10 @@ def get_object(obj_id):
 def get_request():
     query = request.args.get('search')
     allTags = request.args.getlist('tag')
+    dates = request.args.get('date')
     tags = {}
     try:
-        with open("app/data/all notebooks.json", "r") as file:
+        with open("app/data/all_notebooks.json", "r") as file:
             obj = json.loads(file.read())
     except Exception as e:
         obj = {"results": []}
@@ -50,6 +51,9 @@ def get_request():
     if query:
         obj["query_params"] = query
         obj["results"] = create_search(query, obj)
+
+    if dates:
+        obj["results"] = date_filter(dates, obj["results"])
 
     obj["tags"] = tagMan.get_tags(obj["results"])
     obj["amount"] = len(obj["results"])
