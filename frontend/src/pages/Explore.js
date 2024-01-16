@@ -78,12 +78,96 @@ function SearchBar({searchParams, setSearchParams}) {
                 onChange={handleInputChange}
                 placeholder="Enter your search query"
             />
-            <button className="btn btn-green" type="button" id="button-addon2" onClick={handleChange}>
+            <button className="btn btn-blue" type="button" id="button-addon2" onClick={handleChange}>
                 Search
             </button>
         </div>
     );
 }
+
+
+function DateSearch({searchParams, setSearchParams}) {
+    const [search, setSearch] = useState(searchParams.get('date') || "");
+  const [afterYear, setAfterYear] = useState('');
+  const [beforeYear, setBeforeYear] = useState('');
+  const [errorMsg, setErrorMsg] = useState('');
+
+  const handleAfterYearChange = (event) => {setAfterYear(event.target.value);};
+  const handleBeforeYearChange = (event) => {setBeforeYear(event.target.value);};
+
+  const handleApply = (event) => {
+      const isAfterNumber = !Number.isNaN(afterYear) || afterYear === '';
+    const isBeforeNumber = !Number.isNaN(beforeYear) || beforeYear === '';
+    console.log(afterYear, isAfterNumber)
+      console.log(beforeYear, isBeforeNumber)
+    if (isAfterNumber && isBeforeNumber){
+        setErrorMsg("vaild");
+
+        if (afterYear) {
+            if (afterYear < 1825 || afterYear > 1874) {
+                setAfterYear(1825);
+            }
+        }
+        if (beforeYear) {
+            if (beforeYear < 1825 || beforeYear > 1874) {
+                setBeforeYear(1874);
+            }
+        }
+
+        if (beforeYear && afterYear) {
+            if (afterYear > beforeYear) {
+                setErrorMsg("before year must be larger than after year")
+            }
+        }
+        let dates =  afterYear + " " + beforeYear
+        const newSearchParams = new URLSearchParams(searchParams);
+        newSearchParams.set('date', dates);
+        setSearchParams(newSearchParams);
+
+    } else {
+        setErrorMsg("not vaild");
+    }
+
+  };
+
+  return (
+    <div className="row pb-2">
+      <div className="col">
+        <div className="form-group">
+          <label htmlFor="afterYear">After</label>
+          <input
+            type="number"
+            placeholder="1825"
+            id="afterYear"
+            className="form-control"
+            value={afterYear}
+            onChange={handleAfterYearChange}
+          />
+        </div>
+      </div>
+      <div className="col">
+        <div className="form-group">
+          <label htmlFor="beforeYear">Before</label>
+          <input
+            type="number"
+            placeholder="1874"
+            id="beforeYear"
+            className="form-control"
+            value={beforeYear}
+            onChange={handleBeforeYearChange}
+          />
+        </div>
+      </div>
+        <div className="col-3" style={{position: "relative", bottom: "0"}}>  <br></br>
+            <button className="btn btn-blue" onClick={handleApply}>apply</button>
+        </div>
+        <p className="mb-0">{errorMsg}</p>
+    </div>
+  );
+}
+
+
+
 
 function TagFilter({filterTags, searchParams, setSearchParams}) {
     const handleTagRemoved = (tag) => {
@@ -184,6 +268,7 @@ function Explore() {
                 <div className="row">
                     <div className="col-12 col-md-3 bg-light py-3">
                         <SearchBar searchParams={searchParams} setSearchParams={setSearchParams}/>
+                        <DateSearch searchParams={searchParams} setSearchParams={setSearchParams}/>
                         <TagFilter filterTags={filterTags} searchParams={searchParams}
                                    setSearchParams={setSearchParams}/>
                         <div>
@@ -199,6 +284,7 @@ function Explore() {
                             ):(
                                 <p className="col-4 col-md m-0">Showing {startIndex+1}-{endIndex} of {searchData.amount} results</p>
                             )}
+
                             <div className="col-7 col-md-4">
                                 <label className="mx-2" htmlFor="itemsPerPage">Items per Page: </label>
                                 <select

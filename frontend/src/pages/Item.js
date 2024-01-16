@@ -28,7 +28,7 @@ function IiifItem({objFull}) {
                     <UV manifest={id}
                         parentWidth={"100"}/>
                 </div>
-                <div className="col-3 bg-dark p-0">
+                <div className="col-12 col-lg-3 bg-dark p-0">
                     <div style={{borderBottom: "4px solid black", height: "50px"}}>
                         <div href="/collections/explore" className="btn btn-info px-5 py-2 mx-2"
                              style={{border: "2px solid black"}} onClick={handleInfoClick}>Info

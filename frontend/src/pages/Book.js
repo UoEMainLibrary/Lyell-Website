@@ -15,14 +15,6 @@ function BookInfo({textContent, image}) {
             <div className="col-12 col-lg-8 about-box py-3">
                 <h3>{textContent.header}</h3><br/>
                 <p dangerouslySetInnerHTML={{ __html: textContent.intro }}></p>
-                {/*<p>Access to a digital first edition can be found at the Internet Archives here: <Link*/}
-                {/*    to="https://archive.org/details/PrinciplesgeoloVol1Lyel/page/n13/mode/2up">https://archive.org/details/PrinciplesgeoloVol1Lyel/page/n13/mode/2up</Link>*/}
-                {/*</p>*/}
-                {/*<div>*/}
-                {/*    {textContent["mainContent"].map((paragraph, index) => (*/}
-                {/*        <p key={index}>{paragraph}</p>*/}
-                {/*    ))}*/}
-                {/*</div>*/}
             </div>
             <div className="row col col-lg-4">
                 {image.map((img) => (
@@ -125,36 +117,32 @@ function Books() {
                 size={{height: "200px", text: "50px"}}
             />
             <div className="container" style={{maxWidth: "1000px"}}>
-                <p className="important-text lead py-3"><em> Lyell’s Principles of Geology</em>, planned since 1827 when
-                    he was aged 30 and published in 1830, was the culmination of his interests, education and travel. He
-                    would go on to dedicate his life to writing education and travel books. </p>
-                <p>A career in Geology would appear a natural progression from Lyell’s interest in natural history
-                    study
-                    as a boy – shared with his sisters, via his Classics degree at Oxford - where he also attended
-                    Dr.
-                    WIlliam Buckland’s lectures on mineralogy and geology, to his training as a Barrister in London.
-                    Writing articles for the Quarterly Review gave Lyell the confidence that he could generate an
-                    income
-                    as an author – and geology would be his topic. </p>
-                <p>The following section presents Lyell’s printed books in chronological order, with links to
-                    versions
-                    online. </p>
-                <p className=" m-0">Special credit is due to Stephen A. Baldwin BSc (Open), PHC, FGS, FLS, FRI,
-                    whose
-                    comprehensive article Charles Lyell – a brief Bibliography (2013) details Lyell's literary
-                    career. <br/>
-                    Thanks also to Ms. Felicity MacKenzie, whose expertise has sourced digital versions to Lyell’s
-                    works
-                    online August 2023. </p>
-
-                <div>
-                    <ul className="bold-text mt-3" style={keyItemStyle}>
+                <p className="important-text lead py-3">Lyell’s <i>Principles of Geology</i>, planned since 1827 when he was aged 30 and published in 1830, was the culmination of his interests, education and travel. He would go on to dedicate his life to writing science and travel books.
+                </p>
+                <p>Charles Lyell lived, worked and published in an age distinguished by growing public interest in the sciences and by publishers keen to meet that interest. This was a period marked by the appearance of new scientific journals and literary periodicals, and by scientific societies. Publishers were keen to promote new ideas and theories, producing books in expensive quarto editions and in cheaper and more widely available octavo format, and they encouraged illustrations of different sorts to illuminate their texts. Lyell benefitted from and responded to these circumstances. He had a good working relationship in particular with the publisher John Murray who produced several editions of Lyell’s <i>Principles of Geology</i>, Lyell’s first and most influential book.</p>
+                <p>This section presents a complete list of Lyell’s printed books published by John Murray, in chronological order, with links to initial and later editions online. For ease of reference, we have used an abbreviated version of his titles: </p>
+                {/*<p className=" m-0">Special credit is due to Stephen A. Baldwin BSc (Open), PHC, FGS, FLS, FRI,*/}
+                {/*    whose*/}
+                {/*    comprehensive article Charles Lyell – a brief Bibliography (2013) details Lyell's literary*/}
+                {/*    career. <br/>*/}
+                {/*    Thanks also to Ms. Felicity MacKenzie, whose expertise has sourced digital versions to Lyell’s*/}
+                {/*    works*/}
+                {/*    online August 2023. </p>*/}
+                <ul className="bold-text mt-3" style={keyItemStyle}>
                         {Object.keys(textContent).map((bookName) => (
                             <li className="m-1 mb-2" key={bookName}>
                                 <span onClick={() => handleKeyClick(bookName)}>{bookName}</span>
                             </li>
                         ))}
                     </ul>
+                <p>Lyell’s writing process – edits, review, notes – features in a range of different formats throughout the Collection held at Edinburgh University – including Lyell’s own annotated copies of his publications, archival manuscripts, as well as detail recorded in the notebooks. Lyell’s lectures also document his writing techniques. See also: </p>
+                <p>Annotated Published Works by Sir Charles Lyell, 1830-1874 <br/><a href="https://archives.collections.ed.ac.uk/repositories/2/archival_objects/199146">Annotated Published Works by Sir Charles Lyell, 1830-1874 | University of Edinburgh Archive and Manuscript Collections</a> </p>
+                <p>Reviews of Published Works <br/><a href="https://archives.collections.ed.ac.uk/repositories/2/archival_objects/199225">Reviews of Published Works | University of Edinburgh Archive and Manuscript Collections </a> </p>
+                <p>Lectures on Geology, 1832-1853<br/>
+                    <a href="https://archives.collections.ed.ac.uk/repositories/2/archival_objects/21268">Lectures on Geology, 1832-1833 | University of Edinburgh Archive and Manuscript Collections </a><br/>
+                    <a href="https://archives.collections.ed.ac.uk/repositories/2/archival_objects/199130">Lectures on Geology, 1842-1853 | University of Edinburgh Archive and Manuscript Collections </a> </p>
+
+                <div>
 
 
                     {Object.keys(textContent).map((bookName) => (

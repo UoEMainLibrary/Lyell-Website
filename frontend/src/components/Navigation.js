@@ -44,8 +44,8 @@ const Navbar = () => {
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link text-light" to="/books">
-                Books
+              <NavLink className="nav-link text-light" to="/publications">
+                Publications
               </NavLink>
             </li>
             <li className="nav-item dropdown">
@@ -104,7 +104,7 @@ const Navbar = () => {
                 <li>
                   <NavLink
                     className="dropdown-item"
-                    to="/collections"
+                    to="/collections/explore"
                   >
                     explore
                   </NavLink>

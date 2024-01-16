@@ -12,6 +12,7 @@ import Elsewhere from "./pages/Elsewhere";
 import Navigation from "./components/Navigation";
 import Footer from "./components/Footer";
 import Tootop from "./components/Tootop";
+import Acknowledgements from "./pages/Acknowledgements";
 
 function App() {
   return (
@@ -22,8 +23,9 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
-          <Route path="/books" element={<Books />} />
+          <Route path="/publications" element={<Books />} />
           <Route path="/elsewhere" element={<Elsewhere />}/>
+          <Route path="/Acknowledgements" element={<Acknowledgements />}/>
           <Route path="/collections" element={<Collections />}>
             <Route path="" element={<Overview />} />
             <Route path="explore" element={<Explore />} />

@@ -2,8 +2,8 @@ import json
 
 
 def get_item_from_shelfmark(shelfmark):
-    # restructure of data means this is no longer a nice function might want look into restructuring all notebooks to make this simpler
-    with open("app/data/all notebooks.json", "r") as file:
+    # restructure of data  means this is no longer a nice function might want look into restructuring all notebooks to make this simpler
+    with open("app/data/all_notebooks.json", "r") as file:
         data = json.loads(file.read())
     for item in data["results"]:
         if item["component_id"].lower() == shelfmark.lower():
@@ -17,6 +17,27 @@ def create_search(query, obj):
         if recursive_search(item, query):
             results.append(item)
     return results
+
+
+def date_filter(dates, obj):
+    newObj = []
+    dateList = dates.split(' ')
+    after = dateList[0] if len(dateList) > 0 else ''
+    before = dateList[1] if len(dateList) > 1 else ''
+    for item in obj:
+        include = True
+        itemDate = item["dates"]
+        if after:
+            itemBegin = itemDate["begin"].split('-')[0]
+            if itemBegin < after:
+                include = False
+        if before:
+            itemEnd = itemDate["end"].split('-')[0]
+            if itemEnd > before:
+                include = False
+        if include:
+            newObj.append(item)
+    return newObj
 
 
 def recursive_search(obj, query):
@@ -70,6 +91,7 @@ class TagHandler:
 
     def find_tags(self, title, category, newTags, componentID):
         if category not in self.tagStore:
+            print(category)
             with open("app/data/tags/tag_" + category + ".json", "r") as file:
                 obj = json.loads(file.read())
             self.tagStore[category] = obj
