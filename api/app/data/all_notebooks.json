@@ -27,7 +27,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-171.json",
+            "iiifmanifest": "data/manifest_A1-171.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~132355~474402/full/!512,512/0/default.jpg"
         },
         {
@@ -55,7 +55,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-172.json",
+            "iiifmanifest": "data/manifest_A1-172.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~131840~473357/full/!512,512/0/default.jpg"
         },
         {
@@ -83,7 +83,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-173.json",
+            "iiifmanifest": "data/manifest_A1-173.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~132609~475055/full/!512,512/0/default.jpg"
         },
         {
@@ -115,7 +115,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-195.json",
+            "iiifmanifest": "data/manifest_A1-195.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~89572~417267/full/!512,512/0/default.jpg"
         },
         {
@@ -143,7 +143,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-200.json",
+            "iiifmanifest": "data/manifest_A1-200.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~132939~475544/full/!512,512/0/default.jpg"
         },
         {
@@ -171,7 +171,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-211.json",
+            "iiifmanifest": "data/manifest_A1-211.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~134496~477194/full/!512,512/0/default.jpg"
         },
         {
@@ -199,7 +199,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-212.json",
+            "iiifmanifest": "data/manifest_A1-212.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~127089~467737/full/!512,512/0/default.jpg"
         },
         {
@@ -227,7 +227,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-213.json",
+            "iiifmanifest": "data/manifest_A1-213.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~95419~428072/full/!512,512/0/default.jpg"
         },
         {
@@ -257,7 +257,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-235.json",
+            "iiifmanifest": "data/manifest_A1-235.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130440~471310/full/!512,512/0/default.jpg"
         },
         {
@@ -287,7 +287,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-236.json",
+            "iiifmanifest": "data/manifest_A1-236.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~98636~431158/full/!512,512/0/default.jpg"
         },
         {
@@ -315,7 +315,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-125.json",
+            "iiifmanifest": "data/manifest_A1-125.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115211~448912/full/!512,512/0/default.jpg"
         },
         {
@@ -343,7 +343,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-126.json",
+            "iiifmanifest": "data/manifest_A1-126.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~114441~448142/full/!512,512/0/default.jpg"
         },
         {
@@ -371,7 +371,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-132.json",
+            "iiifmanifest": "data/manifest_A1-132.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~113794~447399/full/!512,512/0/default.jpg"
         },
         {
@@ -399,7 +399,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-133.json",
+            "iiifmanifest": "data/manifest_A1-133.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~114175~447888/full/!512,512/0/default.jpg"
         },
         {
@@ -427,7 +427,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-134.json",
+            "iiifmanifest": "data/manifest_A1-134.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~91990~419880/full/!512,512/0/default.jpg"
         },
         {
@@ -455,7 +455,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-135.json",
+            "iiifmanifest": "data/manifest_A1-135.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~89957~417724/full/!512,512/0/default.jpg"
         },
         {
@@ -483,7 +483,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-136.json",
+            "iiifmanifest": "data/manifest_A1-136.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~113921~447483/full/!512,512/0/default.jpg"
         },
         {
@@ -511,7 +511,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-137.json",
+            "iiifmanifest": "data/manifest_A1-137.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~114699~448396/full/!512,512/0/default.jpg"
         },
         {
@@ -539,7 +539,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-138.json",
+            "iiifmanifest": "data/manifest_A1-138.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~114822~448527/full/!512,512/0/default.jpg"
         },
         {
@@ -567,7 +567,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-139.json",
+            "iiifmanifest": "data/manifest_A1-139.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~89175~414605/full/!512,512/0/default.jpg"
         },
         {
@@ -595,7 +595,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-140.json",
+            "iiifmanifest": "data/manifest_A1-140.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~89310~415435/full/!512,512/0/default.jpg"
         },
         {
@@ -623,7 +623,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-141.json",
+            "iiifmanifest": "data/manifest_A1-141.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~92466~421939/full/!512,512/0/default.jpg"
         },
         {
@@ -651,7 +651,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-142.json",
+            "iiifmanifest": "data/manifest_A1-142.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115441~449122/full/!512,512/0/default.jpg"
         },
         {
@@ -679,7 +679,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-143.json",
+            "iiifmanifest": "data/manifest_A1-143.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115338~449015/full/!512,512/0/default.jpg"
         },
         {
@@ -707,7 +707,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-144.json",
+            "iiifmanifest": "data/manifest_A1-144.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~90211~417882/full/!512,512/0/default.jpg"
         },
         {
@@ -735,7 +735,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-145.json",
+            "iiifmanifest": "data/manifest_A1-145.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~90318~417993/full/!512,512/0/default.jpg"
         },
         {
@@ -763,7 +763,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-146.json",
+            "iiifmanifest": "data/manifest_A1-146.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115548~449205/full/!512,512/0/default.jpg"
         },
         {
@@ -791,7 +791,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-147.json",
+            "iiifmanifest": "data/manifest_A1-147.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115631~449434/full/!512,512/0/default.jpg"
         },
         {
@@ -819,7 +819,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-148.json",
+            "iiifmanifest": "data/manifest_A1-148.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~92835~422320/full/!512,512/0/default.jpg"
         },
         {
@@ -847,7 +847,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-149.json",
+            "iiifmanifest": "data/manifest_A1-149.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~89441~416920/full/!512,512/0/default.jpg"
         },
         {
@@ -875,7 +875,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-151.json",
+            "iiifmanifest": "data/manifest_A1-151.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115774~449569/full/!512,512/0/default.jpg"
         },
         {
@@ -903,7 +903,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-152.json",
+            "iiifmanifest": "data/manifest_A1-152.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~92585~422066/full/!512,512/0/default.jpg"
         },
         {
@@ -931,7 +931,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-153.json",
+            "iiifmanifest": "data/manifest_A1-153.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115905~449698/full/!512,512/0/default.jpg"
         },
         {
@@ -959,7 +959,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-154.json",
+            "iiifmanifest": "data/manifest_A1-154.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~116034~449829/full/!512,512/0/default.jpg"
         },
         {
@@ -987,7 +987,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-155.json",
+            "iiifmanifest": "data/manifest_A1-155.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~94352~427117/full/!512,512/0/default.jpg"
         },
         {
@@ -1015,7 +1015,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-156.json",
+            "iiifmanifest": "data/manifest_A1-156.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~93292~422789/full/!512,512/0/default.jpg"
         },
         {
@@ -1043,7 +1043,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-157.json",
+            "iiifmanifest": "data/manifest_A1-157.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~116165~449972/full/!512,512/0/default.jpg"
         },
         {
@@ -1071,7 +1071,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-158.json",
+            "iiifmanifest": "data/manifest_A1-158.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~116439~450284/full/!512,512/0/default.jpg"
         },
         {
@@ -1099,7 +1099,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-159.json",
+            "iiifmanifest": "data/manifest_A1-159.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~116620~450431/full/!512,512/0/default.jpg"
         },
         {
@@ -1127,7 +1127,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-160.json",
+            "iiifmanifest": "data/manifest_A1-160.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~116767~450548/full/!512,512/0/default.jpg"
         },
         {
@@ -1155,7 +1155,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-161.json",
+            "iiifmanifest": "data/manifest_A1-161.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~117017~450820/full/!512,512/0/default.jpg"
         },
         {
@@ -1183,7 +1183,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-162.json",
+            "iiifmanifest": "data/manifest_A1-162.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~117422~451233/full/!512,512/0/default.jpg"
         },
         {
@@ -1211,7 +1211,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-163.json",
+            "iiifmanifest": "data/manifest_A1-163.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~117569~451424/full/!512,512/0/default.jpg"
         },
         {
@@ -1239,7 +1239,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-164.json",
+            "iiifmanifest": "data/manifest_A1-164.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~117716~451571/full/!512,512/0/default.jpg"
         },
         {
@@ -1267,7 +1267,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-165.json",
+            "iiifmanifest": "data/manifest_A1-165.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~94777~427413/full/!512,512/0/default.jpg"
         },
         {
@@ -1295,7 +1295,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-166.json",
+            "iiifmanifest": "data/manifest_A1-166.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~95272~427909/full/!512,512/0/default.jpg"
         },
         {
@@ -1323,7 +1323,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-167.json",
+            "iiifmanifest": "data/manifest_A1-167.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~116308~450103/full/!512,512/0/default.jpg"
         },
         {
@@ -1351,7 +1351,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-168.json",
+            "iiifmanifest": "data/manifest_A1-168.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~116884~450681/full/!512,512/0/default.jpg"
         },
         {
@@ -1379,7 +1379,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-169.json",
+            "iiifmanifest": "data/manifest_A1-169.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~117156~450953/full/!512,512/0/default.jpg"
         },
         {
@@ -1407,7 +1407,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-170.json",
+            "iiifmanifest": "data/manifest_A1-170.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~117289~451086/full/!512,512/0/default.jpg"
         },
         {
@@ -1441,7 +1441,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-174.json",
+            "iiifmanifest": "data/manifest_A1-174.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~119012~453175/full/!512,512/0/default.jpg"
         },
         {
@@ -1469,7 +1469,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-106.json",
+            "iiifmanifest": "data/manifest_A1-106.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~110574~444353/full/!512,512/0/default.jpg"
         },
         {
@@ -1503,7 +1503,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-175.json",
+            "iiifmanifest": "data/manifest_A1-175.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~119143~453306/full/!512,512/0/default.jpg"
         },
         {
@@ -1537,7 +1537,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-176.json",
+            "iiifmanifest": "data/manifest_A1-176.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~118881~453043/full/!512,512/0/default.jpg"
         },
         {
@@ -1637,7 +1637,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-179.json",
+            "iiifmanifest": "data/manifest_A1-179.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~118756~452908/full/!512,512/0/default.jpg"
         },
         {
@@ -1671,7 +1671,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-180.json",
+            "iiifmanifest": "data/manifest_A1-180.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~117863~451698/full/!512,512/0/default.jpg"
         },
         {
@@ -1699,7 +1699,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-181.json",
+            "iiifmanifest": "data/manifest_A1-181.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~117990~451931/full/!512,512/0/default.jpg"
         },
         {
@@ -1727,7 +1727,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-182.json",
+            "iiifmanifest": "data/manifest_A1-182.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~118117~452058/full/!512,512/0/default.jpg"
         },
         {
@@ -1755,7 +1755,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-183.json",
+            "iiifmanifest": "data/manifest_A1-183.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~118244~452190/full/!512,512/0/default.jpg"
         },
         {
@@ -1783,7 +1783,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-184.json",
+            "iiifmanifest": "data/manifest_A1-184.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~118498~452460/full/!512,512/0/default.jpg"
         },
         {
@@ -1811,7 +1811,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-185.json",
+            "iiifmanifest": "data/manifest_A1-185.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~118371~452333/full/!512,512/0/default.jpg"
         },
         {
@@ -1839,7 +1839,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-186.json",
+            "iiifmanifest": "data/manifest_A1-186.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~118625~452591/full/!512,512/0/default.jpg"
         },
         {
@@ -1867,7 +1867,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-187.json",
+            "iiifmanifest": "data/manifest_A1-187.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~95844~428335/full/!512,512/0/default.jpg"
         },
         {
@@ -1895,7 +1895,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-188.json",
+            "iiifmanifest": "data/manifest_A1-188.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~94090~424325/full/!512,512/0/default.jpg"
         },
         {
@@ -1923,7 +1923,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-189.json",
+            "iiifmanifest": "data/manifest_A1-189.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~93435~422920/full/!512,512/0/default.jpg"
         },
         {
@@ -1951,7 +1951,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-190.json",
+            "iiifmanifest": "data/manifest_A1-190.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~95582~428203/full/!512,512/0/default.jpg"
         },
         {
@@ -1979,7 +1979,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-191.json",
+            "iiifmanifest": "data/manifest_A1-191.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~94221~426986/full/!512,512/0/default.jpg"
         },
         {
@@ -2007,7 +2007,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-192.json",
+            "iiifmanifest": "data/manifest_A1-192.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~92966~422451/full/!512,512/0/default.jpg"
         },
         {
@@ -2035,7 +2035,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-193.json",
+            "iiifmanifest": "data/manifest_A1-193.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~119274~453587/full/!512,512/0/default.jpg"
         },
         {
@@ -2063,7 +2063,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-194.json",
+            "iiifmanifest": "data/manifest_A1-194.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~119856~454233/full/!512,512/0/default.jpg"
         },
         {
@@ -2091,7 +2091,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-196.json",
+            "iiifmanifest": "data/manifest_A1-196.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~119513~453718/full/!512,512/0/default.jpg"
         },
         {
@@ -2119,7 +2119,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-197.json",
+            "iiifmanifest": "data/manifest_A1-197.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~132478~474772/full/!512,512/0/default.jpg"
         },
         {
@@ -2147,7 +2147,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-198.json",
+            "iiifmanifest": "data/manifest_A1-198.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~133805~476417/full/!512,512/0/default.jpg"
         },
         {
@@ -2175,7 +2175,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-199.json",
+            "iiifmanifest": "data/manifest_A1-199.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~133952~476555/full/!512,512/0/default.jpg"
         },
         {
@@ -2203,7 +2203,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-201.json",
+            "iiifmanifest": "data/manifest_A1-201.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~132808~475186/full/!512,512/0/default.jpg"
         },
         {
@@ -2231,7 +2231,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-202.json",
+            "iiifmanifest": "data/manifest_A1-202.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~134083~476779/full/!512,512/0/default.jpg"
         },
         {
@@ -2259,7 +2259,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-203.json",
+            "iiifmanifest": "data/manifest_A1-203.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~133396~476129/full/!512,512/0/default.jpg"
         },
         {
@@ -2287,7 +2287,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-204.json",
+            "iiifmanifest": "data/manifest_A1-204.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~133527~476260/full/!512,512/0/default.jpg"
         },
         {
@@ -2315,7 +2315,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-205.json",
+            "iiifmanifest": "data/manifest_A1-205.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~132039~473798/full/!512,512/0/default.jpg"
         },
         {
@@ -2343,7 +2343,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-206.json",
+            "iiifmanifest": "data/manifest_A1-206.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~134214~476900/full/!512,512/0/default.jpg"
         },
         {
@@ -2371,7 +2371,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-207.json",
+            "iiifmanifest": "data/manifest_A1-207.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~134627~477325/full/!512,512/0/default.jpg"
         },
         {
@@ -2399,7 +2399,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-210.json",
+            "iiifmanifest": "data/manifest_A1-210.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~133265~475984/full/!512,512/0/default.jpg"
         },
         {
@@ -2427,7 +2427,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-214.json",
+            "iiifmanifest": "data/manifest_A1-214.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~127244~467920/full/!512,512/0/default.jpg"
         },
         {
@@ -2455,7 +2455,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-215.json",
+            "iiifmanifest": "data/manifest_A1-215.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~127977~468698/full/!512,512/0/default.jpg"
         },
         {
@@ -2483,7 +2483,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-216.json",
+            "iiifmanifest": "data/manifest_A1-216.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~127824~468541/full/!512,512/0/default.jpg"
         },
         {
@@ -2511,7 +2511,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-217.json",
+            "iiifmanifest": "data/manifest_A1-217.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~98016~430388/full/!512,512/0/default.jpg"
         },
         {
@@ -2539,7 +2539,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-218.json",
+            "iiifmanifest": "data/manifest_A1-218.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~126934~467582/full/!512,512/0/default.jpg"
         },
         {
@@ -2567,7 +2567,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-219.json",
+            "iiifmanifest": "data/manifest_A1-219.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~126779~467427/full/!512,512/0/default.jpg"
         },
         {
@@ -2595,7 +2595,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-220.json",
+            "iiifmanifest": "data/manifest_A1-220.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~98493~430995/full/!512,512/0/default.jpg"
         },
         {
@@ -2623,7 +2623,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-221.json",
+            "iiifmanifest": "data/manifest_A1-221.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~126087~466609/full/!512,512/0/default.jpg"
         },
         {
@@ -2651,7 +2651,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-222.json",
+            "iiifmanifest": "data/manifest_A1-222.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~126242~466836/full/!512,512/0/default.jpg"
         },
         {
@@ -2679,7 +2679,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-223.json",
+            "iiifmanifest": "data/manifest_A1-223.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~128410~469221/full/!512,512/0/default.jpg"
         },
         {
@@ -2707,7 +2707,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-224.json",
+            "iiifmanifest": "data/manifest_A1-224.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~126397~467010/full/!512,512/0/default.jpg"
         },
         {
@@ -2735,7 +2735,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-225.json",
+            "iiifmanifest": "data/manifest_A1-225.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~125589~466059/full/!512,512/0/default.jpg"
         },
         {
@@ -2763,7 +2763,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-226.json",
+            "iiifmanifest": "data/manifest_A1-226.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~127399~468087/full/!512,512/0/default.jpg"
         },
         {
@@ -2791,7 +2791,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-227.json",
+            "iiifmanifest": "data/manifest_A1-227.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~127657~468364/full/!512,512/0/default.jpg"
         },
         {
@@ -2819,7 +2819,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-228.json",
+            "iiifmanifest": "data/manifest_A1-228.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130096~470964/full/!512,512/0/default.jpg"
         },
         {
@@ -2847,7 +2847,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-229.json",
+            "iiifmanifest": "data/manifest_A1-229.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~129750~470613/full/!512,512/0/default.jpg"
         },
         {
@@ -2875,7 +2875,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-230.json",
+            "iiifmanifest": "data/manifest_A1-230.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~98171~430697/full/!512,512/0/default.jpg"
         },
         {
@@ -2903,7 +2903,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-231.json",
+            "iiifmanifest": "data/manifest_A1-231.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130603~471525/full/!512,512/0/default.jpg"
         },
         {
@@ -2931,7 +2931,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-232.json",
+            "iiifmanifest": "data/manifest_A1-232.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~98338~430852/full/!512,512/0/default.jpg"
         },
         {
@@ -2959,7 +2959,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-233.json",
+            "iiifmanifest": "data/manifest_A1-233.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~129587~470455/full/!512,512/0/default.jpg"
         },
         {
@@ -2987,7 +2987,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-234.json",
+            "iiifmanifest": "data/manifest_A1-234.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130818~471688/full/!512,512/0/default.jpg"
         },
         {
@@ -3015,7 +3015,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-237.json",
+            "iiifmanifest": "data/manifest_A1-237.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130259~471139/full/!512,512/0/default.jpg"
         },
         {
@@ -3043,7 +3043,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-238.json",
+            "iiifmanifest": "data/manifest_A1-238.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~98799~431320/full/!512,512/0/default.jpg"
         },
         {
@@ -3071,7 +3071,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-242.json",
+            "iiifmanifest": "data/manifest_A1-242.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~131267~472702/full/!512,512/0/default.jpg"
         },
         {
@@ -3099,7 +3099,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-243.json",
+            "iiifmanifest": "data/manifest_A1-243.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~129909~470800/full/!512,512/0/default.jpg"
         },
         {
@@ -3127,7 +3127,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-246.json",
+            "iiifmanifest": "data/manifest_A1-246.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~100504~433053/full/!512,512/0/default.jpg"
         },
         {
@@ -3155,7 +3155,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-247.json",
+            "iiifmanifest": "data/manifest_A1-247.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~101301~433850/full/!512,512/0/default.jpg"
         },
         {
@@ -3183,7 +3183,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-250.json",
+            "iiifmanifest": "data/manifest_A1-250.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130985~471832/full/!512,512/0/default.jpg"
         },
         {
@@ -3211,7 +3211,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-252.json",
+            "iiifmanifest": "data/manifest_A1-252.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~131124~472118/full/!512,512/0/default.jpg"
         },
         {
@@ -3239,7 +3239,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-253.json",
+            "iiifmanifest": "data/manifest_A1-253.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~132170~474279/full/!512,512/0/default.jpg"
         },
         {
@@ -3267,7 +3267,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-256.json",
+            "iiifmanifest": "data/manifest_A1-256.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~131454~472889/full/!512,512/0/default.jpg"
         },
         {
@@ -3295,7 +3295,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-257.json",
+            "iiifmanifest": "data/manifest_A1-257.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~133070~475835/full/!512,512/0/default.jpg"
         },
         {
@@ -3323,7 +3323,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-262.json",
+            "iiifmanifest": "data/manifest_A1-262.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~99914~432419/full/!512,512/0/default.jpg"
         },
         {
@@ -3351,7 +3351,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-263.json",
+            "iiifmanifest": "data/manifest_A1-263.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~100357~432862/full/!512,512/0/default.jpg"
         },
         {
@@ -3379,7 +3379,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-264.json",
+            "iiifmanifest": "data/manifest_A1-264.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~99644~432125/full/!512,512/0/default.jpg"
         },
         {
@@ -3407,7 +3407,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-265.json",
+            "iiifmanifest": "data/manifest_A1-265.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~100844~433325/full/!512,512/0/default.jpg"
         },
         {
@@ -3435,7 +3435,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-266.json",
+            "iiifmanifest": "data/manifest_A1-266.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~100210~432715/full/!512,512/0/default.jpg"
         },
         {
@@ -3528,7 +3528,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-1.json",
+            "iiifmanifest": "data/manifest_A1-1.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~100695~433202/full/!512,512/0/default.jpg"
         },
         {
@@ -3580,7 +3580,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-14.json",
+            "iiifmanifest": "data/manifest_A1-14.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~121185~458574/full/!512,512/0/default.jpg"
         },
         {
@@ -3629,7 +3629,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-65.json",
+            "iiifmanifest": "data/manifest_A1-65.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~87964~397086/full/!512,512/0/default.jpg"
         },
         {
@@ -3669,7 +3669,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-130.json",
+            "iiifmanifest": "data/manifest_A1-130.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~92339~421775/full/!512,512/0/default.jpg"
         },
         {
@@ -3714,7 +3714,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-261.json",
+            "iiifmanifest": "data/manifest_A1-261.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~99310~431815/full/!512,512/0/default.jpg"
         },
         {
@@ -3767,7 +3767,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-25.json",
+            "iiifmanifest": "data/manifest_A1-25.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~122181~459737/full/!512,512/0/default.jpg"
         },
         {
@@ -3819,7 +3819,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-11.json",
+            "iiifmanifest": "data/manifest_A1-11.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~120196~454439/full/!512,512/0/default.jpg"
         },
         {
@@ -3867,7 +3867,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-16.json",
+            "iiifmanifest": "data/manifest_A1-16.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~121736~459049/full/!512,512/0/default.jpg"
         },
         {
@@ -3918,7 +3918,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-17.json",
+            "iiifmanifest": "data/manifest_A1-17.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~104171~436754/full/!512,512/0/default.jpg"
         },
         {
@@ -3967,7 +3967,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-19.json",
+            "iiifmanifest": "data/manifest_A1-19.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~121811~459228/full/!512,512/0/default.jpg"
         },
         {
@@ -4018,7 +4018,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-20.json",
+            "iiifmanifest": "data/manifest_A1-20.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~122300~459618/full/!512,512/0/default.jpg"
         },
         {
@@ -4068,7 +4068,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-21.json",
+            "iiifmanifest": "data/manifest_A1-21.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~122499~459978/full/!512,512/0/default.jpg"
         },
         {
@@ -4120,7 +4120,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-23.json",
+            "iiifmanifest": "data/manifest_A1-23.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~88087~397265/full/!512,512/0/default.jpg"
         },
         {
@@ -4171,7 +4171,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-49.json",
+            "iiifmanifest": "data/manifest_A1-49.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~105145~437658/full/!512,512/0/default.jpg"
         },
         {
@@ -4226,7 +4226,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-22.json",
+            "iiifmanifest": "data/manifest_A1-22.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~88870~398194/full/!512,512/0/default.jpg"
         },
         {
@@ -4288,7 +4288,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-255.json",
+            "iiifmanifest": "data/manifest_A1-255.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~102399~434944/full/!512,512/0/default.jpg"
         },
         {
@@ -4353,7 +4353,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-64.json",
+            "iiifmanifest": "data/manifest_A1-64.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~88556~397775/full/!512,512/0/default.jpg"
         },
         {
@@ -4406,7 +4406,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-52.json",
+            "iiifmanifest": "data/manifest_A1-52.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~105276~437789/full/!512,512/0/default.jpg"
         },
         {
@@ -4458,7 +4458,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-24.json",
+            "iiifmanifest": "data/manifest_A1-24.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~123151~461290/full/!512,512/0/default.jpg"
         },
         {
@@ -4512,7 +4512,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-61.json",
+            "iiifmanifest": "data/manifest_A1-61.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~104493~436998/full/!512,512/0/default.jpg"
         },
         {
@@ -4564,7 +4564,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-82.json",
+            "iiifmanifest": "data/manifest_A1-82.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~107223~440006/full/!512,512/0/default.jpg"
         },
         {
@@ -4616,7 +4616,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-259.json",
+            "iiifmanifest": "data/manifest_A1-259.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~100061~432568/full/!512,512/0/default.jpg"
         },
         {
@@ -4670,7 +4670,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-107.json",
+            "iiifmanifest": "data/manifest_A1-107.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~110697~444476/full/!512,512/0/default.jpg"
         },
         {
@@ -4735,7 +4735,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-15.json",
+            "iiifmanifest": "data/manifest_A1-15.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~85417~379929/full/!512,512/0/default.jpg"
         },
         {
@@ -4787,7 +4787,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-51.json",
+            "iiifmanifest": "data/manifest_A1-51.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~125458~465956/full/!512,512/0/default.jpg"
         },
         {
@@ -4839,7 +4839,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-71.json",
+            "iiifmanifest": "data/manifest_A1-71.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~91454~419204/full/!512,512/0/default.jpg"
         },
         {
@@ -4892,7 +4892,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-81.json",
+            "iiifmanifest": "data/manifest_A1-81.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~107838~440621/full/!512,512/0/default.jpg"
         },
         {
@@ -4950,7 +4950,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-44.json",
+            "iiifmanifest": "data/manifest_A1-44.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~124682~464270/full/!512,512/0/default.jpg"
         },
         {
@@ -5017,7 +5017,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-87.json",
+            "iiifmanifest": "data/manifest_A1-87.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~107715~440498/full/!512,512/0/default.jpg"
         },
         {
@@ -5071,7 +5071,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-108.json",
+            "iiifmanifest": "data/manifest_A1-108.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~112935~446601/full/!512,512/0/default.jpg"
         },
         {
@@ -5125,7 +5125,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-35.json",
+            "iiifmanifest": "data/manifest_A1-35.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~104739~437220/full/!512,512/0/default.jpg"
         },
         {
@@ -5174,7 +5174,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-27.json",
+            "iiifmanifest": "data/manifest_A1-27.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~123048~461173/full/!512,512/0/default.jpg"
         },
         {
@@ -5225,7 +5225,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-32.json",
+            "iiifmanifest": "data/manifest_A1-32.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~104945~437424/full/!512,512/0/default.jpg"
         },
         {
@@ -5276,7 +5276,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-36.json",
+            "iiifmanifest": "data/manifest_A1-36.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~123431~463042/full/!512,512/0/default.jpg"
         },
         {
@@ -5331,7 +5331,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-40.json",
+            "iiifmanifest": "data/manifest_A1-40.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~124014~463622/full/!512,512/0/default.jpg"
         },
         {
@@ -5382,7 +5382,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-42.json",
+            "iiifmanifest": "data/manifest_A1-42.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~123576~463185/full/!512,512/0/default.jpg"
         },
         {
@@ -5435,7 +5435,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-48.json",
+            "iiifmanifest": "data/manifest_A1-48.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~124880~465074/full/!512,512/0/default.jpg"
         },
         {
@@ -5487,7 +5487,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-13.json",
+            "iiifmanifest": "data/manifest_A1-13.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~120301~456162/full/!512,512/0/default.jpg"
         },
         {
@@ -5544,7 +5544,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-53.json",
+            "iiifmanifest": "data/manifest_A1-53.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~105407~437920/full/!512,512/0/default.jpg"
         },
         {
@@ -5595,7 +5595,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-59.json",
+            "iiifmanifest": "data/manifest_A1-59.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~104616~437121/full/!512,512/0/default.jpg"
         },
         {
@@ -5648,7 +5648,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-66.json",
+            "iiifmanifest": "data/manifest_A1-66.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~87807~396963/full/!512,512/0/default.jpg"
         },
         {
@@ -5701,7 +5701,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-67.json",
+            "iiifmanifest": "data/manifest_A1-67.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~87668~396806/full/!512,512/0/default.jpg"
         },
         {
@@ -5752,7 +5752,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-31.json",
+            "iiifmanifest": "data/manifest_A1-31.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~104838~437327/full/!512,512/0/default.jpg"
         },
         {
@@ -5803,7 +5803,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-33.json",
+            "iiifmanifest": "data/manifest_A1-33.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~109883~443505/full/!512,512/0/default.jpg"
         },
         {
@@ -5853,7 +5853,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-47.json",
+            "iiifmanifest": "data/manifest_A1-47.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~124781~464953/full/!512,512/0/default.jpg"
         },
         {
@@ -5907,7 +5907,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-54.json",
+            "iiifmanifest": "data/manifest_A1-54.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~91200~418946/full/!512,512/0/default.jpg"
         },
         {
@@ -5987,7 +5987,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-258.json",
+            "iiifmanifest": "data/manifest_A1-258.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~102017~434566/full/!512,512/0/default.jpg"
         },
         {
@@ -6051,7 +6051,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-97.json",
+            "iiifmanifest": "data/manifest_A1-97.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~109347~442688/full/!512,512/0/default.jpg"
         },
         {
@@ -6105,7 +6105,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-26.json",
+            "iiifmanifest": "data/manifest_A1-26.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~86157~396259/full/!512,512/0/default.jpg"
         },
         {
@@ -6155,7 +6155,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-28.json",
+            "iiifmanifest": "data/manifest_A1-28.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~122855~461070/full/!512,512/0/default.jpg"
         },
         {
@@ -6209,7 +6209,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-29.json",
+            "iiifmanifest": "data/manifest_A1-29.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~122740~460877/full/!512,512/0/default.jpg"
         },
         {
@@ -6259,7 +6259,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-34.json",
+            "iiifmanifest": "data/manifest_A1-34.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~110312~444050/full/!512,512/0/default.jpg"
         },
         {
@@ -6313,7 +6313,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-37.json",
+            "iiifmanifest": "data/manifest_A1-37.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~123816~463381/full/!512,512/0/default.jpg"
         },
         {
@@ -6364,7 +6364,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-38.json",
+            "iiifmanifest": "data/manifest_A1-38.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~123915~463499/full/!512,512/0/default.jpg"
         },
         {
@@ -6417,7 +6417,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-39.json",
+            "iiifmanifest": "data/manifest_A1-39.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~124331~463945/full/!512,512/0/default.jpg"
         },
         {
@@ -6473,7 +6473,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-41.json",
+            "iiifmanifest": "data/manifest_A1-41.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~124234~463818/full/!512,512/0/default.jpg"
         },
         {
@@ -6525,7 +6525,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-45.json",
+            "iiifmanifest": "data/manifest_A1-45.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~123719~463282/full/!512,512/0/default.jpg"
         },
         {
@@ -6577,7 +6577,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-46.json",
+            "iiifmanifest": "data/manifest_A1-46.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~124135~463721/full/!512,512/0/default.jpg"
         },
         {
@@ -6628,7 +6628,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-12.json",
+            "iiifmanifest": "data/manifest_A1-12.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~119747~453994/full/!512,512/0/default.jpg"
         },
         {
@@ -6678,7 +6678,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-18.json",
+            "iiifmanifest": "data/manifest_A1-18.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~90429~418231/full/!512,512/0/default.jpg"
         },
         {
@@ -6732,7 +6732,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-50.json",
+            "iiifmanifest": "data/manifest_A1-50.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~124551~464171/full/!512,512/0/default.jpg"
         },
         {
@@ -6784,7 +6784,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-60.json",
+            "iiifmanifest": "data/manifest_A1-60.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~125692~466180/full/!512,512/0/default.jpg"
         },
         {
@@ -6833,7 +6833,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-84.json",
+            "iiifmanifest": "data/manifest_A1-84.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~107469~440252/full/!512,512/0/default.jpg"
         },
         {
@@ -6881,7 +6881,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-129.json",
+            "iiifmanifest": "data/manifest_A1-129.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~91736~419478/full/!512,512/0/default.jpg"
         },
         {
@@ -6943,7 +6943,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-118.json",
+            "iiifmanifest": "data/manifest_A1-118.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~92236~420272/full/!512,512/0/default.jpg"
         },
         {
@@ -7007,7 +7007,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-117.json",
+            "iiifmanifest": "data/manifest_A1-117.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~114953~448654/full/!512,512/0/default.jpg"
         },
         {
@@ -7073,7 +7073,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-86.json",
+            "iiifmanifest": "data/manifest_A1-86.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~107592~440375/full/!512,512/0/default.jpg"
         },
         {
@@ -7135,7 +7135,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-105.json",
+            "iiifmanifest": "data/manifest_A1-105.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~88266~397382/full/!512,512/0/default.jpg"
         },
         {
@@ -7202,7 +7202,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-254.json",
+            "iiifmanifest": "data/manifest_A1-254.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~102208~434757/full/!512,512/0/default.jpg"
         },
         {
@@ -7264,7 +7264,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-95.json",
+            "iiifmanifest": "data/manifest_A1-95.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~108921~442367/full/!512,512/0/default.jpg"
         },
         {
@@ -7341,7 +7341,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-260.json",
+            "iiifmanifest": "data/manifest_A1-260.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~99767~432272/full/!512,512/0/default.jpg"
         },
         {
@@ -7402,7 +7402,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-63.json",
+            "iiifmanifest": "data/manifest_A1-63.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~104372~436875/full/!512,512/0/default.jpg"
         },
         {
@@ -7457,7 +7457,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-74.json",
+            "iiifmanifest": "data/manifest_A1-74.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~91053~418815/full/!512,512/0/default.jpg"
         },
         {
@@ -7513,7 +7513,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-75.json",
+            "iiifmanifest": "data/manifest_A1-75.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~106953~439619/full/!512,512/0/default.jpg"
         },
         {
@@ -7574,7 +7574,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-73.json",
+            "iiifmanifest": "data/manifest_A1-73.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~111558~445986/full/!512,512/0/default.jpg"
         },
         {
@@ -7634,7 +7634,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-88.json",
+            "iiifmanifest": "data/manifest_A1-88.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~108215~441522/full/!512,512/0/default.jpg"
         },
         {
@@ -7708,7 +7708,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-116.json",
+            "iiifmanifest": "data/manifest_A1-116.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~113181~446724/full/!512,512/0/default.jpg"
         },
         {
@@ -7764,7 +7764,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-83.json",
+            "iiifmanifest": "data/manifest_A1-83.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~107346~440129/full/!512,512/0/default.jpg"
         },
         {
@@ -7816,7 +7816,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-9.json",
+            "iiifmanifest": "data/manifest_A1-9.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~120095~454334/full/!512,512/0/default.jpg"
         },
         {
@@ -7875,7 +7875,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-72.json",
+            "iiifmanifest": "data/manifest_A1-72.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~91589~419351/full/!512,512/0/default.jpg"
         },
         {
@@ -7932,7 +7932,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-68.json",
+            "iiifmanifest": "data/manifest_A1-68.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~105792~438303/full/!512,512/0/default.jpg"
         },
         {
@@ -7987,7 +7987,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-69.json",
+            "iiifmanifest": "data/manifest_A1-69.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~90862~418668/full/!512,512/0/default.jpg"
         },
         {
@@ -8045,7 +8045,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-8.json",
+            "iiifmanifest": "data/manifest_A1-8.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~120547~457518/full/!512,512/0/default.jpg"
         },
         {
@@ -8097,7 +8097,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-70.json",
+            "iiifmanifest": "data/manifest_A1-70.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~106136~438741/full/!512,512/0/default.jpg"
         },
         {
@@ -8156,7 +8156,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-96.json",
+            "iiifmanifest": "data/manifest_A1-96.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~109240~442581/full/!512,512/0/default.jpg"
         },
         {
@@ -8210,7 +8210,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-30.json",
+            "iiifmanifest": "data/manifest_A1-30.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~105042~437527/full/!512,512/0/default.jpg"
         },
         {
@@ -8265,7 +8265,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-77.json",
+            "iiifmanifest": "data/manifest_A1-77.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~90739~418477/full/!512,512/0/default.jpg"
         },
         {
@@ -8321,7 +8321,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-56.json",
+            "iiifmanifest": "data/manifest_A1-56.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~105538~438043/full/!512,512/0/default.jpg"
         },
         {
@@ -8379,7 +8379,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-251.json",
+            "iiifmanifest": "data/manifest_A1-251.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~101158~433659/full/!512,512/0/default.jpg"
         },
         {
@@ -8462,7 +8462,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-245.json",
+            "iiifmanifest": "data/manifest_A1-245.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~101492~434041/full/!512,512/0/default.jpg"
         },
         {
@@ -8520,7 +8520,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-91.json",
+            "iiifmanifest": "data/manifest_A1-91.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~108445~441736/full/!512,512/0/default.jpg"
         },
         {
@@ -8581,7 +8581,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-100.json",
+            "iiifmanifest": "data/manifest_A1-100.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~109720~443120/full/!512,512/0/default.jpg"
         },
         {
@@ -8635,7 +8635,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-58.json",
+            "iiifmanifest": "data/manifest_A1-58.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~91331~419069/full/!512,512/0/default.jpg"
         },
         {
@@ -8694,7 +8694,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-101.json",
+            "iiifmanifest": "data/manifest_A1-101.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~110149~443853/full/!512,512/0/default.jpg"
         },
         {
@@ -8763,7 +8763,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-2.json",
+            "iiifmanifest": "data/manifest_A1-2.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~93097~422646/full/!512,512/0/default.jpg"
         },
         {
@@ -8823,7 +8823,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-7.json",
+            "iiifmanifest": "data/manifest_A1-7.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~120833~458017/full/!512,512/0/default.jpg"
         },
         {
@@ -8876,7 +8876,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-55.json",
+            "iiifmanifest": "data/manifest_A1-55.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~87385~396385/full/!512,512/0/default.jpg"
         },
         {
@@ -8935,7 +8935,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-57.json",
+            "iiifmanifest": "data/manifest_A1-57.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~105661~438174/full/!512,512/0/default.jpg"
         },
         {
@@ -8994,7 +8994,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-89.json",
+            "iiifmanifest": "data/manifest_A1-89.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~108084~441399/full/!512,512/0/default.jpg"
         },
         {
@@ -9050,7 +9050,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-92.json",
+            "iiifmanifest": "data/manifest_A1-92.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~108552~441839/full/!512,512/0/default.jpg"
         },
         {
@@ -9103,7 +9103,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-76.json",
+            "iiifmanifest": "data/manifest_A1-76.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~90616~418354/full/!512,512/0/default.jpg"
         },
         {
@@ -9153,7 +9153,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-10.json",
+            "iiifmanifest": "data/manifest_A1-10.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~119644~453885/full/!512,512/0/default.jpg"
         },
         {
@@ -9204,7 +9204,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-62.json",
+            "iiifmanifest": "data/manifest_A1-62.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~87262~396384/full/!512,512/0/default.jpg"
         },
         {
@@ -9270,7 +9270,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-241.json",
+            "iiifmanifest": "data/manifest_A1-241.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~99123~431668/full/!512,512/0/default.jpg"
         },
         {
@@ -9339,7 +9339,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-98.json",
+            "iiifmanifest": "data/manifest_A1-98.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~109454~442847/full/!512,512/0/default.jpg"
         },
         {
@@ -9395,7 +9395,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-43.json",
+            "iiifmanifest": "data/manifest_A1-43.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~124458~464038/full/!512,512/0/default.jpg"
         },
         {
@@ -9454,7 +9454,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-80.json",
+            "iiifmanifest": "data/manifest_A1-80.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~107100~439775/full/!512,512/0/default.jpg"
         },
         {
@@ -9514,7 +9514,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-78.json",
+            "iiifmanifest": "data/manifest_A1-78.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~107961~440744/full/!512,512/0/default.jpg"
         },
         {
@@ -9580,7 +9580,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-90.json",
+            "iiifmanifest": "data/manifest_A1-90.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~108338~441629/full/!512,512/0/default.jpg"
         },
         {
@@ -9710,7 +9710,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-4.json",
+            "iiifmanifest": "data/manifest_A1-4.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~88383~397652/full/!512,512/0/default.jpg"
         },
         {
@@ -9841,7 +9841,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-249.json",
+            "iiifmanifest": "data/manifest_A1-249.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~101683~434184/full/!512,512/0/default.jpg"
         },
         {
@@ -9904,7 +9904,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-248.json",
+            "iiifmanifest": "data/manifest_A1-248.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~100967~433516/full/!512,512/0/default.jpg"
         },
         {
@@ -9968,7 +9968,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-79.json",
+            "iiifmanifest": "data/manifest_A1-79.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~92113~420169/full/!512,512/0/default.jpg"
         },
         {
@@ -10041,7 +10041,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-111.json",
+            "iiifmanifest": "data/manifest_A1-111.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~111066~444845/full/!512,512/0/default.jpg"
         },
         {
@@ -10103,7 +10103,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-94.json",
+            "iiifmanifest": "data/manifest_A1-94.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~108762~442262/full/!512,512/0/default.jpg"
         },
         {
@@ -10166,7 +10166,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-93.json",
+            "iiifmanifest": "data/manifest_A1-93.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~109613~442954/full/!512,512/0/default.jpg"
         },
         {
@@ -10245,7 +10245,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-240.json",
+            "iiifmanifest": "data/manifest_A1-240.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~99457~432002/full/!512,512/0/default.jpg"
         },
         {
@@ -10313,7 +10313,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-102.json",
+            "iiifmanifest": "data/manifest_A1-102.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~134333~477063/full/!512,512/0/default.jpg"
         },
         {
@@ -10373,7 +10373,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-85.json",
+            "iiifmanifest": "data/manifest_A1-85.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~106828~439435/full/!512,512/0/default.jpg"
         },
         {
@@ -10452,7 +10452,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-114.json",
+            "iiifmanifest": "data/manifest_A1-114.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~111435~445839/full/!512,512/0/default.jpg"
         },
         {
@@ -10539,7 +10539,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-115.json",
+            "iiifmanifest": "data/manifest_A1-115.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~111705~446180/full/!512,512/0/default.jpg"
         },
         {
@@ -10598,7 +10598,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-6.json",
+            "iiifmanifest": "data/manifest_A1-6.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~121014~458195/full/!512,512/0/default.jpg"
         },
         {
@@ -10660,7 +10660,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-239.json",
+            "iiifmanifest": "data/manifest_A1-239.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~98962~431481/full/!512,512/0/default.jpg"
         },
         {
@@ -10732,7 +10732,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-244.json",
+            "iiifmanifest": "data/manifest_A1-244.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~101826~434374/full/!512,512/0/default.jpg"
         },
         {
@@ -10796,7 +10796,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-119.json",
+            "iiifmanifest": "data/manifest_A1-119.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~113425~446968/full/!512,512/0/default.jpg"
         },
         {
@@ -10857,7 +10857,7 @@
                     "publish": false
                 }
             ],
-            "iiifmanifest": "data/manifest A1-99.json",
+            "iiifmanifest": "data/manifest_A1-99.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~109982~443690/full/!512,512/0/default.jpg"
         },
         {
@@ -10942,7 +10942,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-3.json",
+            "iiifmanifest": "data/manifest_A1-3.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~120404~457415/full/!512,512/0/default.jpg"
         },
         {
@@ -10996,7 +10996,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-123.json",
+            "iiifmanifest": "data/manifest_A1-123.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~113671~447229/full/!512,512/0/default.jpg"
         },
         {
@@ -11069,7 +11069,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-112.json",
+            "iiifmanifest": "data/manifest_A1-112.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~110943~444722/full/!512,512/0/default.jpg"
         },
         {
@@ -11122,7 +11122,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-131.json",
+            "iiifmanifest": "data/manifest_A1-131.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~114048~447610/full/!512,512/0/default.jpg"
         },
         {
@@ -11186,7 +11186,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-104.json",
+            "iiifmanifest": "data/manifest_A1-104.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~110411~444230/full/!512,512/0/default.jpg"
         },
         {
@@ -11248,7 +11248,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-110.json",
+            "iiifmanifest": "data/manifest_A1-110.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~111189~445091/full/!512,512/0/default.jpg"
         },
         {
@@ -11309,7 +11309,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-122.json",
+            "iiifmanifest": "data/manifest_A1-122.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~113548~447106/full/!512,512/0/default.jpg"
         },
         {
@@ -11382,7 +11382,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-109.json",
+            "iiifmanifest": "data/manifest_A1-109.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~92712~422189/full/!512,512/0/default.jpg"
         },
         {
@@ -11450,7 +11450,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-5.json",
+            "iiifmanifest": "data/manifest_A1-5.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~120650~457836/full/!512,512/0/default.jpg"
         },
         {
@@ -11516,7 +11516,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-113.json",
+            "iiifmanifest": "data/manifest_A1-113.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~111312~445214/full/!512,512/0/default.jpg"
         },
         {
@@ -11602,7 +11602,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-120.json",
+            "iiifmanifest": "data/manifest_A1-120.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~113304~446845/full/!512,512/0/default.jpg"
         },
         {
@@ -11674,7 +11674,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-128.json",
+            "iiifmanifest": "data/manifest_A1-128.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~114568~448273/full/!512,512/0/default.jpg"
         },
         {
@@ -11746,7 +11746,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-150.json",
+            "iiifmanifest": "data/manifest_A1-150.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~89703~417398/full/!512,512/0/default.jpg"
         },
         {
@@ -11822,7 +11822,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-127.json",
+            "iiifmanifest": "data/manifest_A1-127.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115080~448785/full/!512,512/0/default.jpg"
         },
         {
@@ -11894,7 +11894,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-121.json",
+            "iiifmanifest": "data/manifest_A1-121.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~89834~417521/full/!512,512/0/default.jpg"
         },
         {
@@ -11972,7 +11972,7 @@
                     "publish": true
                 }
             ],
-            "iiifmanifest": "data/manifest A1-124.json",
+            "iiifmanifest": "data/manifest_A1-124.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~114314~448015/full/!512,512/0/default.jpg"
         }
     ]
