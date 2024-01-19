@@ -121,13 +121,6 @@ function Books() {
                 </p>
                 <p>Charles Lyell lived, worked and published in an age distinguished by growing public interest in the sciences and by publishers keen to meet that interest. This was a period marked by the appearance of new scientific journals and literary periodicals, and by scientific societies. Publishers were keen to promote new ideas and theories, producing books in expensive quarto editions and in cheaper and more widely available octavo format, and they encouraged illustrations of different sorts to illuminate their texts. Lyell benefitted from and responded to these circumstances. He had a good working relationship in particular with the publisher John Murray who produced several editions of Lyell’s <i>Principles of Geology</i>, Lyell’s first and most influential book.</p>
                 <p>This section presents a complete list of Lyell’s printed books published by John Murray, in chronological order, with links to initial and later editions online. For ease of reference, we have used an abbreviated version of his titles: </p>
-                {/*<p className=" m-0">Special credit is due to Stephen A. Baldwin BSc (Open), PHC, FGS, FLS, FRI,*/}
-                {/*    whose*/}
-                {/*    comprehensive article Charles Lyell – a brief Bibliography (2013) details Lyell's literary*/}
-                {/*    career. <br/>*/}
-                {/*    Thanks also to Ms. Felicity MacKenzie, whose expertise has sourced digital versions to Lyell’s*/}
-                {/*    works*/}
-                {/*    online August 2023. </p>*/}
                 <ul className="bold-text mt-3" style={keyItemStyle}>
                         {Object.keys(textContent).map((bookName) => (
                             <li className="m-1 mb-2" key={bookName}>
