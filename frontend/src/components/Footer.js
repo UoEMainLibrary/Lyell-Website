@@ -1,4 +1,5 @@
 import React from "react";
+import {NavLink} from "react-router-dom";
 
 export default function Footer() {
   return (
@@ -17,9 +18,12 @@ export default function Footer() {
 
 
             <div className="d-flex flex-column">
-              <a href="#" className="text-light mb-2 text-decoration-none">Privacy & Cookies</a>
-              <a href="#" className="text-light mb-2 text-decoration-none">Licensing & Copyright</a>
-              <a href="#" className="text-light text-decoration-none">Accessibility</a>
+              <NavLink className="nav-link text-light" to="/">Home</NavLink>
+              <NavLink className="nav-link text-light" to="/about">About</NavLink>
+              <NavLink className="nav-link text-light" to="/publications">Publications</NavLink>
+              <NavLink className="nav-link text-light" to="/collections">Collection</NavLink>
+              <NavLink className="nav-link text-light" to="/elsewhere">Lyell elsewhere</NavLink>
+              <NavLink className="nav-link text-light" to="/acknowledgements">Acknowledgements</NavLink>
             </div>
           </div>
           <div className="col-md-3">
@@ -27,7 +31,7 @@ export default function Footer() {
             <div className="d-flex flex-column">
               <a href="https://archives.collections.ed.ac.uk/agents/people/86" className="text-light mb-2 text-decoration-none">Collection in ArchivesSpace</a>
               <a href="#" className="text-light mb-2 text-decoration-none">Guide to seeing the collection in person</a>
-              <a href="#" className="text-light text-decoration-none">Example link</a>
+              <a href="#" className="text-light text-decoration-none">Accessibility</a>
             </div>
           </div>
         </div>

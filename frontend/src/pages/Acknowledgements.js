@@ -1,7 +1,7 @@
 import React from 'react';
 import aboutText from "../content/about.json";
 import Top from "../components/Header";
-import lyellImgp from "../images/lyell_4.jpg";
+import lyellImgp from "../images/N48p12&13C.jpg";
 
 export default function About() {
     const aboutT = aboutText.aboutmain
@@ -10,7 +10,8 @@ export default function About() {
         <div>
             <Top
                 title={"Acknowledgements"}
-                size={{height: "300px"}}
+                imageURL={lyellImgp}
+                size={{height: "250px"}}
             />
 
             <div className="container" style={{maxWidth: "1000px"}}>
