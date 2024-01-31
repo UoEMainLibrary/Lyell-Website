@@ -24,3 +24,78 @@
 .btn-blue:hover {
     background-color: rgb(121, 169, 241);
 }
+
+.listItem {
+    list-style-type: none;
+    border-bottom: 1px solid black
+}
+
+.listItem:hover {
+    background-color: white;
+}
+
+.link-text {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+/* Reset some default styles for better consistency */
+
+/* Basic styling for the navigation container */
+.sidebar {
+  background-color: #f8f9fa; /* Light background color */
+}
+
+@media screen and (min-width: 992px) {
+  .sidebar {
+    padding-top: 20px; /* Add some padding at the top */
+      position: sticky; /* Set position to fixed */
+      top: 0;
+      height: 100vh; /* Full height */
+      border-left: 1px solid lightgrey;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .sidebar {
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+}
+
+/* Styling for headings */
+.sidebar h2 {
+  color: #333; /* Dark color for headings */
+  padding: 10px;
+  font-size: 1.2em;
+}
+
+/* Styling for the links */
+.sidebar ul {
+  list-style-type: none;
+}
+
+.sidebar li {
+  margin: 5px 0;
+}
+
+/*.sidebar a {*/
+/*  text-decoration: none;*/
+/*  color: #333; !* Dark color for links *!*/
+/*  display: block;*/
+/*  transition: background-color 0.3s, color 0.3s; !* Smooth transition on hover *!*/
+/*  cursor: pointer; !* Change cursor to hand *!*/
+/*}*/
+
+/*.sidebar a:hover {*/
+/*  background-color: #d3d3d3; !* Slightly darker background on hover *!*/
+/*  color: #333; !* Dark color on hover *!*/
+/*}*/
+
+/*.sidebar a.selected {*/
+/*  background-color: #007bff; !* Blue color for the selected link *!*/
+/*  color: #fff;*/
+/*}*/
+
+
+

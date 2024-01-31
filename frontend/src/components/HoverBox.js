@@ -18,7 +18,7 @@ export default function Boxes({info, content}) {
 
     const imageContainerStyle = {
         overflow: 'hidden',
-        height: '400px',
+        height: '355px',
     };
 
     const imageStyle = {

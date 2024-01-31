@@ -88,9 +88,9 @@ const Navbar = () => {
                 <li>
                   <NavLink
                     className="dropdown-item"
-                    to="/collections/about/off prints"
+                    to="/collections/about/offprints"
                   >
-                    Off Prints
+                    Offprints
                   </NavLink>
                 </li>
                 <li>
@@ -114,6 +114,11 @@ const Navbar = () => {
             <li className="nav-item">
               <NavLink className="nav-link text-light" to="/elsewhere">
                 Lyell elsewhere
+              </NavLink>
+            </li>
+            <li className="nav-item">
+              <NavLink className="nav-link text-light" to="/acknowledgements">
+                Acknowledgements
               </NavLink>
             </li>
           </ul>

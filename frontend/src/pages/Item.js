@@ -1,7 +1,8 @@
 import react, {useEffect, useState} from "react";
-import {useParams} from "react-router-dom";
+import {NavLink, useParams} from "react-router-dom";
 import {UV} from "../components/UniversalViewer";
 import {fetchData} from "../api/ApiCall";
+import React from "react";
 
 
 function IiifItem({objFull}) {
@@ -20,6 +21,9 @@ function IiifItem({objFull}) {
         overflow: "scroll",
         overflowWrap: "break-word"
     }
+
+    const url = "https://archives.collections.ed.ac.uk" + objFull["uri"]
+
 
     return (
         <div className="py-3 bg-dark">
@@ -57,7 +61,7 @@ function IiifItem({objFull}) {
                             <p>{objFull["notes"][0]["content"]}</p>
                             <br/>
                             <h5>Catalogue Entry</h5>
-                            <p>https://archives.collections.ed.ac.uk{objFull["uri"]}</p>
+                            <p><a href={url}>{url}</a></p>
                             <br/>
                             <h5>Repro Rights Statement</h5>
                             <p>University of Edinburgh</p>
@@ -128,9 +132,16 @@ export default function Item() {
             }
         );
     }, []);
+    let parts = id.split('-');
+  let incrementedNumber = parseInt(parts[1]) + 1;
+  let nextRecord = "/collections/object/a1-" + incrementedNumber;
 
     return (
         <>
+            <div className="row bg-dark">
+                <button className="btn btn-info ms-4 col-1"><NavLink className="nav-link" to="/collections/explore">Search</NavLink></button>
+                <button className="btn btn-info ms-4 col-2"><NavLink className="nav-link" to={nextRecord}>Next Notebook</NavLink></button>
+            </div>
             {hasManifest === true && objFull && <IiifItem objFull={objFull}/>}
             {hasManifest === false && objFull && <PlainItem objFull={objFull}/>}
         </>

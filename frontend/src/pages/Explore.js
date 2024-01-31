@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react';
 import {useSearch} from '../api/Search';
 import {Link, useSearchParams} from "react-router-dom";
 import TagList from '../components/DropdownOptions'
-import lyell_2 from "../images/lyell_landscape.jpg";
+import lyell_2 from "../images/N13p24.jpg";
 import Top from "../components/Header";
 
 function SingleResult({obj}) {
@@ -261,7 +261,7 @@ function Explore() {
         <div>
             <Top
                 title={""}
-                imageURL={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~83972~103414/full/!1300,1300/0/default.jpg"}
+                imageURL={lyell_2}
                 size={{height: "150px", text: "70px"}}
             />
             <div className="mx-5 my-5">

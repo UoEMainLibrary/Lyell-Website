@@ -16,16 +16,18 @@ export default function Items() {
                 imageURL={header}
                 size={{height: "200px", text: "50px"}}
             />
-            <div className="bg-light text-center container">
-                <p className="text-center py-4 bold-text">The Charles Lyell Collection held by the University of Edinburgh
-                    is one of the world’s most comprehensive collections on science in the nineteenth century, especially
-                    geology. It comprises the tools Lyell developed and used to evidence and articulate his theories,
-                    and to write his books. It is arranged according to its provenance. Here you can browse the collection
-                    or learn more about it.  </p>
-
+            <div className="container">
+            <div className="pb-4 mb-4 ">
+                <div className=" ">
+                    <p className="pt-4 bold-text">The Charles Lyell Collection held by the University of Edinburgh
+                        is one of the world’s most comprehensive collections on science in the nineteenth century, especially
+                        geology. It comprises the tools Lyell developed and used to evidence and articulate his theories,
+                        and to write his books. It is arranged according to its provenance. Here you can browse the collection
+                        or learn more about it.  </p>
+                </div>
+                <ExploreButton/>
             </div>
-            <ExploreButton/>
-            <div className="container py-auto mb-5">
+            <div className=" py-auto mb-5">
                 <div className="row center">
                     <HoverBox
                         info={{link: "/collections/about/overview", size: "small"}}
@@ -36,7 +38,7 @@ export default function Items() {
                             alt: "pencil drawing of Charles Lyell"
                         }}
                     />
-                    <div className="col m-auto">
+                    <div className="col">
                         <div className="row justify-content-center g-1 g-lg-3">
                             <AltBox
                                 page={{
@@ -67,7 +69,7 @@ export default function Items() {
                             <AltBox
                                 page={{
                                     id: 4,
-                                    title: "OffPrints",
+                                    title: "Offprints",
                                     image: offPrintImg,
                                     detail: "articles and publications collected by Lyell"
                                 }}
@@ -76,6 +78,7 @@ export default function Items() {
                     </div>
                 </div>
             </div>
+                </div>
 
         </div>
     )

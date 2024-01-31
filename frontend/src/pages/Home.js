@@ -2,8 +2,7 @@ import React from "react";
 import {Link} from "react-router-dom";
 import Top from "../components/Header";
 import HoverBox from "../components/HoverBox"
-import book_cover from "../images/Elements_binding.jpg"
-import lyell_2 from "../images/lyell_landscape.jpg"
+import lyell_2 from "../images/lyell_landscapeC.jpg"
 
 
 export default function Home() {
