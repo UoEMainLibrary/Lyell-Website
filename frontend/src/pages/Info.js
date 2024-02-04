@@ -12,6 +12,7 @@ import offprints from "../content/offprints.json"
 import notebookImg from "../images/105p89.jpg"
 import specImg from "../images/CockburnSpec2largCrop.jpg"
 import paperImg from "../images/Papers2best.jpg"
+import offImg from "../images/offprints-image.png"
 import overviewImg from "../images/PrinciplesGeologySpines.jpg"
 
 
@@ -176,7 +177,7 @@ function Info() {
             <div>
                 <Top
                     title={""}
-                    imageURL={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~119644~453885/full/!1000,1000/0/default.jpg"}
+                    imageURL={offImg}
                     size={{height: "250px"}}
                 />
                 <Content
