@@ -12,7 +12,7 @@ def index():
 
 @app.route('/api/manifest/<obj_id>')
 def get_manifest(obj_id):
-    with open("app/data/manifests/manifest_" + obj_id + ".json", "r") as file:
+    with open("app/data/manifests/manifest_" + obj_id.capitalize() + ".json", "r") as file:
         obj = json.loads(file.read())
     return obj
 
