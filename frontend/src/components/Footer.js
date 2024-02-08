@@ -17,7 +17,7 @@ export default function Footer() {
             <h4></h4>
 
 
-            <div className="d-flex flex-column">
+            <div className="d-flex flex-column pb-3 pb-md-0">
               <NavLink className="nav-link text-light" to="/">Home</NavLink>
               <NavLink className="nav-link text-light" to="/about">About</NavLink>
               <NavLink className="nav-link text-light" to="/publications">Publications</NavLink>

@@ -82,7 +82,7 @@ export default function Elsewhere() {
                 size={{height: "250px"}}
             />
 
-            <div className="container" style={{maxWidth: "1000px"}}>
+            <div className="container my-5" style={{maxWidth: "1000px"}}>
                 <p>
                 Doing science in the nineteenth century, whether in the field, the laboratory, or the library, was a collaborative affair. Like his contemporaries, Charles Lyell exchanged ideas and collected things throughout his scientific life: information, geological specimens, artefacts, and advice. The result of this network of &lsquo;able investigators&rsquo; is that Lyell material is held by different institutions in Britain and overseas. <br />
                 This section provides links to Lyell-related material held by institutions and learned societies other than the University of Edinburgh. Please do <a href="https://www.ed.ac.uk/information-services/library-museum-gallery/heritage-collections">get in touch</a> if you wish to add material to this list. <br />

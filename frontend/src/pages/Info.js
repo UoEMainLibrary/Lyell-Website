@@ -78,7 +78,7 @@ function Content({image, data, head, nav = false, col= false}) {
   return (
       <div className="container d-flex justify-content-center">
                 <div className="row"  style={{maxWidth: "1300px"}}>
-                    <div className="col-12 col-lg-1 pt-5">
+                    <div className="col-12 col-lg-1">
 
                     </div>
                     {nav &&

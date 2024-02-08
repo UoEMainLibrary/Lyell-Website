@@ -1,6 +1,5 @@
 import React, {useEffect, useState} from 'react';
 import Top from "../components/Header";
-import TextButton from "../components/TextButton"
 
 import lyellImg from "../images/lyell_landscapeC.jpg";
 import lyellImgp from "../images/lyell_4.jpg"
@@ -14,16 +13,16 @@ function Section({content, img}) {
     }
 
     return (
-        <div className="my-5" style={{marginLeft: "5%", marginRight:"5%"}}>
+        <div className="my-5" style={{marginLeft: "5%", marginRight: "5%"}}>
 
             <div className="row align-items-center top-bar-red pt-3">
-                <div className={`col-lg-5 order-2 order-lg-2 pt-3`} >
+                <div className={`col-lg-5 order-2 order-lg-2 pt-3`}>
                     <img src={img} alt="Image" className="" style={imageStyle}/>
                 </div>
                 <div className={`col-lg-7 order-1 order-lg-1`}>
                     <h2 className="pb-5 text-center">{content.head}</h2>
                     {content.body.map((paragraph, index) => (
-                        <p key={index} dangerouslySetInnerHTML={{ __html: paragraph }}></p>
+                        <p key={index} dangerouslySetInnerHTML={{__html: paragraph}}></p>
                     ))}
                 </div>
             </div>
@@ -32,26 +31,25 @@ function Section({content, img}) {
 };
 
 function Biography({content, img}) {
-    return(
-        <div className="my-5" style={{marginLeft: "5%", marginRight:"5%"}}>
-        <div className="row align-items-center top-bar-red pt-3">
-            <div style={{textAlign: "justify"}}>
-                <h2 className="pb-5 text-center">{content.head}</h2>
-                <div>
-                <img style={{float: "left", width: "100%", maxWidth:"500px"}}
-                     className="m-3"
-                    src={img}
-                     alt="sketch of kirnnordy house"></img>
+    return (
+        <div className="my-5" style={{marginLeft: "5%", marginRight: "5%"}}>
+            <div className="row align-items-center top-bar-red pt-3">
+                <div style={{textAlign: "justify"}}>
+                    <h2 className="pb-5 text-center">{content.head}</h2>
+                    <div>
+                        <img style={{float: "left", width: "100%", maxWidth: "500px"}}
+                             className="my-3 mx-0 mx-md-3"
+                             src={img}
+                             alt="sketch of kirnnordy house"></img>
+                    </div>
+                    {content.body.map((paragraph, index) => (
+                        <p key={index} dangerouslySetInnerHTML={{__html: paragraph}}></p>
+                    ))}
+                </div>
             </div>
-                {content.body.map((paragraph, index) => (
-                    <p key={index} dangerouslySetInnerHTML={{ __html: paragraph }}></p>
-                ))}
-            </div>
-        </div>
         </div>
     )
 }
-
 
 
 export default function About() {
@@ -67,7 +65,9 @@ export default function About() {
 
             <div className="my-5">
                 <div className="container py-4">
-                    <p className="important-text lead py-3">Sir Charles Lyell (1797-1875) was a Scottish-born natural scientist whose geological work and publications prompted new and lasting understanding of the Earth’s history.
+                    <p className="important-text lead py-3">Sir Charles Lyell (1797-1875) was a Scottish-born natural
+                        scientist whose geological work and publications prompted new and lasting understanding of the
+                        Earth’s history.
                     </p>
 
                     <Section
@@ -78,13 +78,24 @@ export default function About() {
                         content={aboutH}
                         img={kinnordys}
                     />
-                    <div  style={{marginLeft: "5%", marginRight:"5%"}}  className="parallax"></div>
-                    <div className="my-5" style={{marginLeft: "5%", marginRight:"5%"}}>
-                        <TextButton/>
-                        <p></p><p><a href="https://en.wikipedia.org/wiki/Charles_Lyell"  target="_blank">Charles Lyell - Wikipedia</a> </p>
-                        <p>Portraits of <a href="https://www.npg.org.uk/collections/search/person/mp02832/sir-charles-lyell-1st-bt"  target="_blank">Charles</a> and <a href="https://www.npg.org.uk/collections/search/person/mp58565/mary-elizabeth-ne-horner-lady-lyell"  target="_blank">Mary</a> Lyell <a href="https://www.npg.org.uk/collections/search/person/mp02832/sir-charles-lyell-1st-bt"  target="_blank"> Sir Charles Lyell, 1st Bt - Person - National Portrait Gallery (npg.org.uk)</a> </p>
-                        <p><a href="https://www.npg.org.uk/collections/search/person/mp58565/mary-elizabeth-ne-horner-lady-lyell"  target="_blank">Mary Elizabeth (née Horner), Lady Lyell - Person - National Portrait Gallery (npg.org.uk)</a> </p>
-                    </div>
+                    <div style={{marginLeft: "5%", marginRight: "5%"}} className="parallax"></div>
+                    {/*<div className="my-5" style={{marginLeft: "5%", marginRight: "5%"}}>*/}
+                    {/*    <TextButton/>*/}
+                    {/*    <p></p><p><a href="https://en.wikipedia.org/wiki/Charles_Lyell" target="_blank">Charles Lyell -*/}
+                    {/*    Wikipedia</a></p>*/}
+                    {/*    <p>Portraits of <a*/}
+                    {/*        href="https://www.npg.org.uk/collections/search/person/mp02832/sir-charles-lyell-1st-bt"*/}
+                    {/*        target="_blank">Charles</a> and <a*/}
+                    {/*        href="https://www.npg.org.uk/collections/search/person/mp58565/mary-elizabeth-ne-horner-lady-lyell"*/}
+                    {/*        target="_blank">Mary</a> Lyell <a*/}
+                    {/*        href="https://www.npg.org.uk/collections/search/person/mp02832/sir-charles-lyell-1st-bt"*/}
+                    {/*        target="_blank"> Sir Charles Lyell, 1st Bt - Person - National Portrait Gallery*/}
+                    {/*        (npg.org.uk)</a></p>*/}
+                    {/*    <p><a*/}
+                    {/*        href="https://www.npg.org.uk/collections/search/person/mp58565/mary-elizabeth-ne-horner-lady-lyell"*/}
+                    {/*        target="_blank">Mary Elizabeth (née Horner), Lady Lyell - Person - National Portrait Gallery*/}
+                    {/*        (npg.org.uk)</a></p>*/}
+                    {/*</div>*/}
                 </div>
             </div>
         </div>

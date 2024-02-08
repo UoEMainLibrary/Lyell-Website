@@ -1,4 +1,5 @@
 import json
+from enum import Enum
 
 
 def get_item_from_shelfmark(shelfmark):
@@ -11,12 +12,101 @@ def get_item_from_shelfmark(shelfmark):
     return {}
 
 
-def create_search(query, obj):
-    results = []
-    for item in obj["results"]:
-        if recursive_search(item, query):
-            results.append(item)
-    return results
+def create_search(query, obs):
+    scorer = Scorer(query)
+    return scorer.getScored(obs)
+
+
+class Find(Enum):
+    ABSENT = 0
+    EXACT = 10
+    WITHIN = 5
+    WITHIN_IGNORE_PUNC = 5
+    WITHIN_SUB = 2
+
+
+# adapted from https://stackoverflow.com/questions/62314789/no-internet-connection-on-wsl-ubuntu-windows-subsystem-for-linux
+
+def recursive_search(obj, query):
+    if isinstance(obj, dict):
+        for key, value in obj.items():
+            if query.lower() in str(value).lower():
+                return True
+
+            if recursive_search(value, query):
+                return True
+    elif isinstance(obj, list):
+        for item in obj:
+            if recursive_search(item, query):
+                return True
+    return False
+
+
+class Scorer:
+    def __init__(self, query, depthDecay=0.5):
+        self.query = query.lower()
+        self.decay = depthDecay
+        self.customFuncs = {
+            "title": self.scoreStr,
+            "subjects": self.scoreDictKeys,
+            "linked_agents": self.scoreDictKeys
+        }
+        self.ignoreChars = ".,_-:;\"'"
+
+    def tokenify(self, st):
+        for ch in self.ignoreChars:
+            st = st.replace(ch, " ")
+        return st.split()
+
+    def find(self, st):
+        st = st.lower()
+        if st == self.query:
+            return Find.EXACT
+        if self.query in st.split():
+            return Find.WITHIN
+        sub = False
+        for tok in self.tokenify(st):
+            if tok == self.query:
+                return Find.WITHIN_IGNORE_PUNC
+            if tok.find(self.query) != -1:
+                sub = True
+        return Find.WITHIN_SUB if sub else Find.ABSENT
+
+    def scoreStr(self, con):
+        return self.find(con).value
+
+    def scoreDictKeys(self, sub):
+        scr = 0
+        for con in sub.keys():
+            ns = self.find(con)
+            if ns == Find.EXACT:
+                return Find.EXACT.value
+            scr = max(scr, ns.value)
+        return scr
+
+    def score(self, item, depthMod=1.0):
+        score = 0
+        nextMod = self.decay * depthMod
+        if isinstance(item, dict):
+            for key in item:
+                if key in self.customFuncs:
+                    score += self.customFuncs[key](item[key]) * depthMod
+                else:
+                    score += self.score(item[key], nextMod)
+        elif isinstance(item, list):
+            for sub in item:
+                score += self.score(sub, nextMod)
+        elif isinstance(item, str):
+            score += self.scoreStr(item) * depthMod
+        return score
+
+    def getScored(self, items):
+        rets = []
+        for item in items:
+            isc = self.score(item)
+            if isc > 0:
+                rets.append([item, isc])
+        return sorted(rets, key=lambda x: x[1], reverse=True)
 
 
 def date_filter(dates, obj):
@@ -26,6 +116,8 @@ def date_filter(dates, obj):
     before = dateList[1] if len(dateList) > 1 else ''
     for item in obj:
         include = True
+        if type(item) == list:
+            item = item[0]
         itemDate = item["dates"]
         if after:
             itemBegin = itemDate["begin"].split('-')[0]
@@ -38,20 +130,6 @@ def date_filter(dates, obj):
         if include:
             newObj.append(item)
     return newObj
-
-
-def recursive_search(obj, query):
-    if isinstance(obj, dict):
-        for key, value in obj.items():
-            if query.lower() in str(value).lower():
-                return True
-            if recursive_search(value, query):
-                return True
-    elif isinstance(obj, list):
-        for item in obj:
-            if recursive_search(item, query):
-                return True
-    return False
 
 
 class TagHandler:
@@ -81,6 +159,8 @@ class TagHandler:
     def get_tags(self, notebooks):
         newTags = {}
         for notebook in notebooks:
+            if type(notebook) == list:
+                notebook = notebook[0]
             sm = notebook["component_id"]
             for sub in notebook["subjects"]:
                 cat = notebook["subjects"][sub]

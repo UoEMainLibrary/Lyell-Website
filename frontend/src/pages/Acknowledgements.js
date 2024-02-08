@@ -14,7 +14,7 @@ export default function About() {
                 size={{height: "250px"}}
             />
 
-            <div className="container" style={{maxWidth: "1000px"}}>
+            <div className="container my-5" style={{maxWidth: "1000px"}}>
                 <h1></h1>
                 <p>The work undertaken on the Charles Lyell collections now housed with the University of Edinburgh’s Heritage Collections and available via this website, would not have been possible without the generosity and hard work of many people. The University of Edinburgh extends thanks to all the many donors and supporters who assisted financially in the campaign in 2019 to acquire the Lyell Notebooks for the nation and who helped support the Charles Lyell access project (2019 – 2024). We particularly acknowledge the support of: </p>
                 <p>
