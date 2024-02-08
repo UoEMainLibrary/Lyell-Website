@@ -53,7 +53,7 @@ export default function AltBox({page, handleClick}) {
     };
     const link = "/collections/about/" + page.title.toLowerCase()
     return (
-        <div className="col ">
+        <div className="col mt-0">
             <Link to={link}>
                 <div
                     className="text-white"
@@ -66,7 +66,6 @@ export default function AltBox({page, handleClick}) {
                             className="card-img-bottom"
                             style={imageStyle}
                             src={page.image}
-                            alt="side shot of notebooks"
                         />
                         <div style={overlayStyle}>
                             <div style={textStyle}>

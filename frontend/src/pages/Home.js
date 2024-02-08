@@ -12,7 +12,7 @@ export default function Home() {
             <Top
                 title={"Charles Lyell"}
                 imageURL={lyell_2}
-                size={{height:"500px", text:"70px"}}
+                size={{text:"70px"}}
             />
             <div className="container py-5 ">
                 <p className="important-text lead py-3">This website facilitates access and research into the work of Scottish-born geologist Sir Charles Lyell (1797 - 1875) providing links to his printed books, the principal collection at the University of Edinburgh and Lyell related content elsewhere.

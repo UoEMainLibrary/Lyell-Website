@@ -50,7 +50,7 @@ def get_request():
         obj["filter_tags"] = tags
     if query:
         obj["query_params"] = query
-        obj["results"] = create_search(query, obj)
+        obj["results"] = create_search(query, obj["results"])
 
     if dates:
         obj["results"] = date_filter(dates, obj["results"])

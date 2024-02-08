@@ -43,40 +43,62 @@
 
 /* Basic styling for the navigation container */
 .sidebar {
-  background-color: #f8f9fa; /* Light background color */
+    background-color: #f8f9fa; /* Light background color */
 }
 
 @media screen and (min-width: 992px) {
-  .sidebar {
-    padding-top: 20px; /* Add some padding at the top */
-      position: sticky; /* Set position to fixed */
-      top: 0;
-      height: 100vh; /* Full height */
-      border-left: 1px solid lightgrey;
-  }
+    .sidebar {
+        padding-top: 20px; /* Add some padding at the top */
+        position: sticky; /* Set position to fixed */
+        top: 0;
+        height: 100vh; /* Full height */
+        border-left: 1px solid lightgrey;
+    }
+    .image-fix {
+        height: 500px;
+    }
+    .table-link {max-width: 300px}
 }
 
 @media screen and (max-width: 991px) {
-  .sidebar {
-      padding-top: 10px;
-      padding-bottom: 10px;
-  }
+    .sidebar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .bold-text {
+        font-size: 18px;
+    }
+
+    .image-fix {
+        height: 300px;
+    }
+    .table-link {max-width: 200px}
+    .table-source {min-width: 150px}
+}
+
+@media screen and (max-width: 768px) {
+    .table-link {max-width: 150px}
+    .table-source {min-width: 100px}
+}
+@media screen and (max-width: 576px) {
+    .table-link {max-width: 100px}
 }
 
 /* Styling for headings */
 .sidebar h2 {
-  color: #333; /* Dark color for headings */
-  padding: 10px;
-  font-size: 1.2em;
+    color: #333; /* Dark color for headings */
+    padding: 10px;
+    font-size: 1.2em;
 }
 
 /* Styling for the links */
 .sidebar ul {
-  list-style-type: none;
+    list-style-type: none;
 }
 
 .sidebar li {
-  margin: 5px 0;
+    margin: 5px 0;
 }
 
 /*.sidebar a {*/

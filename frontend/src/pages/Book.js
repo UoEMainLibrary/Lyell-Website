@@ -63,8 +63,8 @@ function ToggleTable({data}) {
                     {data[selectedEdition].map((item, index) => (
                         <tr key={index}>
                             <td>{item.Document}</td>
-                            <td style={{minWidth: "150px"}}>{item.Source}</td>
-                            <td style={{wordWrap: "break-word", maxWidth: "300px"}}>
+                            <td className="table-source">{item.Source}</td>
+                            <td className="table-link" style={{wordWrap: "break-word"}}>
                                 <a href={item.Link} style={{wordWrap: "break-word"}} target="_blank"
                                    rel="noopener noreferrer">
                                     {item.Link}
@@ -133,7 +133,7 @@ function Books() {
                                   <li
                                     key={bookName}
                                   >
-                                    <span onClick={() => handleKeyClick(bookName)}>
+                                    <span  style={{ color: "blue", cursor: "pointer"}} onClick={() => handleKeyClick(bookName)}>
                                       {bookName}
                                     </span>
                                   </li>

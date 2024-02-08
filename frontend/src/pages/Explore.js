@@ -4,6 +4,7 @@ import {Link, useSearchParams} from "react-router-dom";
 import TagList from '../components/DropdownOptions'
 import lyell_2 from "../images/N13p24.jpg";
 import Top from "../components/Header";
+import {fetchData} from "../api/ApiCall";
 
 function SingleResult({obj}) {
     return (
@@ -34,20 +35,25 @@ function SingleResult({obj}) {
 function Results({result}) {
     return (
         <div className="">
-            {result.map((t, index) => (
-                <SingleResult
-                    key={t["component_id"]}
-                    obj={{
-                        id: t["component_id"].split("/").pop(),
-                        title: t["title"],
-                        shelfmark: t["component_id"],
-                        date: t["dates"]["expression"],
-                        body: t["notes"][0]["content"],
-                        image: t["thumbnail"],
-                        link: "/collections/object/a1-" + t["component_id"].split("/").pop()
-                    }}
-                />
-            ))}
+            {result.map((t, index) => {
+                if (Array.isArray(t)) {
+                    t = t[0]
+                }
+                return (
+                    <SingleResult
+                        key={t["component_id"]}
+                        obj={{
+                            id: t["component_id"].split("/").pop(),
+                            title: t["title"],
+                            shelfmark: t["component_id"],
+                            date: t["dates"]["expression"],
+                            body: t["notes"][0]["content"],
+                            image: t["thumbnail"],
+                            link: "/collections/object/a1-" + t["component_id"].split("/").pop()
+                        }}
+                    />
+                )
+            })}
         </div>
     );
 }
@@ -88,85 +94,87 @@ function SearchBar({searchParams, setSearchParams}) {
 
 function DateSearch({searchParams, setSearchParams}) {
     const [search, setSearch] = useState(searchParams.get('date') || "");
-  const [afterYear, setAfterYear] = useState('');
-  const [beforeYear, setBeforeYear] = useState('');
-  const [errorMsg, setErrorMsg] = useState('');
+    const [afterYear, setAfterYear] = useState('');
+    const [beforeYear, setBeforeYear] = useState('');
+    const [errorMsg, setErrorMsg] = useState('');
 
-  const handleAfterYearChange = (event) => {setAfterYear(event.target.value);};
-  const handleBeforeYearChange = (event) => {setBeforeYear(event.target.value);};
+    const handleAfterYearChange = (event) => {
+        setAfterYear(event.target.value);
+    };
+    const handleBeforeYearChange = (event) => {
+        setBeforeYear(event.target.value);
+    };
 
-  const handleApply = (event) => {
-      const isAfterNumber = !Number.isNaN(afterYear) || afterYear === '';
-    const isBeforeNumber = !Number.isNaN(beforeYear) || beforeYear === '';
-    console.log(afterYear, isAfterNumber)
-      console.log(beforeYear, isBeforeNumber)
-    if (isAfterNumber && isBeforeNumber){
-        setErrorMsg("vaild");
+    const handleApply = (event) => {
+        const isAfterNumber = !Number.isNaN(afterYear) || afterYear === '';
+        const isBeforeNumber = !Number.isNaN(beforeYear) || beforeYear === '';
+        console.log(afterYear, isAfterNumber)
+        console.log(beforeYear, isBeforeNumber)
+        if (isAfterNumber && isBeforeNumber) {
+            setErrorMsg("vaild");
 
-        if (afterYear) {
-            if (afterYear < 1825 || afterYear > 1874) {
-                setAfterYear(1825);
+            if (afterYear) {
+                if (afterYear < 1825 || afterYear > 1874) {
+                    setAfterYear(1825);
+                }
             }
-        }
-        if (beforeYear) {
-            if (beforeYear < 1825 || beforeYear > 1874) {
-                setBeforeYear(1874);
+            if (beforeYear) {
+                if (beforeYear < 1825 || beforeYear > 1874) {
+                    setBeforeYear(1874);
+                }
             }
-        }
 
-        if (beforeYear && afterYear) {
-            if (afterYear > beforeYear) {
-                setErrorMsg("before year must be larger than after year")
+            if (beforeYear && afterYear) {
+                if (afterYear > beforeYear) {
+                    setErrorMsg("before year must be larger than after year")
+                }
             }
+            let dates = afterYear + " " + beforeYear
+            const newSearchParams = new URLSearchParams(searchParams);
+            newSearchParams.set('date', dates);
+            setSearchParams(newSearchParams);
+
+        } else {
+            setErrorMsg("not vaild");
         }
-        let dates =  afterYear + " " + beforeYear
-        const newSearchParams = new URLSearchParams(searchParams);
-        newSearchParams.set('date', dates);
-        setSearchParams(newSearchParams);
 
-    } else {
-        setErrorMsg("not vaild");
-    }
+    };
 
-  };
-
-  return (
-    <div className="row pb-2">
-      <div className="col">
-        <div className="form-group">
-          <label htmlFor="afterYear">After</label>
-          <input
-            type="number"
-            placeholder="1825"
-            id="afterYear"
-            className="form-control"
-            value={afterYear}
-            onChange={handleAfterYearChange}
-          />
+    return (
+        <div className="row pb-2">
+            <div className="col">
+                <div className="form-group">
+                    <label htmlFor="afterYear">After</label>
+                    <input
+                        type="number"
+                        placeholder="1825"
+                        id="afterYear"
+                        className="form-control"
+                        value={afterYear}
+                        onChange={handleAfterYearChange}
+                    />
+                </div>
+            </div>
+            <div className="col">
+                <div className="form-group">
+                    <label htmlFor="beforeYear">Before</label>
+                    <input
+                        type="number"
+                        placeholder="1874"
+                        id="beforeYear"
+                        className="form-control"
+                        value={beforeYear}
+                        onChange={handleBeforeYearChange}
+                    />
+                </div>
+            </div>
+            <div className="col-3" style={{position: "relative", bottom: "0"}}><br></br>
+                <button className="btn btn-blue" onClick={handleApply}>apply</button>
+            </div>
+            <p className="mb-0">{errorMsg}</p>
         </div>
-      </div>
-      <div className="col">
-        <div className="form-group">
-          <label htmlFor="beforeYear">Before</label>
-          <input
-            type="number"
-            placeholder="1874"
-            id="beforeYear"
-            className="form-control"
-            value={beforeYear}
-            onChange={handleBeforeYearChange}
-          />
-        </div>
-      </div>
-        <div className="col-3" style={{position: "relative", bottom: "0"}}>  <br></br>
-            <button className="btn btn-blue" onClick={handleApply}>apply</button>
-        </div>
-        <p className="mb-0">{errorMsg}</p>
-    </div>
-  );
+    );
 }
-
-
 
 
 function TagFilter({filterTags, searchParams, setSearchParams}) {
@@ -211,15 +219,56 @@ function TagFilter({filterTags, searchParams, setSearchParams}) {
 
 
 function Explore() {
-    const {searchData, fetchDataFromAPI} = useSearch();
+    // const {searchData, fetchDataFromAPI} = useSearch();
     const [searchParams, setSearchParams] = useSearchParams();
     const [filterTags, setFilterTags] = useState([]);
     const [itemsPerPage, setItemsPerPage] = useState(25); // Initial items per page
     const [currentPage, setCurrentPage] = useState(1);
+    const [sortBy, setSortBy] = useState("r");
+    const [searchData, setSearchData] = useState({
+        results: [],
+        amount: 0,
+        tags: []
+    });
 
     useEffect(() => {
-        fetchDataFromAPI(searchParams);
-    }, [searchParams, itemsPerPage, currentPage]);
+
+        async function fetchDataFromAPI() {
+            const data = await fetchData("search?" + searchParams);
+            if (data !== {}) {
+                let n = data.results[0]
+                if (n.constructor === Object) {
+                    console.log(sortBy);
+                    data.results.sort((a, b) => {
+                        const idA = parseInt(a["component_id"].split('/').pop());
+                        const idB = parseInt(b["component_id"].split('/').pop());
+                        return sortBy === "sd" ? idB - idA : idA - idB;
+                    });
+                } else if (Array.isArray(n)) {
+                    console.log("not here!");
+                    if (sortBy !== "r") {
+                        data.results.sort((a, b) => {
+                            const idA = parseInt(a[0]["component_id"].split('/').pop());
+                            const idB = parseInt(b[0]["component_id"].split('/').pop());
+                            return sortBy === "sd" ? idB - idA : idA - idB;
+                        });
+                    } else {
+                        data.results.sort((a, b) => b[1] - a[1]);
+                    }
+                } else {
+                    console.log("no valid type");
+                }
+                setSearchData(data);
+            }
+        }
+
+        fetchDataFromAPI()
+    }, [searchParams, itemsPerPage, currentPage, sortBy])
+
+
+    // useEffect(() => {
+    //     fetchDataFromAPI(searchParams);
+    // }, [searchParams, itemsPerPage, currentPage]);
 
     useEffect(() => {
         const activeTags = searchParams.getAll('tag');
@@ -234,6 +283,11 @@ function Explore() {
             setSearchParams(newSearchParams);
         }
     };
+
+    const handleSortBy = (event) => {
+        const selectedValue = event.target.value;
+        setSortBy(selectedValue);
+    }
 
     const handleNextPage = () => {
         setCurrentPage((prevPage) => prevPage + 1);
@@ -280,12 +334,25 @@ function Explore() {
                     <div className="col">
                         <div className="row p-3" style={{borderBottom: '2px solid lightgrey'}}>
                             {searchData.amount < itemsPerPage ? (
-                                <p className="col-4 col-md m-0">Showing {searchData.amount} results</p>
-                            ):(
-                                <p className="col-4 col-md m-0">Showing {startIndex+1}-{endIndex} of {searchData.amount} results</p>
+                                <p className="col col-md m-0 pb-3 pb-md-0">Showing {searchData.amount} results</p>
+                            ) : (
+                                <p className="col col-md m-0 pb-3 pb-md-0">Showing {startIndex + 1}-{endIndex} of {searchData.amount} results</p>
                             )}
 
-                            <div className="col-7 col-md-4">
+                            <div className="col pb-3 pb-md-0 col-md-4">
+                                <label className="mx-2" htmlFor="sortBy">Order by: </label>
+                                <select
+                                    id="sortBy"
+                                    value={sortBy}
+                                    onChange={handleSortBy}
+                                >
+                                    <option value="r">Relevance</option>
+                                    <option value="sa">Shelfmark accenting</option>
+                                    <option value="sd">Shelfmark descending</option>
+                                </select>
+                            </div>
+
+                            <div className="col pb-3 pb-md-0 col-md-4">
                                 <label className="mx-2" htmlFor="itemsPerPage">Items per Page: </label>
                                 <select
                                     id="itemsPerPage"
@@ -293,8 +360,8 @@ function Explore() {
                                     onChange={handlePageSize}
                                 >
                                     <option value="10">10</option>
-                                    <option value="25">25</option>
                                     <option value="50">50</option>
+                                    <option value="100">100</option>
                                 </select>
                             </div>
                         </div>
@@ -303,11 +370,13 @@ function Explore() {
                             result={searchData.results.slice(startIndex, endIndex)} // Display a subset of results based on pagination
                         />
                         <div className="pagination">
-                            <button className="btn btn-outline-secondary mx-2" onClick={handlePrevPage} disabled={currentPage === 1}>
+                            <button className="btn btn-outline-secondary mx-2" onClick={handlePrevPage}
+                                    disabled={currentPage === 1}>
                                 Prev
                             </button>
                             <span>Page {currentPage}</span>
-                            <button className="btn btn-outline-secondary mx-2" onClick={handleNextPage} disabled={endIndex >= searchData.results.length}>
+                            <button className="btn btn-outline-secondary mx-2" onClick={handleNextPage}
+                                    disabled={endIndex >= searchData.results.length}>
                                 Next
                             </button>
                         </div>
