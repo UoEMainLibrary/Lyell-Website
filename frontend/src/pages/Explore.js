@@ -7,6 +7,9 @@ import Top from "../components/Header";
 import {fetchData} from "../api/ApiCall";
 
 function SingleResult({obj}) {
+    const description = obj.body
+        .replace(/<lb><\/lb>/g, "<br/>")
+        .split('<br/>')
     return (
         <div key={obj.id} className="row align-items-center my-4">
             <div className="col-lg-9 col-md-8 col-sm-12">
@@ -16,7 +19,7 @@ function SingleResult({obj}) {
                 </div>
                 <p className="my-1"><strong> {obj.date}</strong></p>
                 <p className="my-1"><strong> shelfmark: </strong> {obj.shelfmark}</p>
-                <p>{obj.body}</p>
+                <p>{description[0]}</p>
             </div>
             <div className="col-lg-3 col-md-4">
                 <Link to={obj.link}>
@@ -75,12 +78,19 @@ function SearchBar({searchParams, setSearchParams}) {
         setSearch(searchParams.get('search') || "");
     }, [searchParams]);
 
+    const handleKeyPress = (e) => {
+        if (e.key === 'Enter') {
+            handleChange()
+        }
+    }
+
     return (
         <div className="input-group mb-3 rounded">
             <input
                 type="text"
                 className="form-control"
                 value={search}
+                onKeyUp={handleKeyPress}
                 onChange={handleInputChange}
                 placeholder="Enter your search query"
             />
@@ -367,7 +377,7 @@ function Explore() {
                         </div>
 
                         <Results
-                            result={searchData.results.slice(startIndex, endIndex)} // Display a subset of results based on pagination
+                            result={searchData.results.slice(startIndex, endIndex)}
                         />
                         <div className="pagination">
                             <button className="btn btn-outline-secondary mx-2" onClick={handlePrevPage}
