@@ -79,23 +79,6 @@ export default function About() {
                         img={kinnordys}
                     />
                     <div style={{marginLeft: "5%", marginRight: "5%"}} className="parallax"></div>
-                    {/*<div className="my-5" style={{marginLeft: "5%", marginRight: "5%"}}>*/}
-                    {/*    <TextButton/>*/}
-                    {/*    <p></p><p><a href="https://en.wikipedia.org/wiki/Charles_Lyell" target="_blank">Charles Lyell -*/}
-                    {/*    Wikipedia</a></p>*/}
-                    {/*    <p>Portraits of <a*/}
-                    {/*        href="https://www.npg.org.uk/collections/search/person/mp02832/sir-charles-lyell-1st-bt"*/}
-                    {/*        target="_blank">Charles</a> and <a*/}
-                    {/*        href="https://www.npg.org.uk/collections/search/person/mp58565/mary-elizabeth-ne-horner-lady-lyell"*/}
-                    {/*        target="_blank">Mary</a> Lyell <a*/}
-                    {/*        href="https://www.npg.org.uk/collections/search/person/mp02832/sir-charles-lyell-1st-bt"*/}
-                    {/*        target="_blank"> Sir Charles Lyell, 1st Bt - Person - National Portrait Gallery*/}
-                    {/*        (npg.org.uk)</a></p>*/}
-                    {/*    <p><a*/}
-                    {/*        href="https://www.npg.org.uk/collections/search/person/mp58565/mary-elizabeth-ne-horner-lady-lyell"*/}
-                    {/*        target="_blank">Mary Elizabeth (née Horner), Lady Lyell - Person - National Portrait Gallery*/}
-                    {/*        (npg.org.uk)</a></p>*/}
-                    {/*</div>*/}
                 </div>
             </div>
         </div>

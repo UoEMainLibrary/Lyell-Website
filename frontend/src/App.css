@@ -92,6 +92,10 @@
     font-size: 1.2em;
 }
 
+.hover-underline:hover {
+  text-decoration: underline;
+}
+
 /* Styling for the links */
 .sidebar ul {
     list-style-type: none;
