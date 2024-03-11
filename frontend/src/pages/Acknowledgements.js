@@ -18,11 +18,11 @@ export default function About() {
                 <h1></h1>
                 <p>The work undertaken on the Charles Lyell collections now housed with the University of Edinburgh’s Heritage Collections and available via this website, would not have been possible without the generosity and hard work of many people. The University of Edinburgh extends thanks to all the many donors and supporters who assisted financially in the campaign in 2019 to acquire the Lyell Notebooks for the nation and who helped support the Charles Lyell access project (2019 – 2024). We particularly acknowledge the support of: </p>
                 <p>
-                    <a href="https://nhmf.org.uk/">The National Heritage Memorial Fund </a> <br/><br/>
+                    <a href="https://nhmf.org.uk/" target="_blank">The National Heritage Memorial Fund </a> <br/><br/>
                     The Murray Family  <br/><br/>
-                    <a href="https://www.fnl.org.uk/">Friends of the National Libraries  </a><br/><br/>
-                    <a href="https://friendsofeul.wordpress.com/">The Friends of Edinburgh University Library </a><br/><br/>
-                    <a href="https://www.sedimentologists.org/">The Institute of Sedimentologists  </a><br/><br/>
+                    <a href="https://www.fnl.org.uk/" target="_blank">Friends of the National Libraries  </a><br/><br/>
+                    <a href="https://friendsofeul.wordpress.com/" target="_blank">The Friends of Edinburgh University Library </a><br/><br/>
+                    <a href="https://www.sedimentologists.org/" target="_blank">The Institute of Sedimentologists  </a><br/><br/>
                 </p>
                 <p>
                     Thank you to all the volunteers – in particular Drew Coleman, Beverly Gordon, Ella Fornari, Caryl Dreiblatt and Bob Burrell – and those University of Edinburgh students who supported the transcription of the notebook indexes and added detail to the lists of correspondents.<br/><br/>

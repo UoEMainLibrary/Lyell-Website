@@ -114,9 +114,50 @@ export default function Elsewhere() {
                     institutions in Britain and overseas. <br/>
                     This section provides links to Lyell-related material held by institutions and learned societies
                     other than the University of Edinburgh. Please do <a
-                    href="https://www.ed.ac.uk/information-services/library-museum-gallery/heritage-collections">get in
+                    href="https://www.ed.ac.uk/information-services/library-museum-gallery/heritage-collections"
+                    target="_blank">get in
                     touch</a> if you wish to add material to this list. <br/>
                     <br/></p>
+                <ElseSection
+                    text="American Philosophical Society"
+                    link="https://www.amphilsoc.org/"
+                    body={
+                        <p>
+                            Researchers at the Library can study the <a
+                            href="https://www.amphilsoc.org/history-science-collections" target="_blank">history of
+                            science</a> sources held at APS from
+                            astronomy to zoology, from genetics to quantum mechanics, from calculus to modern computing,
+                            and including letters from <a
+                            href="https://en.wikipedia.org/wiki/Charles_Darwin" target="_blank">Charles Darwin</a> (1809
+                            – 1882) to Charles Lyell.
+                        </p>
+                    }
+                />
+                <ElseSection
+                    text="Geological Society of London"
+                    link="https://blog.geolsoc.org.uk/"
+                    body={
+                        <p>
+                            Charles Lyell served as President of the Geological Society of London twice, from 1835 -
+                            1837 and from 1849 – 1851. Their website includes their library catalogue, blogs and news.
+                        </p>
+                    }
+                />
+                <ElseSection
+                    text="Geological Society of London"
+                    link="https://blog.geolsoc.org.uk/"
+                    body={
+                        <p>
+                            <a
+                            href="https://data.nhm.ac.uk/dataset/?q=Lyell&sort=promoted+asc" target="_blank">The Lyell Collection</a> at The Natural History Museum comprises gifts made by Lyell himself,
+                            his family and the Geological Society. It contains 1,735 specimens including fossils of
+                            reptiles, mammals, fishes, plants, bryozoans, brachiopods, trilobites, echinoderms, worms
+                            and molluscs, being the last ones the biggest part of the collection. These specimens
+                            include the recent brachiopods that Charles Darwin collected from Tierra del Fuego or
+                            Galapagos during his trip on board the Beagle and later given to Charles Lyell.
+                        </p>
+                    }
+                />
                 <ElseSection
                     text="National Library of Scotland"
                     link="https://www.nls.uk/"
@@ -128,10 +169,11 @@ export default function Elsewhere() {
                             ledgers which chart the publication history of his works.
                             <br/>
                             Details can be found on our online catalogue at: <a
-                            href="https://manuscripts.nls.uk/repositories/2/resources/17586">https://manuscripts.nls.uk/repositories/2/resources/17586</a>.
+                            href="https://manuscripts.nls.uk/repositories/2/resources/17586"
+                            target="_blank">https://manuscripts.nls.uk/repositories/2/resources/17586</a>.
                             <br/>
                             For more information on visiting the Library see our website: <a
-                            href="https://www.nls.uk/">https://www.nls.uk/</a>.
+                            href="https://www.nls.uk/" target="_blank">https://www.nls.uk/</a>.
                         </p>
                     }
                 />
@@ -141,8 +183,10 @@ export default function Elsewhere() {
                     body={
                         <p>
                             Lyell related collections held at the National Museum of Scotland include this intriguing <a
-                            href="https://www.nms.ac.uk/explore-our-collections/collection-search-results/table/617153">table</a> and <a
-                            href="https://www.nms.ac.uk/explore-our-collections/collection-search-results/calotype/219950">Calotype
+                            href="https://www.nms.ac.uk/explore-our-collections/collection-search-results/table/617153"
+                            target="_blank">table</a> and <a
+                            href="https://www.nms.ac.uk/explore-our-collections/collection-search-results/calotype/219950"
+                            target="_blank">Calotype
                             portrait</a> this from a calotype negative by David Octavius Hill and Robert Adamson, dated
                             1844 &ndash; 1848. <br/>
                         </p>
@@ -171,7 +215,8 @@ export default function Elsewhere() {
                             The Charles Lyell fossils at Oxford University Museum of Natural History were donated by
                             Charles’ nephew, Sir Leonard Lyell, in 1903 and 1907. They comprise over 19,000 specimens,
                             primarily Cenozoic molluscs from Europe and North America, and can be viewed online <a
-                            href="https://oumnh.ox.ac.uk/collections-online#/item/oum-narrative-84123">here</a>. The
+                            href="https://oumnh.ox.ac.uk/collections-online#/item/oum-narrative-84123"
+                            target="_blank">here</a>. The
                             museum also holds four letters from Lyell to John Phillips, the Museum’s first Curator.
                         </p>
                     }
@@ -181,21 +226,6 @@ export default function Elsewhere() {
                     text="University of Cambridge: Sedgewick Museum of Earth Sciences: Charles Lyell Collections"
                     link="https://www.darwinproject.ac.uk/"
                     img={segImg}
-                    body={
-                        <p>
-                            Since its foundation in 1974, the Darwin Correspondence Project has gathered, deciphered,
-                            and researched over 15,000 letters, and provided the full texts of all known letters written
-                            both by and to Charles Darwin – including those between Charles Lyell. Epsilon aims to
-                            continue the legacy of DCP, enabling new research opportunities by bringing correspondence
-                            data and transcriptions from multiple sources into a single cross-searchable digital
-                            platform.
-                        </p>
-                    }
-                />
-
-                <ElseSection
-                    text="University of Cambridge: Darwin Correspondence Project and Epsilon"
-                    link="https://sedgwickmuseum.cam.ac.uk/"
                     body={
                         <p>
                             The Sedgwick Museum of Earth Sciences is the oldest of the University of Cambridge museums,
@@ -215,7 +245,8 @@ export default function Elsewhere() {
                             <br/>
                             Archives related to Charles Lyell include: <br/>
                             &bull; Correspondence between Sir Charles and Lady Lyell to <a
-                            href="http://archiveshub.jisc.ac.uk/data/gb590-hghs">Thomas McKenny Hughes</a> whilst he was
+                            href="http://archiveshub.jisc.ac.uk/data/gb590-hghs" target="_blank">Thomas McKenny
+                            Hughes</a> whilst he was
                             on
                             geological survey in North Yorkshire, 1869-1874. Also including an invitation to
                             Lyell&rsquo;s
@@ -223,6 +254,21 @@ export default function Elsewhere() {
                             &bull; Notebooks of Thomas McKenny Hughes when he was in South of France with Sir Charles
                             and Lady
                             Lyell, 1872-1873
+                        </p>
+                    }
+                />
+
+                <ElseSection
+                    text="University of Cambridge: Darwin Correspondence Project and Epsilon"
+                    link="https://sedgwickmuseum.cam.ac.uk/"
+                    body={
+                        <p>
+                            Since its foundation in 1974, the Darwin Correspondence Project has gathered, deciphered,
+                            and researched over 15,000 letters, and provided the full texts of all known letters written
+                            both by and to Charles Darwin – including those between Charles Lyell. Epsilon aims to
+                            continue the legacy of DCP, enabling new research opportunities by bringing correspondence
+                            data and transcriptions from multiple sources into a single cross-searchable digital
+                            platform.
                         </p>
                     }
                 />
@@ -238,7 +284,8 @@ export default function Elsewhere() {
                             copies of Lyell's notebooks (1825-1874), Lyell and family correspondence (1796-1875), and
                             manuscripts of Wilson's writings on Lyell. To learn more about the Leonard Wilson papers,
                             please visit <a
-                            href="https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.lib.umn.edu%2Fcollections%2Fspecial%2Fuarchives&data=05%7C02%7CPamela.McIntyre%40ed.ac.uk%7C326f9f84b4a7443b148108dc0e1b1e91%7C2e9f06b016694589878910a06934dc61%7C1%7C0%7C638400756855891733%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=wisvxw4zWxcaviQv%2FKSpblaal17Cp2PUBv2CAzPZETU%3D&reserved=0">https://www.lib.umn.edu/collections/special/uarchives.</a>
+                            href="https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.lib.umn.edu%2Fcollections%2Fspecial%2Fuarchives&data=05%7C02%7CPamela.McIntyre%40ed.ac.uk%7C326f9f84b4a7443b148108dc0e1b1e91%7C2e9f06b016694589878910a06934dc61%7C1%7C0%7C638400756855891733%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=wisvxw4zWxcaviQv%2FKSpblaal17Cp2PUBv2CAzPZETU%3D&reserved=0"
+                            target="_blank">https://www.lib.umn.edu/collections/special/uarchives.</a>
 
                         </p>
                     }
@@ -255,17 +302,6 @@ export default function Elsewhere() {
                         </p>
                     }
                 />
-                <div className="row box p-3 mt-4 top-bar-gold">
-                    <h3>List of further places</h3>
-                    <br/>
-                    <br/>
-                    <h5>American Philosophical Society</h5>
-                    <br/>
-                    <h5>Geological Society of London</h5>
-                    <br/>
-                    <h5>Natural History Museum, London</h5>
-                    <br/>
-                </div>
             </div>
 
         </div>

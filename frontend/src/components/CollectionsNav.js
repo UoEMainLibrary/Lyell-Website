@@ -7,7 +7,7 @@ import overviewImg from "../images/LyellNotebooks_Spines_213-232.jpg"
 export default function InfoNav() {
     const {id} = useParams()
     return (
-        <div className="row mb-4">
+        <div className="collectionNav row mb-4">
             {id !== "overview" ?
                 <div className="col">
                     <AltBox
