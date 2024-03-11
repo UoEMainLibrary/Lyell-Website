@@ -2,7 +2,8 @@ import React, {useEffect, useState} from "react";
 import {NavLink, useParams} from "react-router-dom";
 import {UV} from "../components/UniversalViewer";
 import {fetchData} from "../api/ApiCall";
-
+import nextArrow from "../images/small_arrow.png"
+import prevArrow from "../images/small_arrow-left.png"
 
 function IiifItem({objFull}) {
     const {id} = useParams();
@@ -49,7 +50,7 @@ function Sidebar({objFull}) {
     const url = "https://archives.collections.ed.ac.uk" + objFull["uri"]
     let intro = false
     if (objFull["index intro"]) {
-        if (objFull["index intro"].includes("When known, Lyell's abbreviations and contractions have been expanded")) {
+        if (objFull["index intro"].includes("When known, Lyell's abbreviations and contractions have been expanded" || objFull["index intro"].includes("indicates the misspelling of a word is deliberate"))) {
             intro = true
         }
     }
@@ -84,7 +85,7 @@ function Sidebar({objFull}) {
                                 <>
                                     <p>
                                         Find transcription details in the{' '}
-                                        <a href={url} target="_blank" rel="noopener noreferrer">
+                                        <a href={url} target="_blank" rel="">
                                             catalogue
                                         </a>
                                         .
@@ -103,9 +104,6 @@ function Sidebar({objFull}) {
                 </div>
             ) : (
                 <div className="p-4 bg-light flex-grow-1 overflow-auto" style={infoStyle}>
-                    <h5>Shelfmark</h5>
-                    <p>{objFull["component_id"]}</p>
-                    <br/>
                     <h5>Title</h5>
                     <p>{objFull["title"]}</p>
                     <br/>
@@ -116,6 +114,9 @@ function Sidebar({objFull}) {
                     <br/>
                     <h5>Catalogue Entry</h5>
                     <p><a href={url} target="_blank">{url}</a></p>
+                    <br/>
+                    <h5>Shelfmark</h5>
+                    <p>{objFull["component_id"]}</p>
                     <br/>
                     <h5>Repro Rights Statement</h5>
                     <p>University of Edinburgh</p>
@@ -128,6 +129,68 @@ function Sidebar({objFull}) {
             )}
         </>
     )
+}
+
+function NavigationButtons({id}) {
+    const handleNavNextClick = () => {
+        let parts = id.split('-');
+        let incrementedNumber = parseInt(parts[1])
+        if (incrementedNumber === 266) {
+            console.log(parts[1])
+            incrementedNumber = 1
+        } else {
+            incrementedNumber = parseInt(parts[1]) + 1;
+        }
+        window.location.href = "/collections/object/a1-" + incrementedNumber;
+    };
+    const handleNavPrevClick = () => {
+        let parts = id.split('-');
+        let incrementedNumber = parseInt(parts[1])
+        if (incrementedNumber === 1) {
+            console.log(parts[1])
+            incrementedNumber = 266
+        } else {
+            incrementedNumber = parseInt(parts[1]) - 1;
+        }
+        window.location.href = "/collections/object/a1-" + incrementedNumber;
+    };
+    return (
+        <div className="text-center">
+            <div className="d-flex justify-content-center flex-wrap">
+                <button className="btn btn-info mt-3 mr-3"  onClick={handleNavPrevClick} style={{paddingBottom: "0px", minWidth: "100px"}}>
+                    <NavLink className="nav-link">Previous</NavLink>
+                    <img src={prevArrow} alt="Previous"
+                         style={{width: "40px", verticalAlign: "middle", marginTop: "-15px"}}/>
+                </button>
+                <button className="btn btn-info mt-3 mx-3">
+                    <NavLink className="nav-link" to="/collections/explore">Back to Search</NavLink>
+                </button>
+                <button className="btn btn-info mt-3 ml-3" onClick={handleNavNextClick} style={{paddingBottom: "0px", minWidth: "100px"}}>
+                    <NavLink className="nav-link">Next</NavLink>
+                    <img src={nextArrow} alt="Next"
+                         style={{width: "40px", verticalAlign: "middle", marginTop: "-15px"}}/>
+                </button>
+            </div>
+        </div>
+    );
+}
+
+function OldNav({id}) {
+    const handleNavLinkClick = () => {
+        let parts = id.split('-');
+        let incrementedNumber = parseInt(parts[1]) + 1;
+        window.location.href = "/collections/object/a1-" + incrementedNumber;
+    };
+    return (
+        <div className="row pb-2 mx-4">
+            <button className="btn btn-info col col-md-2">
+                <NavLink className="nav-link" to="/collections/explore">Search</NavLink>
+            </button>
+            <button className="btn btn-info ms-4 col col-md-3">
+                <NavLink className="nav-link" onClick={handleNavLinkClick}>Next Notebook</NavLink>
+            </button>
+        </div>
+    );
 }
 
 
@@ -176,14 +239,7 @@ export default function Item() {
 
     return (
         <div className="container-fluid bg-dark">
-            <div className="row pb-2 mx-4">
-                <button className="btn btn-info col col-md-2">
-                    <NavLink className="nav-link" to="/collections/explore">Search</NavLink>
-                </button>
-                <button className="btn btn-info ms-4 col col-md-3">
-                    <NavLink className="nav-link" onClick={handleNavLinkClick}>Next Notebook</NavLink>
-                </button>
-            </div>
+            <NavigationButtons id={id}/>
             {hasManifest === true && objFull && <IiifItem objFull={objFull}/>}
             {hasManifest === false && objFull && <Sidebar objFull={objFull}/>}
         </div>

@@ -4,9 +4,7 @@ import TextButton from "../components/TextButton"
 import el_ft from "../images/Manual.jpg"
 import textContent from "../content/books.json"
 import links from "../content/booklinks.json"
-import vol from "../images/elements-volC.jpg"
-import {Link} from "react-router-dom";
-import bio from "../content/A Brief Bibliography of Charles Lyell.pdf";
+import vol from "../images/elements-full-colour.png"
 
 
 function BookInfo({textContent, image}) {
@@ -14,11 +12,12 @@ function BookInfo({textContent, image}) {
         <div className="row">
             <div className="col-12 col-lg-8 about-box py-3">
                 <h3>{textContent.header}</h3><br/>
-                <p dangerouslySetInnerHTML={{ __html: textContent.intro }}></p>
+                <p dangerouslySetInnerHTML={{__html: textContent.intro}}></p>
             </div>
             <div className="row col col-lg-4">
                 {image.map((img) => (
-                    <img className="col col-sm-5 col-lg-12 mx-2 my-4" style={{maxWidth: "350px", height: "auto", objectFit: "contain"}}
+                    <img className="col col-sm-5 col-lg-12 mx-2 my-4"
+                         style={{maxWidth: "350px", height: "auto", objectFit: "contain"}}
                          src={img}
                          alt="notebook cover"/>
                 ))}
@@ -66,7 +65,7 @@ function ToggleTable({data}) {
                             <td className="table-source">{item.Source}</td>
                             <td className="table-link" style={{wordWrap: "break-word"}}>
                                 <a href={item.Link} style={{wordWrap: "break-word"}} target="_blank"
-                                   rel="noopener noreferrer">
+                                   rel="">
                                     {item.Link}
                                 </a>
                             </td>
@@ -105,7 +104,7 @@ function Books() {
     const keyItemStyle = {
         backgroundColor: '#f0f0f0',
         border: '2px solid green'
-      };
+    };
 
     return (
         <div>
@@ -117,46 +116,81 @@ function Books() {
             <div className="container d-flex justify-content-center">
                 <div className="row" style={{maxWidth: "1300px"}}>
                     <div className="pb-3">
-                        <p className="important-text lead py-3">Lyell’s <i>Principles of Geology</i>, planned since 1827 when he was aged 30 and published in 1830, was the culmination of his interests, education and travel. He would go on to dedicate his life to writing science and travel books.</p>
-                        <p>Charles Lyell lived, worked and published in an age distinguished by growing public interest in the sciences and by publishers keen to meet that interest. This was a period marked by the appearance of new scientific journals and literary periodicals, and by scientific societies. Publishers were keen to promote new ideas and theories, producing books in expensive quarto editions and in cheaper and more widely available octavo format, and they encouraged illustrations of different sorts to illuminate their texts. Lyell benefitted from and responded to these circumstances. He had a good working relationship in particular with the publisher <a href="https://en.wikipedia.org/wiki/John_Murray_(publisher,_born_1778)">John Murray</a> (1778 - 1843) who produced several editions of Lyell’s <i>Principles of Geology</i>, Lyell’s first and most influential book.</p>
-                        <p>Lyell’s writing process – edits, review, notes – features in a range of different formats throughout the Collection held at Edinburgh University – including Lyell’s own annotated copies of his publications, archival manuscripts, as well as detail recorded in the notebooks. Lyell’s lectures also document his writing techniques. See also: </p>
+                        <p className="important-text lead py-3">Lyell’s <i>Principles of Geology</i>, planned since 1827
+                            when he was aged 30 and published in 1830, was the culmination of his interests, education
+                            and travel. He would go on to dedicate his life to writing science and travel books.</p>
+                        <p>Charles Lyell lived, worked and published in an age distinguished by growing public interest
+                            in the sciences and by publishers keen to meet that interest. This was a period marked by
+                            the appearance of new scientific journals and literary periodicals, and by scientific
+                            societies. Publishers were keen to promote new ideas and theories, producing books in
+                            expensive quarto editions and in cheaper and more widely available octavo format, and they
+                            encouraged illustrations of different sorts to illuminate their texts. Lyell benefitted from
+                            and responded to these circumstances. He had a good working relationship in particular with
+                            the publisher <a href="https://en.wikipedia.org/wiki/John_Murray_(publisher,_born_1778)"
+                                             target="_blank">John Murray</a> (1778 - 1843) who produced several editions
+                            of Lyell’s <i>Principles of Geology</i>, Lyell’s first and most influential book.</p>
+                        <p>Lyell’s writing process – edits, review, notes – features in a range of different formats
+                            throughout the Collection held at Edinburgh University – including Lyell’s own annotated
+                            copies of his publications, archival manuscripts, as well as detail recorded in the
+                            notebooks. Lyell’s lectures also document his writing techniques. See also: </p>
                         <ul style={{listStyle: "none"}}>
-                            <li><a href="https://archives.collections.ed.ac.uk/repositories/2/archival_objects/199146" target="_blank">Annotated Published Works by Sir Charles Lyell, 1830-1874 | University of Edinburgh Archive and Manuscript Collections</a> </li>
-                            <li><a href="https://archives.collections.ed.ac.uk/repositories/2/archival_objects/199225" target="_blank">Reviews of Published Works | University of Edinburgh Archive and Manuscript Collections </a> </li>
-                            <li><a href="https://archives.collections.ed.ac.uk/repositories/2/archival_objects/21268" target="_blank">Lectures on Geology, 1832-1833 | University of Edinburgh Archive and Manuscript Collections </a></li><li> <a href="https://archives.collections.ed.ac.uk/repositories/2/archival_objects/199130" target="_blank">Lectures on Geology, 1842-1853 | University of Edinburgh Archive and Manuscript Collections </a> </li>
+                            <li><a href="https://archives.collections.ed.ac.uk/repositories/2/archival_objects/199146"
+                                   target="_blank">Annotated Published Works by Sir Charles Lyell, 1830-1874 |
+                                University of Edinburgh Archive and Manuscript Collections</a></li>
+                            <li><a href="https://archives.collections.ed.ac.uk/repositories/2/archival_objects/199225"
+                                   target="_blank">Reviews of Published Works | University of Edinburgh Archive and
+                                Manuscript Collections </a></li>
+                            <li><a href="https://archives.collections.ed.ac.uk/repositories/2/archival_objects/21268"
+                                   target="_blank">Lectures on Geology, 1832-1833 | University of Edinburgh Archive and
+                                Manuscript Collections </a></li>
+                            <li><a href="https://archives.collections.ed.ac.uk/repositories/2/archival_objects/199130"
+                                   target="_blank">Lectures on Geology, 1842-1853 | University of Edinburgh Archive and
+                                Manuscript Collections </a></li>
                         </ul>
                     </div>
                     <div className="col order-lg-1 sidebar top-bar-green">
-                        <h2>Page content</h2>
-                              <ul>
-                                {Object.keys(textContent).map((bookName) => (
-                                  <li
-                                    key={bookName}
-                                  >
-                                    <span  style={{ color: "blue", cursor: "pointer"}} onClick={() => handleKeyClick(bookName)}>
+                        <div className="sidebar1-section">
+                            <h3 className="sidebar1-header">Page content</h3>
+                            <div className="sidebar1-line"></div>
+                            <div className="sidebar1-content">
+                                <ul>
+                                    {Object.keys(textContent).map((bookName) => (
+                                        <li
+                                            key={bookName}
+                                        >
+                                    <span style={{color: "blue", cursor: "pointer"}}
+                                          onClick={() => handleKeyClick(bookName)}>
                                       {bookName}
                                     </span>
-                                  </li>
-                                ))}
-                              </ul>
-                        <h2>Reference</h2>
-                        <div className="px-3"><TextButton/></div>
-                    </div>
-                    <div className="col-12 order-lg-0 col-lg-9 top-bar-green">
-                        <p className="pt-5 bold-text">This section presents a complete list of Lyell’s printed books published by <a href="https://en.wikipedia.org/wiki/John_Murray_(publishing_house)">John Murray</a>, in chronological order, with links to initial and later editions online. For ease of reference, we have used an abbreviated version of his titles: </p>
-                        <div>
-                        {Object.keys(textContent).map((bookName) => (
-                            <div className="my-5 top-bar-green" key={bookName} id={bookName}>
-                                <BookInfo
-                                    textContent={textContent[bookName]}
-                                    image={images[bookName]}
-                                />
-                                <div>
-                                    <ToggleTable data={links[bookName]}/>
-                                </div>
+                                        </li>
+                                    ))}
+                                </ul>
                             </div>
-                        ))}
+
+                            <h3 className="sidebar1-header">Reference</h3>
+                            <div className="sidebar1-line"></div>
+                            <TextButton/>
+                        </div>
                     </div>
+                    <div className="body-d col-12 order-lg-0 col-lg-9 top-bar-green">
+                        <p className="pt-5 bold-text">This section presents a complete list of Lyell’s printed books
+                            published by <a href="https://en.wikipedia.org/wiki/John_Murray_(publishing_house)"
+                                            target="_blank">John Murray</a>, in chronological order, with links to
+                            initial and later editions online. For ease of reference, we have used an abbreviated
+                            version of his titles: </p>
+                        <div>
+                            {Object.keys(textContent).map((bookName) => (
+                                <div className="my-5 top-bar-green" key={bookName} id={bookName}>
+                                    <BookInfo
+                                        textContent={textContent[bookName]}
+                                        image={images[bookName]}
+                                    />
+                                    <div>
+                                        <ToggleTable data={links[bookName]}/>
+                                    </div>
+                                </div>
+                            ))}
+                        </div>
                     </div>
                 </div>
             </div>
