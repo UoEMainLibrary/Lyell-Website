@@ -39,13 +39,15 @@ function ToggleTable({data}) {
         <div className="">
 
             {Object.keys(data).map((edition) => (
-                <button
-                    key={edition}
-                    onClick={() => handleEditionClick(edition)}
-                    className={selectedEdition === edition ? 'btn bk-green m-1' : 'btn  btn-outline-secondary m-1'}
-                >
-                    {edition}
-                </button>
+                edition !== "a" && (
+                    <button
+                        key={edition}
+                        onClick={() => handleEditionClick(edition)}
+                        className={selectedEdition === edition ? 'btn bk-green m-1' : 'btn btn-outline-secondary m-1'}
+                    >
+                        {edition}
+                    </button>
+                )
             ))}
 
 
@@ -83,7 +85,7 @@ function Books() {
     const images = {
         "Principles of Geology": ["https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130439~471142/pct:15,15,75,75/max/0/default.jpg"],
         "Elements of Geology": [el_ft],
-        "American travelogues": [],
+        "Travels in North America": [],
         "Antiquity of Man": [],
         "Life, Letters and Journals": []
     };
@@ -172,7 +174,7 @@ function Books() {
                             <TextButton/>
                         </div>
                     </div>
-                    <div className="body-d col-12 order-lg-0 col-lg-9 top-bar-green">
+                    <div className="body-d col-12 order-lg-0 col-lg-9 top-bar-green sideline">
                         <p className="pt-5 bold-text">This section presents a complete list of Lyell’s printed books
                             published by <a href="https://en.wikipedia.org/wiki/John_Murray_(publishing_house)"
                                             target="_blank">John Murray</a>, in chronological order, with links to
@@ -180,7 +182,7 @@ function Books() {
                             version of his titles: </p>
                         <div>
                             {Object.keys(textContent).map((bookName) => (
-                                <div className="my-5 top-bar-green" key={bookName} id={bookName}>
+                                <div className="my-5 top-bar-green-thin" key={bookName} id={bookName}>
                                     <BookInfo
                                         textContent={textContent[bookName]}
                                         image={images[bookName]}

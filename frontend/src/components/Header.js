@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Top({title, details, imageURL, size}) {
     const imageStyle = {
-        backgroundSize: "cover",
+        backgroundSize: "cover ",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
         backgroundImage:`url(${imageURL})`,

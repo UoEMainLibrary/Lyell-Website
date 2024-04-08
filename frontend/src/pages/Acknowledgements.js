@@ -26,7 +26,7 @@ export default function About() {
                 </p>
                 <p>
                     Thank you to all the volunteers – in particular Drew Coleman, Beverly Gordon, Ella Fornari, Caryl Dreiblatt and Bob Burrell – and those University of Edinburgh students who supported the transcription of the notebook indexes and added detail to the lists of correspondents.<br/><br/>
-                    We acknowledge with particular thanks the expertise received from Professor James Secord, Felicity MacKenzie, and the late Stuart Baldwin (1930-2021). <br/><br/>
+                    We acknowledge with particular thanks the expertise received from <a href="https://en.wikipedia.org/wiki/James_A._Secord" target="_blank">Professor James Secord</a>, Felicity MacKenzie, and the late Stephen Baldwin (1930-2021). <br/><br/>
                     The work of the Heritage Collections team and others associated with the Charles Lyell access project has been guided by the Charles Lyell Advisory Board which continues to promote the Lyell collections:  <br/><br/>
                     Professor Emeritus Charles W. J. Withers (University of Edinburgh),<br/><br/>
                     Dr Rebekah Higgitt (National Museums Scotland),  <br/><br/>

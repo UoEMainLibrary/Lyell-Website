@@ -1,13 +1,25 @@
 import json
 import time
+import requests
+import logging
 
-from flask import requests
+logger = logging.getLogger(__name__)
 
 LUNA_URL = "https://images.is.ed.ac.uk/luna/servlet/as/fetchMediaSearch"
 LUNA_PARAMS = "fullData=true&bs=10000&includeIiifManifest=true&includeIiifCollection=true&q=="
 
 
-def get_item(arcId, shelfmark):
+def get_item(arcId="", shelfmark=""):
+    """
+    Main luna call uses both the ID archivesspace assigns and the shlefmark to be sure to only get all off
+    one specific notebooks pages, then from the response gets the iiif links.
+
+    :param shelfmark: shelfmark
+    :param arcId: archivespace assigned ID used at the end of the notebook uri
+
+    :return: dictionary in with two keys, "iiifCollection" which is a single iiif link created by luna for the search request,
+    "pages" which is a list of all the individual iiif link for every page
+    """
     url = f"{LUNA_URL}?{LUNA_PARAMS}%22{arcId}%22 AND =%22{shelfmark}%22"
     item = None
     try:
@@ -19,6 +31,7 @@ def get_item(arcId, shelfmark):
                 break
             delay = 2 ** tries
             tries += 1
+            logger.debug(f"{i} FAILED! Trying again in {delay} second{'s' if tries == 1 else ''}")
             time.sleep(delay)
         item = step.json()
     except requests.exceptions.RequestException as e:
@@ -34,18 +47,3 @@ def better_response(response):
         temp.append(i["iiifManifest"])
     newResponse = {"iiifCollection": response["iiifCollection"], "pages": temp}
     return newResponse
-
-
-def get_archive_entry(response):
-    try:
-        page = requests.get(response["pages"][0]).json()
-    except requests.exceptions.RequestException as e:
-        print(response)
-        print(response["pages"][0])
-        input(">")
-        raise SystemExit(e)
-    metadata = page["sequences"][0]["canvases"][0]["metadata"]
-    for i in metadata:
-        if i["label"] == "Catalogue Entry":
-            return i["value"]
-    return False

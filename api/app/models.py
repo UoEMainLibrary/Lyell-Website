@@ -32,7 +32,6 @@ def recursive_search(obj, query):
         for key, value in obj.items():
             if query.lower() in str(value).lower():
                 return True
-
             if recursive_search(value, query):
                 return True
     elif isinstance(obj, list):

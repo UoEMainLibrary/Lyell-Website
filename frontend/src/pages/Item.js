@@ -1,24 +1,37 @@
 import React, {useEffect, useState} from "react";
-import {NavLink, useParams} from "react-router-dom";
+import {NavLink, useParams, useNavigate} from "react-router-dom";
 import {UV} from "../components/UniversalViewer";
 import {fetchData} from "../api/ApiCall";
+import ItemNav from "../components/ItemNav";
 import nextArrow from "../images/small_arrow.png"
 import prevArrow from "../images/small_arrow-left.png"
 
 function IiifItem({objFull}) {
     const {id} = useParams();
+    const [headerHeight, setHeaderHeight] = useState(0);
+
+    useEffect(() => {
+        const header = document.querySelector('header'); // Adjust this selector according to your header's structure
+        if (header) {
+            setHeaderHeight(header.clientHeight);
+        }
+    }, []);
+
+    const componentHeight = `calc(100vh - 70px)`;
 
     return (
         <div className="py-3 row">
-            <div className="col-12 col-lg-9 p-0">
-                <UV manifest={id}
-                    parentWidth={"100"}/>
+            <div className="col-12 col-xl-9 p-0 d-flex flex-column">
+                <NavigationButtons id={id} title={objFull["title"]}/>
+                <div className="flex-grow-1" style={{backgroundColor: "pink"}}>
+                    <UV manifest={id}
+                        parentWidth={"100"}/>
+                </div>
             </div>
-            <div className="col-12 col-lg-3 bg-dark p-0 parent-container d-flex flex-column"
-                 style={{height: "800px"}}>
+            <div className="col-12 col-xl-3 bg-dark p-0 parent-container d-flex flex-column"
+                 style={{height: componentHeight}}>
                 <Sidebar objFull={objFull}/>
             </div>
-
         </div>
     )
 
@@ -106,32 +119,32 @@ function Sidebar({objFull}) {
                 <div className="p-4 bg-light flex-grow-1 overflow-auto" style={infoStyle}>
                     <h5>Title</h5>
                     <p>{objFull["title"]}</p>
+                    {contentWarning && (
+                        <div
+                            style={{backgroundColor: "#FBF5E4"}}>
+                            <p>{objFull["warning"]}</p>
+                        </div>
+                    )}
+                    <h5>Dates</h5>
+                    <p>{objFull["dates"]["expression"]}</p>
                     <br/>
                     <h5>Description</h5>
-                    <p>{description.map((line, index) => (
+                    {description.map((line, index) => (
                         <p key={index}>{line}</p>
-                    ))}</p>
+                    ))}
                     <br/>
                     <h5>Catalogue Entry</h5>
                     <p><a href={url} target="_blank">{url}</a></p>
                     <br/>
                     <h5>Shelfmark</h5>
                     <p>{objFull["component_id"]}</p>
-                    <br/>
-                    <h5>Repro Rights Statement</h5>
-                    <p>University of Edinburgh</p>
-                </div>
-            )}
-            {contentWarning && (
-                <div className="p-2 flex-grow-1" style={{border: "2px solid black", backgroundColor: "#FBF5E4"}}>
-                    <p className="mb-0">{objFull["warning"]}</p>
                 </div>
             )}
         </>
     )
 }
 
-function NavigationButtons({id}) {
+function OldNavigationButtons({id}) {
     const handleNavNextClick = () => {
         let parts = id.split('-');
         let incrementedNumber = parseInt(parts[1])
@@ -157,15 +170,17 @@ function NavigationButtons({id}) {
     return (
         <div className="text-center">
             <div className="d-flex justify-content-center flex-wrap">
-                <button className="btn btn-info mt-3 mr-3"  onClick={handleNavPrevClick} style={{paddingBottom: "0px", minWidth: "100px"}}>
+                <button className="btn mt-3 mr-3" onClick={handleNavPrevClick}
+                        style={{paddingBottom: "0px", minWidth: "100px"}}>
                     <NavLink className="nav-link">Previous</NavLink>
                     <img src={prevArrow} alt="Previous"
                          style={{width: "40px", verticalAlign: "middle", marginTop: "-15px"}}/>
                 </button>
-                <button className="btn btn-info mt-3 mx-3">
+                <button className="btn mt-3 mx-3">
                     <NavLink className="nav-link" to="/collections/explore">Back to Search</NavLink>
                 </button>
-                <button className="btn btn-info mt-3 ml-3" onClick={handleNavNextClick} style={{paddingBottom: "0px", minWidth: "100px"}}>
+                <button className="btn mt-3 ml-3" onClick={handleNavNextClick}
+                        style={{paddingBottom: "0px", minWidth: "100px"}}>
                     <NavLink className="nav-link">Next</NavLink>
                     <img src={nextArrow} alt="Next"
                          style={{width: "40px", verticalAlign: "middle", marginTop: "-15px"}}/>
@@ -175,24 +190,56 @@ function NavigationButtons({id}) {
     );
 }
 
-function OldNav({id}) {
-    const handleNavLinkClick = () => {
+function NavigationButtons({id, title}) {
+    const navigate = useNavigate();
+    const handleNavNextClick = () => {
         let parts = id.split('-');
-        let incrementedNumber = parseInt(parts[1]) + 1;
-        window.location.href = "/collections/object/a1-" + incrementedNumber;
+        let incrementedNumber = parseInt(parts[1])
+        if (incrementedNumber === 266) {
+            incrementedNumber = 1
+        } else {
+            incrementedNumber = parseInt(parts[1]) + 1;
+        }
+        navigate("/collections/object/a1-" + incrementedNumber);
+    };
+    const handleNavPrevClick = () => {
+        let parts = id.split('-');
+        let incrementedNumber = parseInt(parts[1])
+        if (incrementedNumber === 1) {
+            incrementedNumber = 266
+        } else {
+            incrementedNumber = parseInt(parts[1]) - 1;
+        }
+        navigate("/collections/object/a1-" + incrementedNumber);
     };
     return (
-        <div className="row pb-2 mx-4">
-            <button className="btn btn-info col col-md-2">
-                <NavLink className="nav-link" to="/collections/explore">Search</NavLink>
-            </button>
-            <button className="btn btn-info ms-4 col col-md-3">
-                <NavLink className="nav-link" onClick={handleNavLinkClick}>Next Notebook</NavLink>
-            </button>
+        <div className="text-center fixed-height">
+            <div
+                className="text-light d-flex flex-column flex-md-row justify-content-between align-items-center custom-bg-color p-2">
+                <h2 className="mb-3 mb-md-0">Scientific {title}</h2>
+                <div className="d-flex flex-wrap">
+                    <div className="btn mx-1 mx-lg-3 custom-btn mb-2 mb-md-0" onClick={handleNavPrevClick}>
+                        <NavLink className="nav-link d-flex align-items-center" to="#">
+                            <img src={prevArrow} alt="Previous" className="me-3" style={{width: "35px"}}/>
+                            Previous
+                        </NavLink>
+                    </div>
+                    <div className="btn mx-1 mx-lg-3 custom-btn mb-2 mb-md-0">
+                        <NavLink className="nav-link" to="/collections/explore">Back to Search</NavLink>
+                    </div>
+                    <div className="btn mx-1 mx-lg-3 custom-btn mb-2 mb-md-0" onClick={handleNavNextClick}>
+                        <NavLink className="nav-link d-flex align-items-center" to="#">
+                            Next
+                            <img src={nextArrow} alt="Next" className="ms-3" style={{width: "35px"}}/>
+                        </NavLink>
+                    </div>
+                </div>
+            </div>
         </div>
     );
-}
 
+
+}
 
 export default function Item() {
     const {id} = useParams();
@@ -230,16 +277,8 @@ export default function Item() {
         );
     }, []);
 
-
-    const handleNavLinkClick = () => {
-        let parts = id.split('-');
-        let incrementedNumber = parseInt(parts[1]) + 1;
-        window.location.href = "/collections/object/a1-" + incrementedNumber;
-    };
-
     return (
-        <div className="container-fluid bg-dark">
-            <NavigationButtons id={id}/>
+        <div className="container-fluid bg-dark item-box">
             {hasManifest === true && objFull && <IiifItem objFull={objFull}/>}
             {hasManifest === false && objFull && <Sidebar objFull={objFull}/>}
         </div>

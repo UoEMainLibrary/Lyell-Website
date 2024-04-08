@@ -8,18 +8,20 @@ import aboutText from "../content/about.json"
 
 function Section({content, img}) {
     const imageStyle = {
-        maxHeight: "500px",
         maxWidth: "100%"
     }
 
     return (
-        <div className="my-5" style={{marginLeft: "5%", marginRight: "5%"}}>
+        <div className="my-5">
 
             <div className="row align-items-center top-bar-red pt-3">
-                <div className={`col-lg-5 order-2 order-lg-2 pt-3`}>
+                <div className={`col-lg-3 col-md-4 order-2 order-md-1 pt-3`}>
                     <img src={img} alt="Image" className="" style={imageStyle}/>
+                    <figcaption>Charles Lyell Collection, University of Edinburgh Heritage Collections reference
+                        Coll-203/B21/2
+                    </figcaption>
                 </div>
-                <div className={`col-lg-7 order-1 order-lg-1`}>
+                <div className={`col order-1 order-md-2`}>
                     <h2 className="pb-5 text-center">{content.head}</h2>
                     {content.body.map((paragraph, index) => (
                         <p key={index} dangerouslySetInnerHTML={{__html: paragraph}}></p>
@@ -32,20 +34,31 @@ function Section({content, img}) {
 
 function Biography({content, img}) {
     return (
-        <div className="my-5" style={{marginLeft: "5%", marginRight: "5%"}}>
+        <div className="my-5">
             <div className="row align-items-center top-bar-red pt-3">
-                <div style={{textAlign: "justify"}}>
-                    <h2 className="pb-5 text-center">{content.head}</h2>
-                    <div>
-                        <img style={{float: "left", width: "100%", maxWidth: "500px"}}
-                             className="my-3 mx-0 mx-md-3"
-                             src={img}
-                             alt="sketch of kirnnordy house"></img>
+                <div>
+                    <div style={{overflow: "auto"}}>
+                        <div className="mb-3 ms-lg-3" style={{float: "right"}}>
+                            <img style={{width: "100%", maxWidth: "500px"}}
+                                 className="mt-3 mx-0 "
+                                 src={img}
+                                 alt="sketch of kirnnordy house"></img>
+                            <figcaption style={{maxWidth: "500px", border: "1px solid rgba(0, 0, 0, 0.1)", padding: "5px 5px"}}>Kinnordy House, Forfarshire, the birthplace of
+                                Charles Lyell as illustrated in Life, Letters and Journals of Sir Charles Lyell, Bart,
+                                edited by his sister-in-law, Mrs. Katherine Lyell (London: John Murray, 1881). Heritage
+                                Collections, Edinburgh University reference SD 6162
+                            </figcaption>
                     </div>
-                    {content.body.map((paragraph, index) => (
-                        <p key={index} dangerouslySetInnerHTML={{__html: paragraph}}></p>
-                    ))}
+                        <div>
+                            <h2 className="pb-2">{content.head}</h2>
+                            {content.body.map((paragraph, index) => (
+                                <p key={index} dangerouslySetInnerHTML={{__html: paragraph}}></p>
+                            ))}
+                        </div>
+                    </div>
                 </div>
+
+
             </div>
         </div>
     )
@@ -78,7 +91,9 @@ export default function About() {
                         content={aboutH}
                         img={kinnordys}
                     />
-                    <div style={{marginLeft: "5%", marginRight: "5%"}} className="parallax"></div>
+                    <div className="parallax"></div>
+                    <figcaption>Large-scale map of Kirriemuir, Angus, Scotland, with hand-coloured geological strata.
+                    </figcaption>
                 </div>
             </div>
         </div>

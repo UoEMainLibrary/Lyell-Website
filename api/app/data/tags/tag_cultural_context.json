@@ -4,8 +4,8 @@
         "id": "/subjects/27383",
         "published": true,
         "entries": [
-            "Coll-203/A1/2",
-            "Coll-203/A1/56"
+            "Coll-203/A1/56",
+            "Coll-203/A1/2"
         ]
     },
     {
@@ -22,6 +22,22 @@
         "published": true,
         "entries": [
             "Coll-203/A1/128"
+        ]
+    },
+    {
+        "title": "Choctaw Indians",
+        "id": "/subjects/30391",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/135"
+        ]
+    },
+    {
+        "title": "Cherokee",
+        "id": "/subjects/30381",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/126"
         ]
     }
 ]

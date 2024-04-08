@@ -59,7 +59,9 @@
         "title": "University of St Andrews",
         "id": "/agents/corporate_entities/1747",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/3"
+        ]
     },
     {
         "title": "Hurst Castle (1544-1945) (Artillery fort)",
@@ -83,6 +85,22 @@
         "published": true,
         "entries": [
             "Coll-203/A1/127"
+        ]
+    },
+    {
+        "title": "The Saint Nicholas Society Of The City Of New York (1835 - ) (New York)",
+        "id": "/agents/corporate_entities/3454",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/126"
+        ]
+    },
+    {
+        "title": "Royal Institution of Great Britain (1799-:)",
+        "id": "/agents/corporate_entities/149",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/155"
         ]
     }
 ]

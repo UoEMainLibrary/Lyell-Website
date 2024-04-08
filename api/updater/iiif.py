@@ -1,6 +1,9 @@
 import time
 
-from flask import requests
+import requests
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 def make_manifest_v2(notebook, meta, pages):
@@ -20,6 +23,14 @@ def make_manifest_v2(notebook, meta, pages):
 
 
 def get_luna_iiif(manifests):
+    """
+    takes a list of single page iiif url, gets the mainfest for it finds and removes common metadata between all the
+    manifests then returns the common metadata and a list of singal page manifests with those removed
+
+    :param manifests: list of single page iiif urls
+
+    :return:
+    """
     manifest_meta = {}
     canvases = []
     for i in manifests:
@@ -33,12 +44,11 @@ def get_luna_iiif(manifests):
                     break
                 delay = 2 ** tries
                 tries += 1
-                print(f"{i} FAILED! Trying again in {delay} second{'s' if tries == 1 else ''}")
+                logger.debug(f"{i} FAILED! Trying again in {delay} second{'s' if tries == 1 else ''}")
                 time.sleep(delay)
             iiifpage = step.json()
         except requests.exceptions.RequestException as e:
-            print("iiif went wrong: " + str(e))
-        print("got " + i.split('/')[-2])
+            logger.error("iiif went wrong: " + str(e))
         canvases.append(iiifpage["sequences"][0]["canvases"][0])
 
     for i in range(len(canvases)):
@@ -77,9 +87,7 @@ def convert_dict(data):
                     else:
                         dict_data[lab] = [cur, val]
             except Exception as err:
-                print(err)
-                print(kvp)
-                print(dict_data)
+                logger.error(f"data incorrect {kvp} at conversion error: {err}")
         return dict_data
     for k in data:
         array_data.append({"label": k, "value": data[k]})
@@ -110,12 +118,9 @@ def get_base():
                         "@language": "en"
                     }
                 ],
-                "canvases": [
-
-                ]
+                "canvases": []
             }
         ]
-
     }
 
     return blank_file

@@ -22,7 +22,7 @@ export function UV({manifest}) {
             className="uv"
             id="uv"
             ref={uvRef}
-            style={{width: "100%", height: "800px"}}
+            style={{width: "100%", height: "100%"}}
         />
     );
 }

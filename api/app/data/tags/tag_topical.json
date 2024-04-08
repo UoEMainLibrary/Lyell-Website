@@ -4,14 +4,14 @@
         "id": "/subjects/2516",
         "published": true,
         "entries": [
-            "Coll-203/A1/4",
+            "Coll-203/A1/195",
             "Coll-203/A1/24",
             "Coll-203/A1/40",
+            "Coll-203/A1/4",
             "Coll-203/A1/79",
-            "Coll-203/A1/110",
+            "Coll-203/A1/239",
             "Coll-203/A1/112",
-            "Coll-203/A1/195",
-            "Coll-203/A1/239"
+            "Coll-203/A1/110"
         ]
     },
     {
@@ -20,19 +20,19 @@
         "published": true,
         "entries": [
             "Coll-203/A1/14",
-            "Coll-203/A1/38",
             "Coll-203/A1/52",
-            "Coll-203/A1/57",
             "Coll-203/A1/61",
+            "Coll-203/A1/87",
+            "Coll-203/A1/38",
+            "Coll-203/A1/86",
             "Coll-203/A1/63",
             "Coll-203/A1/74",
             "Coll-203/A1/75",
+            "Coll-203/A1/57",
             "Coll-203/A1/76",
             "Coll-203/A1/80",
-            "Coll-203/A1/86",
-            "Coll-203/A1/87",
-            "Coll-203/A1/112",
-            "Coll-203/A1/115"
+            "Coll-203/A1/115",
+            "Coll-203/A1/112"
         ]
     },
     {
@@ -40,15 +40,15 @@
         "id": "/subjects/2522",
         "published": true,
         "entries": [
-            "Coll-203/A1/2",
             "Coll-203/A1/14",
             "Coll-203/A1/19",
-            "Coll-203/A1/77",
-            "Coll-203/A1/109",
-            "Coll-203/A1/111",
             "Coll-203/A1/118",
+            "Coll-203/A1/77",
+            "Coll-203/A1/2",
+            "Coll-203/A1/249",
+            "Coll-203/A1/111",
             "Coll-203/A1/240",
-            "Coll-203/A1/249"
+            "Coll-203/A1/109"
         ]
     },
     {
@@ -56,8 +56,8 @@
         "id": "/subjects/4260",
         "published": true,
         "entries": [
-            "Coll-203/A1/129",
-            "Coll-203/A1/130"
+            "Coll-203/A1/130",
+            "Coll-203/A1/129"
         ]
     },
     {
@@ -81,10 +81,12 @@
         "id": "/subjects/26988",
         "published": true,
         "entries": [
-            "Coll-203/A1/119",
-            "Coll-203/A1/129",
             "Coll-203/A1/130",
-            "Coll-203/A1/150"
+            "Coll-203/A1/129",
+            "Coll-203/A1/119",
+            "Coll-203/A1/150",
+            "Coll-203/A1/132",
+            "Coll-203/A1/139"
         ]
     },
     {
@@ -100,19 +102,19 @@
         "id": "/subjects/3209",
         "published": true,
         "entries": [
-            "Coll-203/A1/4",
-            "Coll-203/A1/5",
             "Coll-203/A1/25",
-            "Coll-203/A1/28",
-            "Coll-203/A1/40",
+            "Coll-203/A1/82",
             "Coll-203/A1/44",
+            "Coll-203/A1/40",
             "Coll-203/A1/53",
             "Coll-203/A1/67",
-            "Coll-203/A1/72",
-            "Coll-203/A1/82",
-            "Coll-203/A1/113",
+            "Coll-203/A1/28",
             "Coll-203/A1/116",
-            "Coll-203/A1/240"
+            "Coll-203/A1/72",
+            "Coll-203/A1/4",
+            "Coll-203/A1/240",
+            "Coll-203/A1/5",
+            "Coll-203/A1/113"
         ]
     },
     {
@@ -146,14 +148,15 @@
         "id": "/subjects/3551",
         "published": true,
         "entries": [
-            "Coll-203/A1/7",
-            "Coll-203/A1/12",
-            "Coll-203/A1/15",
             "Coll-203/A1/17",
+            "Coll-203/A1/52",
+            "Coll-203/A1/15",
             "Coll-203/A1/36",
             "Coll-203/A1/40",
-            "Coll-203/A1/52",
-            "Coll-203/A1/79"
+            "Coll-203/A1/12",
+            "Coll-203/A1/7",
+            "Coll-203/A1/79",
+            "Coll-203/A1/138"
         ]
     },
     {
@@ -186,6 +189,43 @@
         "published": true,
         "entries": [
             "Coll-203/A1/23"
+        ]
+    },
+    {
+        "title": "Geology, Stratigraphic Cambrian",
+        "id": "/subjects/2615",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/255",
+            "Coll-203/A1/254"
+        ]
+    },
+    {
+        "title": "Clay",
+        "id": "/subjects/3857",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/255",
+            "Coll-203/A1/51",
+            "Coll-203/A1/34",
+            "Coll-203/A1/55",
+            "Coll-203/A1/110"
+        ]
+    },
+    {
+        "title": "Artesian wells",
+        "id": "/subjects/28348",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/255"
+        ]
+    },
+    {
+        "title": "Darwinism",
+        "id": "/subjects/3585",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/255"
         ]
     },
     {
@@ -222,43 +262,6 @@
         ]
     },
     {
-        "title": "Geology, Stratigraphic Cambrian",
-        "id": "/subjects/2615",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/254",
-            "Coll-203/A1/255"
-        ]
-    },
-    {
-        "title": "Clay",
-        "id": "/subjects/3857",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/34",
-            "Coll-203/A1/51",
-            "Coll-203/A1/55",
-            "Coll-203/A1/110",
-            "Coll-203/A1/255"
-        ]
-    },
-    {
-        "title": "Artesian wells",
-        "id": "/subjects/28348",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/255"
-        ]
-    },
-    {
-        "title": "Darwinism",
-        "id": "/subjects/3585",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/255"
-        ]
-    },
-    {
         "title": "Pholadomyoida",
         "id": "/subjects/27392",
         "published": true,
@@ -273,13 +276,13 @@
         "entries": [
             "Coll-203/A1/24",
             "Coll-203/A1/36",
+            "Coll-203/A1/97",
             "Coll-203/A1/60",
             "Coll-203/A1/88",
-            "Coll-203/A1/97",
-            "Coll-203/A1/102",
-            "Coll-203/A1/110",
             "Coll-203/A1/111",
-            "Coll-203/A1/115"
+            "Coll-203/A1/102",
+            "Coll-203/A1/115",
+            "Coll-203/A1/110"
         ]
     },
     {
@@ -296,8 +299,8 @@
         "id": "/subjects/4755",
         "published": true,
         "entries": [
-            "Coll-203/A1/110",
-            "Coll-203/A1/259"
+            "Coll-203/A1/259",
+            "Coll-203/A1/110"
         ]
     },
     {
@@ -305,8 +308,8 @@
         "id": "/subjects/3202",
         "published": true,
         "entries": [
-            "Coll-203/A1/109",
-            "Coll-203/A1/259"
+            "Coll-203/A1/259",
+            "Coll-203/A1/109"
         ]
     },
     {
@@ -315,30 +318,6 @@
         "published": true,
         "entries": [
             "Coll-203/A1/259"
-        ]
-    },
-    {
-        "title": "Hippos",
-        "id": "/subjects/7132",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/15"
-        ]
-    },
-    {
-        "title": "Coal",
-        "id": "/subjects/2589",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/7",
-            "Coll-203/A1/51",
-            "Coll-203/A1/100",
-            "Coll-203/A1/104",
-            "Coll-203/A1/109",
-            "Coll-203/A1/111",
-            "Coll-203/A1/112",
-            "Coll-203/A1/113",
-            "Coll-203/A1/114"
         ]
     },
     {
@@ -360,6 +339,30 @@
         ]
     },
     {
+        "title": "Hippos",
+        "id": "/subjects/7132",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/15"
+        ]
+    },
+    {
+        "title": "Coal",
+        "id": "/subjects/2589",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/51",
+            "Coll-203/A1/100",
+            "Coll-203/A1/7",
+            "Coll-203/A1/111",
+            "Coll-203/A1/114",
+            "Coll-203/A1/112",
+            "Coll-203/A1/104",
+            "Coll-203/A1/109",
+            "Coll-203/A1/113"
+        ]
+    },
+    {
         "title": "Sand Dunes",
         "id": "/subjects/2822",
         "published": true,
@@ -368,13 +371,32 @@
         ]
     },
     {
+        "title": "Basalt",
+        "id": "/subjects/3853",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/35"
+        ]
+    },
+    {
+        "title": "Nummulites",
+        "id": "/subjects/2468",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/35",
+            "Coll-203/A1/39",
+            "Coll-203/A1/132",
+            "Coll-203/A1/138"
+        ]
+    },
+    {
         "title": "Schists",
         "id": "/subjects/3717",
         "published": true,
         "entries": [
             "Coll-203/A1/36",
-            "Coll-203/A1/114",
-            "Coll-203/A1/116"
+            "Coll-203/A1/116",
+            "Coll-203/A1/114"
         ]
     },
     {
@@ -382,8 +404,8 @@
         "id": "/subjects/3386",
         "published": true,
         "entries": [
-            "Coll-203/A1/4",
             "Coll-203/A1/40",
+            "Coll-203/A1/4",
             "Coll-203/A1/115"
         ]
     },
@@ -401,8 +423,17 @@
         "id": "/subjects/27389",
         "published": true,
         "entries": [
-            "Coll-203/A1/4",
-            "Coll-203/A1/42"
+            "Coll-203/A1/42",
+            "Coll-203/A1/4"
+        ]
+    },
+    {
+        "title": "Rocks, Sedimentary",
+        "id": "/subjects/3311",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/13",
+            "Coll-203/A1/12"
         ]
     },
     {
@@ -410,8 +441,8 @@
         "id": "/subjects/4311",
         "published": true,
         "entries": [
-            "Coll-203/A1/28",
-            "Coll-203/A1/53"
+            "Coll-203/A1/53",
+            "Coll-203/A1/28"
         ]
     },
     {
@@ -420,32 +451,6 @@
         "published": true,
         "entries": [
             "Coll-203/A1/53"
-        ]
-    },
-    {
-        "title": "Rocks, Sedimentary",
-        "id": "/subjects/3311",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/12",
-            "Coll-203/A1/13"
-        ]
-    },
-    {
-        "title": "Basalt",
-        "id": "/subjects/3853",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/35"
-        ]
-    },
-    {
-        "title": "Nummulites",
-        "id": "/subjects/2468",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/35",
-            "Coll-203/A1/39"
         ]
     },
     {
@@ -465,68 +470,66 @@
         ]
     },
     {
+        "title": " Ceratodus ",
+        "id": "/subjects/28349",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/258"
+        ]
+    },
+    {
+        "title": "Proteaceae",
+        "id": "/subjects/28350",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/258"
+        ]
+    },
+    {
+        "title": "Fossil Wood",
+        "id": "/subjects/2598",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/258",
+            "Coll-203/A1/41"
+        ]
+    },
+    {
+        "title": "Athen\u00e6um Club (London, England)",
+        "id": "/subjects/28351",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/258"
+        ]
+    },
+    {
+        "title": "Raised Beaches",
+        "id": "/subjects/3855",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/258",
+            "Coll-203/A1/254"
+        ]
+    },
+    {
+        "title": "Gold mines and mining",
+        "id": "/subjects/25875",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/258"
+        ]
+    },
+    {
         "title": "Mastodon",
         "id": "/subjects/27400",
         "published": true,
         "entries": [
-            "Coll-203/A1/4",
-            "Coll-203/A1/72",
             "Coll-203/A1/97",
-            "Coll-203/A1/240",
+            "Coll-203/A1/72",
             "Coll-203/A1/245",
-            "Coll-203/A1/249"
-        ]
-    },
-    {
-        "title": "Caves",
-        "id": "/subjects/2668",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/245",
-            "Coll-203/A1/248",
-            "Coll-203/A1/249",
-            "Coll-203/A1/260"
-        ]
-    },
-    {
-        "title": "Abbeville Jaw",
-        "id": "/subjects/2472",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/248"
-        ]
-    },
-    {
-        "title": "Fossils, Classification of",
-        "id": "/subjects/3554",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/248"
-        ]
-    },
-    {
-        "title": "Valleys",
-        "id": "/subjects/3875",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/248"
-        ]
-    },
-    {
-        "title": "Elephant bones",
-        "id": "/subjects/27405",
-        "published": true,
-        "entries": [
             "Coll-203/A1/4",
-            "Coll-203/A1/111",
-            "Coll-203/A1/112",
-            "Coll-203/A1/239",
-            "Coll-203/A1/240",
-            "Coll-203/A1/244",
-            "Coll-203/A1/245",
-            "Coll-203/A1/248",
             "Coll-203/A1/249",
-            "Coll-203/A1/260"
+            "Coll-203/A1/240"
         ]
     },
     {
@@ -566,15 +569,6 @@
         ]
     },
     {
-        "title": "Fossil Wood",
-        "id": "/subjects/2598",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/41",
-            "Coll-203/A1/258"
-        ]
-    },
-    {
         "title": "Loess",
         "id": "/subjects/27704",
         "published": true,
@@ -590,15 +584,15 @@
         "id": "/subjects/2673",
         "published": true,
         "entries": [
-            "Coll-203/A1/2",
-            "Coll-203/A1/7",
             "Coll-203/A1/12",
-            "Coll-203/A1/57",
-            "Coll-203/A1/69",
             "Coll-203/A1/73",
+            "Coll-203/A1/69",
             "Coll-203/A1/96",
             "Coll-203/A1/100",
-            "Coll-203/A1/101"
+            "Coll-203/A1/101",
+            "Coll-203/A1/2",
+            "Coll-203/A1/7",
+            "Coll-203/A1/57"
         ]
     },
     {
@@ -615,49 +609,8 @@
         "id": "/subjects/2702",
         "published": true,
         "entries": [
-            "Coll-203/A1/2",
-            "Coll-203/A1/50"
-        ]
-    },
-    {
-        "title": " Ceratodus ",
-        "id": "/subjects/28349",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/258"
-        ]
-    },
-    {
-        "title": "Proteaceae",
-        "id": "/subjects/28350",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/258"
-        ]
-    },
-    {
-        "title": "Athen\u00e6um Club (London, England)",
-        "id": "/subjects/28351",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/258"
-        ]
-    },
-    {
-        "title": "Raised Beaches",
-        "id": "/subjects/3855",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/254",
-            "Coll-203/A1/258"
-        ]
-    },
-    {
-        "title": "Gold mines and mining",
-        "id": "/subjects/25875",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/258"
+            "Coll-203/A1/50",
+            "Coll-203/A1/2"
         ]
     },
     {
@@ -673,8 +626,8 @@
         "id": "/subjects/3677",
         "published": true,
         "entries": [
-            "Coll-203/A1/117",
-            "Coll-203/A1/118"
+            "Coll-203/A1/118",
+            "Coll-203/A1/117"
         ]
     },
     {
@@ -718,20 +671,20 @@
         ]
     },
     {
+        "title": "Iguanodon",
+        "id": "/subjects/27652",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/86",
+            "Coll-203/A1/5"
+        ]
+    },
+    {
         "title": "Extinction (Biology)",
         "id": "/subjects/5192",
         "published": true,
         "entries": [
             "Coll-203/A1/105"
-        ]
-    },
-    {
-        "title": "Iguanodon",
-        "id": "/subjects/27652",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/5",
-            "Coll-203/A1/86"
         ]
     },
     {
@@ -763,8 +716,9 @@
         "id": "/subjects/5418",
         "published": true,
         "entries": [
+            "Coll-203/A1/260",
             "Coll-203/A1/127",
-            "Coll-203/A1/260"
+            "Coll-203/A1/125"
         ]
     },
     {
@@ -772,15 +726,16 @@
         "id": "/subjects/2470",
         "published": true,
         "entries": [
+            "Coll-203/A1/260",
+            "Coll-203/A1/116",
             "Coll-203/A1/72",
+            "Coll-203/A1/111",
+            "Coll-203/A1/240",
+            "Coll-203/A1/239",
+            "Coll-203/A1/112",
             "Coll-203/A1/104",
             "Coll-203/A1/110",
-            "Coll-203/A1/111",
-            "Coll-203/A1/112",
-            "Coll-203/A1/116",
-            "Coll-203/A1/239",
-            "Coll-203/A1/240",
-            "Coll-203/A1/260"
+            "Coll-203/A1/126"
         ]
     },
     {
@@ -808,12 +763,40 @@
         ]
     },
     {
+        "title": "Caves",
+        "id": "/subjects/2668",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/260",
+            "Coll-203/A1/245",
+            "Coll-203/A1/249",
+            "Coll-203/A1/248"
+        ]
+    },
+    {
         "title": "Aurignacian culture--France",
         "id": "/subjects/28330",
         "published": true,
         "entries": [
+            "Coll-203/A1/260",
+            "Coll-203/A1/245"
+        ]
+    },
+    {
+        "title": "Elephant bones",
+        "id": "/subjects/27405",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/260",
             "Coll-203/A1/245",
-            "Coll-203/A1/260"
+            "Coll-203/A1/4",
+            "Coll-203/A1/249",
+            "Coll-203/A1/248",
+            "Coll-203/A1/111",
+            "Coll-203/A1/240",
+            "Coll-203/A1/239",
+            "Coll-203/A1/244",
+            "Coll-203/A1/112"
         ]
     },
     {
@@ -821,11 +804,11 @@
         "id": "/subjects/2661",
         "published": true,
         "entries": [
-            "Coll-203/A1/115",
-            "Coll-203/A1/244",
+            "Coll-203/A1/260",
             "Coll-203/A1/245",
             "Coll-203/A1/249",
-            "Coll-203/A1/260"
+            "Coll-203/A1/115",
+            "Coll-203/A1/244"
         ]
     },
     {
@@ -833,9 +816,9 @@
         "id": "/subjects/3194",
         "published": true,
         "entries": [
-            "Coll-203/A1/115",
+            "Coll-203/A1/260",
             "Coll-203/A1/241",
-            "Coll-203/A1/260"
+            "Coll-203/A1/115"
         ]
     },
     {
@@ -851,9 +834,9 @@
         "id": "/subjects/2587",
         "published": true,
         "entries": [
+            "Coll-203/A1/116",
             "Coll-203/A1/114",
             "Coll-203/A1/115",
-            "Coll-203/A1/116",
             "Coll-203/A1/244"
         ]
     },
@@ -878,11 +861,11 @@
         "id": "/subjects/3389",
         "published": true,
         "entries": [
-            "Coll-203/A1/112",
-            "Coll-203/A1/113",
             "Coll-203/A1/116",
+            "Coll-203/A1/251",
             "Coll-203/A1/245",
-            "Coll-203/A1/251"
+            "Coll-203/A1/112",
+            "Coll-203/A1/113"
         ]
     },
     {
@@ -906,10 +889,10 @@
         "id": "/subjects/28277",
         "published": true,
         "entries": [
-            "Coll-203/A1/109",
+            "Coll-203/A1/116",
             "Coll-203/A1/114",
             "Coll-203/A1/115",
-            "Coll-203/A1/116"
+            "Coll-203/A1/109"
         ]
     },
     {
@@ -925,8 +908,8 @@
         "id": "/subjects/28301",
         "published": true,
         "entries": [
-            "Coll-203/A1/110",
-            "Coll-203/A1/116"
+            "Coll-203/A1/116",
+            "Coll-203/A1/110"
         ]
     },
     {
@@ -946,13 +929,21 @@
         ]
     },
     {
+        "title": "Moraines",
+        "id": "/subjects/3393",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/83"
+        ]
+    },
+    {
         "title": "Granite",
         "id": "/subjects/2892",
         "published": true,
         "entries": [
-            "Coll-203/A1/3",
-            "Coll-203/A1/6",
             "Coll-203/A1/9",
+            "Coll-203/A1/6",
+            "Coll-203/A1/3",
             "Coll-203/A1/110"
         ]
     },
@@ -962,9 +953,9 @@
         "published": true,
         "entries": [
             "Coll-203/A1/72",
-            "Coll-203/A1/104",
             "Coll-203/A1/111",
             "Coll-203/A1/112",
+            "Coll-203/A1/104",
             "Coll-203/A1/113"
         ]
     },
@@ -973,8 +964,8 @@
         "id": "/subjects/4795",
         "published": true,
         "entries": [
-            "Coll-203/A1/69",
-            "Coll-203/A1/72"
+            "Coll-203/A1/72",
+            "Coll-203/A1/69"
         ]
     },
     {
@@ -982,18 +973,10 @@
         "id": "/subjects/3115",
         "published": true,
         "entries": [
-            "Coll-203/A1/6",
             "Coll-203/A1/72",
+            "Coll-203/A1/6",
             "Coll-203/A1/112",
             "Coll-203/A1/113"
-        ]
-    },
-    {
-        "title": "Moraines",
-        "id": "/subjects/3393",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/83"
         ]
     },
     {
@@ -1001,8 +984,9 @@
         "id": "/subjects/4076",
         "published": true,
         "entries": [
+            "Coll-203/A1/68",
             "Coll-203/A1/56",
-            "Coll-203/A1/68"
+            "Coll-203/A1/103"
         ]
     },
     {
@@ -1010,8 +994,8 @@
         "id": "/subjects/2473",
         "published": true,
         "entries": [
-            "Coll-203/A1/56",
             "Coll-203/A1/69",
+            "Coll-203/A1/56",
             "Coll-203/A1/78"
         ]
     },
@@ -1024,38 +1008,27 @@
         ]
     },
     {
-        "title": "Zoological museums",
-        "id": "/subjects/7477",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/240",
-            "Coll-203/A1/245"
-        ]
-    },
-    {
-        "title": "Scientific expeditions",
-        "id": "/subjects/7493",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/245"
-        ]
-    },
-    {
-        "title": "Hippopotamus (Genus), Fossil",
-        "id": "/subjects/28304",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/110",
-            "Coll-203/A1/245",
-            "Coll-203/A1/249"
-        ]
-    },
-    {
         "title": "Lower Tertiary Period",
         "id": "/subjects/2465",
         "published": true,
         "entries": [
             "Coll-203/A1/77"
+        ]
+    },
+    {
+        "title": "Mythology, Greek",
+        "id": "/subjects/3394",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/56"
+        ]
+    },
+    {
+        "title": "Zoophytes",
+        "id": "/subjects/21311",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/56"
         ]
     },
     {
@@ -1083,27 +1056,42 @@
         ]
     },
     {
+        "title": "Zoological museums",
+        "id": "/subjects/7477",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/245",
+            "Coll-203/A1/240"
+        ]
+    },
+    {
+        "title": "Scientific expeditions",
+        "id": "/subjects/7493",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/245"
+        ]
+    },
+    {
+        "title": "Hippopotamus (Genus), Fossil",
+        "id": "/subjects/28304",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/245",
+            "Coll-203/A1/249",
+            "Coll-203/A1/110"
+        ]
+    },
+    {
         "title": "Mississippi River (United States)",
         "id": "/subjects/4333",
         "published": true,
         "entries": [
-            "Coll-203/A1/100"
-        ]
-    },
-    {
-        "title": "Mythology, Greek",
-        "id": "/subjects/3394",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/56"
-        ]
-    },
-    {
-        "title": "Zoophytes",
-        "id": "/subjects/21311",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/56"
+            "Coll-203/A1/100",
+            "Coll-203/A1/135",
+            "Coll-203/A1/155",
+            "Coll-203/A1/137",
+            "Coll-203/A1/138"
         ]
     },
     {
@@ -1115,13 +1103,21 @@
         ]
     },
     {
+        "title": "Theology",
+        "id": "/subjects/20787",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/2"
+        ]
+    },
+    {
         "title": "Echinus -- Sea Urchin",
         "id": "/subjects/27331",
         "published": true,
         "entries": [
-            "Coll-203/A1/4",
             "Coll-203/A1/7",
-            "Coll-203/A1/80"
+            "Coll-203/A1/80",
+            "Coll-203/A1/4"
         ]
     },
     {
@@ -1137,9 +1133,9 @@
         "id": "/subjects/6753",
         "published": true,
         "entries": [
-            "Coll-203/A1/6",
             "Coll-203/A1/55",
-            "Coll-203/A1/111"
+            "Coll-203/A1/111",
+            "Coll-203/A1/6"
         ]
     },
     {
@@ -1151,20 +1147,12 @@
         ]
     },
     {
-        "title": "Theology",
-        "id": "/subjects/20787",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/2"
-        ]
-    },
-    {
         "title": "Geology, Stratigraphic Triassic",
         "id": "/subjects/3718",
         "published": true,
         "entries": [
-            "Coll-203/A1/113",
-            "Coll-203/A1/241"
+            "Coll-203/A1/241",
+            "Coll-203/A1/113"
         ]
     },
     {
@@ -1172,8 +1160,8 @@
         "id": "/subjects/3087",
         "published": true,
         "entries": [
-            "Coll-203/A1/240",
-            "Coll-203/A1/241"
+            "Coll-203/A1/241",
+            "Coll-203/A1/240"
         ]
     },
     {
@@ -1181,8 +1169,8 @@
         "id": "/subjects/28273",
         "published": true,
         "entries": [
-            "Coll-203/A1/115",
-            "Coll-203/A1/241"
+            "Coll-203/A1/241",
+            "Coll-203/A1/115"
         ]
     },
     {
@@ -1191,23 +1179,6 @@
         "published": true,
         "entries": [
             "Coll-203/A1/241"
-        ]
-    },
-    {
-        "title": "Coal Period Trees",
-        "id": "/subjects/2480",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/4",
-            "Coll-203/A1/113"
-        ]
-    },
-    {
-        "title": "Peat Bogs (Habitats)",
-        "id": "/subjects/26121",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/113"
         ]
     },
     {
@@ -1278,6 +1249,15 @@
         ]
     },
     {
+        "title": "Coal Period Trees",
+        "id": "/subjects/2480",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/4",
+            "Coll-203/A1/113"
+        ]
+    },
+    {
         "title": "Natural History",
         "id": "/subjects/2618",
         "published": true,
@@ -1332,8 +1312,8 @@
         "id": "/subjects/2647",
         "published": true,
         "entries": [
-            "Coll-203/A1/112",
-            "Coll-203/A1/249"
+            "Coll-203/A1/249",
+            "Coll-203/A1/112"
         ]
     },
     {
@@ -1353,13 +1333,38 @@
         ]
     },
     {
+        "title": "Abbeville Jaw",
+        "id": "/subjects/2472",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/248"
+        ]
+    },
+    {
+        "title": "Fossils, Classification of",
+        "id": "/subjects/3554",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/248"
+        ]
+    },
+    {
+        "title": "Valleys",
+        "id": "/subjects/3875",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/248"
+        ]
+    },
+    {
         "title": "Geology, Stratigraphic Eocene",
         "id": "/subjects/3193",
         "published": true,
         "entries": [
-            "Coll-203/A1/93",
             "Coll-203/A1/111",
-            "Coll-203/A1/115"
+            "Coll-203/A1/93",
+            "Coll-203/A1/115",
+            "Coll-203/A1/126"
         ]
     },
     {
@@ -1368,6 +1373,57 @@
         "published": true,
         "entries": [
             "Coll-203/A1/111"
+        ]
+    },
+    {
+        "title": "Photography",
+        "id": "/subjects/3736",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/240"
+        ]
+    },
+    {
+        "title": "Skeletons",
+        "id": "/subjects/5421",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/240",
+            "Coll-203/A1/239"
+        ]
+    },
+    {
+        "title": "Diluvium",
+        "id": "/subjects/2502",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/240",
+            "Coll-203/A1/5"
+        ]
+    },
+    {
+        "title": "Gravel",
+        "id": "/subjects/2500",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/240"
+        ]
+    },
+    {
+        "title": "Rhinoceroses",
+        "id": "/subjects/6948",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/240",
+            "Coll-203/A1/109"
+        ]
+    },
+    {
+        "title": "Archaeology",
+        "id": "/subjects/2606",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/240"
         ]
     },
     {
@@ -1392,75 +1448,8 @@
         "id": "/subjects/3259",
         "published": true,
         "entries": [
-            "Coll-203/A1/109",
-            "Coll-203/A1/114"
-        ]
-    },
-    {
-        "title": "Photography",
-        "id": "/subjects/3736",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/240"
-        ]
-    },
-    {
-        "title": "Skeletons",
-        "id": "/subjects/5421",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/239",
-            "Coll-203/A1/240"
-        ]
-    },
-    {
-        "title": "Diluvium",
-        "id": "/subjects/2502",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/5",
-            "Coll-203/A1/240"
-        ]
-    },
-    {
-        "title": "Gravel",
-        "id": "/subjects/2500",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/240"
-        ]
-    },
-    {
-        "title": "Rhinoceroses",
-        "id": "/subjects/6948",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/109",
-            "Coll-203/A1/240"
-        ]
-    },
-    {
-        "title": "Archaeology",
-        "id": "/subjects/2606",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/240"
-        ]
-    },
-    {
-        "title": "Mountains",
-        "id": "/subjects/3390",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/6"
-        ]
-    },
-    {
-        "title": "Deer",
-        "id": "/subjects/4227",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/6"
+            "Coll-203/A1/114",
+            "Coll-203/A1/109"
         ]
     },
     {
@@ -1500,9 +1489,9 @@
         "id": "/subjects/2464",
         "published": true,
         "entries": [
-            "Coll-203/A1/110",
             "Coll-203/A1/115",
-            "Coll-203/A1/244"
+            "Coll-203/A1/244",
+            "Coll-203/A1/110"
         ]
     },
     {
@@ -1520,6 +1509,39 @@
         "entries": [
             "Coll-203/A1/115",
             "Coll-203/A1/131"
+        ]
+    },
+    {
+        "title": "Mountains",
+        "id": "/subjects/3390",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/6"
+        ]
+    },
+    {
+        "title": "Deer",
+        "id": "/subjects/4227",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/6"
+        ]
+    },
+    {
+        "title": "Alluvium",
+        "id": "/subjects/2491",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/239"
+        ]
+    },
+    {
+        "title": "Lava Flows",
+        "id": "/subjects/2512",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/239",
+            "Coll-203/A1/110"
         ]
     },
     {
@@ -1552,23 +1574,6 @@
         "published": true,
         "entries": [
             "Coll-203/A1/244"
-        ]
-    },
-    {
-        "title": "Alluvium",
-        "id": "/subjects/2491",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/239"
-        ]
-    },
-    {
-        "title": "Lava Flows",
-        "id": "/subjects/2512",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/110",
-            "Coll-203/A1/239"
         ]
     },
     {
@@ -1645,6 +1650,30 @@
         ]
     },
     {
+        "title": "Marl",
+        "id": "/subjects/2490",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/110"
+        ]
+    },
+    {
+        "title": "Romans",
+        "id": "/subjects/3902",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/110"
+        ]
+    },
+    {
+        "title": "Glacial Erratics",
+        "id": "/subjects/3391",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/110"
+        ]
+    },
+    {
         "title": "Mya arenaria",
         "id": "/subjects/28452",
         "published": true,
@@ -1669,27 +1698,19 @@
         ]
     },
     {
-        "title": "Marl",
-        "id": "/subjects/2490",
+        "title": "Lava",
+        "id": "/subjects/2526",
         "published": true,
         "entries": [
-            "Coll-203/A1/110"
+            "Coll-203/A1/109"
         ]
     },
     {
-        "title": "Romans",
-        "id": "/subjects/3902",
+        "title": "Lepidodendron",
+        "id": "/subjects/3207",
         "published": true,
         "entries": [
-            "Coll-203/A1/110"
-        ]
-    },
-    {
-        "title": "Glacial Erratics",
-        "id": "/subjects/3391",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/110"
+            "Coll-203/A1/109"
         ]
     },
     {
@@ -1725,19 +1746,11 @@
         ]
     },
     {
-        "title": "Lava",
-        "id": "/subjects/2526",
+        "title": "Peat Bogs (Habitats)",
+        "id": "/subjects/26121",
         "published": true,
         "entries": [
-            "Coll-203/A1/109"
-        ]
-    },
-    {
-        "title": "Lepidodendron",
-        "id": "/subjects/3207",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/109"
+            "Coll-203/A1/113"
         ]
     },
     {
@@ -1793,15 +1806,8 @@
         "id": "/subjects/29799",
         "published": true,
         "entries": [
-            "Coll-203/A1/128"
-        ]
-    },
-    {
-        "title": "Richmond and Danville Railroad Company",
-        "id": "/subjects/28460",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/127"
+            "Coll-203/A1/128",
+            "Coll-203/A1/137"
         ]
     },
     {
@@ -1837,11 +1843,22 @@
         ]
     },
     {
+        "title": "Richmond and Danville Railroad Company",
+        "id": "/subjects/28460",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/127"
+        ]
+    },
+    {
         "title": "Sea Monsters",
         "id": "/subjects/4074",
         "published": true,
         "entries": [
-            "Coll-203/A1/124"
+            "Coll-203/A1/124",
+            "Coll-203/A1/126",
+            "Coll-203/A1/125",
+            "Coll-203/A1/155"
         ]
     },
     {
@@ -1850,6 +1867,55 @@
         "published": true,
         "entries": [
             "Coll-203/A1/124"
+        ]
+    },
+    {
+        "title": "Dinosaurs",
+        "id": "/subjects/3772",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/126"
+        ]
+    },
+    {
+        "title": "Stockbrokers",
+        "id": "/subjects/6148",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/126"
+        ]
+    },
+    {
+        "title": "Brachiopoda, Fossil",
+        "id": "/subjects/3054",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/132"
+        ]
+    },
+    {
+        "title": "Sea Serpents",
+        "id": "/subjects/30380",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/157",
+            "Coll-203/A1/155"
+        ]
+    },
+    {
+        "title": "Classical Civilisation",
+        "id": "/subjects/2941",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/155"
+        ]
+    },
+    {
+        "title": "Megatherium",
+        "id": "/subjects/2662",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/139"
         ]
     }
 ]

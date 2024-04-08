@@ -29,9 +29,11 @@ export default function Footer() {
           <div className="col-md-3">
             <h4>Resources</h4>
             <div className="d-flex flex-column">
-              <a href="https://archives.collections.ed.ac.uk/agents/people/86" className="text-light mb-2 text-decoration-none">Collection in ArchivesSpace</a>
-              <a href="#" className="text-light mb-2 text-decoration-none">Guide to seeing the collection in person</a>
-              <a href="#" className="text-light text-decoration-none">Accessibility</a>
+              <a href="https://archives.collections.ed.ac.uk/agents/people/86" target="__blank" className="text-light text-decoration-none">Collection in ArchivesSpace</a>
+              <a href="https://www.ed.ac.uk/about/website/privacy" target="__blank" className="text-light text-decoration-none">Privacy & Cookies</a>
+              <a href="https://www.ed.ac.uk/information-services/library-museum-gallery/crc/services/copying-and-digitisation/image-licensing/takedown-policy" target="__blank" className="text-light text-decoration-none">Takedown Policy</a>
+              <NavLink className="nav-link text-light" to="/">Licensing & Copyright</NavLink>
+              <NavLink className="nav-link text-light" to="/">Accessibility</NavLink>
             </div>
           </div>
         </div>

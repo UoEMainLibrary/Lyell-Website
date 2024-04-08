@@ -3,6 +3,7 @@ import {Link} from "react-router-dom";
 import Top from "../components/Header";
 import HoverBox from "../components/HoverBox"
 import lyell_2 from "../images/lyell_landscapeC.jpg"
+import PDFdownload from "../components/PDFdownload";
 
 
 export default function Home() {
@@ -14,6 +15,7 @@ export default function Home() {
                 imageURL={lyell_2}
                 size={{text:"70px"}}
             />
+            {/*<PDFdownload/>*/}
             <div className="container py-5 ">
                 <p className="important-text lead py-3">This website facilitates access and research into the work of Scottish-born geologist Sir Charles Lyell (1797 - 1875) providing links to his printed books, the principal collection at the University of Edinburgh and Lyell related content elsewhere.
                 </p>
@@ -25,7 +27,7 @@ export default function Home() {
                             info={{link: "/about"}}
                             content={{
                                 title: "About Charles Lyell",
-                                detail: "Learn more Charles Lyell, his work, travel and findings.",
+                                detail: "Learn more Charles Lyell, his work, travel and findings",
                                 image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~82507~103329/full/!1000,1000/0/default.jpg",
                                 alt: "pencil drawing of Charles Lyell"
                             }}
@@ -33,8 +35,8 @@ export default function Home() {
                         <HoverBox
                             info={{link: "/collections"}}
                             content={{
-                                title: "Notebooks, Manuscripts, Offprints and Specimens.",
-                                detail: "Discover the collections held by the University of Edinburgh",
+                                title: "Manuscripts, notebooks, offprints and specimens",
+                                detail: "Discover the Charles Lyell collections held by the University of Edinburgh",
                                 image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~85421~382687/full/!1000,1000/0/default.jpg",
                                 alt: "archive shelf"
                             }}
@@ -44,7 +46,7 @@ export default function Home() {
                         <HoverBox
                             info={{link: "/Publications"}}
                             content={{
-                                detail: "brief introduction to the books not sure what to put here",
+                                detail: "Access Lyell’s printed books online",
                                 image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130439~471142/0,2000,6000,5000/750,/0/default.jpg",
                                 alt: "Book Cover",
                                 title: "Publications"
@@ -53,8 +55,8 @@ export default function Home() {
                         <HoverBox
                             info={{link: "/elsewhere"}}
                             content={{
-                                title: "Lyell elsewhere",
-                                detail: "brief summary of items and location",
+                                title: "Charles Lyell collections elsewhere",
+                                detail: "Information and links to Lyell related collections held at other organisations",
                                 image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEcar~4~4~46658~102417/full/1000,/0/default.jpg",
                                 alt: "Book Cover"
                             }}

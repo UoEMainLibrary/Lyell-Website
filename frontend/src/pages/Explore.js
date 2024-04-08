@@ -331,6 +331,7 @@ function Explore() {
             <div className="mx-5 my-5">
                 <div className="row">
                     <div className="col-12 col-md-3 bg-light py-3">
+                        <h5>Search the 266 Scientific notebooks</h5>
                         <SearchBar searchParams={searchParams} setSearchParams={setSearchParams}/>
                         <DateSearch searchParams={searchParams} setSearchParams={setSearchParams}/>
                         <TagFilter filterTags={filterTags} searchParams={searchParams}
