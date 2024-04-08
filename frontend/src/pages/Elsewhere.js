@@ -20,7 +20,7 @@ const HeaderWithArrow = ({text, link}) => {
                 <a
                     href={link}
                     target="_blank"
-                    className="text-dark text-decoration-none"
+                    className="text-dark"
                 >
                     {text}
                 </a>

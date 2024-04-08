@@ -14,6 +14,7 @@ import specImg from "../images/CockburnSpec2largCrop.jpg"
 import paperImg from "../images/Papers2best.jpg"
 import offImg from "../images/offprints-image.png"
 import overviewImg from "../images/PrinciplesGeologySpines.jpg"
+import diagram from "../images/MicrosoftTeams-image.png"
 
 function extractStartText(str) {
     if (str.endsWith("}") && str.startsWith("{") && str.includes(":")) {
@@ -196,7 +197,7 @@ function Info() {
                     size={{height: "250px"}}
                 />
                 <Content
-                    image={"https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~84801~103462/full/717,/0/default.jpg"}
+                    image={diagram}
                     data={data}
                     head={"Overview"}
                     id={"overview"}

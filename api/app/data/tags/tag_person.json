@@ -1,9 +1,297 @@
 [
     {
+        "title": "Jackson, Andrew, 1767-1845 (7th President of the United States)",
+        "id": "/agents/people/22404",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/123",
+            "Coll-203/A1/120",
+            "Coll-203/A1/132",
+            "Coll-203/A1/125",
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Clay, Henry, 1777-1852 (America attorney and statemen)",
+        "id": "/agents/people/22580",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/122",
+            "Coll-203/A1/120"
+        ]
+    },
+    {
         "title": "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)",
         "id": "/agents/people/86",
         "published": true,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/171",
+            "Coll-203/A1/172",
+            "Coll-203/A1/173",
+            "Coll-203/A1/195",
+            "Coll-203/A1/200",
+            "Coll-203/A1/211",
+            "Coll-203/A1/212",
+            "Coll-203/A1/213",
+            "Coll-203/A1/235",
+            "Coll-203/A1/236",
+            "Coll-203/A1/125",
+            "Coll-203/A1/126",
+            "Coll-203/A1/132",
+            "Coll-203/A1/133",
+            "Coll-203/A1/134",
+            "Coll-203/A1/135",
+            "Coll-203/A1/136",
+            "Coll-203/A1/137",
+            "Coll-203/A1/138",
+            "Coll-203/A1/139",
+            "Coll-203/A1/140",
+            "Coll-203/A1/141",
+            "Coll-203/A1/142",
+            "Coll-203/A1/143",
+            "Coll-203/A1/144",
+            "Coll-203/A1/145",
+            "Coll-203/A1/146",
+            "Coll-203/A1/147",
+            "Coll-203/A1/148",
+            "Coll-203/A1/149",
+            "Coll-203/A1/151",
+            "Coll-203/A1/152",
+            "Coll-203/A1/153",
+            "Coll-203/A1/154",
+            "Coll-203/A1/155",
+            "Coll-203/A1/156",
+            "Coll-203/A1/157",
+            "Coll-203/A1/158",
+            "Coll-203/A1/159",
+            "Coll-203/A1/160",
+            "Coll-203/A1/161",
+            "Coll-203/A1/162",
+            "Coll-203/A1/163",
+            "Coll-203/A1/164",
+            "Coll-203/A1/165",
+            "Coll-203/A1/166",
+            "Coll-203/A1/167",
+            "Coll-203/A1/168",
+            "Coll-203/A1/169",
+            "Coll-203/A1/170",
+            "Coll-203/A1/174",
+            "Coll-203/A1/106",
+            "Coll-203/A1/175",
+            "Coll-203/A1/176",
+            "Coll-203/A1/177",
+            "Coll-203/A1/178",
+            "Coll-203/A1/179",
+            "Coll-203/A1/180",
+            "Coll-203/A1/181",
+            "Coll-203/A1/182",
+            "Coll-203/A1/183",
+            "Coll-203/A1/184",
+            "Coll-203/A1/185",
+            "Coll-203/A1/186",
+            "Coll-203/A1/187",
+            "Coll-203/A1/188",
+            "Coll-203/A1/189",
+            "Coll-203/A1/190",
+            "Coll-203/A1/191",
+            "Coll-203/A1/192",
+            "Coll-203/A1/193",
+            "Coll-203/A1/194",
+            "Coll-203/A1/196",
+            "Coll-203/A1/197",
+            "Coll-203/A1/198",
+            "Coll-203/A1/199",
+            "Coll-203/A1/201",
+            "Coll-203/A1/202",
+            "Coll-203/A1/203",
+            "Coll-203/A1/204",
+            "Coll-203/A1/205",
+            "Coll-203/A1/206",
+            "Coll-203/A1/207",
+            "Coll-203/A1/210",
+            "Coll-203/A1/214",
+            "Coll-203/A1/215",
+            "Coll-203/A1/216",
+            "Coll-203/A1/217",
+            "Coll-203/A1/218",
+            "Coll-203/A1/219",
+            "Coll-203/A1/220",
+            "Coll-203/A1/221",
+            "Coll-203/A1/222",
+            "Coll-203/A1/223",
+            "Coll-203/A1/224",
+            "Coll-203/A1/225",
+            "Coll-203/A1/226",
+            "Coll-203/A1/227",
+            "Coll-203/A1/228",
+            "Coll-203/A1/229",
+            "Coll-203/A1/230",
+            "Coll-203/A1/231",
+            "Coll-203/A1/232",
+            "Coll-203/A1/233",
+            "Coll-203/A1/234",
+            "Coll-203/A1/237",
+            "Coll-203/A1/238",
+            "Coll-203/A1/242",
+            "Coll-203/A1/243",
+            "Coll-203/A1/246",
+            "Coll-203/A1/247",
+            "Coll-203/A1/250",
+            "Coll-203/A1/252",
+            "Coll-203/A1/253",
+            "Coll-203/A1/256",
+            "Coll-203/A1/257",
+            "Coll-203/A1/262",
+            "Coll-203/A1/263",
+            "Coll-203/A1/264",
+            "Coll-203/A1/265",
+            "Coll-203/A1/266",
+            "Coll-203/A1/208",
+            "Coll-203/A1/209",
+            "Coll-203/A1/1",
+            "Coll-203/A1/14",
+            "Coll-203/A1/65",
+            "Coll-203/A1/130",
+            "Coll-203/A1/261",
+            "Coll-203/A1/25",
+            "Coll-203/A1/11",
+            "Coll-203/A1/16",
+            "Coll-203/A1/17",
+            "Coll-203/A1/19",
+            "Coll-203/A1/20",
+            "Coll-203/A1/21",
+            "Coll-203/A1/23",
+            "Coll-203/A1/49",
+            "Coll-203/A1/22",
+            "Coll-203/A1/255",
+            "Coll-203/A1/64",
+            "Coll-203/A1/52",
+            "Coll-203/A1/24",
+            "Coll-203/A1/61",
+            "Coll-203/A1/82",
+            "Coll-203/A1/259",
+            "Coll-203/A1/107",
+            "Coll-203/A1/15",
+            "Coll-203/A1/51",
+            "Coll-203/A1/71",
+            "Coll-203/A1/81",
+            "Coll-203/A1/44",
+            "Coll-203/A1/87",
+            "Coll-203/A1/108",
+            "Coll-203/A1/35",
+            "Coll-203/A1/27",
+            "Coll-203/A1/32",
+            "Coll-203/A1/36",
+            "Coll-203/A1/40",
+            "Coll-203/A1/42",
+            "Coll-203/A1/48",
+            "Coll-203/A1/13",
+            "Coll-203/A1/53",
+            "Coll-203/A1/59",
+            "Coll-203/A1/66",
+            "Coll-203/A1/67",
+            "Coll-203/A1/31",
+            "Coll-203/A1/33",
+            "Coll-203/A1/47",
+            "Coll-203/A1/54",
+            "Coll-203/A1/258",
+            "Coll-203/A1/97",
+            "Coll-203/A1/26",
+            "Coll-203/A1/28",
+            "Coll-203/A1/29",
+            "Coll-203/A1/34",
+            "Coll-203/A1/37",
+            "Coll-203/A1/38",
+            "Coll-203/A1/39",
+            "Coll-203/A1/41",
+            "Coll-203/A1/45",
+            "Coll-203/A1/46",
+            "Coll-203/A1/12",
+            "Coll-203/A1/18",
+            "Coll-203/A1/50",
+            "Coll-203/A1/60",
+            "Coll-203/A1/84",
+            "Coll-203/A1/129",
+            "Coll-203/A1/118",
+            "Coll-203/A1/117",
+            "Coll-203/A1/86",
+            "Coll-203/A1/105",
+            "Coll-203/A1/254",
+            "Coll-203/A1/95",
+            "Coll-203/A1/260",
+            "Coll-203/A1/63",
+            "Coll-203/A1/74",
+            "Coll-203/A1/75",
+            "Coll-203/A1/73",
+            "Coll-203/A1/88",
+            "Coll-203/A1/116",
+            "Coll-203/A1/83",
+            "Coll-203/A1/9",
+            "Coll-203/A1/72",
+            "Coll-203/A1/68",
+            "Coll-203/A1/69",
+            "Coll-203/A1/8",
+            "Coll-203/A1/70",
+            "Coll-203/A1/96",
+            "Coll-203/A1/30",
+            "Coll-203/A1/77",
+            "Coll-203/A1/56",
+            "Coll-203/A1/251",
+            "Coll-203/A1/245",
+            "Coll-203/A1/91",
+            "Coll-203/A1/100",
+            "Coll-203/A1/58",
+            "Coll-203/A1/101",
+            "Coll-203/A1/2",
+            "Coll-203/A1/7",
+            "Coll-203/A1/55",
+            "Coll-203/A1/57",
+            "Coll-203/A1/89",
+            "Coll-203/A1/92",
+            "Coll-203/A1/76",
+            "Coll-203/A1/10",
+            "Coll-203/A1/62",
+            "Coll-203/A1/241",
+            "Coll-203/A1/98",
+            "Coll-203/A1/43",
+            "Coll-203/A1/80",
+            "Coll-203/A1/78",
+            "Coll-203/A1/90",
+            "Coll-203/A1/4",
+            "Coll-203/A1/103",
+            "Coll-203/A1/249",
+            "Coll-203/A1/248",
+            "Coll-203/A1/79",
+            "Coll-203/A1/111",
+            "Coll-203/A1/94",
+            "Coll-203/A1/93",
+            "Coll-203/A1/240",
+            "Coll-203/A1/102",
+            "Coll-203/A1/85",
+            "Coll-203/A1/114",
+            "Coll-203/A1/115",
+            "Coll-203/A1/6",
+            "Coll-203/A1/239",
+            "Coll-203/A1/244",
+            "Coll-203/A1/119",
+            "Coll-203/A1/99",
+            "Coll-203/A1/3",
+            "Coll-203/A1/123",
+            "Coll-203/A1/112",
+            "Coll-203/A1/131",
+            "Coll-203/A1/104",
+            "Coll-203/A1/110",
+            "Coll-203/A1/122",
+            "Coll-203/A1/109",
+            "Coll-203/A1/5",
+            "Coll-203/A1/113",
+            "Coll-203/A1/120",
+            "Coll-203/A1/128",
+            "Coll-203/A1/150",
+            "Coll-203/A1/127",
+            "Coll-203/A1/121",
+            "Coll-203/A1/124"
+        ]
     },
     {
         "title": "Scrope, George Julius Poulett, 1797-1876 (geologist and political economist)",
@@ -13,9 +301,9 @@
             "Coll-203/A1/1",
             "Coll-203/A1/31",
             "Coll-203/A1/54",
-            "Coll-203/A1/110",
+            "Coll-203/A1/240",
             "Coll-203/A1/239",
-            "Coll-203/A1/240"
+            "Coll-203/A1/110"
         ]
     },
     {
@@ -23,10 +311,10 @@
         "id": "/agents/people/20895",
         "published": true,
         "entries": [
-            "Coll-203/A1/53",
-            "Coll-203/A1/61",
-            "Coll-203/A1/63",
             "Coll-203/A1/65",
+            "Coll-203/A1/61",
+            "Coll-203/A1/53",
+            "Coll-203/A1/63",
             "Coll-203/A1/68",
             "Coll-203/A1/79"
         ]
@@ -36,29 +324,31 @@
         "id": "/agents/people/199",
         "published": true,
         "entries": [
+            "Coll-203/A1/130",
+            "Coll-203/A1/255",
             "Coll-203/A1/64",
-            "Coll-203/A1/72",
+            "Coll-203/A1/107",
+            "Coll-203/A1/258",
+            "Coll-203/A1/129",
+            "Coll-203/A1/105",
+            "Coll-203/A1/254",
             "Coll-203/A1/73",
+            "Coll-203/A1/83",
+            "Coll-203/A1/72",
             "Coll-203/A1/77",
+            "Coll-203/A1/241",
+            "Coll-203/A1/80",
             "Coll-203/A1/78",
             "Coll-203/A1/79",
-            "Coll-203/A1/80",
-            "Coll-203/A1/83",
             "Coll-203/A1/85",
-            "Coll-203/A1/99",
-            "Coll-203/A1/105",
-            "Coll-203/A1/107",
             "Coll-203/A1/114",
             "Coll-203/A1/115",
-            "Coll-203/A1/119",
-            "Coll-203/A1/128",
-            "Coll-203/A1/129",
-            "Coll-203/A1/130",
-            "Coll-203/A1/241",
             "Coll-203/A1/244",
-            "Coll-203/A1/254",
-            "Coll-203/A1/255",
-            "Coll-203/A1/258"
+            "Coll-203/A1/119",
+            "Coll-203/A1/99",
+            "Coll-203/A1/128",
+            "Coll-203/A1/125",
+            "Coll-203/A1/155"
         ]
     },
     {
@@ -70,14 +360,19 @@
         ]
     },
     {
-        "title": "Lyell, Mary, Lady (nee Horner)",
+        "title": "Lyell, Lady Mary, 1808-1873 (nee Horner)",
         "id": "/agents/people/176",
         "published": true,
         "entries": [
+            "Coll-203/A1/49",
             "Coll-203/A1/64",
+            "Coll-203/A1/258",
             "Coll-203/A1/118",
             "Coll-203/A1/254",
-            "Coll-203/A1/258"
+            "Coll-203/A1/260",
+            "Coll-203/A1/103",
+            "Coll-203/A1/135",
+            "Coll-203/A1/137"
         ]
     },
     {
@@ -85,55 +380,51 @@
         "id": "/agents/people/19667",
         "published": true,
         "entries": [
-            "Coll-203/A1/38",
-            "Coll-203/A1/43",
-            "Coll-203/A1/47",
             "Coll-203/A1/49",
-            "Coll-203/A1/57",
-            "Coll-203/A1/60",
-            "Coll-203/A1/63",
             "Coll-203/A1/64",
             "Coll-203/A1/67",
+            "Coll-203/A1/47",
+            "Coll-203/A1/38",
+            "Coll-203/A1/60",
+            "Coll-203/A1/63",
             "Coll-203/A1/68",
+            "Coll-203/A1/57",
+            "Coll-203/A1/43",
             "Coll-203/A1/79",
             "Coll-203/A1/239"
-        ]
-    },
-    {
-        "title": "Beck, Douglas",
-        "id": "/agents/people/16859",
-        "published": 0,
-        "entries": []
-    },
-    {
-        "title": "Virlet d'Aoust, Pierre Theodore, 1800-1894 (French geologist, civil engineer)",
-        "id": "/agents/people/19669",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/57",
-            "Coll-203/A1/64"
         ]
     },
     {
         "title": "Buckley, Arabella Burton, 1840 \u2013 1929 (Writer and Educator)",
         "id": "/agents/people/22270",
         "published": true,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/255",
+            "Coll-203/A1/259",
+            "Coll-203/A1/258",
+            "Coll-203/A1/254",
+            "Coll-203/A1/260",
+            "Coll-203/A1/251",
+            "Coll-203/A1/249",
+            "Coll-203/A1/248"
+        ]
     },
     {
         "title": "Grey, Sir George, 1812-1898 (colonial governor)",
         "id": "/agents/people/377",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/255"
+        ]
     },
     {
         "title": "Lyell, Leonard, 1st Baron Lyell, 1850-1926",
         "id": "/agents/people/1073",
         "published": true,
         "entries": [
-            "Coll-203/A1/254",
             "Coll-203/A1/255",
-            "Coll-203/A1/258"
+            "Coll-203/A1/258",
+            "Coll-203/A1/254"
         ]
     },
     {
@@ -145,32 +436,63 @@
         ]
     },
     {
-        "title": "Prestwich, Sir Joseph, 1812-1896 (Fellow of the Royal Society | Geologist)",
+        "title": "Prestwich, Sir Joseph, 1812-1896 (British geologist and businessman, Fellow of the Royal Society)",
         "id": "/agents/people/1124",
         "published": true,
         "entries": [
-            "Coll-203/A1/150",
-            "Coll-203/A1/239",
+            "Coll-203/A1/255",
             "Coll-203/A1/245",
             "Coll-203/A1/248",
-            "Coll-203/A1/255"
+            "Coll-203/A1/239",
+            "Coll-203/A1/150"
+        ]
+    },
+    {
+        "title": "Beck, Douglas",
+        "id": "/agents/people/16859",
+        "published": 0,
+        "entries": [
+            "Coll-203/A1/64"
+        ]
+    },
+    {
+        "title": "Virlet d'Aoust, Pierre Theodore, 1800-1894 (French geologist, civil engineer)",
+        "id": "/agents/people/19669",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/64",
+            "Coll-203/A1/57"
+        ]
+    },
+    {
+        "title": "Whewell, William, 1794-1866 (English polymath, scientist, Anglican priest, philosopher, theologian, and historian of science)",
+        "id": "/agents/people/24008",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/64"
         ]
     },
     {
         "title": "Babbage, Charles, 1791-1871",
         "id": "/agents/people/19144",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/52",
+            "Coll-203/A1/107",
+            "Coll-203/A1/44",
+            "Coll-203/A1/87",
+            "Coll-203/A1/5"
+        ]
     },
     {
         "title": "De la Beche, Thomas, 1796-1855 (English geologist, palaeontologist)",
         "id": "/agents/people/19360",
         "published": true,
         "entries": [
-            "Coll-203/A1/4",
             "Coll-203/A1/52",
+            "Coll-203/A1/258",
             "Coll-203/A1/117",
-            "Coll-203/A1/258"
+            "Coll-203/A1/4"
         ]
     },
     {
@@ -193,6 +515,14 @@
     {
         "title": "Herschel, William, 1738-1822 (Hanoverian astronomer and composer of music)",
         "id": "/agents/people/20883",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/24"
+        ]
+    },
+    {
+        "title": "Smyth, William Henry, 1788-1865 (British astronomer and hydrographer)",
+        "id": "/agents/people/16621",
         "published": true,
         "entries": [
             "Coll-203/A1/24"
@@ -227,12 +557,12 @@
         "id": "/agents/people/20929",
         "published": true,
         "entries": [
+            "Coll-203/A1/82",
             "Coll-203/A1/68",
             "Coll-203/A1/69",
             "Coll-203/A1/78",
-            "Coll-203/A1/82",
-            "Coll-203/A1/109",
-            "Coll-203/A1/111"
+            "Coll-203/A1/111",
+            "Coll-203/A1/109"
         ]
     },
     {
@@ -240,8 +570,16 @@
         "id": "/agents/people/746",
         "published": true,
         "entries": [
-            "Coll-203/A1/111",
-            "Coll-203/A1/259"
+            "Coll-203/A1/259",
+            "Coll-203/A1/111"
+        ]
+    },
+    {
+        "title": "Woodward, Henry Bolingbroke (English geologist and paleontologist)",
+        "id": "/agents/people/19145",
+        "published": false,
+        "entries": [
+            "Coll-203/A1/107"
         ]
     },
     {
@@ -258,34 +596,32 @@
         "id": "/agents/people/303",
         "published": true,
         "entries": [
-            "Coll-203/A1/69",
             "Coll-203/A1/71",
-            "Coll-203/A1/73",
+            "Coll-203/A1/81",
+            "Coll-203/A1/87",
+            "Coll-203/A1/86",
             "Coll-203/A1/74",
             "Coll-203/A1/75",
-            "Coll-203/A1/76",
+            "Coll-203/A1/73",
+            "Coll-203/A1/116",
+            "Coll-203/A1/69",
             "Coll-203/A1/77",
+            "Coll-203/A1/76",
+            "Coll-203/A1/80",
             "Coll-203/A1/78",
             "Coll-203/A1/79",
-            "Coll-203/A1/80",
-            "Coll-203/A1/81",
             "Coll-203/A1/85",
-            "Coll-203/A1/86",
-            "Coll-203/A1/87",
-            "Coll-203/A1/104",
             "Coll-203/A1/114",
             "Coll-203/A1/115",
-            "Coll-203/A1/116"
+            "Coll-203/A1/104"
         ]
     },
     {
-        "title": "Wigham, J.B. (1813-1851)",
-        "id": "/agents/people/20947",
+        "title": "Meulien, Tullia, Madam, fl 1839 (French translator of Lyell's Principles)",
+        "id": "/agents/people/23952",
         "published": true,
         "entries": [
-            "Coll-203/A1/76",
-            "Coll-203/A1/78",
-            "Coll-203/A1/79"
+            "Coll-203/A1/71"
         ]
     },
     {
@@ -293,25 +629,42 @@
         "id": "/agents/people/20952",
         "published": true,
         "entries": [
-            "Coll-203/A1/80",
-            "Coll-203/A1/81"
+            "Coll-203/A1/81",
+            "Coll-203/A1/80"
         ]
     },
     {
-        "title": "Woodward, Henry Bolingbroke (English geologist and paleontologist)",
-        "id": "/agents/people/19145",
+        "title": "Vibraye, Paul Hurault de, 8th Marquis de, 1809\u20131878 (French archaeologist)",
+        "id": "/agents/people/24062",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/81",
+            "Coll-203/A1/76",
+            "Coll-203/A1/85"
+        ]
+    },
+    {
+        "title": "Stokes, Charles, 1784-1853 (British stockbroker, art collector, and amateur scientist)",
+        "id": "/agents/people/19149",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/44",
+            "Coll-203/A1/108",
+            "Coll-203/A1/74",
+            "Coll-203/A1/75",
+            "Coll-203/A1/119",
+            "Coll-203/A1/120"
+        ]
     },
     {
         "title": "Murchison, Charlotte, 1788-1869 (nee Hougin, geologist, wife of Sir Roderick Impey Murchison)",
         "id": "/agents/people/8700",
         "published": true,
         "entries": [
-            "Coll-203/A1/8",
+            "Coll-203/A1/44",
             "Coll-203/A1/9",
-            "Coll-203/A1/10",
-            "Coll-203/A1/44"
+            "Coll-203/A1/8",
+            "Coll-203/A1/10"
         ]
     },
     {
@@ -323,49 +676,19 @@
         ]
     },
     {
-        "title": "Stokes, Charles, 1784-1853 (British stockbroker, art collector, and amateur scientist)",
-        "id": "",
-        "published": false,
-        "entries": []
-    },
-    {
-        "title": "Brongniart, Alexandre, 1770-1847 (French mineralogist, geologist and naturalist)",
-        "id": "/agents/people/27",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/7",
-            "Coll-203/A1/54",
-            "Coll-203/A1/57",
-            "Coll-203/A1/68",
-            "Coll-203/A1/69",
-            "Coll-203/A1/108",
-            "Coll-203/A1/109"
-        ]
-    },
-    {
-        "title": "Desnoyers, Jules Pierre Fran\u00e7ois Stanislaus, 1800-1887 (French geologist and archaeologist)",
-        "id": "/agents/people/19148",
-        "published": false,
-        "entries": []
-    },
-    {
-        "title": "Prevost, Louis-Constant, 1787-1856 (French geologist)",
-        "id": "/agents/people/19150",
-        "published": false,
-        "entries": []
-    },
-    {
         "title": "Conrad, T.A., 1803-1877 (American paleontologist and malacologist)",
         "id": "/agents/people/159",
         "published": true,
         "entries": [
             "Coll-203/A1/87",
+            "Coll-203/A1/97",
             "Coll-203/A1/95",
             "Coll-203/A1/96",
-            "Coll-203/A1/97",
             "Coll-203/A1/98",
             "Coll-203/A1/102",
-            "Coll-203/A1/128"
+            "Coll-203/A1/128",
+            "Coll-203/A1/126",
+            "Coll-203/A1/133"
         ]
     },
     {
@@ -373,16 +696,16 @@
         "id": "/agents/people/928",
         "published": true,
         "entries": [
-            "Coll-203/A1/70",
-            "Coll-203/A1/73",
+            "Coll-203/A1/87",
+            "Coll-203/A1/86",
             "Coll-203/A1/74",
             "Coll-203/A1/75",
+            "Coll-203/A1/73",
+            "Coll-203/A1/70",
+            "Coll-203/A1/249",
             "Coll-203/A1/85",
-            "Coll-203/A1/86",
-            "Coll-203/A1/87",
             "Coll-203/A1/114",
-            "Coll-203/A1/115",
-            "Coll-203/A1/249"
+            "Coll-203/A1/115"
         ]
     },
     {
@@ -390,13 +713,14 @@
         "id": "/agents/people/20898",
         "published": true,
         "entries": [
+            "Coll-203/A1/87",
+            "Coll-203/A1/86",
+            "Coll-203/A1/105",
             "Coll-203/A1/63",
             "Coll-203/A1/75",
-            "Coll-203/A1/80",
-            "Coll-203/A1/86",
-            "Coll-203/A1/87",
             "Coll-203/A1/88",
-            "Coll-203/A1/105"
+            "Coll-203/A1/80",
+            "Coll-203/A1/139"
         ]
     },
     {
@@ -404,16 +728,16 @@
         "id": "/agents/people/1158",
         "published": true,
         "entries": [
-            "Coll-203/A1/56",
+            "Coll-203/A1/87",
+            "Coll-203/A1/117",
             "Coll-203/A1/74",
             "Coll-203/A1/75",
-            "Coll-203/A1/78",
-            "Coll-203/A1/79",
-            "Coll-203/A1/80",
-            "Coll-203/A1/87",
             "Coll-203/A1/88",
+            "Coll-203/A1/56",
             "Coll-203/A1/98",
-            "Coll-203/A1/117"
+            "Coll-203/A1/80",
+            "Coll-203/A1/78",
+            "Coll-203/A1/79"
         ]
     },
     {
@@ -421,16 +745,16 @@
         "id": "/agents/people/19363",
         "published": true,
         "entries": [
-            "Coll-203/A1/4",
-            "Coll-203/A1/73",
+            "Coll-203/A1/87",
+            "Coll-203/A1/86",
+            "Coll-203/A1/105",
             "Coll-203/A1/74",
             "Coll-203/A1/75",
-            "Coll-203/A1/79",
-            "Coll-203/A1/86",
-            "Coll-203/A1/87",
+            "Coll-203/A1/73",
             "Coll-203/A1/101",
+            "Coll-203/A1/4",
+            "Coll-203/A1/79",
             "Coll-203/A1/102",
-            "Coll-203/A1/105",
             "Coll-203/A1/119"
         ]
     },
@@ -439,8 +763,9 @@
         "id": "/agents/people/28",
         "published": true,
         "entries": [
-            "Coll-203/A1/83",
-            "Coll-203/A1/87"
+            "Coll-203/A1/87",
+            "Coll-203/A1/260",
+            "Coll-203/A1/83"
         ]
     },
     {
@@ -461,6 +786,51 @@
         ]
     },
     {
+        "title": "Brongniart, Alexandre, 1770-1847 (French mineralogist, geologist and naturalist)",
+        "id": "/agents/people/27",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/108",
+            "Coll-203/A1/54",
+            "Coll-203/A1/68",
+            "Coll-203/A1/69",
+            "Coll-203/A1/7",
+            "Coll-203/A1/57",
+            "Coll-203/A1/109"
+        ]
+    },
+    {
+        "title": "Desnoyers, Jules Pierre Fran\u00e7ois Stanislaus, 1800-1887 (French geologist and archaeologist)",
+        "id": "/agents/people/19148",
+        "published": false,
+        "entries": [
+            "Coll-203/A1/108",
+            "Coll-203/A1/39",
+            "Coll-203/A1/69",
+            "Coll-203/A1/58",
+            "Coll-203/A1/7",
+            "Coll-203/A1/79"
+        ]
+    },
+    {
+        "title": "Prevost, Louis-Constant, 1787-1856 (French geologist)",
+        "id": "/agents/people/19150",
+        "published": false,
+        "entries": [
+            "Coll-203/A1/108"
+        ]
+    },
+    {
+        "title": "Maclure, William, 1763 \u2013 1840 (Scottish American geologist, cartographer, philanthropist )",
+        "id": "/agents/people/20885",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/35",
+            "Coll-203/A1/33",
+            "Coll-203/A1/139"
+        ]
+    },
+    {
         "title": "Des Moulins, Charles Robert Alexandre, 1798-1875 (French naturalist, a botanist and malacologist)",
         "id": "/agents/people/20912",
         "published": true,
@@ -473,8 +843,8 @@
         "id": "/agents/people/20741",
         "published": true,
         "entries": [
-            "Coll-203/A1/2",
-            "Coll-203/A1/40"
+            "Coll-203/A1/40",
+            "Coll-203/A1/2"
         ]
     },
     {
@@ -482,10 +852,10 @@
         "id": "/agents/people/20887",
         "published": true,
         "entries": [
-            "Coll-203/A1/43",
             "Coll-203/A1/48",
-            "Coll-203/A1/99",
-            "Coll-203/A1/114"
+            "Coll-203/A1/43",
+            "Coll-203/A1/114",
+            "Coll-203/A1/99"
         ]
     },
     {
@@ -511,22 +881,17 @@
         "published": true,
         "entries": [
             "Coll-203/A1/66",
-            "Coll-203/A1/68",
-            "Coll-203/A1/83"
+            "Coll-203/A1/83",
+            "Coll-203/A1/68"
         ]
     },
     {
         "title": "Lamarck, Jean Baptiste Pierre Antoine de Monet Chevalier de, 1744-1829 (French naturalist)",
         "id": "/agents/people/1357",
         "published": 0,
-        "entries": []
-    },
-    {
-        "title": "Maclure, William, 1763 \u2013 1840 (Scottish American geologist, cartographer, philanthropist )",
-        "id": "/agents/people/20885",
-        "published": true,
         "entries": [
-            "Coll-203/A1/33"
+            "Coll-203/A1/67",
+            "Coll-203/A1/39"
         ]
     },
     {
@@ -535,131 +900,6 @@
         "published": true,
         "entries": [
             "Coll-203/A1/31"
-        ]
-    },
-    {
-        "title": "Rogers, Henry Darwin, 1808-1866 (American geologist | Professor of Natural History and Geology, University of Glasgow)",
-        "id": "/agents/people/21249",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/95",
-            "Coll-203/A1/97",
-            "Coll-203/A1/98",
-            "Coll-203/A1/99"
-        ]
-    },
-    {
-        "title": "Harlan, Richard, 1796-1843 (American naturalist, zoologist)",
-        "id": "/agents/people/21216",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/93",
-            "Coll-203/A1/97",
-            "Coll-203/A1/98",
-            "Coll-203/A1/99"
-        ]
-    },
-    {
-        "title": "Lea, Isaac, 1792-1886 (American conchologist, geologist, and publisher)",
-        "id": "/agents/people/20928",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/68",
-            "Coll-203/A1/93",
-            "Coll-203/A1/97"
-        ]
-    },
-    {
-        "title": "Morton,  Samuel George, 1799-1851 (American physician, natural scientist | University of Edinburgh alumnus 1824)",
-        "id": "/agents/people/21250",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/97"
-        ]
-    },
-    {
-        "title": "Gibbs, George, 1815\u20131873 (American ethnologist, naturalist and geologist)",
-        "id": "/agents/people/21251",
-        "published": false,
-        "entries": []
-    },
-    {
-        "title": "Haldeman, Samuel Stehman, 1812-1880 (American naturalist and philologist)",
-        "id": "/agents/people/21252",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/97"
-        ]
-    },
-    {
-        "title": "Edmund, Ravenel, 1797-1871 (American physician, professor, plantation owner, and naturalist)",
-        "id": "/agents/people/21248",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/95",
-            "Coll-203/A1/97",
-            "Coll-203/A1/98"
-        ]
-    },
-    {
-        "title": "Hoare, Richard Colt , Sir, 1758 \u2013 1838 (English antiquarian, archaeologist, artist, and traveler)",
-        "id": "/agents/people/22309",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/248"
-        ]
-    },
-    {
-        "title": "Busk, George, 1807-1886 (surgeon)",
-        "id": "/agents/people/57",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/248"
-        ]
-    },
-    {
-        "title": "Godwin-Austen, Henry Haversham, 1834-1923 (English topographer, geologist, naturalist and surveyor)",
-        "id": "/agents/people/1531",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/248"
-        ]
-    },
-    {
-        "title": "Rolleston , George, 1829 \u2013 1881 (English physician and zoologist)",
-        "id": "/agents/people/22295",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/245",
-            "Coll-203/A1/248"
-        ]
-    },
-    {
-        "title": "Huxley, Thomas Henry, 1825-1895 (English biologist and anthropologist)",
-        "id": "/agents/people/20772",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/248",
-            "Coll-203/A1/258"
-        ]
-    },
-    {
-        "title": "Bunbury, Edward Herbert, 1811-1895 (English barrister, politician and geographer)",
-        "id": "/agents/people/22310",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/248"
-        ]
-    },
-    {
-        "title": "Cuvier, Georges, 1769- 1832 (French zoologist and statesman)",
-        "id": "/agents/people/19151",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/2",
-            "Coll-203/A1/4",
-            "Coll-203/A1/28",
-            "Coll-203/A1/39"
         ]
     },
     {
@@ -676,11 +916,11 @@
         "published": true,
         "entries": [
             "Coll-203/A1/47",
+            "Coll-203/A1/117",
             "Coll-203/A1/83",
             "Coll-203/A1/85",
-            "Coll-203/A1/117",
-            "Coll-203/A1/127",
-            "Coll-203/A1/150"
+            "Coll-203/A1/150",
+            "Coll-203/A1/127"
         ]
     },
     {
@@ -688,26 +928,11 @@
         "id": "/agents/people/20886",
         "published": true,
         "entries": [
-            "Coll-203/A1/43",
             "Coll-203/A1/47",
+            "Coll-203/A1/86",
+            "Coll-203/A1/43",
             "Coll-203/A1/85",
-            "Coll-203/A1/86"
-        ]
-    },
-    {
-        "title": "Hamilton, William, 1730-1803 (British Ambassador to the Kingdom of Naples 1764-1800  | Vulcanologist | Fellow of the Royal Society)",
-        "id": "/agents/people/20875",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/18"
-        ]
-    },
-    {
-        "title": "zu M\u00fcnster, Graf Ernst Friedrich Herbert, 1766-1839 (German statesman, politician)",
-        "id": "/agents/people/20894",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/50"
+            "Coll-203/A1/155"
         ]
     },
     {
@@ -715,14 +940,23 @@
         "id": "/agents/people/445",
         "published": true,
         "entries": [
+            "Coll-203/A1/258",
             "Coll-203/A1/245",
-            "Coll-203/A1/249",
-            "Coll-203/A1/258"
+            "Coll-203/A1/249"
         ]
     },
     {
-        "title": "Carruthers, William, 1830-1922 (Scottish botanist and paleobotanist)",
-        "id": "/agents/people/22341",
+        "title": "Huxley, Thomas Henry, 1825-1895 (English biologist and anthropologist)",
+        "id": "/agents/people/20772",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/258",
+            "Coll-203/A1/248"
+        ]
+    },
+    {
+        "title": "Carruthers, William, 1830-1922 (botanist, Keeper of the Department of Botany, British Museum)",
+        "id": "/agents/people/18",
         "published": true,
         "entries": [
             "Coll-203/A1/258"
@@ -732,22 +966,26 @@
         "title": "Etheridge, Robert, 1819-1903 (geologist and palaeontologist)",
         "id": "/agents/people/8792",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/258"
+        ]
     },
     {
         "title": "Bryce, James , 1806-1877 (Irish mathematician, naturalist and geologist.)",
         "id": "/agents/people/22215",
         "published": true,
         "entries": [
-            "Coll-203/A1/113",
-            "Coll-203/A1/258"
+            "Coll-203/A1/258",
+            "Coll-203/A1/113"
         ]
     },
     {
         "title": "Young, John, 1835-1902 (Gillespie lecturer in geology and Keeper of the Hunterian Museum, University of Glasgow)",
         "id": "/agents/people/8828",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/258"
+        ]
     },
     {
         "title": "Forbes, David, 1828-1876 (Manx mineralogist, metallurgist, and chemist, secretary to the Geological Society)",
@@ -786,8 +1024,8 @@
         "id": "/agents/people/298",
         "published": true,
         "entries": [
-            "Coll-203/A1/105",
-            "Coll-203/A1/258"
+            "Coll-203/A1/258",
+            "Coll-203/A1/105"
         ]
     },
     {
@@ -795,7 +1033,8 @@
         "id": "/agents/people/22342",
         "published": true,
         "entries": [
-            "Coll-203/A1/258"
+            "Coll-203/A1/258",
+            "Coll-203/A1/260"
         ]
     },
     {
@@ -807,24 +1046,127 @@
         ]
     },
     {
+        "title": "Rogers, Henry Darwin, 1808-1866 (American geologist | Professor of Natural History and Geology, University of Glasgow)",
+        "id": "/agents/people/21249",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/97",
+            "Coll-203/A1/95",
+            "Coll-203/A1/98",
+            "Coll-203/A1/99"
+        ]
+    },
+    {
+        "title": "Harlan, Richard, 1796-1843 (American naturalist, zoologist)",
+        "id": "/agents/people/21216",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/97",
+            "Coll-203/A1/98",
+            "Coll-203/A1/93",
+            "Coll-203/A1/99"
+        ]
+    },
+    {
+        "title": "Lea, Isaac, 1792-1886 (American conchologist, geologist, and publisher)",
+        "id": "/agents/people/20928",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/97",
+            "Coll-203/A1/68",
+            "Coll-203/A1/93"
+        ]
+    },
+    {
+        "title": "Morton,  Samuel George, 1799-1851 (American physician, natural scientist | University of Edinburgh alumnus 1824)",
+        "id": "/agents/people/21250",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/97",
+            "Coll-203/A1/126"
+        ]
+    },
+    {
+        "title": "Gibbs, George, 1815\u20131873 (American ethnologist, naturalist and geologist)",
+        "id": "/agents/people/21251",
+        "published": false,
+        "entries": [
+            "Coll-203/A1/97"
+        ]
+    },
+    {
+        "title": "Haldeman, Samuel Stehman, 1812-1880 (American naturalist and philologist)",
+        "id": "/agents/people/21252",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/97"
+        ]
+    },
+    {
+        "title": "Edmund, Ravenel, 1797-1871 (American physician, professor, plantation owner, and naturalist)",
+        "id": "/agents/people/21248",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/97",
+            "Coll-203/A1/95",
+            "Coll-203/A1/98"
+        ]
+    },
+    {
+        "title": "Cuvier, Georges, 1769- 1832 (French zoologist and statesman)",
+        "id": "/agents/people/19151",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/28",
+            "Coll-203/A1/39",
+            "Coll-203/A1/2",
+            "Coll-203/A1/4"
+        ]
+    },
+    {
+        "title": "Hamilton, William, 1730-1803 (British Ambassador to the Kingdom of Naples 1764-1800  | Vulcanologist | Fellow of the Royal Society)",
+        "id": "/agents/people/20875",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/18"
+        ]
+    },
+    {
+        "title": "zu M\u00fcnster, Graf Ernst Friedrich Herbert, 1766-1839 (German statesman, politician)",
+        "id": "/agents/people/20894",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/50"
+        ]
+    },
+    {
         "title": "Couper, James Hamilton, 1794 - 1866 (American planter and slaver)",
         "id": "/agents/people/19147",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/129",
+            "Coll-203/A1/96",
+            "Coll-203/A1/128",
+            "Coll-203/A1/126",
+            "Coll-203/A1/132",
+            "Coll-203/A1/137"
+        ]
     },
     {
         "title": "Dawson, Sir John William, 1820-1899 (geologist)",
         "id": "/agents/people/8722",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/118"
+        ]
     },
     {
         "title": "Woodward, Samuel Pickworth, 1821-1865 (English geologist and malacologist)",
         "id": "/agents/people/140",
         "published": true,
         "entries": [
-            "Coll-203/A1/116",
             "Coll-203/A1/118",
+            "Coll-203/A1/116",
             "Coll-203/A1/249"
         ]
     },
@@ -840,31 +1182,36 @@
         "title": "Dawson, John William, Sir, 1820-1899 (Canadian geologist and university administrator)",
         "id": "/agents/people/22306",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/118"
+        ]
     },
     {
-        "title": "Verneuil, Edouard De, 1805-1873 (French geologist)",
+        "title": "Verneuil, \u00c9douard de, 1805-1873 (French palaeontologist)",
         "id": "/agents/people/8705",
-        "published": 0,
+        "published": true,
         "entries": [
-            "Coll-203/A1/119",
-            "Coll-203/A1/245"
+            "Coll-203/A1/118",
+            "Coll-203/A1/111"
         ]
     },
     {
         "title": "Davidson, Thomas, 1817-1885 (palaeontologist)",
         "id": "/agents/people/8841",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/118"
+        ]
     },
     {
         "title": "Bunbury, Sir Charles James Fox, 1809-1886 (8th Baronet of  Barton Hall, Sussex (England) | English naturalist)",
         "id": "/agents/people/106",
         "published": true,
         "entries": [
-            "Coll-203/A1/86",
             "Coll-203/A1/117",
-            "Coll-203/A1/120"
+            "Coll-203/A1/86",
+            "Coll-203/A1/120",
+            "Coll-203/A1/157"
         ]
     },
     {
@@ -872,8 +1219,8 @@
         "id": "/agents/people/21019",
         "published": true,
         "entries": [
-            "Coll-203/A1/78",
-            "Coll-203/A1/117"
+            "Coll-203/A1/117",
+            "Coll-203/A1/78"
         ]
     },
     {
@@ -881,15 +1228,16 @@
         "id": "/agents/people/101",
         "published": true,
         "entries": [
+            "Coll-203/A1/117",
+            "Coll-203/A1/116",
             "Coll-203/A1/80",
             "Coll-203/A1/111",
             "Coll-203/A1/114",
             "Coll-203/A1/115",
-            "Coll-203/A1/116",
-            "Coll-203/A1/117",
             "Coll-203/A1/119",
             "Coll-203/A1/120",
-            "Coll-203/A1/150"
+            "Coll-203/A1/150",
+            "Coll-203/A1/155"
         ]
     },
     {
@@ -897,14 +1245,16 @@
         "id": "/agents/people/8849",
         "published": 0,
         "entries": [
-            "Coll-203/A1/150"
+            "Coll-203/A1/117"
         ]
     },
     {
         "title": "Carpenter, William Benjamin, 1813-1885 (naturalist)",
         "id": "/agents/people/8832",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/117"
+        ]
     },
     {
         "title": "Sykes , William Henry, Colonel, 1790-1872 (English naturalist)",
@@ -923,30 +1273,6 @@
         ]
     },
     {
-        "title": "Blackadder, William, 1782-1860 (Surveyor, Architect from Glamis, Forfarshire)",
-        "id": "/agents/people/26",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/30",
-            "Coll-203/A1/63",
-            "Coll-203/A1/72",
-            "Coll-203/A1/78",
-            "Coll-203/A1/105",
-            "Coll-203/A1/240"
-        ]
-    },
-    {
-        "title": "Fleming, John, 1785 - 1857 (Free Church of Scotland minister, naturalist, zoologist, geologist)",
-        "id": "/agents/people/21",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/77",
-            "Coll-203/A1/78",
-            "Coll-203/A1/85",
-            "Coll-203/A1/105"
-        ]
-    },
-    {
         "title": "Milne-Home, David, 1805-1890 (Scottish advocate, geologist, meteorologist)",
         "id": "/agents/people/6",
         "published": true,
@@ -959,11 +1285,11 @@
         "id": "/agents/people/13320",
         "published": true,
         "entries": [
-            "Coll-203/A1/78",
-            "Coll-203/A1/80",
-            "Coll-203/A1/85",
             "Coll-203/A1/86",
-            "Coll-203/A1/111"
+            "Coll-203/A1/80",
+            "Coll-203/A1/78",
+            "Coll-203/A1/111",
+            "Coll-203/A1/85"
         ]
     },
     {
@@ -972,6 +1298,114 @@
         "published": true,
         "entries": [
             "Coll-203/A1/86"
+        ]
+    },
+    {
+        "title": "Wood, E.R, Colonel, fl 1861 (of Stouthall, Swansea, cave explorer and collector)",
+        "id": "/agents/people/24071",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/86"
+        ]
+    },
+    {
+        "title": "Blackadder, William, 1782-1860 (Surveyor, Architect from Glamis, Forfarshire)",
+        "id": "/agents/people/26",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/105",
+            "Coll-203/A1/63",
+            "Coll-203/A1/72",
+            "Coll-203/A1/30",
+            "Coll-203/A1/78",
+            "Coll-203/A1/240"
+        ]
+    },
+    {
+        "title": "Fleming, John, 1785 - 1857 (Free Church of Scotland minister, naturalist, zoologist, geologist)",
+        "id": "/agents/people/21",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/105",
+            "Coll-203/A1/77",
+            "Coll-203/A1/78",
+            "Coll-203/A1/85"
+        ]
+    },
+    {
+        "title": "Torell, Otto Martin, 1828 \u2013 1900 (Swedish Naturalist and Geologist)",
+        "id": "/agents/people/22269",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/254",
+            "Coll-203/A1/249"
+        ]
+    },
+    {
+        "title": "Hicks, Henry, 1837-1899 (Welsh geologist and surgeon)",
+        "id": "/agents/people/921",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/254"
+        ]
+    },
+    {
+        "title": "Symonds, William Samuel, 1818-1887 (geologist)",
+        "id": "/agents/people/1090",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/254",
+            "Coll-203/A1/249"
+        ]
+    },
+    {
+        "title": "Ramsey, Andrew Crombie , 1814-1891 (Scottish Geologist )",
+        "id": "/agents/people/22266",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/254",
+            "Coll-203/A1/245",
+            "Coll-203/A1/249"
+        ]
+    },
+    {
+        "title": "Whitaker, William, 1836-1925 (geologist)",
+        "id": "/agents/people/8993",
+        "published": 0,
+        "entries": [
+            "Coll-203/A1/254"
+        ]
+    },
+    {
+        "title": "Croll, James, 1821-1890 (physical geologist and Keeper of Maps and Correspondence, Geological Survey of Scotland)",
+        "id": "/agents/people/8834",
+        "published": 0,
+        "entries": [
+            "Coll-203/A1/254"
+        ]
+    },
+    {
+        "title": "Pratt, John Henry, Archdeacon, 1809-1871 (British clergyman, astronomer and mathematician)",
+        "id": "/agents/people/22339",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/254"
+        ]
+    },
+    {
+        "title": "Moseley, 1844-1891 (professor of zoology and comparative anatomy, University of Oxford)",
+        "id": "/agents/people/857",
+        "published": 0,
+        "entries": [
+            "Coll-203/A1/254"
+        ]
+    },
+    {
+        "title": "Thomson, Sir William, 1824-1907 (1st Baron Kelvin | mathematical physicist and Professor of Natural Philosophy, University of Glasgow 1846-1899)",
+        "id": "/agents/people/247",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/254"
         ]
     },
     {
@@ -988,7 +1422,8 @@
         "published": true,
         "entries": [
             "Coll-203/A1/95",
-            "Coll-203/A1/98"
+            "Coll-203/A1/98",
+            "Coll-203/A1/103"
         ]
     },
     {
@@ -1000,97 +1435,75 @@
         ]
     },
     {
-        "title": "Torell, Otto Martin, 1828 \u2013 1900 (Swedish Naturalist and Geologist)",
-        "id": "/agents/people/22269",
-        "published": true,
+        "title": "Martineau, Harriet, 1802-1876 (English social theorist)",
+        "id": "/agents/people/22345",
+        "published": false,
         "entries": [
-            "Coll-203/A1/249",
-            "Coll-203/A1/254"
+            "Coll-203/A1/260",
+            "Coll-203/A1/135",
+            "Coll-203/A1/156",
+            "Coll-203/A1/155"
         ]
     },
     {
-        "title": "Hicks, Henry, 1837-1899 (Welsh geologist and surgeon)",
-        "id": "/agents/people/921",
+        "title": "Contejean, Charles, 1824-1907 (French naturalist)",
+        "id": "/agents/people/22346",
         "published": true,
         "entries": [
-            "Coll-203/A1/254"
+            "Coll-203/A1/260"
         ]
     },
     {
-        "title": "Symonds, William Samuel, 1818-1887 (geologist)",
-        "id": "/agents/people/1090",
+        "title": "Lartet, Edouard William, 1801-1871 (French geologist and paleontologist)",
+        "id": "/agents/people/1159",
         "published": true,
         "entries": [
-            "Coll-203/A1/249",
-            "Coll-203/A1/254"
-        ]
-    },
-    {
-        "title": "Ramsey, Andrew Crombie , 1814-1891 (Scottish Geologist )",
-        "id": "/agents/people/22266",
-        "published": true,
-        "entries": [
+            "Coll-203/A1/260",
             "Coll-203/A1/245",
             "Coll-203/A1/249",
-            "Coll-203/A1/254"
+            "Coll-203/A1/239"
         ]
     },
     {
-        "title": "Whitaker, William, 1836-1925 (geologist)",
-        "id": "/agents/people/8993",
-        "published": 0,
-        "entries": []
-    },
-    {
-        "title": "Croll, James, 1821-1890 (physical geologist and Keeper of Maps and Correspondence, Geological Survey of Scotland)",
-        "id": "/agents/people/8834",
-        "published": 0,
-        "entries": []
-    },
-    {
-        "title": "Pratt, John Henry, Archdeacon, 1809-1871 (British clergyman, astronomer and mathematician)",
-        "id": "/agents/people/22339",
+        "title": "Falconer, Hugh, 1808-1865 (palaeontologist and botanist)",
+        "id": "/agents/people/13",
         "published": true,
         "entries": [
-            "Coll-203/A1/254"
-        ]
-    },
-    {
-        "title": "Moseley, 1844-1891 (professor of zoology and comparative anatomy, University of Oxford)",
-        "id": "/agents/people/857",
-        "published": 0,
-        "entries": []
-    },
-    {
-        "title": "Thomson, Sir William, 1824-1907 (1st Baron Kelvin | mathematical physicist and Professor of Natural Philosophy, University of Glasgow 1846-1899)",
-        "id": "/agents/people/247",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/254"
+            "Coll-203/A1/260",
+            "Coll-203/A1/111",
+            "Coll-203/A1/114",
+            "Coll-203/A1/115",
+            "Coll-203/A1/239",
+            "Coll-203/A1/244",
+            "Coll-203/A1/119",
+            "Coll-203/A1/120"
         ]
     },
     {
         "title": "Ehrenberg, Christian Gottried, 1795-1876 (German ecologist and geologist)",
         "id": "/agents/people/1401",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/63",
+            "Coll-203/A1/114"
+        ]
     },
     {
         "title": "Murchison, Sir Roderick Impey, 1792-1871 (1st Baronet | Scottish geologist)",
         "id": "/agents/people/13319",
         "published": true,
         "entries": [
-            "Coll-203/A1/8",
-            "Coll-203/A1/9",
-            "Coll-203/A1/10",
-            "Coll-203/A1/58",
-            "Coll-203/A1/62",
             "Coll-203/A1/63",
-            "Coll-203/A1/70",
             "Coll-203/A1/73",
-            "Coll-203/A1/85",
             "Coll-203/A1/88",
-            "Coll-203/A1/249"
+            "Coll-203/A1/9",
+            "Coll-203/A1/8",
+            "Coll-203/A1/70",
+            "Coll-203/A1/58",
+            "Coll-203/A1/10",
+            "Coll-203/A1/62",
+            "Coll-203/A1/249",
+            "Coll-203/A1/85"
         ]
     },
     {
@@ -1098,9 +1511,9 @@
         "id": "/agents/people/11",
         "published": true,
         "entries": [
+            "Coll-203/A1/63",
             "Coll-203/A1/58",
             "Coll-203/A1/62",
-            "Coll-203/A1/63",
             "Coll-203/A1/79"
         ]
     },
@@ -1118,55 +1531,18 @@
         "published": true,
         "entries": [
             "Coll-203/A1/63",
-            "Coll-203/A1/111",
-            "Coll-203/A1/245"
-        ]
-    },
-    {
-        "title": "Martineau, Harriet, 1802-1876 (English social theorist)",
-        "id": "/agents/people/22345",
-        "published": false,
-        "entries": []
-    },
-    {
-        "title": "Contejean, Charles, 1824-1907 (French naturalist)",
-        "id": "/agents/people/22346",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/260"
-        ]
-    },
-    {
-        "title": "Lartet, Edouard William, 1801-1871 (French geologist and paleontologist)",
-        "id": "/agents/people/1159",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/239",
             "Coll-203/A1/245",
-            "Coll-203/A1/249",
-            "Coll-203/A1/260"
-        ]
-    },
-    {
-        "title": "Falconer, Hugh, 1808-1865 (palaeontologist and botanist)",
-        "id": "/agents/people/13",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/111",
-            "Coll-203/A1/114",
-            "Coll-203/A1/115",
-            "Coll-203/A1/119",
-            "Coll-203/A1/120",
-            "Coll-203/A1/239",
-            "Coll-203/A1/244",
-            "Coll-203/A1/260"
+            "Coll-203/A1/111"
         ]
     },
     {
         "title": "Smith, James (James Smith of Jordan Hill), 1782-1867 (Scottish merchant, antiquarian, architect)",
         "id": "/agents/people/20901",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/74",
+            "Coll-203/A1/75"
+        ]
     },
     {
         "title": "Charlesworth, Edward, 1813-1893 (English geologist and palaeontologist)",
@@ -1180,15 +1556,35 @@
         "title": "Gould, Augustus Addison, 1805-1866 (American conchologist and malacologist)",
         "id": "/agents/people/22627",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/73",
+            "Coll-203/A1/89",
+            "Coll-203/A1/103",
+            "Coll-203/A1/94",
+            "Coll-203/A1/93",
+            "Coll-203/A1/121",
+            "Coll-203/A1/124",
+            "Coll-203/A1/126"
+        ]
+    },
+    {
+        "title": "Sismonda, Angelo, 1807-1878 (Italian mineralogist and geologist)",
+        "id": "/agents/people/23995",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/73",
+            "Coll-203/A1/83",
+            "Coll-203/A1/77",
+            "Coll-203/A1/76"
+        ]
     },
     {
         "title": "Tennant, James, 1808-1881 (mineralogist)",
         "id": "/agents/people/178",
         "published": true,
         "entries": [
-            "Coll-203/A1/114",
-            "Coll-203/A1/116"
+            "Coll-203/A1/116",
+            "Coll-203/A1/114"
         ]
     },
     {
@@ -1196,8 +1592,8 @@
         "id": "/agents/people/22238",
         "published": true,
         "entries": [
-            "Coll-203/A1/114",
-            "Coll-203/A1/116"
+            "Coll-203/A1/116",
+            "Coll-203/A1/114"
         ]
     },
     {
@@ -1214,10 +1610,12 @@
         "published": true,
         "entries": [
             "Coll-203/A1/116",
+            "Coll-203/A1/123",
             "Coll-203/A1/120",
             "Coll-203/A1/121",
-            "Coll-203/A1/123",
-            "Coll-203/A1/124"
+            "Coll-203/A1/124",
+            "Coll-203/A1/132",
+            "Coll-203/A1/125"
         ]
     },
     {
@@ -1234,26 +1632,8 @@
         "published": true,
         "entries": [
             "Coll-203/A1/116",
-            "Coll-203/A1/120"
-        ]
-    },
-    {
-        "title": "Daubeny, Charles Giles Bridle, 1795-1867 (English chemist, botanist, and geologist)",
-        "id": "/agents/people/19353",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/4",
-            "Coll-203/A1/9",
-            "Coll-203/A1/57",
-            "Coll-203/A1/80"
-        ]
-    },
-    {
-        "title": "Anderson, John (Scottish minister)",
-        "id": "/agents/people/21176",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/72"
+            "Coll-203/A1/120",
+            "Coll-203/A1/132"
         ]
     },
     {
@@ -1262,6 +1642,25 @@
         "published": true,
         "entries": [
             "Coll-203/A1/83"
+        ]
+    },
+    {
+        "title": "Daubeny, Charles Giles Bridle, 1795-1867 (English chemist, botanist, and geologist)",
+        "id": "/agents/people/19353",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/9",
+            "Coll-203/A1/57",
+            "Coll-203/A1/80",
+            "Coll-203/A1/4"
+        ]
+    },
+    {
+        "title": "Anderson, John (Scottish minister)",
+        "id": "/agents/people/21176",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/72"
         ]
     },
     {
@@ -1278,11 +1677,11 @@
         "published": true,
         "entries": [
             "Coll-203/A1/70",
+            "Coll-203/A1/245",
             "Coll-203/A1/78",
             "Coll-203/A1/111",
-            "Coll-203/A1/115",
             "Coll-203/A1/240",
-            "Coll-203/A1/245"
+            "Coll-203/A1/115"
         ]
     },
     {
@@ -1299,8 +1698,9 @@
         "published": true,
         "entries": [
             "Coll-203/A1/96",
+            "Coll-203/A1/245",
             "Coll-203/A1/102",
-            "Coll-203/A1/245"
+            "Coll-203/A1/126"
         ]
     },
     {
@@ -1330,6 +1730,59 @@
         ]
     },
     {
+        "title": "Owen, Richard, 1804-1892 (English biologist)",
+        "id": "/agents/people/20896",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/56",
+            "Coll-203/A1/111",
+            "Coll-203/A1/115",
+            "Coll-203/A1/119",
+            "Coll-203/A1/112",
+            "Coll-203/A1/150"
+        ]
+    },
+    {
+        "title": "Meyer, Christian Erich Hermann von, 1801 \u20131869 (German palaeontologist)",
+        "id": "/agents/people/22316",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/251"
+        ]
+    },
+    {
+        "title": "Pengelly, William, 12 January 1812 \u2013 16 March 1894 (British geologist and archaeologist)",
+        "id": "/agents/people/1160",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/251"
+        ]
+    },
+    {
+        "title": "Claparede, 1873-1940 (Swiss professor of psychology, University of Geneva)",
+        "id": "/agents/people/154",
+        "published": 0,
+        "entries": [
+            "Coll-203/A1/251"
+        ]
+    },
+    {
+        "title": "Gu\u0308mbel, Carl Wilhelm von, 1823-1898 (German geologist)",
+        "id": "/agents/people/22332",
+        "published": false,
+        "entries": [
+            "Coll-203/A1/251"
+        ]
+    },
+    {
+        "title": "Oppel, Albert, 1831 \u2013 1865 (German paleontologist)",
+        "id": "/agents/people/22333",
+        "published": false,
+        "entries": [
+            "Coll-203/A1/251"
+        ]
+    },
+    {
         "title": "Sorby, Henry Clifton, 1826-1908 (geologist)",
         "id": "/agents/people/127",
         "published": true,
@@ -1341,7 +1794,9 @@
         "title": "Wallich, George Charles, 1815-1899 (naturalist)",
         "id": "/agents/people/8989",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/245"
+        ]
     },
     {
         "title": "Bartlett , Abraham Dee, 1812-1897 ( Zoologist, Taxidermist, Naturalist, Superintendent of London Zoo.)",
@@ -1365,8 +1820,17 @@
         "id": "/agents/people/22241",
         "published": true,
         "entries": [
-            "Coll-203/A1/240",
-            "Coll-203/A1/245"
+            "Coll-203/A1/245",
+            "Coll-203/A1/240"
+        ]
+    },
+    {
+        "title": "Rolleston , George, 1829 \u2013 1881 (English physician and zoologist)",
+        "id": "/agents/people/22295",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/245",
+            "Coll-203/A1/248"
         ]
     },
     {
@@ -1374,8 +1838,8 @@
         "id": "/agents/people/22239",
         "published": true,
         "entries": [
-            "Coll-203/A1/114",
-            "Coll-203/A1/245"
+            "Coll-203/A1/245",
+            "Coll-203/A1/114"
         ]
     },
     {
@@ -1391,24 +1855,26 @@
         "id": "/agents/people/22224",
         "published": true,
         "entries": [
-            "Coll-203/A1/239",
-            "Coll-203/A1/245"
+            "Coll-203/A1/245",
+            "Coll-203/A1/239"
         ]
     },
     {
-        "title": "Verneuil, Edouard De, 1805-1873 (French geologist)",
+        "title": "Verneuil, Edouard de, 1805-1873 (French geologist)",
         "id": "/agents/people/1541",
         "published": true,
         "entries": [
-            "Coll-203/A1/119",
-            "Coll-203/A1/245"
+            "Coll-203/A1/245",
+            "Coll-203/A1/119"
         ]
     },
     {
         "title": "Salter, John William, 1820-1869 (palaeontologist, Geological Survey of Great Britain)",
         "id": "/agents/people/8814",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/245"
+        ]
     },
     {
         "title": "Christol, Jules de, 1802 \u2013 1861 (French paleontologist and geologist)",
@@ -1423,8 +1889,8 @@
         "id": "/agents/people/22244",
         "published": true,
         "entries": [
-            "Coll-203/A1/115",
-            "Coll-203/A1/245"
+            "Coll-203/A1/245",
+            "Coll-203/A1/115"
         ]
     },
     {
@@ -1436,38 +1902,26 @@
         ]
     },
     {
-        "title": "Meyer , Christian Erich Hermann von , 1801 \u20131869 (German palaeontologist)",
-        "id": "/agents/people/22316",
+        "title": "Hall, James (Sir James Hall of Dunglass), 1761-1832 (Scottish geologist and geophysicist | 4th Baronet)",
+        "id": "/agents/people/20921",
         "published": true,
         "entries": [
-            "Coll-203/A1/251"
+            "Coll-203/A1/91",
+            "Coll-203/A1/101",
+            "Coll-203/A1/92",
+            "Coll-203/A1/90",
+            "Coll-203/A1/93",
+            "Coll-203/A1/114",
+            "Coll-203/A1/99"
         ]
     },
     {
-        "title": "Pengelly, William, 1812-1894 (geologist)",
-        "id": "/agents/people/1160",
+        "title": "Bakewell, Robert, 1767-1843 (English geologist)",
+        "id": "/agents/people/21200",
         "published": true,
         "entries": [
-            "Coll-203/A1/251"
+            "Coll-203/A1/91"
         ]
-    },
-    {
-        "title": "Claparede, 1873-1940 (Swiss professor of psychology, University of Geneva)",
-        "id": "/agents/people/154",
-        "published": 0,
-        "entries": []
-    },
-    {
-        "title": "Gu\u0308mbel, Carl Wilhelm von, 1823-1898 (German geologist)",
-        "id": "/agents/people/22332",
-        "published": false,
-        "entries": []
-    },
-    {
-        "title": "Oppel, Albert, 1831 \u2013 1865 (German paleontologist)",
-        "id": "/agents/people/22333",
-        "published": false,
-        "entries": []
     },
     {
         "title": "Whittlesey, Charles, 1808-1886 (Soldier, geologist | Colonel, U.S.V., Ohio Infantry)",
@@ -1494,38 +1948,31 @@
         ]
     },
     {
-        "title": "Hall, James (Sir James Hall of Dunglass), 1761-1832 (Scottish geologist and geophysicist | 4th Baronet)",
-        "id": "/agents/people/20921",
+        "title": "Broderip, William John, 1789-1859 (English lawyer and naturalist)",
+        "id": "/agents/people/19351",
         "published": true,
         "entries": [
-            "Coll-203/A1/90",
-            "Coll-203/A1/91",
-            "Coll-203/A1/92",
-            "Coll-203/A1/93",
-            "Coll-203/A1/99",
-            "Coll-203/A1/101",
-            "Coll-203/A1/114"
+            "Coll-203/A1/2",
+            "Coll-203/A1/4"
         ]
     },
     {
-        "title": "Bakewell, Robert, 1767-1843 (English geologist)",
-        "id": "/agents/people/21200",
+        "title": "Croizet, Jean-Baptiste, 1787-1859 (French priest and paleontologist)",
+        "id": "/agents/people/20919",
         "published": true,
         "entries": [
-            "Coll-203/A1/91"
+            "Coll-203/A1/57",
+            "Coll-203/A1/110",
+            "Coll-203/A1/109"
         ]
     },
     {
-        "title": "Owen, Richard, 1804-1892 (English biologist)",
-        "id": "/agents/people/20896",
-        "published": true,
+        "title": "Ross, James Clark, 1800-1862 (British Royal naval officer, polar explorer)",
+        "id": "/agents/people/1389",
+        "published": false,
         "entries": [
-            "Coll-203/A1/56",
-            "Coll-203/A1/111",
-            "Coll-203/A1/112",
-            "Coll-203/A1/115",
-            "Coll-203/A1/119",
-            "Coll-203/A1/150"
+            "Coll-203/A1/57",
+            "Coll-203/A1/155"
         ]
     },
     {
@@ -1534,8 +1981,8 @@
         "published": true,
         "entries": [
             "Coll-203/A1/89",
-            "Coll-203/A1/90",
             "Coll-203/A1/98",
+            "Coll-203/A1/90",
             "Coll-203/A1/114",
             "Coll-203/A1/123",
             "Coll-203/A1/128"
@@ -1550,22 +1997,6 @@
         ]
     },
     {
-        "title": "Croizet, Jean-Baptiste, 1787-1859 (French priest and paleontologist)",
-        "id": "/agents/people/20919",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/57",
-            "Coll-203/A1/109",
-            "Coll-203/A1/110"
-        ]
-    },
-    {
-        "title": "Ross, James Clark, 1800-1862 (British Royal naval officer, polar explorer)",
-        "id": "/agents/people/1389",
-        "published": false,
-        "entries": []
-    },
-    {
         "title": "Gebhard, John, 1782-1854 (U.S. Congressman 1821-1823)",
         "id": "/agents/people/21205",
         "published": true,
@@ -1575,12 +2006,13 @@
         ]
     },
     {
-        "title": "Broderip, William John, 1789-1859 (English lawyer and naturalist)",
-        "id": "/agents/people/19351",
+        "title": "Wigham, J.B. (1813-1851)",
+        "id": "/agents/people/20947",
         "published": true,
         "entries": [
-            "Coll-203/A1/2",
-            "Coll-203/A1/4"
+            "Coll-203/A1/76",
+            "Coll-203/A1/78",
+            "Coll-203/A1/79"
         ]
     },
     {
@@ -1620,8 +2052,9 @@
         "id": "/agents/people/21213",
         "published": true,
         "entries": [
+            "Coll-203/A1/98",
             "Coll-203/A1/90",
-            "Coll-203/A1/98"
+            "Coll-203/A1/126"
         ]
     },
     {
@@ -1629,8 +2062,9 @@
         "id": "/agents/people/21257",
         "published": true,
         "entries": [
+            "Coll-203/A1/98",
             "Coll-203/A1/94",
-            "Coll-203/A1/98"
+            "Coll-203/A1/125"
         ]
     },
     {
@@ -1638,10 +2072,10 @@
         "id": "/agents/people/19378",
         "published": true,
         "entries": [
-            "Coll-203/A1/3",
+            "Coll-203/A1/43",
             "Coll-203/A1/4",
-            "Coll-203/A1/5",
-            "Coll-203/A1/43"
+            "Coll-203/A1/3",
+            "Coll-203/A1/5"
         ]
     },
     {
@@ -1649,7 +2083,8 @@
         "id": "/agents/people/20888",
         "published": true,
         "entries": [
-            "Coll-203/A1/43"
+            "Coll-203/A1/43",
+            "Coll-203/A1/155"
         ]
     },
     {
@@ -1669,22 +2104,6 @@
         ]
     },
     {
-        "title": "Forbes, James David, 1809-1868",
-        "id": "/agents/people/22216",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/113"
-        ]
-    },
-    {
-        "title": "Scouler, John, 1804-1871 (surgeon and naturalist)",
-        "id": "/agents/people/8945",
-        "published": 0,
-        "entries": [
-            "Coll-203/A1/116"
-        ]
-    },
-    {
         "title": "Pepys, Samuel, 1633-1703 (Member of Parliament)",
         "id": "/agents/people/20951",
         "published": true,
@@ -1697,8 +2116,22 @@
         "id": "/agents/people/8644",
         "published": true,
         "entries": [
-            "Coll-203/A1/4",
-            "Coll-203/A1/80"
+            "Coll-203/A1/80",
+            "Coll-203/A1/4"
+        ]
+    },
+    {
+        "title": "Silliman, Benjamin, 1779-1864 (American geologist and chemist | Professor of Chemistry, Geology and Mineralogy in Yale College)",
+        "id": "/agents/people/20931",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/78",
+            "Coll-203/A1/123",
+            "Coll-203/A1/150",
+            "Coll-203/A1/126",
+            "Coll-203/A1/132",
+            "Coll-203/A1/137",
+            "Coll-203/A1/139"
         ]
     },
     {
@@ -1772,16 +2205,6 @@
         "published": true,
         "entries": [
             "Coll-203/A1/90"
-        ]
-    },
-    {
-        "title": "Silliman, Benjamin, 1779-1864 (American geologist and chemist | Professor of Chemistry, Geology and Mineralogy in Yale College)",
-        "id": "/agents/people/20931",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/78",
-            "Coll-203/A1/123",
-            "Coll-203/A1/150"
         ]
     },
     {
@@ -1910,7 +2333,9 @@
         "published": true,
         "entries": [
             "Coll-203/A1/4",
-            "Coll-203/A1/131"
+            "Coll-203/A1/131",
+            "Coll-203/A1/135",
+            "Coll-203/A1/155"
         ]
     },
     {
@@ -1965,7 +2390,11 @@
         "title": "Fitton, William Henry, 1780-1861 (Irish physician and amateur geologist)",
         "id": "/agents/people/19380",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/4",
+            "Coll-203/A1/104",
+            "Coll-203/A1/150"
+        ]
     },
     {
         "title": "Jameson, Robert, 1774-1854 (geologist and professor of natural history, University of Edinburgh)",
@@ -1982,7 +2411,8 @@
         "published": true,
         "entries": [
             "Coll-203/A1/4",
-            "Coll-203/A1/79"
+            "Coll-203/A1/79",
+            "Coll-203/A1/30"
         ]
     },
     {
@@ -2019,6 +2449,33 @@
         ]
     },
     {
+        "title": "Dana, James Dwight, 1813-1895 (American geologist, mineralogist, and naturalist)",
+        "id": "/agents/people/172",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/103",
+            "Coll-203/A1/239",
+            "Coll-203/A1/150"
+        ]
+    },
+    {
+        "title": "Harding, Ebenezer Fitch, fl 1845-1855 (Physician and geologist, Nova Scotia)",
+        "id": "/agents/people/23828",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/103"
+        ]
+    },
+    {
+        "title": "Gesner, Abraham Pineo, 1797 - 1864 (Canadian physician and geologist )",
+        "id": "/agents/people/23829",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/103",
+            "Coll-203/A1/125"
+        ]
+    },
+    {
         "title": "Liddell, Henry George, 1811-1898 (Dean of Christ Church, Oxford, Vice-Chancellor of the University of Oxford, Headmaster Westminster School and writer of Greek lexicon. )",
         "id": "/agents/people/22267",
         "published": true,
@@ -2027,25 +2484,77 @@
         ]
     },
     {
-        "title": "Jeffreys, John Gwyn, 1809-1895 (conchologist)",
-        "id": "/agents/people/8880",
-        "published": 0,
-        "entries": []
+        "title": "Jeffreys, John Gwyn, 1809-1885 (British conchologist and malacologist)",
+        "id": "/agents/people/23716",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/249"
+        ]
     },
     {
-        "title": "Horner, Leonard (educationalist and geologist)",
+        "title": "Horner, Leonard, 1785-1864 (Scottish merchant, geologist and educational reformer)",
         "id": "/agents/people/70",
         "published": true,
         "entries": [
-            "Coll-203/A1/150",
-            "Coll-203/A1/249"
+            "Coll-203/A1/249",
+            "Coll-203/A1/150"
         ]
     },
     {
         "title": "Selwyn, Alfred Richard Cecil, 1824-1902 (geologist and director of the geological survey of Canada)",
         "id": "/agents/people/8772",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/249"
+        ]
+    },
+    {
+        "title": "Hoare, Richard Colt , Sir, 1758 \u2013 1838 (English antiquarian, archaeologist, artist, and traveler)",
+        "id": "/agents/people/22309",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/248"
+        ]
+    },
+    {
+        "title": "Busk, George, 1807-1886 (surgeon)",
+        "id": "/agents/people/57",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/248"
+        ]
+    },
+    {
+        "title": "Godwin-Austen, Henry Haversham, 1834-1923 (English topographer, geologist, naturalist and surveyor)",
+        "id": "/agents/people/1531",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/248"
+        ]
+    },
+    {
+        "title": "Bunbury, Edward Herbert, 1811-1895 (English barrister, politician and geographer)",
+        "id": "/agents/people/22310",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/248"
+        ]
+    },
+    {
+        "title": "Prigg, Henry, 1838-92 (English local antiquarian, author of \"The Icklingham Papers\")",
+        "id": "/agents/people/23985",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/248"
+        ]
+    },
+    {
+        "title": "Piquet, Jean , 1825-1912",
+        "id": "/agents/people/22228",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/111"
+        ]
     },
     {
         "title": "Beck, Lewis Caleb, 1798-1853 ( American physician, botanist, chemist, and mineralogist)",
@@ -2092,15 +2601,8 @@
         "id": "/agents/people/21224",
         "published": true,
         "entries": [
-            "Coll-203/A1/94"
-        ]
-    },
-    {
-        "title": "Piquet, Jean , 1825-1912",
-        "id": "/agents/people/22228",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/111"
+            "Coll-203/A1/94",
+            "Coll-203/A1/126"
         ]
     },
     {
@@ -2120,43 +2622,6 @@
         ]
     },
     {
-        "title": "Brodie, P B, 1815-1897 (palaeontologist)",
-        "id": "/agents/people/914",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/102"
-        ]
-    },
-    {
-        "title": "Bigsby, John Jeremiah, 1792-1881 (Canadian physician and geologist)",
-        "id": "/agents/people/8817",
-        "published": 0,
-        "entries": []
-    },
-    {
-        "title": "Benedict, Ferrand Northrup, 1803-1880 (Naturist, recorded flora and fauna of the Adirondacks)",
-        "id": "/agents/people/21267",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/102"
-        ]
-    },
-    {
-        "title": "Geinitz, Hans Bruno, 1814-1900 (Dresden University of Technology, Dresden (Germany))",
-        "id": "/agents/people/8999",
-        "published": 0,
-        "entries": []
-    },
-    {
-        "title": "Waterhouse, George Robert, 1810-1888 (naturalist)",
-        "id": "/agents/people/1091",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/114",
-            "Coll-203/A1/120"
-        ]
-    },
-    {
         "title": "Aymard, Auguste, 1808-1889 (Prehistorian and Paleontologist )",
         "id": "/agents/people/22240",
         "published": true,
@@ -2169,9 +2634,9 @@
         "id": "/agents/people/22234",
         "published": true,
         "entries": [
-            "Coll-203/A1/109",
+            "Coll-203/A1/240",
             "Coll-203/A1/110",
-            "Coll-203/A1/240"
+            "Coll-203/A1/109"
         ]
     },
     {
@@ -2179,9 +2644,9 @@
         "id": "/agents/people/22235",
         "published": true,
         "entries": [
-            "Coll-203/A1/109",
+            "Coll-203/A1/240",
             "Coll-203/A1/110",
-            "Coll-203/A1/240"
+            "Coll-203/A1/109"
         ]
     },
     {
@@ -2189,16 +2654,73 @@
         "id": "/agents/people/8721",
         "published": true,
         "entries": [
-            "Coll-203/A1/239",
-            "Coll-203/A1/240"
+            "Coll-203/A1/240",
+            "Coll-203/A1/239"
         ]
     },
     {
-        "title": "Tyndall, John , 1820-1893 (Physicist and Mountaineer)",
+        "title": "Tyndall, John, 1820-1893 (Physicist and Mountaineer)",
         "id": "/agents/people/22242",
         "published": true,
         "entries": [
             "Coll-203/A1/240"
+        ]
+    },
+    {
+        "title": "Brodie, P B, 1815-1897 (palaeontologist)",
+        "id": "/agents/people/914",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/102"
+        ]
+    },
+    {
+        "title": "Bigsby, John Jeremiah, 1792-1881 (Canadian physician and geologist)",
+        "id": "/agents/people/8817",
+        "published": 0,
+        "entries": [
+            "Coll-203/A1/102"
+        ]
+    },
+    {
+        "title": "Benedict, Ferrand Northrup, 1803-1880 (Naturist, recorded flora and fauna of the Adirondacks)",
+        "id": "/agents/people/21267",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/102"
+        ]
+    },
+    {
+        "title": "McCord, J, fl 1842 (Geologist based in Montreal, Canada)",
+        "id": "/agents/people/24029",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/102"
+        ]
+    },
+    {
+        "title": "Trimmer, Joshua, 1795\u20131857 (English geologist)",
+        "id": "/agents/people/20773",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/85"
+        ]
+    },
+    {
+        "title": "Geinitz, Hans Bruno, 1814-1900 (Dresden University of Technology, Dresden (Germany))",
+        "id": "/agents/people/8999",
+        "published": 0,
+        "entries": [
+            "Coll-203/A1/114"
+        ]
+    },
+    {
+        "title": "Waterhouse, George Robert, 1810-1888 (naturalist)",
+        "id": "/agents/people/1091",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/114",
+            "Coll-203/A1/120"
         ]
     },
     {
@@ -2246,12 +2768,12 @@
         "id": "/agents/people/22210",
         "published": true,
         "entries": [
-            "Coll-203/A1/112",
-            "Coll-203/A1/115"
+            "Coll-203/A1/115",
+            "Coll-203/A1/112"
         ]
     },
     {
-        "title": "Phillips,,  John, 1800-1874 (Geologist )",
+        "title": "Phillips,  John, 1800-1874 (Geologist )",
         "id": "/agents/people/22255",
         "published": true,
         "entries": [
@@ -2259,7 +2781,15 @@
         ]
     },
     {
-        "title": "No\u0308ggerath , Jakob, 1788-1877 (German Mineralogist and Geologist)",
+        "title": "Laurillard, Charles Le\u0301opold, 1783-1853",
+        "id": "/agents/people/22223",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/239"
+        ]
+    },
+    {
+        "title": "No\u0308ggerath, Johann Jakob , 1788-1877 (German mineralogist and geologist)",
         "id": "/agents/people/22281",
         "published": true,
         "entries": [
@@ -2278,7 +2808,9 @@
         "title": "Gray, Asa, 1810-1888 (American botanist)",
         "id": "/agents/people/335",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/244"
+        ]
     },
     {
         "title": "Ubaghs , Ge\u0301rard Casimir, 1800-1875 (Dutch Catholic philosopher and theologian)",
@@ -2308,7 +2840,9 @@
         "title": "Fuhlrott , Johann Carl, 1804-1877 (German Paleoanthropologist)",
         "id": "/agents/people/22286",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/244"
+        ]
     },
     {
         "title": "Reichardt , Gustav, 1797-1884 (German music teacher and composer)",
@@ -2327,45 +2861,22 @@
         ]
     },
     {
-        "title": "Trimmer, Joshua, 1795\u20131857 (English geologist)",
-        "id": "/agents/people/20773",
+        "title": "Malaise, Constantin Henri G\u00e9rard Louis, 7 November 1834 -1916 (Belgian naturalist)",
+        "id": "/agents/people/23948",
         "published": true,
         "entries": [
-            "Coll-203/A1/85"
-        ]
-    },
-    {
-        "title": "Laurillard, Charles Le\u0301opold, 1783-1853",
-        "id": "/agents/people/22223",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/239"
-        ]
-    },
-    {
-        "title": "Dana, James Dwight, 1813-1895 (American geologist, mineralogist, and naturalist)",
-        "id": "/agents/people/172",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/150",
-            "Coll-203/A1/239"
-        ]
-    },
-    {
-        "title": "Bigelow, John, 1804-1878 (American physician and botanist)",
-        "id": "/agents/people/21258",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/99",
-            "Coll-203/A1/123",
-            "Coll-203/A1/124"
+            "Coll-203/A1/244"
         ]
     },
     {
         "title": "Anthony, John Gould, 1804-1877 (American naturalist, mollusks)",
         "id": "/agents/people/22552",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/119",
+            "Coll-203/A1/121",
+            "Coll-203/A1/124"
+        ]
     },
     {
         "title": "Philippi, Rodolfo Amando, 1808-1904 (German\u2013Chilean paleontologist and zoologist)",
@@ -2425,54 +2936,14 @@
         ]
     },
     {
-        "title": "Jackson, Andrew, 1767-1845 (7th President of the United States)",
-        "id": "/agents/people/22404",
+        "title": "Bigelow, John, 1804-1878 (American physician and botanist)",
+        "id": "/agents/people/21258",
         "published": true,
         "entries": [
-            "Coll-203/A1/120",
-            "Coll-203/A1/123"
-        ]
-    },
-    {
-        "title": "Oakes, William, 1799-1848 (American botanist)",
-        "id": "/agents/people/22662",
-        "published": true,
-        "entries": [
+            "Coll-203/A1/99",
             "Coll-203/A1/123",
             "Coll-203/A1/124"
         ]
-    },
-    {
-        "title": "Everett, Edward, 1794-1865 (American politician, Unitarian pastor, educator, diplomat, and orator)",
-        "id": "/agents/people/22567",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/120",
-            "Coll-203/A1/122",
-            "Coll-203/A1/123",
-            "Coll-203/A1/124"
-        ]
-    },
-    {
-        "title": "Norton, Andrews, 1786-1853 (American preacher and theologian)",
-        "id": "/agents/people/22566",
-        "published": false,
-        "entries": []
-    },
-    {
-        "title": "Parker, Theodore, 1810-1860 (American transcendentalist and reforming minister of the Unitarian church)",
-        "id": "/agents/people/22583",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/121",
-            "Coll-203/A1/123"
-        ]
-    },
-    {
-        "title": "Haliburton , Thomas Chandler , 17 December 1796 \u2013 27 August 1865 (Nova Scotian politician, judge, and author)",
-        "id": "/agents/people/22663",
-        "published": false,
-        "entries": []
     },
     {
         "title": "Hale, Matthew (Sir Mathew Hale), 1609-1676 (English legal scholar)",
@@ -2523,7 +2994,54 @@
         ]
     },
     {
-        "title": "Hopkins, William, 1793-1866",
+        "title": "Oakes, William, 1799-1848 (American botanist)",
+        "id": "/agents/people/22662",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/123",
+            "Coll-203/A1/124"
+        ]
+    },
+    {
+        "title": "Everett, Edward, 1794-1865 (American politician, Unitarian pastor, educator, diplomat, and orator)",
+        "id": "/agents/people/22567",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/123",
+            "Coll-203/A1/122",
+            "Coll-203/A1/120",
+            "Coll-203/A1/124"
+        ]
+    },
+    {
+        "title": "Norton, Andrews, 1786-1853 (American preacher and theologian)",
+        "id": "/agents/people/22566",
+        "published": false,
+        "entries": [
+            "Coll-203/A1/123",
+            "Coll-203/A1/120"
+        ]
+    },
+    {
+        "title": "Parker, Theodore, 1810-1860 (American transcendentalist and reforming minister of the Unitarian church)",
+        "id": "/agents/people/22583",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/123",
+            "Coll-203/A1/121",
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Haliburton , Thomas Chandler , 17 December 1796 \u2013 27 August 1865 (Nova Scotian politician, judge, and author)",
+        "id": "/agents/people/22663",
+        "published": false,
+        "entries": [
+            "Coll-203/A1/123"
+        ]
+    },
+    {
+        "title": "Hopkins, William, 1793-1866 (English mathematician and geologist)",
         "id": "/agents/people/22208",
         "published": true,
         "entries": [
@@ -2534,7 +3052,9 @@
         "title": "Griffith, Sir Richard John, 1784-1878 (geologist and civil engineer)",
         "id": "/agents/people/8862",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/112"
+        ]
     },
     {
         "title": "Poisson , Simeon Denis",
@@ -2577,6 +3097,24 @@
         ]
     },
     {
+        "title": "Bravard, Auguste, 1803 - 1861 (Engineer and Palaeontologist)",
+        "id": "/agents/people/22236",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/110",
+            "Coll-203/A1/109",
+            "Coll-203/A1/150"
+        ]
+    },
+    {
+        "title": "Boulanger, Charles Louis , 1810-1849 (Mining Engineer)",
+        "id": "/agents/people/22259",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/110"
+        ]
+    },
+    {
         "title": "Mighels, Jesse Wedgewood, 1795\u20131861 (American naturalist )",
         "id": "/agents/people/22659",
         "published": true,
@@ -2593,49 +3131,34 @@
         ]
     },
     {
-        "title": "Clay, Henry, 1777-1852 (America attorney and statemen)",
-        "id": "/agents/people/22580",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/120",
-            "Coll-203/A1/122"
-        ]
-    },
-    {
         "title": "Disraeli, Benjamin, 1804-1881 (British Conservative politician and Prime Minister of the United Kingdom)",
         "id": "/agents/people/22661",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/122"
+        ]
     },
     {
         "title": "Polk, James Knox, 1795-1849 (11th President of the United States)",
         "id": "/agents/people/22403",
         "published": true,
         "entries": [
-            "Coll-203/A1/120",
-            "Coll-203/A1/121",
             "Coll-203/A1/122",
-            "Coll-203/A1/124",
+            "Coll-203/A1/120",
+            "Coll-203/A1/128",
             "Coll-203/A1/127",
-            "Coll-203/A1/128"
+            "Coll-203/A1/121",
+            "Coll-203/A1/124",
+            "Coll-203/A1/126",
+            "Coll-203/A1/139"
         ]
     },
     {
-        "title": "Bravard, Auguste, 1803 - 1861 (Engineer and Palaeontologist)",
-        "id": "/agents/people/22236",
+        "title": "Gruner, Emmanuel-Louis, 1809-1883 (Geologist and Engineer)",
+        "id": "/agents/people/22237",
         "published": true,
         "entries": [
-            "Coll-203/A1/109",
-            "Coll-203/A1/110",
-            "Coll-203/A1/150"
-        ]
-    },
-    {
-        "title": "Boulanger, Charles Louis , 1810-1849 (Mining Engineer)",
-        "id": "/agents/people/22259",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/110"
+            "Coll-203/A1/109"
         ]
     },
     {
@@ -2655,11 +3178,19 @@
         ]
     },
     {
-        "title": "Gruner, Emmanuel-Louis, 1809-1883 (Geologist and Engineer)",
-        "id": "/agents/people/22237",
+        "title": "Forbes, James David, 1809-1868 (Scottish physicist and glaciologist)",
+        "id": "/agents/people/22216",
         "published": true,
         "entries": [
-            "Coll-203/A1/109"
+            "Coll-203/A1/113"
+        ]
+    },
+    {
+        "title": "Scouler, John, 1804-1871 (surgeon and naturalist)",
+        "id": "/agents/people/8945",
+        "published": 0,
+        "entries": [
+            "Coll-203/A1/113"
         ]
     },
     {
@@ -2676,8 +3207,8 @@
         "published": true,
         "entries": [
             "Coll-203/A1/120",
-            "Coll-203/A1/124",
-            "Coll-203/A1/150"
+            "Coll-203/A1/150",
+            "Coll-203/A1/124"
         ]
     },
     {
@@ -2700,7 +3231,11 @@
         "title": "White, Joseph Blanco, 1775-1841 (Anglo-Spanish political thinker, theologian, and poet)",
         "id": "/agents/people/22564",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/120",
+            "Coll-203/A1/121",
+            "Coll-203/A1/124"
+        ]
     },
     {
         "title": "Thom, John Hamilton, 1808-1894 (Irish Unitarian minister)",
@@ -2714,7 +3249,9 @@
         "title": "Wilberforce, Samuel, 1805-1873 (English bishop)",
         "id": "/agents/people/22568",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/120"
+        ]
     },
     {
         "title": "Wilberforce, Robert, 1802-1857 (English clergyman and writer)",
@@ -2729,7 +3266,9 @@
         "id": "/agents/people/22571",
         "published": true,
         "entries": [
-            "Coll-203/A1/120"
+            "Coll-203/A1/120",
+            "Coll-203/A1/126",
+            "Coll-203/A1/125"
         ]
     },
     {
@@ -2737,8 +3276,6 @@
         "id": "/agents/people/8698",
         "published": 0,
         "entries": [
-            "Coll-203/A1/30",
-            "Coll-203/A1/114",
             "Coll-203/A1/120"
         ]
     },
@@ -2763,14 +3300,17 @@
         "id": "/agents/people/22573",
         "published": true,
         "entries": [
-            "Coll-203/A1/120"
+            "Coll-203/A1/120",
+            "Coll-203/A1/157"
         ]
     },
     {
         "title": "Tocqueville, Alexis Charles Henri Cl\u00e9rel, de, Comte, 1805-1859 (French aristocrat, diplomat, political scientist, political philosopher and historian)",
         "id": "/agents/people/22574",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/120"
+        ]
     },
     {
         "title": "Cotton, John , 1585-1652 (English clergyman, theologian of the Massachusetts Bay Colony)",
@@ -2802,7 +3342,9 @@
         "published": true,
         "entries": [
             "Coll-203/A1/120",
-            "Coll-203/A1/121"
+            "Coll-203/A1/121",
+            "Coll-203/A1/125",
+            "Coll-203/A1/155"
         ]
     },
     {
@@ -2817,7 +3359,9 @@
         "title": "Hughes, John , 1797-1864 (Irish prelate, Archbishop of New York)",
         "id": "/agents/people/22579",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/120"
+        ]
     },
     {
         "title": "Shepard , Charles Upham, 29 June 1804 - 1 May 1886 (American mineralogist)",
@@ -2839,7 +3383,9 @@
         "title": "Mackenzie, William Lyon, 1795-1861 (Scottish Canadian-American journalist and politician)",
         "id": "/agents/people/23560",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/128"
+        ]
     },
     {
         "title": "Hoyt , Jesse , 28 June 1792 - 17 March 1867 (American lawyer and politician)",
@@ -2861,7 +3407,9 @@
         "title": "Petigru, James Louis, 1789 - 1863 (American lawyer, politician, and jurist)",
         "id": "/agents/people/23564",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/128"
+        ]
     },
     {
         "title": "Tyler, John, 29 March 1790 - 18 January 1862 (Tenth President of the United States)",
@@ -2884,9 +3432,9 @@
         "id": "/agents/people/22406",
         "published": true,
         "entries": [
-            "Coll-203/A1/121",
+            "Coll-203/A1/128",
             "Coll-203/A1/127",
-            "Coll-203/A1/128"
+            "Coll-203/A1/121"
         ]
     },
     {
@@ -2906,6 +3454,97 @@
         ]
     },
     {
+        "title": "Bancroft, George, 1800-1891 (American historian, statesman and Democratic politician)",
+        "id": "/agents/people/22399",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/150",
+            "Coll-203/A1/127",
+            "Coll-203/A1/121"
+        ]
+    },
+    {
+        "title": "Paget, Sir James, 1814-1899 (1st Baronet | English surgeon and pathologist)",
+        "id": "/agents/people/21149",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/150"
+        ]
+    },
+    {
+        "title": "Grey-Egerton, Philip De Malpas, 1806-1881 (palaeontologist)",
+        "id": "/agents/people/972",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/150"
+        ]
+    },
+    {
+        "title": "Airy, Sir George Biddell, 1801-1892 (Astronomer Royal, 1835-1881)",
+        "id": "/agents/people/185",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/150"
+        ]
+    },
+    {
+        "title": "Cautley, Proby Thomas, 1802-1871 (English engineer and palaeontologist)",
+        "id": "/agents/people/22644",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/150"
+        ]
+    },
+    {
+        "title": "Empson, William, 1791-1852 (English barrister, professor and journalist)",
+        "id": "/agents/people/22645",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/150"
+        ]
+    },
+    {
+        "title": "Hallam, Henry, 1777-1859 (English historian)",
+        "id": "/agents/people/22646",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/150"
+        ]
+    },
+    {
+        "title": "Henry, Joseph, 1797-1878 (American scientist, Secretary of the Smithsonian)",
+        "id": "/agents/people/22647",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/150"
+        ]
+    },
+    {
+        "title": "Hall, James, 1811-1898 (American geologist and paleontologist)",
+        "id": "/agents/people/22648",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/150",
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Rogers, Samuel, 1763-1855 (English poet)",
+        "id": "/agents/people/22649",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/150"
+        ]
+    },
+    {
+        "title": "Sharpe, Daniel, 1806-1856 (English geologist)",
+        "id": "/agents/people/22650",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/150"
+        ]
+    },
+    {
         "title": "Gerolt, Friedrich Karl Joseph Freiherr von, 5 March 1797 - 27 July 1879 (Prussian Privy Councillor, Envoy Extraordinary and Minister Plenipotentiary in the United State)",
         "id": "/agents/people/22664",
         "published": true,
@@ -2919,16 +3558,6 @@
         "published": true,
         "entries": [
             "Coll-203/A1/127"
-        ]
-    },
-    {
-        "title": "Bancroft, George, 1800-1891 (American historian, statesman and Democratic politician)",
-        "id": "/agents/people/22399",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/121",
-            "Coll-203/A1/127",
-            "Coll-203/A1/150"
         ]
     },
     {
@@ -2948,7 +3577,7 @@
         ]
     },
     {
-        "title": "Fox, Henry Stephen, 22 September 1791 \u2013 13 October 1846 (British diplomat)",
+        "title": "Fox, Henry Stephen, 1791-1846 (British diplomat)",
         "id": "/agents/people/22668",
         "published": true,
         "entries": [
@@ -2967,7 +3596,9 @@
         "title": "Cunningham, William, 1805-1861 (Free Church of Scotland minister and theologian)",
         "id": "/agents/people/5760",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/127"
+        ]
     },
     {
         "title": "Wilkes , Charles, 1798-1877 (American naval officer, explorer)",
@@ -3038,7 +3669,8 @@
         "id": "/agents/people/1901",
         "published": true,
         "entries": [
-            "Coll-203/A1/121"
+            "Coll-203/A1/121",
+            "Coll-203/A1/155"
         ]
     },
     {
@@ -3103,7 +3735,8 @@
         "id": "/agents/people/22582",
         "published": true,
         "entries": [
-            "Coll-203/A1/121"
+            "Coll-203/A1/121",
+            "Coll-203/A1/126"
         ]
     },
     {
@@ -3127,93 +3760,17 @@
         "title": "Blumenbach , Johann Friedrich , 1752-1840 (German physician, naturalist, physiologist, and anthropologist)",
         "id": "/agents/people/22585",
         "published": false,
-        "entries": []
-    },
-    {
-        "title": "Paget, Sir James, 1814-1899 (1st Baronet | English surgeon and pathologist)",
-        "id": "/agents/people/21149",
-        "published": true,
         "entries": [
-            "Coll-203/A1/150"
-        ]
-    },
-    {
-        "title": "Grey-Egerton, Philip De Malpas, 1806-1881 (palaeontologist)",
-        "id": "/agents/people/972",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/150"
-        ]
-    },
-    {
-        "title": "Airy, Sir George Biddell, 1801-1892 (Astronomer Royal, 1835-1881)",
-        "id": "/agents/people/185",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/150"
-        ]
-    },
-    {
-        "title": "Cautley, Proby Thomas, 1802-1871 (English engineer and palaeontologist)",
-        "id": "/agents/people/22644",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/150"
-        ]
-    },
-    {
-        "title": "Empson, William, 1791-1852 (English barrister, professor and journalist)",
-        "id": "/agents/people/22645",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/150"
-        ]
-    },
-    {
-        "title": "Hallam, Henry, 1777-1859 (English historian)",
-        "id": "/agents/people/22646",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/150"
-        ]
-    },
-    {
-        "title": "Henry, Joseph, 1797-1878 (American scientist, Secretary of the Smithsonian)",
-        "id": "/agents/people/22647",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/150"
-        ]
-    },
-    {
-        "title": "Hall, James, 1811-1898 (American geologist and paleontologist)",
-        "id": "/agents/people/22648",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/150"
-        ]
-    },
-    {
-        "title": "Rogers, Samuel, 1763-1855 (English poet)",
-        "id": "/agents/people/22649",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/150"
-        ]
-    },
-    {
-        "title": "Sharpe, Daniel, 1806-1856 (English geologist)",
-        "id": "/agents/people/22650",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/150"
+            "Coll-203/A1/121"
         ]
     },
     {
         "title": "Dickens, Charles John Huffam, 1812-1870 (novelist and journalist)",
         "id": "/agents/people/9066",
         "published": 0,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/124"
+        ]
     },
     {
         "title": "Dallas, George Mifflin, 1792-1864 (American politician and diplomat )",
@@ -3276,7 +3833,8 @@
         "id": "/agents/people/23680",
         "published": true,
         "entries": [
-            "Coll-203/A1/124"
+            "Coll-203/A1/124",
+            "Coll-203/A1/125"
         ]
     },
     {
@@ -3284,7 +3842,8 @@
         "id": "/agents/people/23681",
         "published": true,
         "entries": [
-            "Coll-203/A1/124"
+            "Coll-203/A1/124",
+            "Coll-203/A1/125"
         ]
     },
     {
@@ -3299,6 +3858,706 @@
         "title": "Ticknor, George, 1791-1871 (American academician and Hispanist)",
         "id": "/agents/people/23683",
         "published": false,
-        "entries": []
+        "entries": [
+            "Coll-203/A1/124",
+            "Coll-203/A1/155"
+        ]
+    },
+    {
+        "title": "Anning, Mary, 1799-1847 (English fossil collector, dealer, and palaeontologist)",
+        "id": "/agents/people/24301",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/30"
+        ]
+    },
+    {
+        "title": "Moro, Anton Lazzaro, 1687-1764 (Italian abbot, geologist and naturalist)",
+        "id": "/agents/people/24302",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/30"
+        ]
+    },
+    {
+        "title": "Thurmann, Jules, 1804 - 1855 (Alsatian French-Swiss geologist and botanist)",
+        "id": "/agents/people/24164",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/58",
+            "Coll-203/A1/57"
+        ]
+    },
+    {
+        "title": "Koch, Albert C., 1804 - 1867 (German/American naturalist, showman, and entrepreneur)",
+        "id": "/agents/people/24568",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/126",
+            "Coll-203/A1/132",
+            "Coll-203/A1/125",
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Bringier, Louis, 1773?-1860 (American surveyor)",
+        "id": "/agents/people/24670",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/135"
+        ]
+    },
+    {
+        "title": "Riddell, John Leonard, 1807-1865 (Science lecturer, botanist, geologist, medical doctor, chemist, microscopist, numismatist, politician, and author)",
+        "id": "/agents/people/24671",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/135"
+        ]
+    },
+    {
+        "title": "de Sedella, Antonio, 1748 - 1829 (Spanish Capuchin friar, working in New Orleans, Louisiana)",
+        "id": "/agents/people/24672",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/135"
+        ]
+    },
+    {
+        "title": "Lalaurie, Delphine, 1787-1849 (American socialite)",
+        "id": "/agents/people/24673",
+        "published": false,
+        "entries": [
+            "Coll-203/A1/135"
+        ]
+    },
+    {
+        "title": "Kean, Charles, 1811-1868 (British actor)",
+        "id": "/agents/people/24147",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/135",
+            "Coll-203/A1/125",
+            "Coll-203/A1/155"
+        ]
+    },
+    {
+        "title": "Briggs, George Nixon, 1796 - 1861 (American lawyer and politician )",
+        "id": "/agents/people/24612",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/126",
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Caritat, Marie Jean Antoine Nicolas de, 1743-1794 (Marquis de Condorcet | French philosopher and mathematician)",
+        "id": "/agents/people/21980",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/126"
+        ]
+    },
+    {
+        "title": "Newman, John Henry, 1801-1890 (cardinal)",
+        "id": "/agents/people/5813",
+        "published": 0,
+        "entries": [
+            "Coll-203/A1/126"
+        ]
+    },
+    {
+        "title": "Taylor, Richard Cowling, 1789-1851 (English surveyor and geologist)",
+        "id": "/agents/people/24632",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/126"
+        ]
+    },
+    {
+        "title": "Comte, Auguste (Isidore Marie Auguste Francois Xavier Comte), 1798 - 1857 (French philosopher and sociologist, founder of positivism)",
+        "id": "/agents/people/24633",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/126"
+        ]
+    },
+    {
+        "title": "Cunningham, William, 1805-1861, Free Church of Scotland minister and theologian",
+        "id": "/agents/people/12559",
+        "published": false,
+        "entries": [
+            "Coll-203/A1/126"
+        ]
+    },
+    {
+        "title": "Dellet, James , 1788 - 1848 (American politician)",
+        "id": "/agents/people/24641",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/132"
+        ]
+    },
+    {
+        "title": "Walsh, Robert, 1784-1859 (American publicist and diplomat)",
+        "id": "/agents/people/24642",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/132"
+        ]
+    },
+    {
+        "title": "Blount, Frederick Spaight , 1808 - 1885 (American lawyer and plantation owner )",
+        "id": "/agents/people/24643",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/132"
+        ]
+    },
+    {
+        "title": "Wilson, Harriette, 1786-1846 (Courtesan and writer)",
+        "id": "/agents/people/24644",
+        "published": false,
+        "entries": [
+            "Coll-203/A1/132"
+        ]
+    },
+    {
+        "title": "Pickett, William, fl 1845-1849 (American friend of Albert Koch)",
+        "id": "/agents/people/24650",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/132"
+        ]
+    },
+    {
+        "title": "Hamilton, Rev. Dr. , fl 1846 (Presbyterian minister, based in Alabama)",
+        "id": "/agents/people/24654",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/133"
+        ]
+    },
+    {
+        "title": "Hale, T.J., fl 1846 (American, fossil collector)",
+        "id": "/agents/people/24655",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/133"
+        ]
+    },
+    {
+        "title": "Mitchell, Elisha, 1793-1857 (American educator, geologist and Presbyterian minister)",
+        "id": "/agents/people/24657",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/133"
+        ]
+    },
+    {
+        "title": "Lee, Sarah Bowdich , 1791-1856 (English author, illustrator, traveller, zoologist, botanist, and pteridologist)",
+        "id": "/agents/people/24658",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/133"
+        ]
+    },
+    {
+        "title": "Bryant, William Cullen, 1794-1878 ( American poet, editor and journalist)",
+        "id": "/agents/people/24659",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/133"
+        ]
+    },
+    {
+        "title": "Johnston, James Finlay Weir, FRS, FRSE, 1796-1855 (Scottish agricultural chemist, mineralogist)",
+        "id": "/agents/people/22658",
+        "published": false,
+        "entries": [
+            "Coll-203/A1/133"
+        ]
+    },
+    {
+        "title": "Kendall, George Wilkins, 1809-1867 (American journalist, war correspondent, and pioneer sheepman)",
+        "id": "/agents/people/24660",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/133"
+        ]
+    },
+    {
+        "title": "Furness, William Henry, 1827-1867 (American clergyman, theologian, Transcendentalist, abolitionist, and reformer)",
+        "id": "/agents/people/24607",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Dewey, Orville, 1794-1882 (American Unitarian minister)",
+        "id": "/agents/people/24608",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125",
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Strzelecki, Count Paul Edmund, 1797-1879 (Polish nobleman and geologist)",
+        "id": "/agents/people/1132",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Appleton, Nathan, 1779 - 1861 (American merchant and politician)",
+        "id": "/agents/people/24609",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Foster, J. W. (John Wells), 1815-1873 ( American geologist and archaeologist)",
+        "id": "/agents/people/23909",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Endecott, John  (also spelled Endicott), c.1600 - 1665 (Governor of the Massachusetts Bay Colony)",
+        "id": "/agents/people/24610",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Boileau, Jacques, 1635-1716 (French clergyman and writer  )",
+        "id": "/agents/people/24611",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Wilson, Robert Thomas, General Sir, 1777 - 1849 (British general and politician)",
+        "id": "/agents/people/24614",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Gannett, Ezra Stiles, 1801-1871 (American Unitarian minister and editor)",
+        "id": "/agents/people/24615",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Bridgman, Laura Dewey Lynn, 1829-1889 (American sign language communicator)",
+        "id": "/agents/people/24616",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Allston, Washington, 1779-1843 (American painter and poet)",
+        "id": "/agents/people/24617",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Stuart  , Gilbert, 1755-1828 (American painter)",
+        "id": "/agents/people/24618",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Brougham, Henry Peter, 1778-1868 (1st Baron Brougham and Vaux, Lord Chancellor)",
+        "id": "/agents/people/22161",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Irving, Washington, 1783-1859 (American short-story writer, historian, and diplomat)",
+        "id": "/agents/people/24619",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Dana, Richard Henry, 1787-1879 (American lawyer, politician and writer)",
+        "id": "/agents/people/24620",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Baldock, Edward Holmes, 1812 - 1875 (British Conservative politician)",
+        "id": "/agents/people/24621",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Saunders, Prince, 1775 - 1839 (African American teacher, scholar, diplomat and writer)",
+        "id": "/agents/people/24622",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Gray, Thomas, 1716-1771 (English poet, writer, scholar)",
+        "id": "/agents/people/24623",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Nathaniel Parker, Willis, 1806-1867 (American author, poet and editor)",
+        "id": "/agents/people/24624",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Chaucer, Geoffrey,  c.1340s - 1400 (English poet, author, and civil servant)",
+        "id": "/agents/people/24625",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Gibbons, Grinling, 1648 - 1721 (Anglo-Dutch sculptor )",
+        "id": "/agents/people/24626",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Edgeworth, Maria, 1768-1849 (Anglo-Irish writer)",
+        "id": "/agents/people/24627",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Howe, Samuel Gridley, 1801-1876 (philanthropist)",
+        "id": "/agents/people/8",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Binney, Amos, 1803-1847 (American physician and malacologist)",
+        "id": "/agents/people/24628",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Calhoun, John Caldwell, 1782-1850 ( American statesman, seventh vice president of the United States)",
+        "id": "/agents/people/24629",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Carver, John, 1576-1621 (Governor of state of Massachusetts and Pilgrim)",
+        "id": "/agents/people/24630",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Savage, James, 1784-1873 (American banker and author)",
+        "id": "/agents/people/24631",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/125"
+        ]
+    },
+    {
+        "title": "Campbell, Thomas, 1777-1844 (Scottish poet)",
+        "id": "/agents/people/4209",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/156"
+        ]
+    },
+    {
+        "title": "Albert, Prince Consort, consort of Victoria, Queen of Great Britain, 1819-1861",
+        "id": "/agents/people/23423",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/156",
+            "Coll-203/A1/157"
+        ]
+    },
+    {
+        "title": "Wheatstone, Charles, Sir, 1802-1875 (English scientist | Contributor to the development of the Wheatstone Bridge)",
+        "id": "/agents/people/22379",
+        "published": false,
+        "entries": [
+            "Coll-203/A1/157"
+        ]
+    },
+    {
+        "title": "Burns, Robert, 1759-1796 (Scottish poet)",
+        "id": "/agents/people/9424",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/157"
+        ]
+    },
+    {
+        "title": "Gainsborough, Thomas, 1727-1788 (English artist )",
+        "id": "/agents/people/24702",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/157"
+        ]
+    },
+    {
+        "title": "Dasent, George Webbe, Sir, 1817-1896 (British lawyer and translator)",
+        "id": "/agents/people/24703",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/157"
+        ]
+    },
+    {
+        "title": "Hatherton, Edward John Walhouse Littleton, Baron, 1791-1863 (British politician)",
+        "id": "/agents/people/24704",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/157"
+        ]
+    },
+    {
+        "title": "Bain, Andrew Geddes, 1797-1864 (South African geologist, road engineer, palaeontologist and explorer)",
+        "id": "/agents/people/24705",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/157"
+        ]
+    },
+    {
+        "title": "Miller, Hugh, 1802-1856 (man of letters and geologist)",
+        "id": "/agents/people/350",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/155"
+        ]
+    },
+    {
+        "title": "Wordsworth, William, 1770?1850 (poet | Rydal Mount | Cumbria | England)",
+        "id": "/agents/people/3532",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/155"
+        ]
+    },
+    {
+        "title": "MacPherson, James, 1736-1796 ('Ossian MacPherson' | writer)",
+        "id": "/agents/people/3211",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/155"
+        ]
+    },
+    {
+        "title": "Hogarth, William, 1697-1764 (English painter, satirist, and writer)",
+        "id": "/agents/people/24697",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/155"
+        ]
+    },
+    {
+        "title": "Mather, Cotton, 1663-1728 (American Puritan clergyman and author)",
+        "id": "/agents/people/24700",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/155"
+        ]
+    },
+    {
+        "title": "Melville, Alexander Gordon, 1819 - 1901 (Irish comparative anatomist, Professor of Natural History at Queens College, Galway)",
+        "id": "/agents/people/1165",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/155"
+        ]
+    },
+    {
+        "title": "Caswall, Edward, 1814-1878 (English clergyman and hymn writer)",
+        "id": "/agents/people/24701",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/155"
+        ]
+    },
+    {
+        "title": "Wailes, Benjamin Leonard Covington, 1797-1862 (America surveyor, politician, cotton planter)",
+        "id": "/agents/people/24674",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/137"
+        ]
+    },
+    {
+        "title": "Davis, Joseph Emory, 1784-1870 (American lawyer and planter)",
+        "id": "/agents/people/24675",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/137"
+        ]
+    },
+    {
+        "title": "Dickeson, Montroville Wilson, 1810-1882 (Philadel\u00adphia physician and archaeologist)",
+        "id": "/agents/people/24676",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/137"
+        ]
+    },
+    {
+        "title": "Forshey, Caleb Goldsmith, 1812-1881 (Engineer, scientist, and founder of the Texas Military Institute)",
+        "id": "/agents/people/23943",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/137"
+        ]
+    },
+    {
+        "title": "Savors, fl 1846 (Charles Lyell's local guide in New Madrid, Mississippi)",
+        "id": "/agents/people/24678",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Michelet, Jules, 1798-1874 (French historian and writer)",
+        "id": "/agents/people/24679",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Sue, Euge\u0300ne (Marie-Joseph), 1804-1857",
+        "id": "/agents/people/24645",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Rapp, George, 1757-1847 (German founder of the Harmony Society religious sect based in America)",
+        "id": "/agents/people/24680",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Owen, Robert 1771-1858 (manufacturer, philanthropist, social reformer)",
+        "id": "/agents/people/18944",
+        "published": false,
+        "entries": [
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Wied, Maximilian, Prinz von, 1782-1867 (German explorer, ethnologist and naturalist)",
+        "id": "/agents/people/24681",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Say, Thomas, 1787-1834 (American entomologist, conchologist, and herpetologist)",
+        "id": "/agents/people/24682",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Lawrence, Byrem, 1802-1854 (Map maker, working in America)",
+        "id": "/agents/people/24683",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Brumbye, Richard Trapier, 1804-1875 (American lawyer, editor and professor of chemistry, mineralogy and geology )",
+        "id": "/agents/people/24684",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Prentiss, Benjamin Mayberry, 1819-1901 ( American soldier and politician)",
+        "id": "/agents/people/24685",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Clapp, Asahel, 1792-1862 (First medical doctor in New Albany, Indiana USA)",
+        "id": "/agents/people/24686",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Gemmellaro, Carlo, 1787-1866 (Italian geologist)",
+        "id": "/agents/people/62",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/90"
+        ]
+    },
+    {
+        "title": "Gemmellaro, Gaetano Giorgio, 1832-1904 (Italian geologist)",
+        "id": "/agents/people/67",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/91"
+        ]
     }
 ]

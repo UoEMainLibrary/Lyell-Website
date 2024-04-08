@@ -13,6 +13,8 @@ import Navigation from "./components/Navigation";
 import Footer from "./components/Footer";
 import Tootop from "./components/Tootop";
 import Acknowledgements from "./pages/Acknowledgements";
+import Accessibility from "./pages/Accessibility"
+import Licensing from "./pages/Licensing"
 
 function App() {
   return (
@@ -32,6 +34,8 @@ function App() {
             <Route path="about/:id" element={<Info />} />
           </Route>
           <Route path="/collections/object/:id" element={<Item />} />
+          <Route path="/licensing" element={<Licensing />}/>
+          <Route path="/accessibility" element={<Accessibility />}/>
           <Route path="*" element={<Navigate to="/" />} />
         </Routes>
         <Footer/>

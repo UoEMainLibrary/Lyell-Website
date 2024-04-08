@@ -1,25 +1,44 @@
-import json
+import json, logging
+import os
+
+# import asnake
 from asnake.client import ASnakeClient
 
 url = 'https://aspaceapi.collections.ed.ac.uk'
 user = 'apiread'
 password = 'Auxilium1'
 token = ''
+logger = logging.getLogger(__name__)
 
 
-# archive snake!!!
 def call_archive(target, param=None):
     client = ASnakeClient(baseurl=url, username=user, password=password)
     client.authorize()
-    if param:
-        result = client.get(target, params=param)
-    else:
-        result = client.get(target)
-    print("call! " + target)
-    return result.json()
+    try:
+        if param:
+            result = client.get(target, params=param)
+        else:
+            result = client.get(target)
+        logger.info(f"ArchivesSpace API request: {target}, params: {param}, response status code: {result.status_code}")
+        logger.debug("API call successful: " + target)
+
+        return result.json()
+    except Exception as e:
+        # Log error if API call fails
+        logger.error(f"Failed to fetch data from archivesSpace API: {e}")
+        raise
 
 
 def simplify_data(notebook_object):
+    """
+    takes a notebook given by the archivesspace api and simplifies it, reducing its fields to only those of interest
+    it keeps a simplified form of the archivespace tags but still using archivespace codes so that more processes and
+    detail can be drawn from them but means not currently human friendly. Notes go through some modifications.
+
+    :param notebook_object: the raw notebook object given by archivesspace api
+
+    :return: the notebook object in the desired formate
+    """
     better_object = {key: notebook_object[key] for key in
                      notebook_object.keys() & {'title', 'display_string',
                                                'level', 'volumes',
@@ -70,17 +89,19 @@ class TagsAgain:
     def __init__(self):
         self.tagStore = {}
         self.tagDetails = []
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        self.tagPath = os.path.join(current_dir, '..', 'app', 'data', 'tags')
 
     def expand_tags(self, tags, shelfmark):
         result = {}
-        with open('data/tags/all_tags.json', 'r') as outFile:
+        with open(self.tagPath + "/all_tags.json", 'r') as outFile:
             localTags = json.load(outFile)
         self.tagStore = localTags
         for tag in tags:
             if tag not in self.tagStore:
                 self.new_tag(tag)
             if not self.tagDetails:
-                with open('data/tags/tag_' + self.tagStore[tag] + '.json', 'r') as outFile:
+                with open(self.tagPath + '/tag_' + self.tagStore[tag] + '.json', 'r') as outFile:
                     tfile = json.load(outFile)
                 self.tagDetails = tfile
             for t in self.tagDetails:
@@ -88,7 +109,7 @@ class TagsAgain:
                     result[t["title"]] = self.tagStore[tag]
                     if shelfmark not in t["entries"]:
                         t["entries"].append(shelfmark)
-            with open("data/tags/tag_" + self.tagStore[tag] + ".json", 'w') as file:
+            with open(self.tagPath + "/tag_" + self.tagStore[tag] + ".json", 'w') as file:
                 json.dump(self.tagDetails, file, indent=4)
             self.tagDetails = []
         return result
@@ -109,11 +130,11 @@ class TagsAgain:
             "published": published,
             "entries": []
         }
-        with open("../data/tags/all_tags.json", 'w') as file:
+        with open(self.tagPath + "/all_tags.json", 'w') as file:
             self.tagStore.update({tag: topic})
             json.dump(self.tagStore, file, indent=4)
         if result:
-            with open("data/tags/tag_" + topic + ".json", "r+") as file:
+            with open(self.tagPath + "/tag_" + topic + ".json", "r+") as file:
                 file_data = json.load(file)
                 file_data.append(new)
                 self.tagDetails = file_data

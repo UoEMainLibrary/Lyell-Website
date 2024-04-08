@@ -1,13 +1,5 @@
 [
     {
-        "title": "Curlews",
-        "id": "/subjects/28219",
-        "published": true,
-        "entries": [
-            "Coll-203/A1/113"
-        ]
-    },
-    {
         "title": "Social philosophy",
         "id": "/subjects/27393",
         "published": true,
@@ -69,6 +61,22 @@
         "published": true,
         "entries": [
             "Coll-203/A1/109"
+        ]
+    },
+    {
+        "title": "Curlews",
+        "id": "/subjects/28219",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/113"
+        ]
+    },
+    {
+        "title": "Lectures",
+        "id": "/subjects/20990",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/155"
         ]
     }
 ]
