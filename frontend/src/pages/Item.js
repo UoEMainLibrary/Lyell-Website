@@ -192,7 +192,7 @@ function OldNavigationButtons({id}) {
 
 function NavigationButtons({id, title}) {
     const navigate = useNavigate();
-    const handleNavNextClick = () => {
+    const handleNextClick = () => {
         let parts = id.split('-');
         let incrementedNumber = parseInt(parts[1])
         if (incrementedNumber === 266) {
@@ -202,7 +202,7 @@ function NavigationButtons({id, title}) {
         }
         navigate("/collections/object/a1-" + incrementedNumber);
     };
-    const handleNavPrevClick = () => {
+    const handlePrevClick = () => {
         let parts = id.split('-');
         let incrementedNumber = parseInt(parts[1])
         if (incrementedNumber === 1) {
@@ -218,7 +218,7 @@ function NavigationButtons({id, title}) {
                 className="text-light d-flex flex-column flex-md-row justify-content-between align-items-center custom-bg-color p-2">
                 <h2 className="mb-3 mb-md-0">Scientific {title}</h2>
                 <div className="d-flex flex-wrap">
-                    <div className="btn mx-1 mx-lg-3 custom-btn mb-2 mb-md-0" onClick={handleNavPrevClick}>
+                    <div className="btn mx-1 mx-lg-3 custom-btn mb-2 mb-md-0" onClick={handlePrevClick}>
                         <NavLink className="nav-link d-flex align-items-center" to="#">
                             <img src={prevArrow} alt="Previous" className="me-3" style={{width: "35px"}}/>
                             Previous
@@ -227,7 +227,7 @@ function NavigationButtons({id, title}) {
                     <div className="btn mx-1 mx-lg-3 custom-btn mb-2 mb-md-0">
                         <NavLink className="nav-link" to="/collections/explore">Back to Search</NavLink>
                     </div>
-                    <div className="btn mx-1 mx-lg-3 custom-btn mb-2 mb-md-0" onClick={handleNavNextClick}>
+                    <div className="btn mx-1 mx-lg-3 custom-btn mb-2 mb-md-0" onClick={handleNextClick}>
                         <NavLink className="nav-link d-flex align-items-center" to="#">
                             Next
                             <img src={nextArrow} alt="Next" className="ms-3" style={{width: "35px"}}/>
@@ -243,7 +243,7 @@ function NavigationButtons({id, title}) {
 
 export default function Item() {
     const {id} = useParams();
-
+    const navigate = useNavigate();
     const [objFull, setObject] = useState([]);
     const [hasManifest, setHasManifest] = useState(undefined);
 
@@ -275,7 +275,7 @@ export default function Item() {
 
             }
         );
-    }, []);
+    }, [id]);
 
     return (
         <div className="container-fluid bg-dark item-box">

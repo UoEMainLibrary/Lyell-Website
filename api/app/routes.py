@@ -1,4 +1,6 @@
 from flask import request
+from flask_cors import cross_origin
+
 from app import app
 from app.models import TagHandler, create_search, get_item_from_shelfmark, date_filter
 import json
@@ -11,6 +13,7 @@ def index():
 
 
 @app.route('/api/manifest/<obj_id>')
+@cross_origin()
 def get_manifest(obj_id):
     with open("app/data/manifests/manifest_" + obj_id.capitalize() + ".json", "r") as file:
         obj = json.loads(file.read())

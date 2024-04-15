@@ -111,7 +111,7 @@ export default function Elsewhere() {
                     collaborative affair. Like his contemporaries, Charles Lyell exchanged ideas and collected things
                     throughout his scientific life: information, geological specimens, artefacts, and advice. The result
                     of this network of &lsquo;able investigators&rsquo; is that Lyell material is held by different
-                    institutions in Britain and overseas. <br/>
+                    institutions in Britain and overseas. <br/><br/>
                     This section provides links to Lyell-related material held by institutions and learned societies
                     other than the University of Edinburgh. Please do <a
                     href="https://www.ed.ac.uk/information-services/library-museum-gallery/heritage-collections"
@@ -139,17 +139,34 @@ export default function Elsewhere() {
                     body={
                         <p>
                             Charles Lyell served as President of the Geological Society of London twice, from 1835 -
-                            1837 and from 1849 – 1851. Their website includes their library catalogue, blogs and news.
+                            1837 and from 1849 – 1851; and as he was active within the Society so much and for so long,
+                            Lyell material can be found in various series including
+
+                            &bull; Forty-four letters from Lyell to Roderick Impey Murchison, 1825-1868:<br/>
+
+                            &bull; Five letters from Lyell to Thomas George Bonney, 1872-1874:<br/>
+
+                            &bull; Manuscript draft of Charles Lyell & Roderick Impey Murchison "On the Excavation of Valleys,
+                            as illustrated by the Volcanic Rocks of Central France" [Aug 1828]:<br/>
+
+                            &bull; Eleven portraits of Lyell, dating 1830s-1870s<br/>
+
+                            &bull; Twenty-nine referee reports for other authors' papers submitted to be published in the
+                            Society's journals, dating 1822-1841<br/>
+
+                            &bull; Lyell's geological hammer:<br/>
                         </p>
                     }
                 />
                 <ElseSection
-                    text="Geological Society of London"
+                    text="Natural History Museum, London"
                     link="https://blog.geolsoc.org.uk/"
                     body={
                         <p>
                             <a
-                            href="https://data.nhm.ac.uk/dataset/?q=Lyell&sort=promoted+asc" target="_blank">The Lyell Collection</a> at The Natural History Museum comprises gifts made by Lyell himself,
+                                href="https://data.nhm.ac.uk/dataset/?q=Lyell&sort=promoted+asc" target="_blank">The
+                                Lyell Collection</a> at The Natural History Museum comprises gifts made by Lyell
+                            himself,
                             his family and the Geological Society. It contains 1,735 specimens including fossils of
                             reptiles, mammals, fishes, plants, bryozoans, brachiopods, trilobites, echinoderms, worms
                             and molluscs, being the last ones the biggest part of the collection. These specimens
@@ -199,7 +216,7 @@ export default function Elsewhere() {
                     body={
                         <p>
                             The archives of the geology department of the National Museum of Wales hold letters dated
-                            1831 -1854 from Lyell to Henry De la Beche (1796–1855). Summaries can be found in Sharpe, T.
+                            1831 -1854 from Lyell to <a href="https://museum.wales/curatorial/natural-sciences/archives/" target="_blank">Henry De la Beche (1796–1855)</a>. Summaries can be found in Sharpe, T.
                             & McCartney, P.J., 1998, The Papers of H.T. De la Beche (1796–1855) in the National Museum
                             of Wales. Geological Series No. 17, National Museum of Wales, Cardiff.
                         </p>
