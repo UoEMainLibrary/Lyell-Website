@@ -2,7 +2,8 @@ import React from "react";
 import {Link} from "react-router-dom";
 import Top from "../components/Header";
 import HoverBox from "../components/HoverBox"
-import lyell_2 from "../images/lyell_landscapeC.jpg"
+import lyell_1 from "../images/lyell_landscapeC.jpg"
+import lyell_2 from "../images/banner.png"
 import PDFdownload from "../components/PDFdownload";
 
 
@@ -27,7 +28,7 @@ export default function Home() {
                             info={{link: "/about"}}
                             content={{
                                 title: "About Charles Lyell",
-                                detail: "Learn more Charles Lyell, his work, travel and findings",
+                                detail: "Learn more about Charles Lyell, his work, travel and findings",
                                 image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~82507~103329/full/!1000,1000/0/default.jpg",
                                 alt: "pencil drawing of Charles Lyell"
                             }}
@@ -35,8 +36,8 @@ export default function Home() {
                         <HoverBox
                             info={{link: "/collections"}}
                             content={{
-                                title: "Manuscripts, notebooks, offprints and specimens",
-                                detail: "Discover the Charles Lyell collections held by the University of Edinburgh",
+                                title: "Notebooks, Papers, Offprints and Specimens",
+                                detail: "Discover Lyell’s archive collection held by the University of Edinburgh",
                                 image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~85421~382687/full/!1000,1000/0/default.jpg",
                                 alt: "archive shelf"
                             }}
@@ -46,16 +47,16 @@ export default function Home() {
                         <HoverBox
                             info={{link: "/Publications"}}
                             content={{
-                                detail: "Access Lyell’s printed books online",
+                                detail: "Find out about Lyell’s publications – held in the archive in Edinburgh, and online",
                                 image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130439~471142/0,2000,6000,5000/750,/0/default.jpg",
                                 alt: "Book Cover",
                                 title: "Publications"
                             }}
                         />
                         <HoverBox
-                            info={{link: "/elsewhere"}}
+                            info={{link: "/Lyell elsewhere "}}
                             content={{
-                                title: "Charles Lyell collections elsewhere",
+                                title: "Details and links to Lyell related material held by other organisations",
                                 detail: "Information and links to Lyell related collections held at other organisations",
                                 image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEcar~4~4~46658~102417/full/1000,/0/default.jpg",
                                 alt: "Book Cover"

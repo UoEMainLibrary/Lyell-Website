@@ -1,16 +1,24 @@
-import React from "react";
-import bio from "../content/A Brief Bibliography of Charles Lyell.pdf";
-
-export default function PDFdownload() {
-    const handleDownload = () => {
-        const link = document.createElement('a');
-        link.href = "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~120547~457518/full/!96,96/0/default.jpg";
-        link.download = 'https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~120547~457518/full/!96,96/0/default.jpg';
-        document.body.appendChild(link);
-        link.click();
-        document.body.removeChild(link);
-      };
-  return (
-      <button onClick={handleDownload}> download </button>
-  )
+async function downloadImages(imageUrls) {
+    for (let i = 0; i < imageUrls.length; i++) {
+        const response = await fetch(imageUrls[i]);
+        const blob = await response.blob();
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `image_${i + 1}.jpg`; // You can modify the filename as needed
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+    }
 }
+
+const imageUrls = [
+    'https://www.example.com/image1.jpg',
+    'https://www.example.com/image2.jpg',
+    'https://www.example.com/image3.jpg' 
+];
+
+downloadImages(imageUrls)
+    .then(() => console.log('Images downloaded successfully'))
+    .catch(error => console.error('Error downloading images:', error));
