@@ -21,14 +21,15 @@ export default function About() {
                     support and efforts of many individuals and institutions. The University of Edinburgh acknowledges
                     and thanks these generous and vital contributions.</p>
                 <div className="d-flex mb-4">
-                        <img className="me-3" src={NHMFlogo} alt="Image 1" style={{height: "150px"}}/>
-                        <img src={IASlogo} alt="Image 2" style={{height: "150px"}}/>
+                    <img className="me-3" src={NHMFlogo} alt="Image 1" style={{height: "150px"}}/>
+                    <img src={IASlogo} alt="Image 2" style={{height: "150px"}}/>
                 </div>
                 <h3 id="notebook">Notebooks</h3>
                 <p>The 2019 acquisition of the Lyell notebooks required a remarkable combination of societies, grant
                     funders and individuals from across the UK and the rest of the world. In addition to major grants
-                    from the National Heritage Memorial Fund and the Murray Family over one thousand donations made the
-                    purchase possible. See more detail <a href="#notebook-supporters">here</a></p>
+                    from the National Heritage Memorial Fund and the Murray Family over one thousand <a
+                        href="#notebook-supporters">donations</a> made the
+                    purchase possible.</p>
                 <h3 id="access-project">Access Project</h3>
                 <p>Making the notebooks, other archive and collection materials, freely accessible required an extensive
                     programme of conservation, digitisation, curatorial and academic work, which has been supported by
@@ -37,17 +38,24 @@ export default function About() {
                     the <a href="#access-supporters">Access Project Supporters</a></p>
                 <h3 id="volunteers">Volunteers</h3>
                 <p>In addition to staff and paid student interns, the Lyell Access Project has greatly benefited from a
-                    wide range of volunteers and experts who shared their time, enthusiasm and efforts including
-                    bibliographer Stuart Baldwin. Additional thanks are due to the <a href="#access-supporters"> Charles
-                        Lyell Advisory Board</a>, Chaired
+                    wide range of volunteers and experts who contributed their time, enthusiasm and efforts. We
+                    acknowledge with particular thanks the expertise received from <a
+                        href="https://en.wikipedia.org/wiki/James_A._Secord">Professor James Secord</a>, Felicity
+                    MacKenzie, and bibliographer Stuart Baldwin (1930-2021). Thanks to Drew Coleman, Beverly Gordon,
+                    Ella Fornari, Caryl Dreiblatt and Bob Burrell – and those University of Edinburgh students who
+                    supported the transcription of the notebook indexes and added detail to the lists of correspondents.
+                    Additional thanks are due to the <a href="#access-supporters"> Charles
+                        Lyell Advisory Board</a>, chaired
                     by Professor Charles Withers.</p>
+                <div className="top-bar-red mb-4 mt-4"></div>
                 <h5 id="notebook-supporters">Notebook Supporters</h5>
                 <p>Leading institutions, groups and individuals have generously supported or endorsed our campaign to
                     save Charles Lyell's notebooks. Thanks to the generosity of over 1,100 individuals, institutions and
                     supporters we were able to save the Sir Charles Lyell’s notebooks. We extend a warm and heartfelt
                     thank you to those who made it possible.</p>
                 <p>Thank you as well to all of our supporters who wish to remain anonymous. If your name does not appear
-                    and you would like it to, please contact David McClay david.mcclay@ed.ac.uk</p>
+                    and you would like it to, please contact David McClay <a
+                        href="david.mcclay@ed.ac.uk">david.mcclay@ed.ac.uk</a></p>
                 <p>The Roy Alexander Charitable Trust, Amateur Geological Society, Baldoukie Charitable Trust,
                     Blackbourn Geoconsulting, Cambridge Philosophical Society, Cambridge Society of Edinburgh, The Curry
                     Fund, Geologists' Association, History Of Earth Sciences Society, Edinburgh Geological Society,

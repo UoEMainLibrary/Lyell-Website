@@ -14,10 +14,9 @@ const Navbar = () => {
             <div className="container-fluid">
                 <NavLink to="/">
                     <img
-                        style={{ maxHeight: '50px' }}
                         src={logoSml}
-                        alt="Logo"
-                        className="logo mx-3"
+                        alt="Edinburgh uni Logo"
+                        className="logo mx-md-3"
                     />
                 </NavLink>
 
@@ -36,6 +35,11 @@ const Navbar = () => {
 
                 <div className="collapse navbar-collapse justify-content-center" id="navbarNav">
                     <ul className="navbar-nav ml-auto">
+                        {/*<li className="nav-item">*/}
+                        {/*    <NavLink className="nav-link text-light" to="/">*/}
+                        {/*        Home*/}
+                        {/*    </NavLink>*/}
+                        {/*</li>*/}
                         <li className="nav-item">
                             <NavLink className="nav-link text-light" to="/about">
                                 About

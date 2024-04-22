@@ -141,20 +141,32 @@ export default function Elsewhere() {
                             Charles Lyell served as President of the Geological Society of London twice, from 1835 -
                             1837 and from 1849 – 1851; and as he was active within the Society so much and for so long,
                             Lyell material can be found in various series including
-
-                            &bull; Forty-four letters from Lyell to Roderick Impey Murchison, 1825-1868:<br/>
-
-                            &bull; Five letters from Lyell to Thomas George Bonney, 1872-1874:<br/>
-
-                            &bull; Manuscript draft of Charles Lyell & Roderick Impey Murchison "On the Excavation of Valleys,
-                            as illustrated by the Volcanic Rocks of Central France" [Aug 1828]:<br/>
-
-                            &bull; Eleven portraits of Lyell, dating 1830s-1870s<br/>
-
-                            &bull; Twenty-nine referee reports for other authors' papers submitted to be published in the
-                            Society's journals, dating 1822-1841<br/>
-
-                            &bull; Lyell's geological hammer:<br/>
+                            <ul>
+                                <li><a
+                                    href="http://geolsocarchives.org.uk/Overview.aspx?src=CalmView.Catalog&r=((RefNo%3d%27LDGSL%2f838%2f*%27))+And+((CreatorName%3d%27LYELL%27))">Forty-four
+                                    letters</a> from Lyell to <a
+                                    href="https://en.wikipedia.org/wiki/Roderick_Murchison">Roderick Impey Murchison</a>,
+                                    1825-1868
+                                </li>
+                                <li><a
+                                    href="http://geolsocarchives.org.uk/Overview.aspx?src=CalmView.Catalog&r=((RefNo=%27ldgsl/776/Lyell/*%27))">Five
+                                    letters</a> from Lyell to <a
+                                    href="https://en.wikipedia.org/wiki/Thomas_George_Bonney">Thomas George Bonney</a>,
+                                    1872-1874
+                                </li>
+                                <li><a
+                                    href="http://geolsocarchives.org.uk/Record.aspx?src=CalmView.Catalog&id=LDGSL%2f839%2f153&pos">Manuscript</a> draft
+                                    of Charles Lyell & Roderick Impey Murchison "On the Excavation of Valleys, as
+                                    illustrated by the Volcanic Rocks of Central France" [Aug 1828]
+                                </li>
+                                <li>Eleven portraits of Lyell, dating 1830s-1870s</li>
+                                <li>Twenty-nine referee reports for other authors' papers submitted to be published in
+                                    the Society's journals, dating 1822-1841
+                                </li>
+                                <li><a
+                                    href="http://geolsocarchives.org.uk/Record.aspx?src=CalmView.Catalog&id=GSL%2fOB%2f7&pos=62">Lyell's
+                                    geological hammer</a></li>
+                            </ul>
                         </p>
                     }
                 />
@@ -182,7 +194,7 @@ export default function Elsewhere() {
                     body={
                         <p>
                             The National Library of Scotland holds the business archive of Charles Lyell's publisher
-                            John Murray. The John Murray Archive contains around 200 letters from Lyell as well as
+                            <a href="https://en.wikipedia.org/wiki/John_Murray_III">John Murray</a>. The John Murray Archive contains around 200 letters from Lyell as well as
                             ledgers which chart the publication history of his works.
                             <br/>
                             Details can be found on our online catalogue at: <a
@@ -204,8 +216,8 @@ export default function Elsewhere() {
                             target="_blank">table</a> and <a
                             href="https://www.nms.ac.uk/explore-our-collections/collection-search-results/calotype/219950"
                             target="_blank">Calotype
-                            portrait</a> this from a calotype negative by David Octavius Hill and Robert Adamson, dated
-                            1844 &ndash; 1848. <br/>
+                            portrait</a> this from a calotype negative by <a href="https://en.wikipedia.org/wiki/Hill_%26_Adamson">David Octavius Hill and Robert Adamson, dated
+                            1844 - 1848</a>. <br/>
                         </p>
                     }
                 />
@@ -216,7 +228,9 @@ export default function Elsewhere() {
                     body={
                         <p>
                             The archives of the geology department of the National Museum of Wales hold letters dated
-                            1831 -1854 from Lyell to <a href="https://museum.wales/curatorial/natural-sciences/archives/" target="_blank">Henry De la Beche (1796–1855)</a>. Summaries can be found in Sharpe, T.
+                            1831 -1854 from Lyell to <a
+                            href="https://museum.wales/curatorial/natural-sciences/archives/" target="_blank">Henry De
+                            la Beche (1796–1855)</a>. Summaries can be found in Sharpe, T.
                             & McCartney, P.J., 1998, The Papers of H.T. De la Beche (1796–1855) in the National Museum
                             of Wales. Geological Series No. 17, National Museum of Wales, Cardiff.
                         </p>
@@ -234,55 +248,56 @@ export default function Elsewhere() {
                             primarily Cenozoic molluscs from Europe and North America, and can be viewed online <a
                             href="https://oumnh.ox.ac.uk/collections-online#/item/oum-narrative-84123"
                             target="_blank">here</a>. The
-                            museum also holds four letters from Lyell to John Phillips, the Museum’s first Curator.
+                            museum also holds four letters from Lyell to <a href="https://en.wikipedia.org/wiki/John_Phillips_(geologist)">John Phillips</a>, the Museum’s first Curator.
                         </p>
                     }
                 />
 
                 <ElseSection
                     text="University of Cambridge: Sedgewick Museum of Earth Sciences: Charles Lyell Collections"
-                    link="https://www.darwinproject.ac.uk/"
+                    link="https://sedgwickmuseum.cam.ac.uk/"
                     img={segImg}
                     body={
                         <p>
-                            The Sedgwick Museum of Earth Sciences is the oldest of the University of Cambridge museums,
+                            The <a href="https://sedgwickmuseum.cam.ac.uk/">Sedgwick Museum of Earth Sciences</a> is the oldest of the University of Cambridge museums,
                             founded
-                            on the collection of Dr John Woodward (1665-1728) part of which was bequeathed to the
+                            on the collection of <a href="https://en.wikipedia.org/wiki/John_Woodward_(naturalist)">Dr John Woodward (1665-1728)</a> part of which was bequeathed to the
                             University in
                             1728. <br/>
                             Objects donated by Sir Charles Lyell include: <br/>
-                            &bull; Anthozoans, Bryozoans, Cirriped and Scaphopods from North America. <br/>
-                            &bull; Bivalves, Brachiopods, Echninoids and Gastropods from Europe &amp; North
-                            America. <br/>
-                            &bull; Bone (Bird), Insects preserved on thin mudstone slabs, and vertebrate teeth (shark)
-                            from
-                            Europe. <br/>
-                            &bull; Chlorite and Quartz from Tasmania. <br/>
-                            &bull; Geological hammer(s) <br/>
-                            <br/>
+                            <ul>
+                                <li>Anthozoans, Bryozoans, Cirriped and Scaphopods from North America.</li>
+                                <li>Bivalves, Brachiopods, Echninoids and Gastropods from Europe & North America.</li>
+                                <li>Bone (Bird), Insects preserved on thin mudstone slabs, and vertebrate teeth (shark)
+                                    from Europe.
+                                </li>
+                                <li>Chlorite and Quartz from Tasmania.</li>
+                                <li>Geological hammer(s)</li>
+                            </ul>
                             Archives related to Charles Lyell include: <br/>
-                            &bull; Correspondence between Sir Charles and Lady Lyell to <a
-                            href="http://archiveshub.jisc.ac.uk/data/gb590-hghs" target="_blank">Thomas McKenny
-                            Hughes</a> whilst he was
-                            on
-                            geological survey in North Yorkshire, 1869-1874. Also including an invitation to
-                            Lyell&rsquo;s
-                            funeral &amp; image of the abbey gravestone. <br/>
-                            &bull; Notebooks of Thomas McKenny Hughes when he was in South of France with Sir Charles
-                            and Lady
-                            Lyell, 1872-1873
+                            <ul>
+                                <li>Correspondence between Sir Charles and Lady Lyell to <a
+                                    href="http://archiveshub.jisc.ac.uk/data/gb590-hghs" target="_blank">Thomas McKenny
+                                    Hughes</a> whilst he was on geological survey in North Yorkshire, 1869-1874. Also
+                                    including an invitation to Lyell's funeral & image of the abbey gravestone.
+                                </li>
+                                <li>Notebooks of Thomas McKenny Hughes when he was in South of France with Sir Charles
+                                    and Lady Lyell, 1872-1873.
+                                </li>
+                            </ul>
                         </p>
                     }
                 />
 
                 <ElseSection
                     text="University of Cambridge: Darwin Correspondence Project and Epsilon"
-                    link="https://sedgwickmuseum.cam.ac.uk/"
+                    link="https://www.darwinproject.ac.uk/"
                     body={
                         <p>
                             Since its foundation in 1974, the Darwin Correspondence Project has gathered, deciphered,
                             and researched over 15,000 letters, and provided the full texts of all known letters written
-                            both by and to Charles Darwin – including those between Charles Lyell. Epsilon aims to
+                            both by and to Charles Darwin – including those between Charles Lyell.
+                             <a href="https://epsilon.ac.uk/">Epsilon</a> aims to
                             continue the legacy of DCP, enabling new research opportunities by bringing correspondence
                             data and transcriptions from multiple sources into a single cross-searchable digital
                             platform.
@@ -296,7 +311,7 @@ export default function Elsewhere() {
                     img={minImg}
                     body={
                         <p>
-                            The Leonard G. Wilson papers at the University of Minnesota Archives include Wilson's
+                            The <a href="https://en.wikipedia.org/wiki/Leonard_Gilchrist_Wilson">Leonard G. Wilson</a> papers at the University of Minnesota Archives include Wilson's
                             collected research in preparing his biographies of Sir Charles Lyell. The papers include
                             copies of Lyell's notebooks (1825-1874), Lyell and family correspondence (1796-1875), and
                             manuscripts of Wilson's writings on Lyell. To learn more about the Leonard Wilson papers,
@@ -315,7 +330,7 @@ export default function Elsewhere() {
                         <p>
                             The University of Oklahoma History of Science Collections holds a small collection of
                             original Lyell letters as well as a number of transcriptions of other Lyell letters and
-                            materials made by Martin Rudwick.
+                            materials made by <a href="https://en.wikipedia.org/wiki/Martin_J._S._Rudwick">Martin Rudwick</a>.
                         </p>
                     }
                 />
