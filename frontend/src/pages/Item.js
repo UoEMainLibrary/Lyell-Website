@@ -22,8 +22,8 @@ function IiifItem({objFull}) {
     return (
         <div className="py-3 row">
             <div className="col-12 col-xl-9 p-0 d-flex flex-column">
-                <NavigationButtons id={id} title={objFull["title"]}/>
-                <div className="flex-grow-1" style={{backgroundColor: "pink"}}>
+                <NavigationButtons id={id} title={objFull["title"]} />
+                <div className="flex-grow-1" style={{backgroundColor: "black", height: "700px"}}>
                     <UV manifest={id}
                         parentWidth={"100"}/>
                 </div>

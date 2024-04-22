@@ -76,6 +76,9 @@
 /*.sidebar {*/
 /*    background-color: #f8f9fa; !* Light background color *!*/
 /*}*/
+.logo {
+    max-height: 50px;
+}
 
 @media screen and (min-width: 992px) {
     .sidebar {
@@ -126,9 +129,16 @@
     .table-source {
         min-width: 100px
     }
+    .logo {
+        max-height: 40px;
+    }
 }
 
+
 @media screen and (max-width: 576px) {
+    .logo {
+        max-height: 30px;
+    }
     .table-link {
         max-width: 100px
     }
@@ -195,6 +205,8 @@
 .item-box {
     overflow-y: hidden;
 }
+
+
 
 
 

@@ -93,6 +93,7 @@ export default function About() {
                     />
                     <div className="parallax"></div>
                     <figcaption>Large-scale map of Kirriemuir, Angus, Scotland, with hand-coloured geological strata.
+                        Charles Lyell Collection, University of Edinburgh Heritage Collections reference Coll-203/B21/2
                     </figcaption>
                 </div>
             </div>

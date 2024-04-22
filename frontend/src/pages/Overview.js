@@ -55,7 +55,7 @@ export default function Items() {
                                     page={{
                                         id: 2,
                                         title: "Specimens",
-                                        image: specImg,
+                                        image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~84801~103462/full/717,/0/default.jpg",
                                         detail: "collected by Lyell to evidence his work"
                                     }}
                                 />

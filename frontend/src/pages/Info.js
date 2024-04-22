@@ -24,7 +24,7 @@ function extractStartText(str) {
 }
 
 
-function Content({image, data, nav = false, col = false}) {
+function Content({image, data, nav = false, col = false, nb = false}) {
 
     const renderParagraphs = (paragraphs) => {
         return paragraphs.map((paragraph, index) => (
@@ -74,26 +74,38 @@ function Content({image, data, nav = false, col = false}) {
                 </div>
                 {nav ?
                     <div className="col-12 col-lg-3 order-lg-1">
-                        <Sidebar
-                            content={[
-                                {header: "Page Content", content: {data}, type: "text-nav"},
-                                {type: "button"},
-                                {header: "Collection Pages", type: "page-nav"}
-                            ]}
-                        />
+                        {nb ?
+                            <Sidebar
+                                content={[
+                                    {type: "button"},
+                                    {header: "Page Content", content: {data}, type: "text-nav"},
+                                    {header: "Collection Pages", type: "page-nav"}
+                                ]}
+                            /> : <Sidebar
+                                content={[
+                                    {header: "Page Content", content: {data}, type: "text-nav"},
+                                    {header: "Collection Pages", type: "page-nav"}
+                                ]}
+                            />}
                     </div>
                     :
                     <div className="col-12 col-lg-3 order-lg-1">
-                        <Sidebar
-                            content={[
-                                {type: "button"},
-                                {header: "Collection Pages", type: "page-nav"}
-                            ]}
-                        />
+                        {nb ?
+                            <Sidebar
+                                content={[
+                                    {type: "button"},
+                                    {header: "Collection Pages", type: "page-nav"}
+                                ]}
+                            /> : <Sidebar
+                                content={[
+                                    {header: "Collection Pages", type: "page-nav"}
+                                ]}
+                            />}
                     </div>
                 }
                 <div className="body-d col-12 col-lg-7 order-lg-0">
-                    {col && <div><h2>Papers – including correspondence, notes, lectures and manuscripts </h2>
+                    {col && <div className="mt-4"><h2>Papers</h2>
+                        <h4 className="mt-4">Correspondence, notes, lectures and manuscripts</h4>
                         <p>Lyell’s papers held at the University of Edinburgh comprise two main tranches - the original
                             collection of material donated in 1927 by Lady Lyell of Kinnordy, and a second tranche
                             accepted under the UK Government's 'Acceptance in Lieu of Inheritance Tax' scheme in 2020.
@@ -135,6 +147,7 @@ function Info() {
                     head={"Notebooks"}
                     nav={true}
                     id={"notebooks"}
+                    nb={true}
                 />
             </div>
         )
@@ -201,6 +214,7 @@ function Info() {
                     data={data}
                     head={"Overview"}
                     id={"overview"}
+                    nb={true}
                 />
             </div>
         )

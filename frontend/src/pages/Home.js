@@ -2,8 +2,9 @@ import React from "react";
 import {Link} from "react-router-dom";
 import Top from "../components/Header";
 import HoverBox from "../components/HoverBox"
-import lyell_1 from "../images/lyell_landscapeC.jpg"
+import lyell_3 from "../images/lyell_1.jpg"
 import lyell_2 from "../images/banner.png"
+import map from "../images/globe-image.jpg"
 import PDFdownload from "../components/PDFdownload";
 
 
@@ -29,9 +30,10 @@ export default function Home() {
                             content={{
                                 title: "About Charles Lyell",
                                 detail: "Learn more about Charles Lyell, his work, travel and findings",
-                                image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~82507~103329/full/!1000,1000/0/default.jpg",
+                                image: {lyell_3},
                                 alt: "pencil drawing of Charles Lyell"
                             }}
+                            img={lyell_3}
                         />
                         <HoverBox
                             info={{link: "/collections"}}
@@ -41,6 +43,7 @@ export default function Home() {
                                 image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~85421~382687/full/!1000,1000/0/default.jpg",
                                 alt: "archive shelf"
                             }}
+                            img="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~85421~382687/full/!1000,1000/0/default.jpg"
                         />
                     </div>
                     <div className="row justify-content-center g-3 g-lg-5 mt-3">
@@ -52,15 +55,17 @@ export default function Home() {
                                 alt: "Book Cover",
                                 title: "Publications"
                             }}
+                            img="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130439~471142/0,2000,6000,5000/750,/0/default.jpg"
                         />
                         <HoverBox
-                            info={{link: "/Lyell elsewhere "}}
+                            info={{link: "/elsewhere "}}
                             content={{
-                                title: "Details and links to Lyell related material held by other organisations",
-                                detail: "Information and links to Lyell related collections held at other organisations",
-                                image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEcar~4~4~46658~102417/full/1000,/0/default.jpg",
+                                title: "Lyell elsewhere",
+                                detail: "Details and links to Lyell related material held by other organisations",
+                                image: {map},
                                 alt: "Book Cover"
                             }}
+                            img={map}
                         />
 
                     </div>

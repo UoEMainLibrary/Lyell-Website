@@ -9,9 +9,11 @@ export default function Footer() {
           <div className="row">
           <div className="col-md-4">
             <p>
+              <a href="https://www.ed.ac.uk/">
               <img src="https://collections.ed.ac.uk/theme/stcecilia/images/UoETransparentWhite.png" alt="Logo" className="footer-logo" />
+              </a>
             </p>
-            <p>University of Edinburgh</p>
+            <p>Unless explicitly stated otherwise, all material is copyright © 2024 <a href="https://www.ed.ac.uk/">University of Edinburgh</a></p>
           </div>
           <div className="col-md-3">
             <h4></h4>
@@ -32,8 +34,8 @@ export default function Footer() {
               <a href="https://archives.collections.ed.ac.uk/agents/people/86" target="__blank" className="text-light text-decoration-none">Collection in ArchivesSpace</a>
               <a href="https://www.ed.ac.uk/about/website/privacy" target="__blank" className="text-light text-decoration-none">Privacy & Cookies</a>
               <a href="https://www.ed.ac.uk/information-services/library-museum-gallery/crc/services/copying-and-digitisation/image-licensing/takedown-policy" target="__blank" className="text-light text-decoration-none">Takedown Policy</a>
-              <NavLink className="nav-link text-light" to="/">Licensing & Copyright</NavLink>
-              <NavLink className="nav-link text-light" to="/">Accessibility</NavLink>
+              <a href="https://www.ed.ac.uk/information-services/library-museum-gallery/cultural-heritage-collections/crc/using-the-collections/digitisation/image-licensing" target="__blank" className="text-light text-decoration-none">Licensing & Copyright</a>
+              <NavLink className="nav-link text-light" to="/Accessibility">Accessibility</NavLink>
             </div>
           </div>
         </div>

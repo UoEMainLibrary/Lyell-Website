@@ -13,7 +13,7 @@ export default function TextButton() {
       };
   return (
       <div>
-          <p>For a list of further references, please see Stephen Baldwin’s comprehensive bibliography. <span onClick={handleDownload} style={{ textDecoration: 'underline', cursor: 'pointer', color: "blue" }}> Download here </span></p>
+          <p>For a list of further references, please see Stuart Baldwin’s comprehensive bibliography. <span onClick={handleDownload} style={{ textDecoration: 'underline', cursor: 'pointer', color: "blue" }}> Download here </span></p>
           {/*<button href="#" className="btn btn-primary btn-red" onClick={handleDownload}>*/}
           {/*    Download <i className="fas fa-download"></i>*/}
           {/*</button>*/}

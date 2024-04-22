@@ -13,12 +13,12 @@ async function downloadImages(imageUrls) {
     }
 }
 
-const imageUrls = [
-    'https://www.example.com/image1.jpg',
-    'https://www.example.com/image2.jpg',
-    'https://www.example.com/image3.jpg' 
-];
-
-downloadImages(imageUrls)
-    .then(() => console.log('Images downloaded successfully'))
-    .catch(error => console.error('Error downloading images:', error));
+// const imageUrls = [
+//     'https://www.example.com/image1.jpg',
+//     'https://www.example.com/image2.jpg',
+//     'https://www.example.com/image3.jpg'
+// ];
+//
+// downloadImages(imageUrls)
+//     .then(() => console.log('Images downloaded successfully'))
+//     .catch(error => console.error('Error downloading images:', error));

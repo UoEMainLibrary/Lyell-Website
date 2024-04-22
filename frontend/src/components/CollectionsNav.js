@@ -1,7 +1,7 @@
 import React from 'react';
 import {useParams} from "react-router-dom";
 import AltBox from "./TransparentBox";
-import offPrintImg from "../images/book_2.png";
+import offPrintImg from "../images/offprint.jpg";
 import overviewImg from "../images/LyellNotebooks_Spines_213-232.jpg"
 
 export default function InfoNav() {

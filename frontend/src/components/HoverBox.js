@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import {Link} from 'react-router-dom'
 
 
-export default function Boxes({info, content}) {
+export default function Boxes({info, content, img}) {
     const [isHovered, setIsHovered] = useState(false);
 
     const handleHover = () => {
@@ -46,7 +46,7 @@ export default function Boxes({info, content}) {
                         <img
                             className="card-img-bottom"
                             style={imageStyle}
-                            src={content.image}
+                            src={img}
                             alt={content.alt}
                         />
                     </div>

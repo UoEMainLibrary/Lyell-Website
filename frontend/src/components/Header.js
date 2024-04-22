@@ -13,8 +13,8 @@ export default function Top({title, details, imageURL, size}) {
 
     return (
       <div className={height} style={imageStyle}>
-          <div className="mx-auto">
-            <h1 className="text-center">{title}</h1>
+          <div className="mx-auto" style={{overflowWrap: "break-word"}}>
+            <h1 className="text-center" style={{overflowWrap: "break-word"}}>{title}</h1>
             <p className="lead text-muted">{details}</p>
           </div>
       </div>
