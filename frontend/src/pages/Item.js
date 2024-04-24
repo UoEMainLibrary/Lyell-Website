@@ -22,7 +22,7 @@ function IiifItem({objFull}) {
     return (
         <div className="py-3 row">
             <div className="col-12 col-xl-9 p-0 d-flex flex-column">
-                <NavigationButtons id={id} title={objFull["title"]} />
+                <NavigationButtons id={id} title={objFull["title"]}/>
                 <div className="flex-grow-1" style={{backgroundColor: "black", height: "700px"}}>
                     <UV manifest={id}
                         parentWidth={"100"}/>
@@ -63,7 +63,7 @@ function Sidebar({objFull}) {
     const url = "https://archives.collections.ed.ac.uk" + objFull["uri"]
     let intro = false
     if (objFull["index intro"]) {
-        if (objFull["index intro"].includes("When known, Lyell's abbreviations and contractions have been expanded" || objFull["index intro"].includes("indicates the misspelling of a word is deliberate"))) {
+        if (objFull["index intro"].includes("When known, Lyell's abbreviations and contractions have been expanded") || objFull["index intro"].includes("indicates the misspelling of a word is deliberate") || objFull["index intro"].includes("Abbreviations have been expanded where possible")) {
             intro = true
         }
     }

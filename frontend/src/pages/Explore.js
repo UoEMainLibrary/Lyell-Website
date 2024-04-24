@@ -245,28 +245,32 @@ function Explore() {
 
         async function fetchDataFromAPI() {
             const data = await fetchData("search?" + searchParams);
+            console.log(data)
             if (data !== {}) {
                 let n = data.results[0]
-                if (n.constructor === Object) {
-                    console.log(sortBy);
-                    data.results.sort((a, b) => {
-                        const idA = parseInt(a["component_id"].split('/').pop());
-                        const idB = parseInt(b["component_id"].split('/').pop());
-                        return sortBy === "sd" ? idB - idA : idA - idB;
-                    });
-                } else if (Array.isArray(n)) {
-                    console.log("not here!");
-                    if (sortBy !== "r") {
+                console.log(data.results[0], data.results.length)
+                if (!data.results) {
+                    if (n.constructor === Object) {
+                        console.log(sortBy);
                         data.results.sort((a, b) => {
-                            const idA = parseInt(a[0]["component_id"].split('/').pop());
-                            const idB = parseInt(b[0]["component_id"].split('/').pop());
+                            const idA = parseInt(a["component_id"].split('/').pop());
+                            const idB = parseInt(b["component_id"].split('/').pop());
                             return sortBy === "sd" ? idB - idA : idA - idB;
                         });
+                    } else if (Array.isArray(n)) {
+                        console.log("not here!");
+                        if (sortBy !== "r") {
+                            data.results.sort((a, b) => {
+                                const idA = parseInt(a[0]["component_id"].split('/').pop());
+                                const idB = parseInt(b[0]["component_id"].split('/').pop());
+                                return sortBy === "sd" ? idB - idA : idA - idB;
+                            });
+                        } else {
+                            data.results.sort((a, b) => b[1] - a[1]);
+                        }
                     } else {
-                        data.results.sort((a, b) => b[1] - a[1]);
+                        console.log("no valid type");
                     }
-                } else {
-                    console.log("no valid type");
                 }
                 setSearchData(data);
             }
@@ -274,11 +278,6 @@ function Explore() {
 
         fetchDataFromAPI()
     }, [searchParams, itemsPerPage, currentPage, sortBy])
-
-
-    // useEffect(() => {
-    //     fetchDataFromAPI(searchParams);
-    // }, [searchParams, itemsPerPage, currentPage]);
 
     useEffect(() => {
         const activeTags = searchParams.getAll('tag');
@@ -376,10 +375,9 @@ function Explore() {
                                 </select>
                             </div>
                         </div>
-
-                        <Results
+                        {searchData.results[0] ? <Results
                             result={searchData.results.slice(startIndex, endIndex)}
-                        />
+                        />: <div className="py-4 ps-4"> <p>No results found please change search parameters</p></div>}
                         <div className="pagination">
                             <button className="btn btn-outline-secondary mx-2" onClick={handlePrevPage}
                                     disabled={currentPage === 1}>

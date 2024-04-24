@@ -150,8 +150,8 @@ class Updater:
         if mode == "hr" or mode == "n":
             self.newRawData = search("creator:'Lyell'")
         else:
-            logger.info("getting ArchivesSpace results for lyell")
-            self.newRawData = call_archive("repositories/2/" + mode)
+            logger.info("getting ArchivesSpace results for lyell /repositories/2/archival_objects/" + mode)
+            self.newRawData = call_archive("repositories/2/archival_objects/" + mode)
 
         match mode:
             case "hr":
@@ -178,9 +178,11 @@ class Updater:
             except Exception as e:
                 logger.error(f"Failed to add notebook {n['component_id']}, {e}")
 
-    def update_individual(self, shelfmark):
+    def update_individual(self, acode):
+        self.updatedNotebooks["date-created"] = self.exiting_notebook["date-created"]
+        uri = "/repositories/2/archival_objects/" + acode
         for oldN in self.exiting_notebook["results"]:
-            if shelfmark == oldN["component_id"]:
+            if uri == oldN["uri"]:
                 self.updatedNotebooks["results"].append(process_notebook(self.newRawData))
                 continue
             self.updatedNotebooks["results"].append(oldN)
