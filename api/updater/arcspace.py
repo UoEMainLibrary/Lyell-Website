@@ -55,6 +55,11 @@ def simplify_data(notebook_object):
         if key == "notes":
             better_object = note_time(better_object, notebook_object)
             better_object["notes"] = separate_warning(better_object["notes"])
+            if not better_object["notes"]:
+                better_object["notes"] = [{
+                    "type": "scopecontent",
+                    "content": "-"
+                }]
         if key == "dates":
             if notebook_object[key]:
                 dates = notebook_object[key][0]
