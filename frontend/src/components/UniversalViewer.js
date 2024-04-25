@@ -9,10 +9,6 @@ export function UV({manifest}) {
     useEffect(() => {
         const initViewer = () => {
             var urlAdapter = new IIIFURLAdaptor();
-
-            const data1 = {
-                manifest: "http://localhost:5000/api/manifest/" + manifest,
-            };
             const data = {
                 manifest: "http://localhost:5000/api/manifest/" + manifest,
                 embedded: true, // needed for codesandbox frame
