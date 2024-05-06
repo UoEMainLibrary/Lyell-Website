@@ -42,67 +42,120 @@ def recursive_search(obj, query):
 
 
 class Scorer:
-    def __init__(self, query, depthDecay=0.5):
-        self.query = query.lower()
+    def __init__(self, querySet, depthDecay=0.5):
+        self.ignoreChars = ".,_-:;\"'"
+        blocks = querySet.split(" OR ")
+        self.queries = []
+        self.quotes = {}
+        for block in blocks:
+            atocs = []
+            acc = ""
+            qc = False
+            for ch in block.lower():
+                if ch == '"':
+                    if qc and acc != "":
+                        self.quotes[(len(self.quotes),len(atocs))] = True
+                        atocs.append(acc)
+                        acc = ""
+                    qc = not qc
+                elif (ch == " " or ch in self.ignoreChars) and (not qc) and acc != "":
+                    atocs.append(acc)
+                    acc = ""
+                else:
+                    acc += ch
+            if acc != "":
+                atocs.append(acc)
+            if atocs != []:
+                self.queries.append(atocs)
+
         self.decay = depthDecay
         self.customFuncs = {
             "title": self.scoreStr,
             "subjects": self.scoreDictKeys,
             "linked_agents": self.scoreDictKeys
         }
-        self.ignoreChars = ".,_-:;\"'"
 
     def tokenify(self, st):
         for ch in self.ignoreChars:
             st = st.replace(ch, " ")
         return st.split()
 
-    def find(self, st):
+    def find(self, st, tar, qt=False):
         st = st.lower()
-        if st == self.query:
+        if st == tar:
             return Find.EXACT
-        if self.query in st.split():
+        if qt:
+            fiv = st.find(tar)
+            if fiv != -1:
+                enc = fiv + len(tar)
+                # checking to see if either end of the phrase is embedded in other words
+                return Find.WITHIN if (fiv == 0 or not st[fiv - 1].isalnum()) and (
+                            enc == len(st) or not st[enc].isalnum()) else Find.WITHIN_SUB
+        elif tar in st.split():
             return Find.WITHIN
         sub = False
         for tok in self.tokenify(st):
-            if tok == self.query:
+            if tok == tar:
                 return Find.WITHIN_IGNORE_PUNC
-            if tok.find(self.query) != -1:
+            if tok.find(tar) != -1:
                 sub = True
         return Find.WITHIN_SUB if sub else Find.ABSENT
 
-    def scoreStr(self, con):
-        return self.find(con).value
+    def scoreStr(self, con, scores, depthMod):
+        for i, cluster in enumerate(self.queries):
+            for j, toke in enumerate(self.queries[i]):
+                scores[i][j] += self.find(con, toke, (i,j) in self.quotes).value * depthMod
 
-    def scoreDictKeys(self, sub):
-        scr = 0
-        for con in sub.keys():
-            ns = self.find(con)
-            if ns == Find.EXACT:
-                return Find.EXACT.value
-            scr = max(scr, ns.value)
-        return scr
+    def scoreDictKeys(self, sub, scores, depthMod):
 
-    def score(self, item, depthMod=1.0):
-        score = 0
+        for i, cluster in enumerate(self.queries):
+            for j, toke in enumerate(self.queries[i]):
+                ov = 0
+                for con in sub.keys():
+                    ns = self.find(con, toke, (i,j) in self.quotes)
+                    ov = max(ov, ns.value)
+                    if ns == Find.EXACT:
+                        break
+                scores[i][j] += ov * depthMod
+
+    def score(self, item, scores=None, depthMod=1.0):
+
+        if scores is None:
+            scores = []
+            for qset in self.queries:
+                bl = []
+                for sq in qset:
+                    bl.append(0)
+                scores.append(bl)
+
         nextMod = self.decay * depthMod
         if isinstance(item, dict):
             for key in item:
                 if key in self.customFuncs:
-                    score += self.customFuncs[key](item[key]) * depthMod
+                    self.customFuncs[key](item[key], scores, depthMod)
                 else:
-                    score += self.score(item[key], nextMod)
+                    self.score(item[key], scores, nextMod)
         elif isinstance(item, list):
             for sub in item:
-                score += self.score(sub, nextMod)
+                self.score(sub, scores, nextMod)
         elif isinstance(item, str):
-            score += self.scoreStr(item) * depthMod
-        return score
+            self.scoreStr(item, scores, depthMod)
+        return scores
 
     def getScored(self, items):
         rets = []
         for item in items:
-            isc = self.score(item)
+            scores = self.score(item)
+            isc = 0
+            for i, _ in enumerate(self.queries):
+                con = 0
+                for fs in scores[i]:
+                    if fs == 0:
+                        con = 0
+                        break
+                    con += fs
+                isc += con
+
             if isc > 0:
                 rets.append([item, isc])
         return sorted(rets, key=lambda x: x[1], reverse=True)
