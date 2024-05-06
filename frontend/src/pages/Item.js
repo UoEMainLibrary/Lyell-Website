@@ -37,6 +37,16 @@ function IiifItem({objFull}) {
 
 }
 
+function PlainItem({objFull}) {
+    const {id} = useParams();
+    return (
+        <div className="py-3 row">
+            <NavigationButtons id={id} title={objFull["title"]}/>
+            <Sidebar objFull={objFull}/>
+        </div>
+    )
+}
+
 function Sidebar({objFull}) {
     const [showIndex, setShowIndex] = useState(false);
     const [contentWarning, setContentWarning] = useState(false)
@@ -280,7 +290,7 @@ export default function Item() {
     return (
         <div className="container-fluid bg-dark item-box">
             {hasManifest === true && objFull && <IiifItem objFull={objFull}/>}
-            {hasManifest === false && objFull && <Sidebar objFull={objFull}/>}
+            {hasManifest === false && objFull && <PlainItem objFull={objFull}/>}
         </div>
     )
 }
