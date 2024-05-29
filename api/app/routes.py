@@ -2,7 +2,7 @@ from flask import request
 from flask_cors import cross_origin
 
 from app import app
-from app.models import TagHandler, create_search, get_item_from_shelfmark, date_filter
+from app.models import TagHandler, create_search, get_item_from_shelfmark, date_filter, remove_sets, series_count
 import json
 
 
@@ -33,6 +33,7 @@ def get_request():
     query = request.args.get('search')
     allTags = request.args.getlist('tag')
     dates = request.args.get('date')
+    sets = request.args.get('sets')
     tags = {}
     try:
         with open("app/data/all_notebooks.json", "r") as file:
@@ -51,14 +52,23 @@ def get_request():
             tags.update({k: [v]})
         obj["results"] = tagMan.tag_filter(tags)
         obj["filter_tags"] = tags
+    if sets:
+        obj["results"] = remove_sets(sets, obj["results"])
+    if dates:
+        obj["results"] = date_filter(dates, obj["results"])
     if query:
         obj["query_params"] = query
         obj["results"] = create_search(query, obj["results"])
 
-    if dates:
-        obj["results"] = date_filter(dates, obj["results"])
-
     obj["tags"] = tagMan.get_tags(obj["results"])
-    obj["amount"] = len(obj["results"])
+    obj["amounts"] = series_count(obj["results"])
+    obj["total"] = len(obj["results"])
     # Call the search function with the query
     return obj
+
+
+@app.route('/api/index')
+@cross_origin()
+def get_index():
+    i = get_request()
+    return i["amounts"]
