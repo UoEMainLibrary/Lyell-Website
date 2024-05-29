@@ -183,7 +183,7 @@ def note_time(better_object, notebook_object):
 def separate_warning(notes):
     for note in notes:
         noteText = note["content"].lower()
-        if "content warning" in noteText:
+        if "content warning" in noteText or "contentwarning" in noteText:
             otherText = ""
             if "<lb></lb>" in noteText:
                 tobe = note["content"].split("<lb></lb>")

@@ -54,7 +54,7 @@ class Scorer:
             for ch in block.lower():
                 if ch == '"':
                     if qc and acc != "":
-                        self.quotes[(len(self.quotes),len(atocs))] = True
+                        self.quotes[(len(self.quotes), len(atocs))] = True
                         atocs.append(acc)
                         acc = ""
                     qc = not qc
@@ -90,7 +90,7 @@ class Scorer:
                 enc = fiv + len(tar)
                 # checking to see if either end of the phrase is embedded in other words
                 return Find.WITHIN if (fiv == 0 or not st[fiv - 1].isalnum()) and (
-                            enc == len(st) or not st[enc].isalnum()) else Find.WITHIN_SUB
+                        enc == len(st) or not st[enc].isalnum()) else Find.WITHIN_SUB
         elif tar in st.split():
             return Find.WITHIN
         sub = False
@@ -104,7 +104,7 @@ class Scorer:
     def scoreStr(self, con, scores, depthMod):
         for i, cluster in enumerate(self.queries):
             for j, toke in enumerate(self.queries[i]):
-                scores[i][j] += self.find(con, toke, (i,j) in self.quotes).value * depthMod
+                scores[i][j] += self.find(con, toke, (i, j) in self.quotes).value * depthMod
 
     def scoreDictKeys(self, sub, scores, depthMod):
 
@@ -112,7 +112,7 @@ class Scorer:
             for j, toke in enumerate(self.queries[i]):
                 ov = 0
                 for con in sub.keys():
-                    ns = self.find(con, toke, (i,j) in self.quotes)
+                    ns = self.find(con, toke, (i, j) in self.quotes)
                     ov = max(ov, ns.value)
                     if ns == Find.EXACT:
                         break
@@ -159,6 +159,33 @@ class Scorer:
             if isc > 0:
                 rets.append([item, isc])
         return sorted(rets, key=lambda x: x[1], reverse=True)
+
+
+def remove_sets(sets, obj):
+    newObj = []
+    setList = sets.split(' ')
+    for item in obj:
+        if type(item) == list:
+            item = item[0]
+        itemSet = item["component_id"].split('/')[-2]
+        print(itemSet, setList)
+        if itemSet.lower() in setList:
+            continue
+        newObj.append(item)
+    return newObj
+
+
+def series_count(obj):
+    count = {"A1": 0, "A2": 0, "A5": 0}
+    for item in obj:
+        cid = ""
+        if isinstance(item, dict):
+            cid = item.get('component_id')
+        elif isinstance(item, list):
+            cid = item[0].get('component_id')
+        idL = cid.split('/')[1]
+        count[idL] += 1
+    return count
 
 
 def date_filter(dates, obj):

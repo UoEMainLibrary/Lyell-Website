@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import {NavLink, useParams, useNavigate} from "react-router-dom";
+import {NavLink, useParams, useNavigate, useLocation} from "react-router-dom";
 import {UV} from "../components/UniversalViewer";
 import {fetchData} from "../api/ApiCall";
 import ItemNav from "../components/ItemNav";
@@ -48,9 +48,12 @@ function PlainItem({objFull}) {
 }
 
 function Sidebar({objFull}) {
+    const location = useLocation();
     const [showIndex, setShowIndex] = useState(false);
     const [contentWarning, setContentWarning] = useState(false)
-
+    useEffect(() => {
+        setShowIndex(false);
+    }, [location]);
     const handleIndexClick = () => {
         setShowIndex(true);
     };
@@ -83,7 +86,6 @@ function Sidebar({objFull}) {
             const dict = objFull["notes"][i];
             if (dict.hasOwnProperty("label") && dict["label"] === "Content warning") {
                 setContentWarning(objFull["notes"][i]["content"].replace(/<emph render="underline">/g, "<b><u>").replace(/<\/emph>/g, "<\/b><\/u>"))
-                console.log(contentWarning)
             }
         }
     })
@@ -154,79 +156,68 @@ function Sidebar({objFull}) {
     )
 }
 
-function OldNavigationButtons({id}) {
-    const handleNavNextClick = () => {
-        let parts = id.split('-');
-        let incrementedNumber = parseInt(parts[1])
-        if (incrementedNumber === 266) {
-            console.log(parts[1])
-            incrementedNumber = 1
-        } else {
-            incrementedNumber = parseInt(parts[1]) + 1;
-        }
-        window.location.href = "/collections/object/a1-" + incrementedNumber;
-    };
-    const handleNavPrevClick = () => {
-        let parts = id.split('-');
-        let incrementedNumber = parseInt(parts[1])
-        if (incrementedNumber === 1) {
-            console.log(parts[1])
-            incrementedNumber = 266
-        } else {
-            incrementedNumber = parseInt(parts[1]) - 1;
-        }
-        window.location.href = "/collections/object/a1-" + incrementedNumber;
-    };
-    return (
-        <div className="text-center">
-            <div className="d-flex justify-content-center flex-wrap">
-                <button className="btn mt-3 mr-3" onClick={handleNavPrevClick}
-                        style={{paddingBottom: "0px", minWidth: "100px"}}>
-                    <NavLink className="nav-link">Previous</NavLink>
-                    <img src={prevArrow} alt="Previous"
-                         style={{width: "40px", verticalAlign: "middle", marginTop: "-15px"}}/>
-                </button>
-                <button className="btn mt-3 mx-3">
-                    <NavLink className="nav-link" to="/collections/explore">Back to Search</NavLink>
-                </button>
-                <button className="btn mt-3 ml-3" onClick={handleNavNextClick}
-                        style={{paddingBottom: "0px", minWidth: "100px"}}>
-                    <NavLink className="nav-link">Next</NavLink>
-                    <img src={nextArrow} alt="Next"
-                         style={{width: "40px", verticalAlign: "middle", marginTop: "-15px"}}/>
-                </button>
-            </div>
-        </div>
-    );
-}
-
 function NavigationButtons({id, title}) {
     const navigate = useNavigate();
-    const handleNextClick = () => {
-        let parts = id.split('-');
-        let incrementedNumber = parseInt(parts[1])
-        if (incrementedNumber === 266) {
-            incrementedNumber = 1
-        } else {
-            incrementedNumber = parseInt(parts[1]) + 1;
+    const [sets, setSets] = useState(null);
+
+    useEffect(() => {
+        async function fetchDataAsync() {
+            const data = await fetchData("index");
+            setSets(data);
         }
-        navigate("/collections/object/a1-" + incrementedNumber);
-    };
-    const handlePrevClick = () => {
-        let parts = id.split('-');
-        let incrementedNumber = parseInt(parts[1])
-        if (incrementedNumber === 1) {
-            incrementedNumber = 266
-        } else {
-            incrementedNumber = parseInt(parts[1]) - 1;
+
+        fetchDataAsync();
+    }, []);
+
+    async function getNextOrPrevValue(increase) {
+        if (!sets) return null;
+        const [prefix, numStr] = id.split('-');
+        let num = parseInt(numStr, 10);
+        const keys = Object.keys(sets).sort((a, b) => parseInt(a.slice(1), 10) - parseInt(b.slice(1), 10));
+        let currentIndex = keys.indexOf(prefix.toUpperCase());
+
+        const increment = () => {
+            if (num < sets[keys[currentIndex]]) {
+                num++;
+            } else {
+                currentIndex = (currentIndex + 1) % keys.length;
+                num = 1;
+            }
+            return `${keys[currentIndex]}-${num}`;
+        };
+
+        const decrement = () => {
+            if (num > 1) {
+                num--;
+            } else {
+                currentIndex = (currentIndex - 1 + keys.length) % keys.length;
+                num = sets[keys[currentIndex]]; // Start from the end of the previous key's range
+            }
+            return `${keys[currentIndex]}-${num}`;
+        };
+
+        return increase ? increment() : decrement();
+    }
+
+    const handleNextClick = async () => {
+        const next = await getNextOrPrevValue(true);
+        if (next) {
+            navigate("/collections/object/" + next);
         }
-        navigate("/collections/object/a1-" + incrementedNumber);
     };
+
+    const handlePrevClick = async () => {
+        const prev = await getNextOrPrevValue(false);
+        if (prev) {
+            navigate("/collections/object/" + prev);
+        }
+    };
+
     return (
         <div className="text-center fixed-height">
             <div
                 className="text-light d-flex flex-column flex-md-row justify-content-between align-items-center custom-bg-color p-2">
-                <h2 className="mb-3 mb-md-0">Scientific {title}</h2>
+                <h2 className="mb-3 mb-md-0">{title}</h2>
                 <div className="d-flex flex-wrap">
                     <div className="btn mx-1 mx-lg-3 custom-btn mb-2 mb-md-0" onClick={handlePrevClick}>
                         <NavLink className="nav-link d-flex align-items-center" to="#">
@@ -247,8 +238,6 @@ function NavigationButtons({id, title}) {
             </div>
         </div>
     );
-
-
 }
 
 export default function Item() {

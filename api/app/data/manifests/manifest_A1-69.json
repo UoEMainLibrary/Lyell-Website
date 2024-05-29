@@ -71,7 +71,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90862~418668/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page uncounted",
+                    "label": "Cover",
                     "description": "",
                     "metadata": [
                         {
@@ -117,7 +117,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90863~418667/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page uncounted",
+                    "label": "page uncounted",
                     "description": "",
                     "metadata": [
                         {
@@ -159,7 +159,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90864~418666/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.1",
+                    "label": "p.1",
                     "description": "",
                     "metadata": [
                         {
@@ -205,7 +205,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90865~418665/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.2",
+                    "label": "p.2",
                     "description": "",
                     "metadata": [
                         {
@@ -251,7 +251,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90866~418664/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.3",
+                    "label": "p.3",
                     "description": "",
                     "metadata": [
                         {
@@ -297,7 +297,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90867~418663/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.4",
+                    "label": "p.4",
                     "description": "",
                     "metadata": [
                         {
@@ -343,7 +343,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90868~418662/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.5",
+                    "label": "p.5",
                     "description": "",
                     "metadata": [
                         {
@@ -389,7 +389,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90869~418661/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.6",
+                    "label": "p.6",
                     "description": "",
                     "metadata": [
                         {
@@ -435,7 +435,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90870~418660/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.7",
+                    "label": "p.7",
                     "description": "",
                     "metadata": [
                         {
@@ -481,7 +481,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90871~418659/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.8",
+                    "label": "p.8",
                     "description": "",
                     "metadata": [
                         {
@@ -527,7 +527,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90872~418658/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.9",
+                    "label": "p.9",
                     "description": "",
                     "metadata": [
                         {
@@ -573,7 +573,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90873~418657/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.10",
+                    "label": "p.10",
                     "description": "",
                     "metadata": [
                         {
@@ -619,7 +619,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90874~418656/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.11",
+                    "label": "p.11",
                     "description": "",
                     "metadata": [
                         {
@@ -665,7 +665,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90875~418655/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.12",
+                    "label": "p.12",
                     "description": "",
                     "metadata": [
                         {
@@ -711,7 +711,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90876~418654/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.13",
+                    "label": "p.13",
                     "description": "",
                     "metadata": [
                         {
@@ -757,7 +757,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90877~418653/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.14",
+                    "label": "p.14",
                     "description": "",
                     "metadata": [
                         {
@@ -803,7 +803,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90878~418652/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.15",
+                    "label": "p.15",
                     "description": "",
                     "metadata": [
                         {
@@ -849,7 +849,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90879~418651/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.16",
+                    "label": "p.16",
                     "description": "",
                     "metadata": [
                         {
@@ -895,7 +895,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90880~418650/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.17",
+                    "label": "p.17",
                     "description": "",
                     "metadata": [
                         {
@@ -941,7 +941,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90881~418649/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.18",
+                    "label": "p.18",
                     "description": "",
                     "metadata": [
                         {
@@ -987,7 +987,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90882~418648/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.19",
+                    "label": "p.19",
                     "description": "",
                     "metadata": [
                         {
@@ -1033,7 +1033,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90883~418647/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.20",
+                    "label": "p.20",
                     "description": "",
                     "metadata": [
                         {
@@ -1079,7 +1079,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90884~418646/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.21",
+                    "label": "p.21",
                     "description": "",
                     "metadata": [
                         {
@@ -1125,7 +1125,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90885~418645/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.22",
+                    "label": "p.22",
                     "description": "",
                     "metadata": [
                         {
@@ -1171,7 +1171,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90886~418644/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.23",
+                    "label": "p.23",
                     "description": "",
                     "metadata": [
                         {
@@ -1217,7 +1217,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90887~418643/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.24",
+                    "label": "p.24",
                     "description": "",
                     "metadata": [
                         {
@@ -1263,7 +1263,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90888~418642/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.25",
+                    "label": "p.25",
                     "description": "",
                     "metadata": [
                         {
@@ -1309,7 +1309,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90889~418641/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.26",
+                    "label": "p.26",
                     "description": "",
                     "metadata": [
                         {
@@ -1355,7 +1355,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90890~418640/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.27",
+                    "label": "p.27",
                     "description": "",
                     "metadata": [
                         {
@@ -1401,7 +1401,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90891~418639/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.28",
+                    "label": "p.28",
                     "description": "",
                     "metadata": [
                         {
@@ -1447,7 +1447,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90892~418638/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.29",
+                    "label": "p.29",
                     "description": "",
                     "metadata": [
                         {
@@ -1493,7 +1493,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90893~418637/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.30",
+                    "label": "p.30",
                     "description": "",
                     "metadata": [
                         {
@@ -1539,7 +1539,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90894~418636/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.31",
+                    "label": "p.31",
                     "description": "",
                     "metadata": [
                         {
@@ -1585,7 +1585,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90895~418635/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.32",
+                    "label": "p.32",
                     "description": "",
                     "metadata": [
                         {
@@ -1631,7 +1631,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90896~418634/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.33",
+                    "label": "p.33",
                     "description": "",
                     "metadata": [
                         {
@@ -1677,7 +1677,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90897~418633/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.34",
+                    "label": "p.34",
                     "description": "",
                     "metadata": [
                         {
@@ -1723,7 +1723,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90898~418632/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.35",
+                    "label": "p.35",
                     "description": "",
                     "metadata": [
                         {
@@ -1769,7 +1769,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90899~418631/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.36",
+                    "label": "p.36",
                     "description": "",
                     "metadata": [
                         {
@@ -1815,7 +1815,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90900~418630/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.37",
+                    "label": "p.37",
                     "description": "",
                     "metadata": [
                         {
@@ -1861,7 +1861,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90901~418629/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.38",
+                    "label": "p.38",
                     "description": "",
                     "metadata": [
                         {
@@ -1907,7 +1907,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90902~418628/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.39",
+                    "label": "p.39",
                     "description": "",
                     "metadata": [
                         {
@@ -1953,7 +1953,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90903~418627/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.40",
+                    "label": "p.40",
                     "description": "",
                     "metadata": [
                         {
@@ -1999,7 +1999,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90904~418626/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.41",
+                    "label": "p.41",
                     "description": "",
                     "metadata": [
                         {
@@ -2045,7 +2045,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90905~418625/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.42",
+                    "label": "p.42",
                     "description": "",
                     "metadata": [
                         {
@@ -2091,7 +2091,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90906~418624/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.43",
+                    "label": "p.43",
                     "description": "",
                     "metadata": [
                         {
@@ -2137,7 +2137,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90907~418623/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.44",
+                    "label": "p.44",
                     "description": "",
                     "metadata": [
                         {
@@ -2183,7 +2183,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90908~418622/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.45",
+                    "label": "p.45",
                     "description": "",
                     "metadata": [
                         {
@@ -2229,7 +2229,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90909~418621/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.46",
+                    "label": "p.46",
                     "description": "",
                     "metadata": [
                         {
@@ -2275,7 +2275,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90910~418620/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.47",
+                    "label": "p.47",
                     "description": "",
                     "metadata": [
                         {
@@ -2321,7 +2321,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90911~418619/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.48",
+                    "label": "p.48",
                     "description": "",
                     "metadata": [
                         {
@@ -2367,7 +2367,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90912~418618/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.49",
+                    "label": "p.49",
                     "description": "",
                     "metadata": [
                         {
@@ -2413,7 +2413,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90913~418617/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.50",
+                    "label": "p.50",
                     "description": "",
                     "metadata": [
                         {
@@ -2459,7 +2459,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90914~418616/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.51",
+                    "label": "p.51",
                     "description": "",
                     "metadata": [
                         {
@@ -2505,7 +2505,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90915~418615/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.52",
+                    "label": "p.52",
                     "description": "",
                     "metadata": [
                         {
@@ -2551,7 +2551,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90916~418614/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.53",
+                    "label": "p.53",
                     "description": "",
                     "metadata": [
                         {
@@ -2597,7 +2597,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90917~418613/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.54",
+                    "label": "p.54",
                     "description": "",
                     "metadata": [
                         {
@@ -2643,7 +2643,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90918~418612/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.55",
+                    "label": "p.55",
                     "description": "",
                     "metadata": [
                         {
@@ -2689,7 +2689,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90919~418611/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.56",
+                    "label": "p.56",
                     "description": "",
                     "metadata": [
                         {
@@ -2735,7 +2735,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90920~418610/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.57",
+                    "label": "p.57",
                     "description": "",
                     "metadata": [
                         {
@@ -2781,7 +2781,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90921~418609/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.58",
+                    "label": "p.58",
                     "description": "",
                     "metadata": [
                         {
@@ -2827,7 +2827,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90922~418608/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.59",
+                    "label": "p.59",
                     "description": "",
                     "metadata": [
                         {
@@ -2873,7 +2873,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90923~418607/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.60",
+                    "label": "p.60",
                     "description": "",
                     "metadata": [
                         {
@@ -2919,7 +2919,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90924~418606/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.61",
+                    "label": "p.61",
                     "description": "",
                     "metadata": [
                         {
@@ -2965,7 +2965,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90925~418605/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.62",
+                    "label": "p.62",
                     "description": "",
                     "metadata": [
                         {
@@ -3011,7 +3011,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90926~418604/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.63",
+                    "label": "p.63",
                     "description": "",
                     "metadata": [
                         {
@@ -3057,7 +3057,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90927~418603/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.64",
+                    "label": "p.64",
                     "description": "",
                     "metadata": [
                         {
@@ -3103,7 +3103,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90928~418602/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.65",
+                    "label": "p.65",
                     "description": "",
                     "metadata": [
                         {
@@ -3149,7 +3149,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90929~418601/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.66",
+                    "label": "p.66",
                     "description": "",
                     "metadata": [
                         {
@@ -3195,7 +3195,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90930~418600/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.67",
+                    "label": "p.67",
                     "description": "",
                     "metadata": [
                         {
@@ -3241,7 +3241,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90931~418599/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.68",
+                    "label": "p.68",
                     "description": "",
                     "metadata": [
                         {
@@ -3287,7 +3287,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90932~418598/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.69",
+                    "label": "p.69",
                     "description": "",
                     "metadata": [
                         {
@@ -3333,7 +3333,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90933~418597/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.70",
+                    "label": "p.70",
                     "description": "",
                     "metadata": [
                         {
@@ -3379,7 +3379,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90934~418596/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.71",
+                    "label": "p.71",
                     "description": "",
                     "metadata": [
                         {
@@ -3425,7 +3425,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90935~418595/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.72",
+                    "label": "p.72",
                     "description": "",
                     "metadata": [
                         {
@@ -3471,7 +3471,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90936~418594/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.73",
+                    "label": "p.73",
                     "description": "",
                     "metadata": [
                         {
@@ -3517,7 +3517,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90937~418593/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.74",
+                    "label": "p.74",
                     "description": "",
                     "metadata": [
                         {
@@ -3563,7 +3563,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90938~418592/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.75",
+                    "label": "p.75",
                     "description": "",
                     "metadata": [
                         {
@@ -3609,7 +3609,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90939~418591/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.76",
+                    "label": "p.76",
                     "description": "",
                     "metadata": [
                         {
@@ -3655,7 +3655,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90940~418590/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.77",
+                    "label": "p.77",
                     "description": "",
                     "metadata": [
                         {
@@ -3701,7 +3701,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90941~418589/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.78",
+                    "label": "p.78",
                     "description": "",
                     "metadata": [
                         {
@@ -3747,7 +3747,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90942~418588/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.79",
+                    "label": "p.79",
                     "description": "",
                     "metadata": [
                         {
@@ -3793,7 +3793,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90943~418587/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.80",
+                    "label": "p.80",
                     "description": "",
                     "metadata": [
                         {
@@ -3839,7 +3839,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90944~418586/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.81",
+                    "label": "p.81",
                     "description": "",
                     "metadata": [
                         {
@@ -3885,7 +3885,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90945~418585/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.82",
+                    "label": "p.82",
                     "description": "",
                     "metadata": [
                         {
@@ -3931,7 +3931,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90946~418584/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.83",
+                    "label": "p.83",
                     "description": "",
                     "metadata": [
                         {
@@ -3977,7 +3977,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90947~418583/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.84",
+                    "label": "p.84",
                     "description": "",
                     "metadata": [
                         {
@@ -4023,7 +4023,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90948~418582/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.85",
+                    "label": "p.85",
                     "description": "",
                     "metadata": [
                         {
@@ -4069,7 +4069,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90949~418581/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.86",
+                    "label": "p.86",
                     "description": "",
                     "metadata": [
                         {
@@ -4115,7 +4115,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90950~418580/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.87",
+                    "label": "p.87",
                     "description": "",
                     "metadata": [
                         {
@@ -4161,7 +4161,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90951~418579/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.88",
+                    "label": "p.88",
                     "description": "",
                     "metadata": [
                         {
@@ -4207,7 +4207,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90952~418578/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.89",
+                    "label": "p.89",
                     "description": "",
                     "metadata": [
                         {
@@ -4253,7 +4253,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90953~418577/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.90",
+                    "label": "p.90",
                     "description": "",
                     "metadata": [
                         {
@@ -4299,7 +4299,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90954~418576/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.91",
+                    "label": "p.91",
                     "description": "",
                     "metadata": [
                         {
@@ -4345,7 +4345,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90955~418575/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.92",
+                    "label": "p.92",
                     "description": "",
                     "metadata": [
                         {
@@ -4391,7 +4391,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90956~418574/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.93",
+                    "label": "p.93",
                     "description": "",
                     "metadata": [
                         {
@@ -4437,7 +4437,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90957~418573/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.94",
+                    "label": "p.94",
                     "description": "",
                     "metadata": [
                         {
@@ -4483,7 +4483,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90958~418572/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.95",
+                    "label": "p.95",
                     "description": "",
                     "metadata": [
                         {
@@ -4529,7 +4529,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90959~418571/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.96",
+                    "label": "p.96",
                     "description": "",
                     "metadata": [
                         {
@@ -4575,7 +4575,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90960~418570/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.97",
+                    "label": "p.97",
                     "description": "",
                     "metadata": [
                         {
@@ -4621,7 +4621,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90961~418569/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.98",
+                    "label": "p.98",
                     "description": "",
                     "metadata": [
                         {
@@ -4667,7 +4667,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90962~418568/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.99",
+                    "label": "p.99",
                     "description": "",
                     "metadata": [
                         {
@@ -4713,7 +4713,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90963~418567/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.100",
+                    "label": "p.100",
                     "description": "",
                     "metadata": [
                         {
@@ -4759,7 +4759,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90964~418566/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.101",
+                    "label": "p.101",
                     "description": "",
                     "metadata": [
                         {
@@ -4805,7 +4805,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90965~418565/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.102",
+                    "label": "p.102",
                     "description": "",
                     "metadata": [
                         {
@@ -4851,7 +4851,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90966~418564/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.103",
+                    "label": "p.103",
                     "description": "",
                     "metadata": [
                         {
@@ -4897,7 +4897,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90967~418563/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.104",
+                    "label": "p.104",
                     "description": "",
                     "metadata": [
                         {
@@ -4943,7 +4943,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90968~418562/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.105",
+                    "label": "p.105",
                     "description": "",
                     "metadata": [
                         {
@@ -4989,7 +4989,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90969~418561/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.106",
+                    "label": "p.106",
                     "description": "",
                     "metadata": [
                         {
@@ -5035,7 +5035,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90970~418560/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.107",
+                    "label": "p.107",
                     "description": "",
                     "metadata": [
                         {
@@ -5081,7 +5081,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90971~418559/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.108",
+                    "label": "p.108",
                     "description": "",
                     "metadata": [
                         {
@@ -5127,7 +5127,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90972~418558/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.109",
+                    "label": "p.109",
                     "description": "",
                     "metadata": [
                         {
@@ -5173,7 +5173,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90973~418557/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.110",
+                    "label": "p.110",
                     "description": "",
                     "metadata": [
                         {
@@ -5219,7 +5219,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90974~418556/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.111",
+                    "label": "p.111",
                     "description": "",
                     "metadata": [
                         {
@@ -5265,7 +5265,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90975~418555/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.112",
+                    "label": "p.112",
                     "description": "",
                     "metadata": [
                         {
@@ -5311,7 +5311,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90976~418554/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.113",
+                    "label": "p.113",
                     "description": "",
                     "metadata": [
                         {
@@ -5357,7 +5357,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90977~418553/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.114",
+                    "label": "p.114",
                     "description": "",
                     "metadata": [
                         {
@@ -5403,7 +5403,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90978~418552/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.115",
+                    "label": "p.115",
                     "description": "",
                     "metadata": [
                         {
@@ -5449,7 +5449,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90979~418551/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.116",
+                    "label": "p.116",
                     "description": "",
                     "metadata": [
                         {
@@ -5495,7 +5495,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90980~418550/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.117",
+                    "label": "p.117",
                     "description": "",
                     "metadata": [
                         {
@@ -5541,7 +5541,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90981~418549/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.118",
+                    "label": "p.118",
                     "description": "",
                     "metadata": [
                         {
@@ -5587,7 +5587,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90982~418548/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.119",
+                    "label": "p.119",
                     "description": "",
                     "metadata": [
                         {
@@ -5633,7 +5633,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90983~418547/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.120",
+                    "label": "p.120",
                     "description": "",
                     "metadata": [
                         {
@@ -5679,7 +5679,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90984~418546/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.121",
+                    "label": "p.121",
                     "description": "",
                     "metadata": [
                         {
@@ -5725,7 +5725,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90985~418545/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.122",
+                    "label": "p.122",
                     "description": "",
                     "metadata": [
                         {
@@ -5771,7 +5771,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90986~418544/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.123",
+                    "label": "p.123",
                     "description": "",
                     "metadata": [
                         {
@@ -5817,7 +5817,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90987~418543/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.124",
+                    "label": "p.124",
                     "description": "",
                     "metadata": [
                         {
@@ -5863,7 +5863,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90988~418542/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.125",
+                    "label": "p.125",
                     "description": "",
                     "metadata": [
                         {
@@ -5909,7 +5909,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90989~418541/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.126",
+                    "label": "p.126",
                     "description": "",
                     "metadata": [
                         {
@@ -5955,7 +5955,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90990~418540/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.127",
+                    "label": "p.127",
                     "description": "",
                     "metadata": [
                         {
@@ -6001,7 +6001,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90991~418539/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.128",
+                    "label": "p.128",
                     "description": "",
                     "metadata": [
                         {
@@ -6047,7 +6047,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90992~418538/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.131",
+                    "label": "p.131",
                     "description": "",
                     "metadata": [
                         {
@@ -6093,7 +6093,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90993~418537/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.132",
+                    "label": "p.132",
                     "description": "",
                     "metadata": [
                         {
@@ -6139,7 +6139,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90994~418536/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.133",
+                    "label": "p.133",
                     "description": "",
                     "metadata": [
                         {
@@ -6185,7 +6185,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90995~418535/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.134",
+                    "label": "p.134",
                     "description": "",
                     "metadata": [
                         {
@@ -6231,7 +6231,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90996~418534/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.135",
+                    "label": "p.135",
                     "description": "",
                     "metadata": [
                         {
@@ -6277,7 +6277,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90997~418533/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.136",
+                    "label": "p.136",
                     "description": "",
                     "metadata": [
                         {
@@ -6323,7 +6323,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90998~418532/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.137",
+                    "label": "p.137",
                     "description": "",
                     "metadata": [
                         {
@@ -6369,7 +6369,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~90999~418531/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.138",
+                    "label": "p.138",
                     "description": "",
                     "metadata": [
                         {
@@ -6415,7 +6415,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91000~418530/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.139",
+                    "label": "p.139",
                     "description": "",
                     "metadata": [
                         {
@@ -6461,7 +6461,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91001~418529/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.140",
+                    "label": "p.140",
                     "description": "",
                     "metadata": [
                         {
@@ -6507,7 +6507,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91002~418528/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.141",
+                    "label": "p.141",
                     "description": "",
                     "metadata": [
                         {
@@ -6553,7 +6553,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91003~418527/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.142",
+                    "label": "p.142",
                     "description": "",
                     "metadata": [
                         {
@@ -6599,7 +6599,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91004~418526/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.143",
+                    "label": "p.143",
                     "description": "",
                     "metadata": [
                         {
@@ -6645,7 +6645,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91005~418525/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.144",
+                    "label": "p.144",
                     "description": "",
                     "metadata": [
                         {
@@ -6691,7 +6691,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91006~418524/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.145",
+                    "label": "p.145",
                     "description": "",
                     "metadata": [
                         {
@@ -6737,7 +6737,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91007~418523/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.146",
+                    "label": "p.146",
                     "description": "",
                     "metadata": [
                         {
@@ -6783,7 +6783,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91008~418522/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.147",
+                    "label": "p.147",
                     "description": "",
                     "metadata": [
                         {
@@ -6829,7 +6829,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91009~418521/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.148",
+                    "label": "p.148",
                     "description": "",
                     "metadata": [
                         {
@@ -6875,7 +6875,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91010~418520/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.149",
+                    "label": "p.149",
                     "description": "",
                     "metadata": [
                         {
@@ -6921,7 +6921,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91011~418519/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.150",
+                    "label": "p.150",
                     "description": "",
                     "metadata": [
                         {
@@ -6967,7 +6967,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91012~418518/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.151",
+                    "label": "p.151",
                     "description": "",
                     "metadata": [
                         {
@@ -7013,7 +7013,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91013~418517/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.152",
+                    "label": "p.152",
                     "description": "",
                     "metadata": [
                         {
@@ -7059,7 +7059,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91014~418516/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.153",
+                    "label": "p.153",
                     "description": "",
                     "metadata": [
                         {
@@ -7105,7 +7105,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91015~418515/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.154",
+                    "label": "p.154",
                     "description": "",
                     "metadata": [
                         {
@@ -7151,7 +7151,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91016~418514/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.155",
+                    "label": "p.155",
                     "description": "",
                     "metadata": [
                         {
@@ -7197,7 +7197,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91017~418513/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.156",
+                    "label": "p.156",
                     "description": "",
                     "metadata": [
                         {
@@ -7243,7 +7243,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91018~418512/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.157",
+                    "label": "p.157",
                     "description": "",
                     "metadata": [
                         {
@@ -7289,7 +7289,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91019~418511/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.158",
+                    "label": "p.158",
                     "description": "",
                     "metadata": [
                         {
@@ -7335,7 +7335,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91020~418510/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.159",
+                    "label": "p.159",
                     "description": "",
                     "metadata": [
                         {
@@ -7381,7 +7381,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91021~418509/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.160",
+                    "label": "p.160",
                     "description": "",
                     "metadata": [
                         {
@@ -7427,7 +7427,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91022~418508/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.161",
+                    "label": "p.161",
                     "description": "",
                     "metadata": [
                         {
@@ -7473,7 +7473,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91023~418507/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.162",
+                    "label": "p.162",
                     "description": "",
                     "metadata": [
                         {
@@ -7519,7 +7519,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91024~418506/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.163",
+                    "label": "p.163",
                     "description": "",
                     "metadata": [
                         {
@@ -7565,7 +7565,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91025~418505/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.164",
+                    "label": "p.164",
                     "description": "",
                     "metadata": [
                         {
@@ -7611,7 +7611,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91026~418504/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page uncounted",
+                    "label": "page uncounted",
                     "description": "",
                     "metadata": [
                         {
@@ -7653,7 +7653,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91027~418503/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page uncounted",
+                    "label": "page uncounted",
                     "description": "",
                     "metadata": [
                         {
@@ -7695,7 +7695,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91028~418502/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.165",
+                    "label": "p.165",
                     "description": "",
                     "metadata": [
                         {
@@ -7741,7 +7741,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91029~418501/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.166",
+                    "label": "p.166",
                     "description": "",
                     "metadata": [
                         {
@@ -7787,7 +7787,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91030~418500/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.167",
+                    "label": "p.167",
                     "description": "",
                     "metadata": [
                         {
@@ -7833,7 +7833,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91031~418499/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.168",
+                    "label": "p.168",
                     "description": "",
                     "metadata": [
                         {
@@ -7879,7 +7879,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91032~418498/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.169",
+                    "label": "p.169",
                     "description": "",
                     "metadata": [
                         {
@@ -7925,7 +7925,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91033~418497/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.170",
+                    "label": "p.170",
                     "description": "",
                     "metadata": [
                         {
@@ -7971,7 +7971,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91034~418496/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.171",
+                    "label": "p.171",
                     "description": "",
                     "metadata": [
                         {
@@ -8017,7 +8017,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91035~418495/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.172",
+                    "label": "p.172",
                     "description": "",
                     "metadata": [
                         {
@@ -8063,7 +8063,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91036~418494/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.173",
+                    "label": "p.173",
                     "description": "",
                     "metadata": [
                         {
@@ -8109,7 +8109,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91037~418493/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.174",
+                    "label": "p.174",
                     "description": "",
                     "metadata": [
                         {
@@ -8155,7 +8155,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91038~418492/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.177",
+                    "label": "p.177",
                     "description": "",
                     "metadata": [
                         {
@@ -8201,7 +8201,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91039~418491/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.178",
+                    "label": "p.178",
                     "description": "",
                     "metadata": [
                         {
@@ -8247,7 +8247,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91040~418490/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.179",
+                    "label": "p.179",
                     "description": "",
                     "metadata": [
                         {
@@ -8293,7 +8293,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91041~418489/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.180",
+                    "label": "p.180",
                     "description": "",
                     "metadata": [
                         {
@@ -8339,7 +8339,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91042~418488/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.181",
+                    "label": "p.181",
                     "description": "",
                     "metadata": [
                         {
@@ -8385,7 +8385,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91043~418487/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.182",
+                    "label": "p.182",
                     "description": "",
                     "metadata": [
                         {
@@ -8431,7 +8431,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91044~418486/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.183",
+                    "label": "p.183",
                     "description": "",
                     "metadata": [
                         {
@@ -8477,7 +8477,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91045~418485/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.184",
+                    "label": "p.184",
                     "description": "",
                     "metadata": [
                         {
@@ -8523,7 +8523,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91046~418484/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.185",
+                    "label": "p.185",
                     "description": "",
                     "metadata": [
                         {
@@ -8569,7 +8569,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91047~418483/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page p.186",
+                    "label": "p.186",
                     "description": "",
                     "metadata": [
                         {
@@ -8615,7 +8615,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91048~418482/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page uncounted",
+                    "label": "page uncounted",
                     "description": "",
                     "metadata": [
                         {
@@ -8657,7 +8657,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91049~418481/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page uncounted",
+                    "label": "Cover",
                     "description": "",
                     "metadata": [
                         {
@@ -8703,7 +8703,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~91050~418480/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.69 - page uncounted",
+                    "label": "Cover",
                     "description": "",
                     "metadata": [
                         {

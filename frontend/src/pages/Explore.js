@@ -42,17 +42,18 @@ function Results({result}) {
                 if (Array.isArray(t)) {
                     t = t[0]
                 }
+                const id = t["component_id"].split("/")
                 return (
                     <SingleResult
                         key={t["component_id"]}
                         obj={{
-                            id: t["component_id"].split("/").pop(),
+                            id: id[1] + "-" + id[2],
                             title: t["title"],
                             shelfmark: t["component_id"],
                             date: t["dates"]["expression"],
                             body: t["notes"][0]["content"],
                             image: t["thumbnail"],
-                            link: "/collections/object/a1-" + t["component_id"].split("/").pop()
+                            link: "/collections/object/"+ id[1] +"-" + id[2]
                         }}
                     />
                 )
@@ -101,9 +102,7 @@ function SearchBar({searchParams, setSearchParams}) {
     );
 }
 
-
 function DateSearch({searchParams, setSearchParams}) {
-    const [search, setSearch] = useState(searchParams.get('date') || "");
     const [afterYear, setAfterYear] = useState('');
     const [beforeYear, setBeforeYear] = useState('');
     const [errorMsg, setErrorMsg] = useState('');
@@ -186,6 +185,77 @@ function DateSearch({searchParams, setSearchParams}) {
     );
 }
 
+function SetsFilter({searchParams, setSearchParams, amounts}) {
+    const initialParams = {a1: true, a2: true, a5: true};
+    const [params, setParams] = useState(initialParams);
+
+    const handleCheckboxChange = (event) => {
+        const {name, checked} = event.target;
+
+        setParams(prevParams => ({
+            ...prevParams,
+            [name]: checked
+        }));
+    };
+
+    useEffect(() => {
+        const newSearchParams = new URLSearchParams(searchParams);
+        const deselectedParams = Object.keys(params)
+            .filter(key => !params[key])
+            .join(' ');
+
+        if (deselectedParams) {
+            newSearchParams.set('sets', deselectedParams);
+            setSearchParams(newSearchParams);
+        } else {
+            newSearchParams.delete('sets');
+            setSearchParams(newSearchParams);
+        }
+    }, [params, searchParams, setSearchParams]);
+
+    return (
+        <div className="my-4">
+            <div className="pb-2">
+                <input
+                    type="checkbox"
+                    id="a1"
+                    name="a1"
+                    className="me-3"
+                    checked={params.a1}
+                    onChange={handleCheckboxChange}
+                />
+                <label htmlFor="a1">Scientific Notebooks, 1825-1874 <span className="text-muted small">({amounts["A1"]})</span></label>
+            </div>
+            <div className="pb-2">
+                <input
+                    type="checkbox"
+                    id="a2"
+                    name="a2"
+                    className="me-3"
+                    checked={params.a2}
+                    onChange={handleCheckboxChange}
+                />
+                <label htmlFor="a2">Daily and Travel Journals, 1818 - 1830 <span className="text-muted small">({amounts["A2"]})</span></label>
+            </div>
+            <div>
+                <input
+                    type="checkbox"
+                    id="a5"
+                    name="a5"
+                    className="me-3"
+                    checked={params.a5}
+                    onChange={handleCheckboxChange}
+                />
+                <label htmlFor="a5">Index Notebooks, 1855 - 1871 <span className="text-muted small">({amounts["A5"]})</span></label>
+            </div>
+
+            {/*<div>*/}
+            {/*    <h4>Params State:</h4>*/}
+            {/*    <pre>{JSON.stringify(params, null, 2)}</pre>*/}
+            {/*</div>*/}
+        </div>
+    );
+}
 
 function TagFilter({filterTags, searchParams, setSearchParams}) {
     const handleTagRemoved = (tag) => {
@@ -237,7 +307,8 @@ function Explore() {
     const [sortBy, setSortBy] = useState("r");
     const [searchData, setSearchData] = useState({
         results: [],
-        amount: 0,
+        total: 0,
+        amounts: {},
         tags: []
     });
 
@@ -247,16 +318,30 @@ function Explore() {
             const data = await fetchData("search?" + searchParams);
             console.log(data)
             if (data !== {}) {
-                let n = data.results[0]
-                console.log(data.results[0], data.results.length)
-                if (!data.results) {
+                if (data.results && data.results.length > 0) {
+                    console.log(data.results)
+                    let n = data.results[0]
                     if (n.constructor === Object) {
-                        console.log(sortBy);
                         data.results.sort((a, b) => {
-                            const idA = parseInt(a["component_id"].split('/').pop());
-                            const idB = parseInt(b["component_id"].split('/').pop());
-                            return sortBy === "sd" ? idB - idA : idA - idB;
+                            // Extract the component_id for both elements
+                            const idA = a["component_id"];
+                            const idB = b["component_id"];
+
+                            // Split the component_id to get both parts
+                            const [partA, numA] = idA.split('/').slice(-2);
+                            const [partB, numB] = idB.split('/').slice(-2);
+
+                            // Compare the string parts first
+                            if (partA < partB) return sortBy === "sd" ? 1 : -1;
+                            if (partA > partB) return sortBy === "sd" ? -1 : 1;
+
+                            // If the string parts are equal, compare the numeric parts
+                            const numericA = parseInt(numA);
+                            const numericB = parseInt(numB);
+
+                            return sortBy === "sd" ? numericB - numericA : numericA - numericB;
                         });
+
                     } else if (Array.isArray(n)) {
                         console.log("not here!");
                         if (sortBy !== "r") {
@@ -330,9 +415,10 @@ function Explore() {
             <div className="mx-5 my-5">
                 <div className="row">
                     <div className="col-12 col-md-3 bg-light py-3">
-                        <h5>Search the 266 Scientific notebooks</h5>
+                        <h5 className="pb-2">Search the notebooks</h5>
                         <SearchBar searchParams={searchParams} setSearchParams={setSearchParams}/>
                         <DateSearch searchParams={searchParams} setSearchParams={setSearchParams}/>
+                        <SetsFilter searchParams={searchParams} setSearchParams={setSearchParams} amounts={searchData.amounts}/>
                         <TagFilter filterTags={filterTags} searchParams={searchParams}
                                    setSearchParams={setSearchParams}/>
                         <div>
@@ -343,10 +429,10 @@ function Explore() {
                     </div>
                     <div className="col">
                         <div className="row p-3" style={{borderBottom: '2px solid lightgrey'}}>
-                            {searchData.amount < itemsPerPage ? (
-                                <p className="col col-md m-0 pb-3 pb-md-0">Showing {searchData.amount} results</p>
+                            {searchData.total < itemsPerPage ? (
+                                <p className="col col-md m-0 pb-3 pb-md-0">Showing {searchData.total} results</p>
                             ) : (
-                                <p className="col col-md m-0 pb-3 pb-md-0">Showing {startIndex + 1}-{endIndex} of {searchData.amount} results</p>
+                                <p className="col col-md m-0 pb-3 pb-md-0">Showing {startIndex + 1}-{endIndex} of {searchData.total} results</p>
                             )}
 
                             <div className="col pb-3 pb-md-0 col-md-4">
@@ -377,7 +463,7 @@ function Explore() {
                         </div>
                         {searchData.results[0] ? <Results
                             result={searchData.results.slice(startIndex, endIndex)}
-                        />: <div className="py-4 ps-4"> <p>No results found please change search parameters</p></div>}
+                        /> : <div className="py-4 ps-4"><p>No results found please change search parameters</p></div>}
                         <div className="pagination">
                             <button className="btn btn-outline-secondary mx-2" onClick={handlePrevPage}
                                     disabled={currentPage === 1}>

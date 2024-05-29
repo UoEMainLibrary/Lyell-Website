@@ -77,7 +77,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124682~464270/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page uncounted",
+                    "label": "Cover",
                     "description": "",
                     "metadata": [
                         {
@@ -123,7 +123,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124683~464269/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page uncounted",
+                    "label": "page uncounted",
                     "description": "",
                     "metadata": [
                         {
@@ -165,7 +165,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124684~464268/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.1",
+                    "label": "p.1",
                     "description": "",
                     "metadata": [
                         {
@@ -211,7 +211,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124685~464267/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.2",
+                    "label": "p.2",
                     "description": "",
                     "metadata": [
                         {
@@ -257,7 +257,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124686~464266/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.3",
+                    "label": "p.3",
                     "description": "",
                     "metadata": [
                         {
@@ -303,7 +303,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124687~464265/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.4",
+                    "label": "p.4",
                     "description": "",
                     "metadata": [
                         {
@@ -349,7 +349,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124688~464264/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.5",
+                    "label": "p.5",
                     "description": "",
                     "metadata": [
                         {
@@ -395,7 +395,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124689~464263/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.6",
+                    "label": "p.6",
                     "description": "",
                     "metadata": [
                         {
@@ -441,7 +441,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124690~464262/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.7",
+                    "label": "p.7",
                     "description": "",
                     "metadata": [
                         {
@@ -487,7 +487,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124691~464261/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.8",
+                    "label": "p.8",
                     "description": "",
                     "metadata": [
                         {
@@ -533,7 +533,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124692~464260/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.9",
+                    "label": "p.9",
                     "description": "",
                     "metadata": [
                         {
@@ -579,7 +579,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124693~464259/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.10",
+                    "label": "p.10",
                     "description": "",
                     "metadata": [
                         {
@@ -625,7 +625,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124694~464258/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.11",
+                    "label": "p.11",
                     "description": "",
                     "metadata": [
                         {
@@ -671,7 +671,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124695~464257/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.12",
+                    "label": "p.12",
                     "description": "",
                     "metadata": [
                         {
@@ -717,7 +717,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124696~464256/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.13",
+                    "label": "p.13",
                     "description": "",
                     "metadata": [
                         {
@@ -763,7 +763,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124697~464255/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.14",
+                    "label": "p.14",
                     "description": "",
                     "metadata": [
                         {
@@ -809,7 +809,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124698~464254/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.15",
+                    "label": "p.15",
                     "description": "",
                     "metadata": [
                         {
@@ -855,7 +855,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124699~464253/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.16",
+                    "label": "p.16",
                     "description": "",
                     "metadata": [
                         {
@@ -901,7 +901,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124700~464252/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.17",
+                    "label": "p.17",
                     "description": "",
                     "metadata": [
                         {
@@ -947,7 +947,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124701~464251/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.18",
+                    "label": "p.18",
                     "description": "",
                     "metadata": [
                         {
@@ -993,7 +993,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124702~464250/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.19",
+                    "label": "p.19",
                     "description": "",
                     "metadata": [
                         {
@@ -1039,7 +1039,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124703~464249/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.20",
+                    "label": "p.20",
                     "description": "",
                     "metadata": [
                         {
@@ -1085,7 +1085,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124704~464248/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.21",
+                    "label": "p.21",
                     "description": "",
                     "metadata": [
                         {
@@ -1131,7 +1131,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124705~464247/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.22",
+                    "label": "p.22",
                     "description": "",
                     "metadata": [
                         {
@@ -1177,7 +1177,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124706~464246/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.23",
+                    "label": "p.23",
                     "description": "",
                     "metadata": [
                         {
@@ -1223,7 +1223,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124707~464245/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.24",
+                    "label": "p.24",
                     "description": "",
                     "metadata": [
                         {
@@ -1269,7 +1269,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124708~464244/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.25",
+                    "label": "p.25",
                     "description": "",
                     "metadata": [
                         {
@@ -1315,7 +1315,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124709~464243/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.26",
+                    "label": "p.26",
                     "description": "",
                     "metadata": [
                         {
@@ -1361,7 +1361,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124710~464242/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.27",
+                    "label": "p.27",
                     "description": "",
                     "metadata": [
                         {
@@ -1407,7 +1407,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124711~464241/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.28",
+                    "label": "p.28",
                     "description": "",
                     "metadata": [
                         {
@@ -1453,7 +1453,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124712~464240/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.29",
+                    "label": "p.29",
                     "description": "",
                     "metadata": [
                         {
@@ -1499,7 +1499,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124713~464239/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.30",
+                    "label": "p.30",
                     "description": "",
                     "metadata": [
                         {
@@ -1545,7 +1545,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124714~464238/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.31",
+                    "label": "p.31",
                     "description": "",
                     "metadata": [
                         {
@@ -1591,7 +1591,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124715~464237/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.32",
+                    "label": "p.32",
                     "description": "",
                     "metadata": [
                         {
@@ -1637,7 +1637,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124716~464236/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.33",
+                    "label": "p.33",
                     "description": "",
                     "metadata": [
                         {
@@ -1683,7 +1683,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124717~464235/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.34",
+                    "label": "p.34",
                     "description": "",
                     "metadata": [
                         {
@@ -1729,7 +1729,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124718~464234/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.35",
+                    "label": "p.35",
                     "description": "",
                     "metadata": [
                         {
@@ -1775,7 +1775,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124719~464233/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.36",
+                    "label": "p.36",
                     "description": "",
                     "metadata": [
                         {
@@ -1821,7 +1821,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124720~464232/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.37",
+                    "label": "p.37",
                     "description": "",
                     "metadata": [
                         {
@@ -1867,7 +1867,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124721~464231/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.38",
+                    "label": "p.38",
                     "description": "",
                     "metadata": [
                         {
@@ -1913,7 +1913,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124722~464230/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.39",
+                    "label": "p.39",
                     "description": "",
                     "metadata": [
                         {
@@ -1959,7 +1959,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124723~464229/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.40",
+                    "label": "p.40",
                     "description": "",
                     "metadata": [
                         {
@@ -2005,7 +2005,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124724~464228/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.41",
+                    "label": "p.41",
                     "description": "",
                     "metadata": [
                         {
@@ -2051,7 +2051,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124725~464227/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.42",
+                    "label": "p.42",
                     "description": "",
                     "metadata": [
                         {
@@ -2097,7 +2097,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124726~464226/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.43",
+                    "label": "p.43",
                     "description": "",
                     "metadata": [
                         {
@@ -2143,7 +2143,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124727~464225/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.44",
+                    "label": "p.44",
                     "description": "",
                     "metadata": [
                         {
@@ -2189,7 +2189,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124728~464224/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.45",
+                    "label": "p.45",
                     "description": "",
                     "metadata": [
                         {
@@ -2235,7 +2235,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124729~464223/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.46",
+                    "label": "p.46",
                     "description": "",
                     "metadata": [
                         {
@@ -2281,7 +2281,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124730~464222/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.47",
+                    "label": "p.47",
                     "description": "",
                     "metadata": [
                         {
@@ -2327,7 +2327,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124731~464221/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.48",
+                    "label": "p.48",
                     "description": "",
                     "metadata": [
                         {
@@ -2373,7 +2373,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124732~464220/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.49",
+                    "label": "p.49",
                     "description": "",
                     "metadata": [
                         {
@@ -2419,7 +2419,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124733~464219/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.50",
+                    "label": "p.50",
                     "description": "",
                     "metadata": [
                         {
@@ -2465,7 +2465,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124734~464218/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.51",
+                    "label": "p.51",
                     "description": "",
                     "metadata": [
                         {
@@ -2511,7 +2511,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124735~464217/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.52",
+                    "label": "p.52",
                     "description": "",
                     "metadata": [
                         {
@@ -2557,7 +2557,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124736~464216/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.53",
+                    "label": "p.53",
                     "description": "",
                     "metadata": [
                         {
@@ -2603,7 +2603,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124737~464215/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.54",
+                    "label": "p.54",
                     "description": "",
                     "metadata": [
                         {
@@ -2649,7 +2649,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124738~464214/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.55",
+                    "label": "p.55",
                     "description": "",
                     "metadata": [
                         {
@@ -2695,7 +2695,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124739~464213/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.56",
+                    "label": "p.56",
                     "description": "",
                     "metadata": [
                         {
@@ -2741,7 +2741,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124740~464212/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.57",
+                    "label": "p.57",
                     "description": "",
                     "metadata": [
                         {
@@ -2787,7 +2787,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124741~464211/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.58",
+                    "label": "p.58",
                     "description": "",
                     "metadata": [
                         {
@@ -2833,7 +2833,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124742~464210/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.59",
+                    "label": "p.59",
                     "description": "",
                     "metadata": [
                         {
@@ -2879,7 +2879,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124743~464209/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.60",
+                    "label": "p.60",
                     "description": "",
                     "metadata": [
                         {
@@ -2925,7 +2925,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124744~464208/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.61",
+                    "label": "p.61",
                     "description": "",
                     "metadata": [
                         {
@@ -2971,7 +2971,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124745~464207/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.62",
+                    "label": "p.62",
                     "description": "",
                     "metadata": [
                         {
@@ -3017,7 +3017,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124746~464206/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.63",
+                    "label": "p.63",
                     "description": "",
                     "metadata": [
                         {
@@ -3063,7 +3063,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124747~464205/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.64",
+                    "label": "p.64",
                     "description": "",
                     "metadata": [
                         {
@@ -3109,7 +3109,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124748~464204/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.65",
+                    "label": "p.65",
                     "description": "",
                     "metadata": [
                         {
@@ -3155,7 +3155,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124749~464203/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.66",
+                    "label": "p.66",
                     "description": "",
                     "metadata": [
                         {
@@ -3201,7 +3201,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124750~464202/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.67",
+                    "label": "p.67",
                     "description": "",
                     "metadata": [
                         {
@@ -3247,7 +3247,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124751~464201/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.68",
+                    "label": "p.68",
                     "description": "",
                     "metadata": [
                         {
@@ -3293,7 +3293,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124752~464200/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.69",
+                    "label": "p.69",
                     "description": "",
                     "metadata": [
                         {
@@ -3339,7 +3339,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124753~464199/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.70",
+                    "label": "p.70",
                     "description": "",
                     "metadata": [
                         {
@@ -3385,7 +3385,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124754~464198/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.71",
+                    "label": "p.71",
                     "description": "",
                     "metadata": [
                         {
@@ -3431,7 +3431,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124755~464197/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.72",
+                    "label": "p.72",
                     "description": "",
                     "metadata": [
                         {
@@ -3477,7 +3477,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124756~464196/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.73",
+                    "label": "p.73",
                     "description": "",
                     "metadata": [
                         {
@@ -3523,7 +3523,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124757~464195/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.74",
+                    "label": "p.74",
                     "description": "",
                     "metadata": [
                         {
@@ -3569,7 +3569,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124758~464194/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.75",
+                    "label": "p.75",
                     "description": "",
                     "metadata": [
                         {
@@ -3615,7 +3615,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124759~464193/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.76",
+                    "label": "p.76",
                     "description": "",
                     "metadata": [
                         {
@@ -3661,7 +3661,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124760~464192/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.77",
+                    "label": "p.77",
                     "description": "",
                     "metadata": [
                         {
@@ -3707,7 +3707,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124761~464191/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.78",
+                    "label": "p.78",
                     "description": "",
                     "metadata": [
                         {
@@ -3753,7 +3753,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124762~464190/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.79",
+                    "label": "p.79",
                     "description": "",
                     "metadata": [
                         {
@@ -3799,7 +3799,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124763~464189/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.80",
+                    "label": "p.80",
                     "description": "",
                     "metadata": [
                         {
@@ -3845,7 +3845,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124764~464188/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.81",
+                    "label": "p.81",
                     "description": "",
                     "metadata": [
                         {
@@ -3891,7 +3891,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124765~464187/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.82",
+                    "label": "p.82",
                     "description": "",
                     "metadata": [
                         {
@@ -3937,7 +3937,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124766~464186/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.83",
+                    "label": "p.83",
                     "description": "",
                     "metadata": [
                         {
@@ -3983,7 +3983,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124767~464185/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.84",
+                    "label": "p.84",
                     "description": "",
                     "metadata": [
                         {
@@ -4029,7 +4029,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124768~464184/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.85",
+                    "label": "p.85",
                     "description": "",
                     "metadata": [
                         {
@@ -4075,7 +4075,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124769~464183/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.86",
+                    "label": "p.86",
                     "description": "",
                     "metadata": [
                         {
@@ -4121,7 +4121,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124770~464182/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.87",
+                    "label": "p.87",
                     "description": "",
                     "metadata": [
                         {
@@ -4167,7 +4167,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124771~464181/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.88",
+                    "label": "p.88",
                     "description": "",
                     "metadata": [
                         {
@@ -4213,7 +4213,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124772~464180/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page p.89",
+                    "label": "p.89",
                     "description": "",
                     "metadata": [
                         {
@@ -4259,7 +4259,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124773~464179/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page uncounted",
+                    "label": "page uncounted",
                     "description": "",
                     "metadata": [
                         {
@@ -4301,7 +4301,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124774~464178/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page uncounted",
+                    "label": "page uncounted",
                     "description": "",
                     "metadata": [
                         {
@@ -4343,7 +4343,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124775~464177/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page uncounted",
+                    "label": "page uncounted",
                     "description": "",
                     "metadata": [
                         {
@@ -4385,7 +4385,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124776~464176/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page uncounted",
+                    "label": "page uncounted",
                     "description": "",
                     "metadata": [
                         {
@@ -4427,7 +4427,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124777~464175/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page uncounted",
+                    "label": "IndexCover",
                     "description": "",
                     "metadata": [
                         {
@@ -4473,7 +4473,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~124778~464174/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Notebook No.44, Lyell, Sir Charles; Stokes, Charles; Babbage, Charles - page uncounted",
+                    "label": "Cover",
                     "description": "",
                     "metadata": [
                         {
