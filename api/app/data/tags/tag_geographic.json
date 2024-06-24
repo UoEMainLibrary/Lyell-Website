@@ -390,7 +390,8 @@
         "published": true,
         "entries": [
             "Coll-203/A1/107",
-            "Coll-203/A1/118"
+            "Coll-203/A1/118",
+            "Coll-203/A1/177"
         ]
     },
     {
@@ -1634,7 +1635,8 @@
             "Coll-203/A1/128",
             "Coll-203/A1/126",
             "Coll-203/A1/132",
-            "Coll-203/A1/133"
+            "Coll-203/A1/133",
+            "Coll-203/A1/147"
         ]
     },
     {
@@ -1683,7 +1685,8 @@
         "published": true,
         "entries": [
             "Coll-203/A1/30",
-            "Coll-203/A1/104"
+            "Coll-203/A1/104",
+            "Coll-203/A1/94"
         ]
     },
     {
@@ -2467,7 +2470,8 @@
         "published": true,
         "entries": [
             "Coll-203/A1/119",
-            "Coll-203/A1/120"
+            "Coll-203/A1/120",
+            "Coll-203/A1/148"
         ]
     },
     {
@@ -2871,6 +2875,30 @@
         "published": true,
         "entries": [
             "Coll-203/A4/2"
+        ]
+    },
+    {
+        "title": "Bowood House (England)",
+        "id": "/subjects/30612",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/148"
+        ]
+    },
+    {
+        "title": "Egypt",
+        "id": "/subjects/27264",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/147"
+        ]
+    },
+    {
+        "title": "United States -- Mississippi -- Philadelphia",
+        "id": "/subjects/165",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/147"
         ]
     }
 ]

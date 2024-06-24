@@ -1,6 +1,6 @@
 {
     "title": "notebooks",
-    "date-created": "2024-06-06",
+    "date-created": "2024-06-24",
     "results": [
         {
             "display_string": "MS Notes I - Scientific Journal No. I, 20 November 1855 - 29 April 1856",
@@ -439,34 +439,6 @@
             ],
             "iiifmanifest": "data/manifest_A5-9.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~103093~435666/full/!512,512/0/default.jpg"
-        },
-        {
-            "title": "Notebook No.148",
-            "level": "item",
-            "uri": "/repositories/2/archival_objects/180306",
-            "component_id": "Coll-203/A1/148",
-            "display_string": "Notebook No.148, September 1846- December 1846",
-            "creators": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
-            },
-            "subjects": {},
-            "dates": {
-                "expression": "September 1846- December 1846",
-                "begin": "1846-09-01",
-                "end": "1846-12-31"
-            },
-            "linked_agents": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
-            },
-            "notes": [
-                {
-                    "type": "scopecontent",
-                    "content": "-",
-                    "desc": "dis"
-                }
-            ],
-            "iiifmanifest": "data/manifest_A1-148.json",
-            "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~92835~422320/full/!512,512/0/default.jpg"
         },
         {
             "title": "Notebook No.152",
@@ -1279,34 +1251,6 @@
             ],
             "iiifmanifest": "data/manifest_A1-106.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~110574~444353/full/!512,512/0/default.jpg"
-        },
-        {
-            "title": "Notebook No.145",
-            "level": "item",
-            "uri": "/repositories/2/archival_objects/180303",
-            "component_id": "Coll-203/A1/145",
-            "display_string": "Notebook No.145, 28 May 1846- June 1846",
-            "creators": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
-            },
-            "subjects": {},
-            "dates": {
-                "expression": "28 May 1846- June 1846",
-                "begin": "1846-05-28",
-                "end": "1846-06-30"
-            },
-            "linked_agents": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
-            },
-            "notes": [
-                {
-                    "type": "scopecontent",
-                    "content": "Boston - Halifax",
-                    "desc": "dis"
-                }
-            ],
-            "iiifmanifest": "data/manifest_A1-145.json",
-            "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~90318~417993/full/!512,512/0/default.jpg"
         },
         {
             "title": "Notebook No.246",
@@ -3634,34 +3578,6 @@
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~125001~465321/full/!512,512/0/default.jpg"
         },
         {
-            "title": "Notebook No.147",
-            "level": "item",
-            "uri": "/repositories/2/archival_objects/180305",
-            "component_id": "Coll-203/A1/147",
-            "display_string": "Notebook No.147, 15 June 1846- July 1846",
-            "creators": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
-            },
-            "subjects": {},
-            "dates": {
-                "expression": "15 June 1846- July 1846",
-                "begin": "1846-06-15",
-                "end": "1846-07-31"
-            },
-            "linked_agents": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
-            },
-            "notes": [
-                {
-                    "type": "scopecontent",
-                    "content": "London. List of tasks at the start include 'paging of notebooks' and 'pasting newspaper cutting into American notebook', 'Slaves in the US - drivers and gangs'. Lists of books, maps and MS taken to Kinnordy, and items held in store at Hart Street. ",
-                    "desc": "dis"
-                }
-            ],
-            "iiifmanifest": "data/manifest_A1-147.json",
-            "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115631~449434/full/!512,512/0/default.jpg"
-        },
-        {
             "title": "Notebook No.171",
             "level": "item",
             "uri": "/repositories/2/archival_objects/180329",
@@ -5006,50 +4922,6 @@
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~104616~437121/full/!512,512/0/default.jpg"
         },
         {
-            "title": "Notebook No.177 - ABSENT",
-            "level": "item",
-            "uri": "/repositories/2/archival_objects/180335",
-            "component_id": "Coll-203/A1/177",
-            "display_string": "Notebook No.177 - ABSENT, 23 August 1852- September 1852",
-            "creators": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
-            },
-            "subjects": {
-                "Canada -- Nova Scotia": "geographic",
-                "Extinction (Biology)": "topical"
-            },
-            "dates": {
-                "expression": "23 August 1852- September 1852",
-                "begin": "1852-08-23",
-                "end": "1852-09-30"
-            },
-            "linked_agents": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person",
-                "Conrad, T.A., 1803-1877 (American paleontologist and malacologist)": "person",
-                "Silliman, Benjamin, 1779-1864 (American geologist and chemist | Professor of Chemistry, Geology and Mineralogy in Yale College)": "person"
-            },
-            "notes": [
-                {
-                    "content": "This notebook is absent from Lyell's original run of 266 Scientific notebooks. Through the work of Leonard G. Wilson, copies have been identified, and used to create this catalogue entry. <lb></lb><lb></lb>\nThis notebook starts 23 August 1852, when Lyell is two and a half days away from Liverpool, en route to Nova Scotia for his third trip to North America. He lands in Nova Scotia on August 31st. This notebook includes notes taken about scientific articles, the extinction of species, and observations made in Nova Scotia. There is a detailed description and many sketches of the geology of Joggins Cliff. From page 74 onwards, Lyell describes the coal layers or strata by assigning a number, and this documentation is retained throughout. Section headings used by Lyell feature in quotation marks [\u201c \u201d]. This notebook is written in ink and pencil and does not include an index, so the contents have been summarized. Dates listed in the notebook have been inserted at the beginning of the appropriate section. ",
-                    "type": "scopecontent",
-                    "desc": "dis"
-                },
-                {
-                    "label": "Table of contents",
-                    "type": "scopecontent",
-                    "content": "p. 1, 3 Notes from the July 1852 edition of Silliman\u2019s journal.  <lb></lb>\np. 2 Journal entry <lb></lb>\np. 3 \u201cElectric telegraph\u201d, English monopolies buy American patents to suppress them <lb></lb>\np. 4 \u201cMem[oranda]\u201d <lb></lb>\np. 4, 6, 8, 10, 12 \u201cExtinction of species\u201d Lyell discusses the topic such as: \u201cthe two principle theories\u201d (p. 4), \u201clast surviving individuals diversified by climate\u201d, \u201cman &amp; the domesticated animals\u2026 kill their 1000nds\u201d (p. 6), \u201c\u2018isothermal lines\u201d of climate (p. 8), \u201cIt is not by catastrophes, deluges, volcanic eruptions, sudden engulfments of land that species are destroyed\u201d (p. 12). <lb></lb>\np. 12, 14 \u201cTemple of Serapis\u201d Lyell comments that submerged roads indicate more to the area than the temple. He also discusses other changes to the area over time.   <lb></lb>\np. 14, 16 Notes taken while reading Westminster Review <lb></lb>\np. 16 \u201cStratigraphical Series\u201d, \u201cFacies of fauna & flora\u201d, \u201cMan &amp; Progress\u201d <lb></lb>\nAugust 31, 1852 - Date of landing in Nova Scotia, Canada <lb></lb>\np. 17, 19 Discussion of extinction of species <lb></lb>\np. 16, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28 \u201cExtinction\u201d <lb></lb>  \nLikely a draft for his upcoming Lowell Lecture in Boston (see page 22) <lb></lb>   \np, 28, 29, 30 \u201cIsothermals\u201d <lb></lb>\nDiscussion on how isothermal lines might shift and affect changes in fauna<lb></lb>\np. 30 Comments on a stigmaria fossil that Mr. Dawson found<lb></lb>\np. 31 Notes on birch bark and people he is meeting in Nova Scotia <lb></lb>\np. 32, 34, 36, 38 Field notes from Nova Scotia, mostly geological <lb></lb>\np. 40 Geology, plants, electric telegraph <lb></lb>\np. 42 Specimens put in boxes, religious observations<lb></lb>  \np. 44 Convention of school teachers, \u201cElectric Telegraph\u201d, ice in rivers<lb></lb>  \nSeptember 2, 1852 <lb></lb>\np. 46 \u201cCobequid Hills erratics\u201d, \u201cElectric Telegraph\u201d, \u201cTruro Sept 2\u201d <lb></lb>\np. 48 Geology <lb></lb>\np. 50 New Red formation, trees, \u201cCobequid Hill\u201d, \u201cShip builds\u201d <lb></lb>\np. 52 \u201cCobequid\u201d, \u201cIron Mine\u201d, \u201cTelegraph\u201d <lb></lb>\np. 54 \u201cPopulation of Nova Scotia\u201d, \u201cSpring Hill\u201d <lb></lb>\np. 56 \u201cCumberland\u201d, \u201cRiver Philip\u201d, \u201cDenudation of Cobequid\u201d <lb></lb>\np. 58 \u201cAralia hispida\u201d, \u201cViburnum lentago\u201d, \u201cRhodora\u201d, fossil plants, Morse Code taught to boys <lb></lb>\nSeptember 3, 1852 <lb></lb>\np. 60 \u201cView from the Lycester Ridge\u201d, \u201cLedum\u201d, \u201cNegros in Halifax\u201d, \u201cView from ridge\u201d <lb></lb>\np. 62, 64 \u201cSubmerged Forest\u201d <lb></lb>\np. 66 Trees, \u201cCape Breton\u201d, \u201cGaulthera hispidula\u201d, \u201cGreat Fire\u201d <lb></lb>\np. 68 \u201cErratics\u201d, \u201cHerbert River\u201d <lb></lb>\np. 68-116 The remainder of this notebook is a description of the geology of the Joggins shore. Topic by pages are listed below. <lb></lb>\np. 68, 70, 72, \u201cJoggins shore section\u201d  <lb></lb>\np. 74, 76 Description of Coal layers [which Lyell] Numbers 1 and 2 <lb></lb>\np. 78 Description of Coal Numbers 3, 4, 5, and 6 <lb></lb>\np. 80 Description of Coal Numbers 7, 8, 9 and 10 <lb></lb>\np. 82 Description of Coal Numbers 10, 11, 12, 13, and 14 <lb></lb>\nSept 5th 1852 <lb></lb>\np. 84 \u201cHoles on Coal\u201d, \u201cUnderclay\u201d <lb></lb>\np. 86 Description of Coal Number 15 <lb></lb>\np. 88 Description of Coal Number 16 <lb></lb>\np. 90 Description of Coal Number 17 and Stump 1 and 2 <lb></lb>\np. 92 Description of Coal Number 18, \u201cFire clays\u201d <lb></lb>\np. 94, 96 Description of Coal Number 19 (Sections A, B, C, D, and E) <lb></lb>\np. 96 Description of Coal Number 20 (Sections A, B, and C) <lb></lb>\np. 98 Description of Coal Numbers 20 (Sections C and D), 21 and 22 <lb></lb>\np. 100 Description of Coal Number 23 (Sections A, B, C, D) <lb></lb>\np. 102 Description of Coal Numbers 23 (Section E), 24, and 25 (Sections A, B, C, D, E, and F) <lb></lb>\np. 104 Description of Coal Number 25 (Sections G and H) <lb></lb>\n[Note: Image 55 of pages 104-105 has a hand in the photo. Image 54 is the same pages without the hand.] <lb></lb>\np. 106 Description of Coal Number 25 (Sections I and J) <lb></lb>\np. 108, 110 \u201cUnderclays theoretical\u201d <lb></lb>\np. 110 \u201cIron Stones\u201d, \u201cUpright trees\u201d <lb></lb>\np. 112 \u201cStigmarie\u201d <lb></lb>\np. 114 Discussion of the burial process for calamites <lb></lb>\np. 116 Sketches <lb></lb>\np. 118 blank Index page\n",
-                    "desc": "index"
-                },
-                {
-                    "label": "Content warning",
-                    "type": "scopecontent",
-                    "content": "<emph render=\"underline\">Content warning:</emph> Lyell uses his Scientific Notebooks to gather evidence, based on both his own observation, by reviewing other people's works, by correspondence, asking questions and analyses. This summary reflects language that is historical, discriminatory and may cause offence.",
-                    "desc": "cw"
-                }
-            ],
-            "iiifmanifest": false
-        },
-        {
             "title": "Notebook No.86",
             "level": "item",
             "uri": "/repositories/2/archival_objects/180244",
@@ -5154,6 +5026,51 @@
             ],
             "iiifmanifest": "data/manifest_A1-44.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~124682~464270/full/!512,512/0/default.jpg"
+        },
+        {
+            "level": "item",
+            "display_string": "Notebook No.177 - ABSENT, 23 August 1852- September 1852",
+            "component_id": "Coll-203/A1/177",
+            "title": "Notebook No.177 - ABSENT",
+            "uri": "/repositories/2/archival_objects/180335",
+            "creators": {
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
+            },
+            "subjects": {
+                "Canada -- Nova Scotia": "geographic",
+                "Extinction (Biology)": "topical"
+            },
+            "dates": {
+                "expression": "23 August 1852- September 1852",
+                "begin": "1852-08-23",
+                "end": "1852-09-30"
+            },
+            "linked_agents": {
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person",
+                "Conrad, T.A., 1803-1877 (American paleontologist and malacologist)": "person",
+                "Silliman, Benjamin, 1779-1864 (American geologist and chemist | Professor of Chemistry, Geology and Mineralogy in Yale College)": "person",
+                "Dawson, Sir John William, 1820-1899 (geologist)": "person"
+            },
+            "notes": [
+                {
+                    "content": "This notebook is absent from Lyell's original run of 266 Scientific notebooks. Through the work of Leonard G. Wilson, copies have been identified, and used to create this catalogue entry. <lb></lb><lb></lb>\nThis notebook starts 23 August 1852, when Lyell is two and a half days away from Liverpool, en route to Nova Scotia for his third trip to North America. He lands in Nova Scotia on August 31st. This notebook includes notes taken about scientific articles, the extinction of species, and observations made in Nova Scotia. There is a detailed description and many sketches of the geology of Joggins Cliff. From page 74 onwards, Lyell describes the coal layers or strata by assigning a number, and this documentation is retained throughout. Section headings used by Lyell feature in quotation marks [\u201c \u201d]. This notebook is written in ink and pencil and does not include an index, so the contents have been summarized. Dates listed in the notebook have been inserted at the beginning of the appropriate section. ",
+                    "type": "scopecontent",
+                    "desc": "dis"
+                },
+                {
+                    "label": "Table of contents",
+                    "type": "scopecontent",
+                    "content": "p. 1, 3 Notes from the July 1852 edition of Silliman\u2019s journal.  <lb></lb>\np. 2 Journal entry <lb></lb>\np. 3 \u201cElectric telegraph\u201d, English monopolies buy American patents to suppress them <lb></lb>\np. 4 \u201cMem[oranda]\u201d <lb></lb>\np. 4, 6, 8, 10, 12 \u201cExtinction of species\u201d Lyell discusses the topic such as: \u201cthe two principle theories\u201d (p. 4), \u201clast surviving individuals diversified by climate\u201d, \u201cman &amp; the domesticated animals\u2026 kill their 1000nds\u201d (p. 6), \u201c\u2018isothermal lines\u201d of climate (p. 8), \u201cIt is not by catastrophes, deluges, volcanic eruptions, sudden engulfments of land that species are destroyed\u201d (p. 12). <lb></lb>\np. 12, 14 \u201cTemple of Serapis\u201d Lyell comments that submerged roads indicate more to the area than the temple. He also discusses other changes to the area over time.   <lb></lb>\np. 14, 16 Notes taken while reading Westminster Review <lb></lb>\np. 16 \u201cStratigraphical Series\u201d, \u201cFacies of fauna & flora\u201d, \u201cMan &amp; Progress\u201d <lb></lb>\nAugust 31, 1852 - Date of landing in Nova Scotia, Canada <lb></lb>\np. 17, 19 Discussion of extinction of species <lb></lb>\np. 16, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28 \u201cExtinction\u201d <lb></lb>  \nLikely a draft for his upcoming Lowell Lecture in Boston (see page 22) <lb></lb>   \np, 28, 29, 30 \u201cIsothermals\u201d <lb></lb>\nDiscussion on how isothermal lines might shift and affect changes in fauna<lb></lb>\np. 30 Comments on a stigmaria fossil that Mr. Dawson found<lb></lb>\np. 31 Notes on birch bark and people he is meeting in Nova Scotia <lb></lb>\np. 32, 34, 36, 38 Field notes from Nova Scotia, mostly geological <lb></lb>\np. 40 Geology, plants, electric telegraph <lb></lb>\np. 42 Specimens put in boxes, religious observations<lb></lb>  \np. 44 Convention of school teachers, \u201cElectric Telegraph\u201d, ice in rivers<lb></lb>  \nSeptember 2, 1852 <lb></lb>\np. 46 \u201cCobequid Hills erratics\u201d, \u201cElectric Telegraph\u201d, \u201cTruro Sept 2\u201d <lb></lb>\np. 48 Geology <lb></lb>\np. 50 New Red formation, trees, \u201cCobequid Hill\u201d, \u201cShip builds\u201d <lb></lb>\np. 52 \u201cCobequid\u201d, \u201cIron Mine\u201d, \u201cTelegraph\u201d <lb></lb>\np. 54 \u201cPopulation of Nova Scotia\u201d, \u201cSpring Hill\u201d <lb></lb>\np. 56 \u201cCumberland\u201d, \u201cRiver Philip\u201d, \u201cDenudation of Cobequid\u201d <lb></lb>\np. 58 \u201cAralia hispida\u201d, \u201cViburnum lentago\u201d, \u201cRhodora\u201d, fossil plants, Morse Code taught to boys <lb></lb>\nSeptember 3, 1852 <lb></lb>\np. 60 \u201cView from the Lycester Ridge\u201d, \u201cLedum\u201d, \u201cNegros in Halifax\u201d, \u201cView from ridge\u201d <lb></lb>\np. 62, 64 \u201cSubmerged Forest\u201d <lb></lb>\np. 66 Trees, \u201cCape Breton\u201d, \u201cGaulthera hispidula\u201d, \u201cGreat Fire\u201d <lb></lb>\np. 68 \u201cErratics\u201d, \u201cHerbert River\u201d <lb></lb>\np. 68-116 The remainder of this notebook is a description of the geology of the Joggins shore. Topic by pages are listed below. <lb></lb>\np. 68, 70, 72, \u201cJoggins shore section\u201d  <lb></lb>\np. 74, 76 Description of Coal layers [which Lyell] Numbers 1 and 2 <lb></lb>\np. 78 Description of Coal Numbers 3, 4, 5, and 6 <lb></lb>\np. 80 Description of Coal Numbers 7, 8, 9 and 10 <lb></lb>\np. 82 Description of Coal Numbers 10, 11, 12, 13, and 14 <lb></lb>\nSept 5th 1852 <lb></lb>\np. 84 \u201cHoles on Coal\u201d, \u201cUnderclay\u201d <lb></lb>\np. 86 Description of Coal Number 15 <lb></lb>\np. 88 Description of Coal Number 16 <lb></lb>\np. 90 Description of Coal Number 17 and Stump 1 and 2 <lb></lb>\np. 92 Description of Coal Number 18, \u201cFire clays\u201d <lb></lb>\np. 94, 96 Description of Coal Number 19 (Sections A, B, C, D, and E) <lb></lb>\np. 96 Description of Coal Number 20 (Sections A, B, and C) <lb></lb>\np. 98 Description of Coal Numbers 20 (Sections C and D), 21 and 22 <lb></lb>\np. 100 Description of Coal Number 23 (Sections A, B, C, D) <lb></lb>\np. 102 Description of Coal Numbers 23 (Section E), 24, and 25 (Sections A, B, C, D, E, and F) <lb></lb>\np. 104 Description of Coal Number 25 (Sections G and H) <lb></lb>\n[Note: Image 55 of pages 104-105 has a hand in the photo. Image 54 is the same pages without the hand.] <lb></lb>\np. 106 Description of Coal Number 25 (Sections I and J) <lb></lb>\np. 108, 110 \u201cUnderclays theoretical\u201d <lb></lb>\np. 110 \u201cIron Stones\u201d, \u201cUpright trees\u201d <lb></lb>\np. 112 \u201cStigmarie\u201d <lb></lb>\np. 114 Discussion of the burial process for calamites <lb></lb>\np. 116 Sketches <lb></lb>\np. 118 blank Index page\n",
+                    "desc": "index"
+                },
+                {
+                    "label": "Content warning",
+                    "type": "scopecontent",
+                    "content": "<emph render=\"underline\">Content warning:</emph> Lyell uses his Scientific Notebooks to gather evidence, based on both his own observation, by reviewing other people's works, by correspondence, asking questions and analyses. This summary reflects language that is historical, discriminatory and may cause offence.",
+                    "desc": "cw"
+                }
+            ],
+            "iiifmanifest": false
         },
         {
             "title": "Notebook No.78",
@@ -6890,53 +6807,6 @@
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~88266~397382/full/!512,512/0/default.jpg"
         },
         {
-            "title": "Notebook No.103 - ABSENT",
-            "level": "item",
-            "uri": "/repositories/2/archival_objects/180261",
-            "component_id": "Coll-203/A1/103",
-            "display_string": "Notebook No.103 - ABSENT, July 1842",
-            "creators": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person",
-                "Lyell, Lady Mary, 1808-1873 (nee Horner)": "person"
-            },
-            "subjects": {
-                "Nova Scotia (Canada)": "geographic",
-                "New Hampshire (United States)": "geographic",
-                "Purcells Cove (Halifax, N.S) ": "geographic",
-                "Halifax (Nova Scotia, Canada)": "geographic",
-                "Kentville (N.S.)": "geographic",
-                "Mollusks": "topical"
-            },
-            "dates": {
-                "expression": "July 1842",
-                "begin": "1842-07",
-                "end": "date-missing"
-            },
-            "linked_agents": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person",
-                "Lyell, Lady Mary, 1808-1873 (nee Horner)": "person",
-                "Cotting, John Ruggles, 1784-1867 (American chemist, geologist, and instructor)": "person",
-                "Gould, Augustus Addison, 1805-1866 (American conchologist and malacologist)": "person",
-                "Dana, James Dwight, 1813-1895 (American geologist, mineralogist, and naturalist)": "person",
-                "Harding, Ebenezer Fitch, fl 1845-1855 (Physician and geologist, Nova Scotia)": "person",
-                "Gesner, Abraham Pineo, 1797 - 1864 (Canadian physician and geologist )": "person"
-            },
-            "notes": [
-                {
-                    "type": "scopecontent",
-                    "content": "This notebook is absent from Lyell's original run of 266 Scientific notebooks. Through the work of Leonard G. Wilson, copies have been identified, and used to create this catalogue entry. <lb></lb><lb></lb> \nThis notebook contains Charles Lyell\u2019s notes from mid to late July of 1842 starting en route from Montreal to Boston. He then takes the Caledonia steamer from Boston to Nova Scotia. The majority of this notebook contains geologic observations of places in Nova Scotia such as Halifax, Windsor, Kentville, Blomidon, Wolfville, Parrsboro, Amherst, and Londonderry. The index is located in the back of the notebook on pages 153-158, written by Mary Lyell. The page numbres of this index are not always in order. Notes are in pencil and ink and include many cross-sections and field sketches. ",
-                    "desc": "dis"
-                },
-                {
-                    "label": "Lyell's own index",
-                    "type": "scopecontent",
-                    "content": "July 1842 <lb></lb> \np. 1 Memoranda <lb></lb> \np. 146 - [Memoranda] geological notes &amp;, <lb></lb> \np. 4, 10, 12 Boxes, contents of, <lb></lb> \np. 4, 6 New Hampshire, granite of, etc <lb></lb> \np. 6 Hanover to Lowell <lb></lb> \np. 6 Nahant, S[outh]. end, <lb></lb> \np. 8, 10 Nahant, dikes of basalt in greenstone <lb></lb> \np. 10 Cotting, Dr. account with, <lb></lb> \np. 8, 10 Dikes at Nahant <lb></lb> \np. 14 Beauport shells <lb></lb> \np. 14 Gould, Dr., on Beauport fossils <lb></lb> \np. 16 - [Gould, Dr.] on Reeves\u2019s Classification <lb></lb> \np. 16 - [Gould, Dr.] would be glad of northern specimens, <lb></lb> \np. 16 Dana, Mr., on Coral Reefs <lb></lb> \np. 18 to 26 Nova Scotia, notes for, <lb></lb> \np. 52 - [Nova Scotia] fossils from, given by Dr. Harding <lb></lb> \np. 24, 28 Halifax, clay slate, dip etc, <lb></lb> \np. 26 - [Halifax] N[orth]. &amp; S[outh]. furrows near <lb></lb> \np. 28 - [Halifax] boulder formation N[orth]. of, <lb></lb> \np. 30 - [Halifax] strike of beds bet[ween] Windsor &amp;, <lb></lb> \np. 24 Purcels [sic Purcells] Cove, slate rocks <lb></lb> \np. 28 Sackville, clay-stone of, <lb></lb> \np. 28 - [Sackville] boulder formation near, <lb></lb> \np. 28, 78 Boulder Formation <lb></lb> \np. 32 Journal <lb></lb> \np. 34, 42 Sinkholes S[outh]. of Windsor <lb></lb> \np. 34, 36, 84 Gypsum Cliffs <lb></lb> \np. 46 - [Gypsum] fault in, <lb></lb> \np. 58 - [Gypsum] and red marls, character of, <lb></lb> \np. 108 - [Gypsum] isolated masses of, <lb></lb> \np. 36 St. Croix, R., gypsum in banks of, <lb></lb> \np. 36 - [St. Croix, R.] sections at Bridge over, <lb></lb> \np. 40 [St. Croix, R.] dip of beds at, <lb></lb> \np. 40 Gesner, queries for, <lb></lb> \np. 116 - [Gesner] Wolfville grit termed granite by, <lb></lb> \np. 122 - [Gesner] on submerged forest &amp; peat bog, <lb></lb> \np. 142 - [Gesner] on vertical trees in Coal <lb></lb> \np. 30 Windsor, strike of beds between Halifax &amp;, <lb></lb> \np. 34, 42 - [Windsor] sinkholes near, <lb></lb> \np. 46 - [Windsor] fault in gypsum <lb></lb> \np. 52 - [Windsor] implement of aborigines found at <lb></lb> \np. 55 - [Windsor] sect[ions] near the Bridge at, <lb></lb> \np. 56 - [Windsor] fossils in limestones of, <lb></lb> \np. 112 - [Windsor] reclaimed land in, <lb></lb> \np. 64 - [Windsor] section of gypsum &amp; coal, sandstone <lb></lb> \np. 42, 44 Latchy\u2019s [sic M\u2019Latchey] quarry, gypsum &amp; red marl <lb></lb> \np. 46 Wilkins\u2019 - [quarry], fault in gypsum <lb></lb> \np. 48, 50 Snides Mill - brook sect[ion] of coal strata <lb></lb> \np. 52 Harding, Dr., fossils given by, <lb></lb> \np. 52 Frazer, Mr., implement of aborigines given by, <lb></lb> \np. 55 Belvidere Farm, section <lb></lb> \np. 60 - [Belvidere] fossils at, <lb></lb> \np. 60, 84 Halfway, R[iver]. <lb></lb> \np. 66 Lower Horton, sect[ion] of Coal strata <lb></lb> \np. 68 - [Lower Horton] shells on the beach <lb></lb> \np. 82 Horton Bluff to Blue Beach, distance <lb></lb> \np. 86 - [Horton Bluff] plants in grey sandstone <lb></lb> \np. 112 - [Horton Bluff] reclaimed land <lb></lb> \np. 114 - [Horton Bluff] place where Coal plants formed <lb></lb> \np. 70, 72, 74 Coffles, sections at <lb></lb> \np. 68 - [Coffles] dip of beds at, <lb></lb> \np. 78 Fannings Creek, sect[ions] of boulder clay <lb></lb> \np. 70, 72, 74 Blue Beach, sections, <lb></lb> \np. 82 - [Blue Beach] distance between Horton Bluff &amp;, <lb></lb> \np. 84 Fox\u2019s Mills, gypsum at, <lb></lb> \np. 88, 94, 96, 98, 126 Bird tracks, recent, <lb></lb> \np. 90, 94 Beach Hill, slate with Gorgonia <lb></lb> \np. 90, 92 Kentville roofing slate <lb></lb> \np. 90, 92 New Canaan, fossiliferous slate, <lb></lb> \np. 92, 93 - [New Canaan] fossils from <lb></lb> \np. 94 Cornwallis, Salt Marsh, <lb></lb> \np. 110, 112 - [Cornwallis] land gained by embankment, <lb></lb> \np. 98, 100 Indian Point, red sandst[one]. &amp; boulder clay <lb></lb> \np. 102 Lyons Cove, section at, <lb></lb> \np. 100 Mya arenaria, holes in sand made by, <lb></lb> \np. 104, 118 Blomidon Cliff, <lb></lb> \np. 107 - [Blomidon] shells at <lb></lb> \np. 104, 106 - [Blomidon] furrowed sandstone <lb></lb> \np. 110 - [Blomidon] strata fractured with[out] being shifted <lb></lb> \np. 118 - [Blomidon] cliffs between Cornwallis &amp;, <lb></lb> \np. 108 Basin of Mines, denudation of, <lb></lb> \np. 110 - [Basin of Mines] recent deposits <lb></lb> \np. 112 Wolfville, dip of slates <lb></lb> \np. 114 - [Wolfville] coal strata <lb></lb> \np. 116 - [Wolfville] grit, termed granite by Gesner <lb></lb> \np. 106 Ice, packing of, on C[ape]. Blomidon <lb></lb> \np. 112 - [Ice] continuous from Blomidon to Parsboro\u2019 [sic Parrsboro] <lb></lb> \np. 112, 124 - [Ice] furrows in mud made by <lb></lb> \np. 112 - [Ice] perpendicular movement of, <lb></lb> \np. 124 - [Ice] on River St. John <lb></lb> \np. 124 - [Ice] carrying mud &amp; gravel <lb></lb> \np. 124 - [Ice] stranding of, <lb></lb> \np. 112 Reclaimed land in Horton, Windsor etc, <lb></lb> \np. 114 Tellina groenlandica, holes made by, <lb></lb> \np. 94 Salt Marshes at Cornwallis <lb></lb> \np. 114, 122 - [Salt Marshes] plants in, <lb></lb> \np. 116 Partridge Island, sect[ion] of trap etc, <lb></lb> \np. 120 Parsboro\u2019 [sic Parrsboro] sect[ion]. near <lb></lb> \np. 122 - [Parsboro\u2019] boulder formation <lb></lb> \np. 122 [? Taunton] Marsh <lb></lb> \np. 122, 126, 140 Red alluv[ium] discoloured by sedges, <lb></lb> \np. 122 Advocate\u2019s Harbour, unconformable beds, <lb></lb> \np. 124, 126 Rain drops, marks of, <lb></lb> \np. 46 Granite of New Hampshire <lb></lb> \np. 126 - [Granite] veins, near Yarmouth &amp; Halifax <lb></lb> \np. 148 - [Granite] near Londonderry <lb></lb> \np. 128, 130, 132 Coal-mine point, fossil trees at, <lb></lb> \np. 122, 126, 140 Discolouration of red alluvium by sedges, <lb></lb> \np. 128 to 136, 142 Fossil trees in Coal strata, <lb></lb> \np. 138 Stigmaria bed, <lb></lb> \np. 138 Chignecto coal-field <lb></lb> \np. 140 - [Chignecto] red colour of, <lb></lb> \np. 140 Nova Scotia &amp; New Brunswick, sect[ion] across, <lb></lb> \np. 140 Red Sandstone of Coal <lb></lb> \np. 142, 144 Vertical Coal-trees in S[outh]. Joggins cliff <lb></lb> \np. 142 Minudie, shells &amp;c on beach, <lb></lb> \np. 148 - [Minudie] red coal-strata at, <lb></lb> \np. 142 Fort Cumberland, submerged trees at, <lb></lb> \np. 148 Coal strata, red colour of, <lb></lb> \np. 146 Amherst, dip of beds etc., <lb></lb> \np. 148 Cumberland Co[unty], coal-ridges of, contrasted with granite, \np. 148 Londonderry, red sandstone of, <lb></lb>\np. 150 Arching of strata <lb></lb> \np. 150 Folly, R[iver]. dip at, <lb></lb> \np. 152 Cracks in clay filled with new deposit of clay \n",
-                    "desc": "index"
-                }
-            ],
-            "iiifmanifest": false
-        },
-        {
             "title": "Notebook No.248",
             "level": "item",
             "uri": "/repositories/2/archival_objects/180406",
@@ -6993,6 +6863,53 @@
             ],
             "iiifmanifest": "data/manifest_A1-248.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~100967~433516/full/!512,512/0/default.jpg"
+        },
+        {
+            "level": "item",
+            "display_string": "Notebook No.103 - ABSENT, July 1842",
+            "component_id": "Coll-203/A1/103",
+            "title": "Notebook No.103 - ABSENT",
+            "uri": "/repositories/2/archival_objects/180261",
+            "creators": {
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person",
+                "Lyell, Lady Mary, 1808-1873 (nee Horner)": "person"
+            },
+            "subjects": {
+                "Nova Scotia (Canada)": "geographic",
+                "New Hampshire (United States)": "geographic",
+                "Purcells Cove (Halifax, N.S) ": "geographic",
+                "Halifax (Nova Scotia, Canada)": "geographic",
+                "Kentville (N.S.)": "geographic",
+                "Mollusks": "topical"
+            },
+            "dates": {
+                "expression": "July 1842",
+                "begin": "1842-07",
+                "end": "date-missing"
+            },
+            "linked_agents": {
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person",
+                "Lyell, Lady Mary, 1808-1873 (nee Horner)": "person",
+                "Cotting, John Ruggles, 1784-1867 (American chemist, geologist, and instructor)": "person",
+                "Gould, Augustus Addison, 1805-1866 (American conchologist and malacologist)": "person",
+                "Dana, James Dwight, 1813-1895 (American geologist, mineralogist, and naturalist)": "person",
+                "Harding, Ebenezer Fitch, fl 1845-1855 (Physician and geologist, Nova Scotia)": "person",
+                "Gesner, Abraham Pineo, 1797 - 1864 (Canadian physician and geologist )": "person"
+            },
+            "notes": [
+                {
+                    "type": "scopecontent",
+                    "content": "This notebook is absent from Lyell's original run of 266 Scientific notebooks. Through the work of Leonard G. Wilson, copies have been identified, and used to create this catalogue entry. <lb></lb>\nThis notebook contains Charles Lyell\u2019s notes from mid to late July of 1842 starting en route from Montreal to Boston. He then takes the Caledonia steamer from Boston to Nova Scotia. The majority of this notebook contains geologic observations of places in Nova Scotia such as Halifax, Windsor, Kentville, Blomidon, Wolfville, Parrsboro, Amherst, and Londonderry. The index is located in the back of the notebook on pages 153-158, written by Mary Lyell. The page numbers of this index are not always in order. Notes are in pencil and ink and include many cross-sections and field sketches. ",
+                    "desc": "dis"
+                },
+                {
+                    "label": "Lyell's own index",
+                    "type": "scopecontent",
+                    "content": "July 1842 <lb></lb> \np. 1 Memoranda <lb></lb> \np. 146 - [Memoranda] geological notes &amp;, <lb></lb> \np. 4, 10, 12 Boxes, contents of, <lb></lb> \np. 4, 6 New Hampshire, granite of, etc <lb></lb> \np. 6 Hanover to Lowell <lb></lb> \np. 6 Nahant, S[outh]. end, <lb></lb> \np. 8, 10 Nahant, dikes of basalt in greenstone <lb></lb> \np. 10 Cotting, Dr. account with, <lb></lb> \np. 8, 10 Dikes at Nahant <lb></lb> \np. 14 Beauport shells <lb></lb> \np. 14 Gould, Dr., on Beauport fossils <lb></lb> \np. 16 - [Gould, Dr.] on Reeves\u2019s Classification <lb></lb> \np. 16 - [Gould, Dr.] would be glad of northern specimens, <lb></lb> \np. 16 Dana, Mr., on Coral Reefs <lb></lb> \np. 18 to 26 Nova Scotia, notes for, <lb></lb> \np. 52 - [Nova Scotia] fossils from, given by Dr. Harding <lb></lb> \np. 24, 28 Halifax, clay slate, dip etc, <lb></lb> \np. 26 - [Halifax] N[orth]. &amp; S[outh]. furrows near <lb></lb> \np. 28 - [Halifax] boulder formation N[orth]. of, <lb></lb> \np. 30 - [Halifax] strike of beds bet[ween] Windsor &amp;, <lb></lb> \np. 24 Purcels [sic Purcells] Cove, slate rocks <lb></lb> \np. 28 Sackville, clay-stone of, <lb></lb> \np. 28 - [Sackville] boulder formation near, <lb></lb> \np. 28, 78 Boulder Formation <lb></lb> \np. 32 Journal <lb></lb> \np. 34, 42 Sinkholes S[outh]. of Windsor <lb></lb> \np. 34, 36, 84 Gypsum Cliffs <lb></lb> \np. 46 - [Gypsum] fault in, <lb></lb> \np. 58 - [Gypsum] and red marls, character of, <lb></lb> \np. 108 - [Gypsum] isolated masses of, <lb></lb> \np. 36 St. Croix, R., gypsum in banks of, <lb></lb> \np. 36 - [St. Croix, R.] sections at Bridge over, <lb></lb> \np. 40 [St. Croix, R.] dip of beds at, <lb></lb> \np. 40 Gesner, queries for, <lb></lb> \np. 116 - [Gesner] Wolfville grit termed granite by, <lb></lb> \np. 122 - [Gesner] on submerged forest &amp; peat bog, <lb></lb> \np. 142 - [Gesner] on vertical trees in Coal <lb></lb> \np. 30 Windsor, strike of beds between Halifax &amp;, <lb></lb> \np. 34, 42 - [Windsor] sinkholes near, <lb></lb> \np. 46 - [Windsor] fault in gypsum <lb></lb> \np. 52 - [Windsor] implement of aborigines found at <lb></lb> \np. 55 - [Windsor] sect[ions] near the Bridge at, <lb></lb> \np. 56 - [Windsor] fossils in limestones of, <lb></lb> \np. 112 - [Windsor] reclaimed land in, <lb></lb> \np. 64 - [Windsor] section of gypsum &amp; coal, sandstone <lb></lb> \np. 42, 44 Latchy\u2019s [sic M\u2019Latchey] quarry, gypsum &amp; red marl <lb></lb> \np. 46 Wilkins\u2019 - [quarry], fault in gypsum <lb></lb> \np. 48, 50 Snides Mill - brook sect[ion] of coal strata <lb></lb> \np. 52 Harding, Dr., fossils given by, <lb></lb> \np. 52 Frazer, Mr., implement of aborigines given by, <lb></lb> \np. 55 Belvidere Farm, section <lb></lb> \np. 60 - [Belvidere] fossils at, <lb></lb> \np. 60, 84 Halfway, R[iver]. <lb></lb> \np. 66 Lower Horton, sect[ion] of Coal strata <lb></lb> \np. 68 - [Lower Horton] shells on the beach <lb></lb> \np. 82 Horton Bluff to Blue Beach, distance <lb></lb> \np. 86 - [Horton Bluff] plants in grey sandstone <lb></lb> \np. 112 - [Horton Bluff] reclaimed land <lb></lb> \np. 114 - [Horton Bluff] place where Coal plants formed <lb></lb> \np. 70, 72, 74 Coffles, sections at <lb></lb> \np. 68 - [Coffles] dip of beds at, <lb></lb> \np. 78 Fannings Creek, sect[ions] of boulder clay <lb></lb> \np. 70, 72, 74 Blue Beach, sections, <lb></lb> \np. 82 - [Blue Beach] distance between Horton Bluff &amp;, <lb></lb> \np. 84 Fox\u2019s Mills, gypsum at, <lb></lb> \np. 88, 94, 96, 98, 126 Bird tracks, recent, <lb></lb> \np. 90, 94 Beach Hill, slate with Gorgonia <lb></lb> \np. 90, 92 Kentville roofing slate <lb></lb> \np. 90, 92 New Canaan, fossiliferous slate, <lb></lb> \np. 92, 93 - [New Canaan] fossils from <lb></lb> \np. 94 Cornwallis, Salt Marsh, <lb></lb> \np. 110, 112 - [Cornwallis] land gained by embankment, <lb></lb> \np. 98, 100 Indian Point, red sandst[one]. &amp; boulder clay <lb></lb> \np. 102 Lyons Cove, section at, <lb></lb> \np. 100 Mya arenaria, holes in sand made by, <lb></lb> \np. 104, 118 Blomidon Cliff, <lb></lb> \np. 107 - [Blomidon] shells at <lb></lb> \np. 104, 106 - [Blomidon] furrowed sandstone <lb></lb> \np. 110 - [Blomidon] strata fractured with[out] being shifted <lb></lb> \np. 118 - [Blomidon] cliffs between Cornwallis &amp;, <lb></lb> \np. 108 Basin of Mines, denudation of, <lb></lb> \np. 110 - [Basin of Mines] recent deposits <lb></lb> \np. 112 Wolfville, dip of slates <lb></lb> \np. 114 - [Wolfville] coal strata <lb></lb> \np. 116 - [Wolfville] grit, termed granite by Gesner <lb></lb> \np. 106 Ice, packing of, on C[ape]. Blomidon <lb></lb> \np. 112 - [Ice] continuous from Blomidon to Parsboro\u2019 [sic Parrsboro] <lb></lb> \np. 112, 124 - [Ice] furrows in mud made by <lb></lb> \np. 112 - [Ice] perpendicular movement of, <lb></lb> \np. 124 - [Ice] on River St. John <lb></lb> \np. 124 - [Ice] carrying mud &amp; gravel <lb></lb> \np. 124 - [Ice] stranding of, <lb></lb> \np. 112 Reclaimed land in Horton, Windsor etc, <lb></lb> \np. 114 Tellina groenlandica, holes made by, <lb></lb> \np. 94 Salt Marshes at Cornwallis <lb></lb> \np. 114, 122 - [Salt Marshes] plants in, <lb></lb> \np. 116 Partridge Island, sect[ion] of trap etc, <lb></lb> \np. 120 Parsboro\u2019 [sic Parrsboro] sect[ion]. near <lb></lb> \np. 122 - [Parsboro\u2019] boulder formation <lb></lb> \np. 122 [? Taunton] Marsh <lb></lb> \np. 122, 126, 140 Red alluv[ium] discoloured by sedges, <lb></lb> \np. 122 Advocate\u2019s Harbour, unconformable beds, <lb></lb> \np. 124, 126 Rain drops, marks of, <lb></lb> \np. 46 Granite of New Hampshire <lb></lb> \np. 126 - [Granite] veins, near Yarmouth &amp; Halifax <lb></lb> \np. 148 - [Granite] near Londonderry <lb></lb> \np. 128, 130, 132 Coal-mine point, fossil trees at, <lb></lb> \np. 122, 126, 140 Discolouration of red alluvium by sedges, <lb></lb> \np. 128 to 136, 142 Fossil trees in Coal strata, <lb></lb> \np. 138 Stigmaria bed, <lb></lb> \np. 138 Chignecto coal-field <lb></lb> \np. 140 - [Chignecto] red colour of, <lb></lb> \np. 140 Nova Scotia &amp; New Brunswick, sect[ion] across, <lb></lb> \np. 140 Red Sandstone of Coal <lb></lb> \np. 142, 144 Vertical Coal-trees in S[outh]. Joggins cliff <lb></lb> \np. 142 Minudie, shells &amp;c on beach, <lb></lb> \np. 148 - [Minudie] red coal-strata at, <lb></lb> \np. 142 Fort Cumberland, submerged trees at, <lb></lb> \np. 148 Coal strata, red colour of, <lb></lb> \np. 146 Amherst, dip of beds etc., <lb></lb> \np. 148 Cumberland Co[unty], coal-ridges of, contrasted with granite, \np. 148 Londonderry, red sandstone of, <lb></lb>\np. 150 Arching of strata <lb></lb> \np. 150 Folly, R[iver]. dip at, <lb></lb> \np. 152 Cracks in clay filled with new deposit of clay \n",
+                    "desc": "index"
+                }
+            ],
+            "iiifmanifest": false
         },
         {
             "title": "Notebook No.73",
@@ -8986,6 +8903,58 @@
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~124014~463622/full/!512,512/0/default.jpg"
         },
         {
+            "level": "item",
+            "display_string": "Notebook No.94, October 1841- December 1841",
+            "component_id": "Coll-203/A1/94",
+            "title": "Notebook No.94",
+            "uri": "/repositories/2/archival_objects/180252",
+            "creators": {
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
+            },
+            "subjects": {
+                "Appalachian Mountains": "geographic",
+                "Niagra (Ontario, Canada)": "geographic",
+                "Lectures": "genre_form"
+            },
+            "dates": {
+                "expression": "October 1841- December 1841",
+                "begin": "1841-10-01",
+                "end": "1841-12-31"
+            },
+            "linked_agents": {
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person",
+                "Gould, Augustus Addison, 1805-1866 (American conchologist and malacologist)": "person",
+                "Beck, Lewis Caleb, 1798-1853 ( American physician, botanist, chemist, and mineralogist)": "person",
+                "Eaton, Amos, 1776-1842 (American botanist, geologist, and educator)": "person",
+                "Kalm, Pehr, 1716-1779 (Finnish explorer, botanist, naturalist, and agricultural economist)": "person",
+                "Hennepin, Louis, 1626-1704 (Belgian Roman Catholic priest | Explorer of North America)": "person",
+                "Liebig, Justus von, 1803-1873 (German agricultural engineer)": "person",
+                "Whelpley, James Davenport, 1817-1872 (American physician)": "person",
+                "Jackson, Charles Thomas, 1805-1880 (American physician and scientist)": "person"
+            },
+            "notes": [
+                {
+                    "type": "scopecontent",
+                    "content": "This notebook contains field and travel notes by Charles Lyell while in North America, traveling between Philadelphia and Boston. There are multiple sketches and sections of geological formations, notes of lecture tickets and items 'to do' on certain dates, notes referring to lectures attended, and items borrowed. Page 67 is a sketch which appears to be Lyell planning the coloured illustration of Niagara as featured in 'Travels'. Page 74 appears to show the layout of Lyell's lectures.  ",
+                    "desc": "dis"
+                },
+                {
+                    "label": "   ",
+                    "type": "scopecontent",
+                    "content": "The following table of contents is Lyell's own words, copied from Lyell's own \"Index\", found at the beginning and end of the notebook, transcribed from digital surrogates using the platform Transkribus. When known, Lyell's abbreviations and contractions have been expanded using brackets []. When writing is unclear, and transcription is not possible, this is denoted using [...]. Quotation marks are Lyell's own notation for ditto, as is the abbreviation \"d'o\". The inclusion of [sic] indicates the misspelling of a word is deliberate and taken from the notebook.\n",
+                    "desc": "tguide"
+                },
+                {
+                    "label": "Lyell's Own Index",
+                    "type": "scopecontent",
+                    "content": "N[umber] 94. Index. Oct[obe]r to Dec[embe]r 1841. <lb/>\np. 3, 5, Maunch Chunk mines, drawings of, <lb/>\np. 6, 7, 8, Ideal Sect[ion]s of Apallachians [sic] [and] Sidlaws, <lb/>\np. 28, 32, 33, 116, Journal <lb/>\np. 10, Beaver Meadow Coal-field, foss[il] plants <lb/>\np. 12, Stigmaria clay at top [and] bottom in D'o [Ditto] <lb/>\np. 12, Apallachians [sic], age of upheaval <lb/>\np. 6, 7, 8, - [Apallachians] [sic] ideal sect[ion]s of the Sidlaws [et cetera], <lb/>\np. 24, - [Apallachians] [sic] length [and] breadth of, <lb/>\np. 24, - [Apallachians] [sic] great curves in, <lb/>\np. 104, - [Apallachians] [sic] absence of dikes in <lb/>\np. 12, Catskill Mountains <lb/>\np. 14, Room Run Coal Mine <lb/>\np. 16, - [Room Run Coal Mine] soot at junct[io]n of coal [and] conglom[erate] <lb/>\np. 16, - [Room Run Coal Mine] fossil plants of, <lb/>\np. 18, - [Room Run Coal Mine] curved beds of Coal <lb/>\np. 10, 14, Coal Mines <lb/>\np. 10, 16, - [Coal Mines] plants <lb/>\np. 20, - [Coal Mines] of anthracite <lb/>\np. 18, -, [Coal Mines] curved beds of, <lb/>\np. 12, -, [Coal Mines] Stigmaria above [and] below, <lb/>\np. 14, - [Coal Mines] shale [and] conglom[erate], sect[io]n of, <lb/>\np. 14, Nesquahoning [sic] valley, sect[io]n of Coal shale [et cetera] <lb/>\np. 14, - [Nesquahoning [sic] valley] fallen rocks at foot of cliffs, <lb/>\np. 12, Stigmaria Clay <lb/>\np. 20, 22, Cleavage of Slate <lb/>\np. 22, Thinning out of beds of limest[one] [and] conglom[erate] <lb/>\np. 22, 24, Lehigh water-gap <lb/>\np. 26, Easton to Munro, strata between, <lb/>\np. 26, 28, Potomac Conglomerate <lb/>\np. 26, Delaware, R[iver], strata on right bank of, <lb/>\np. 30, - [Delaware River] Canal on D'o [Ditto] <lb/>\np. 30, - [Delaware River] trees cut into by ice on, <lb/>\np. 26, New Red, and gneiss junct[io]n of, <lb/>\np. 28, - [New Red] ripple-mark in, <lb/>\np. 30, - [New Red] outlier of, <lb/>\np. 94, 95, - [New Red] furrows in Conglom[erate] of, <lb/>\np. 94, - [New Red] fossil plants and fish of, <lb/>\np. 103, - [New Red] of formed in deep water - birds tracks, <lb/>\np. 122, - [New Red] of New Jersey <lb/>\np. 28, 107, Ripple-marked rocks <lb/>\np. 30, Albany Clay elevated by local upheaval <lb/>\np. 122, - [Albany Clay] in the Highlands <lb/>\np. 34, Trap, shale [and] sandstone altered by, <lb/>\np. 92, 104, -, [Trap, shale [and] sandstone] hills of hardened sandstone and, <lb/>\np. 94, 106, 110, -, [Trap, shale [and] sandstone] crescent-shape of, at Newhaven, <lb/>\np. 34, Lignite deposit at junction of rivers <lb/>\np. 34, Green Sand of N[ew] Jersey, 5 groups of, <lb/>\np. 36, Ralston's Receipt for 25 dollars <lb/>\np. 38, 40, Boston Mem[orandum] <lb/>\np. 42, 46, 49, to 65, 79, 81, - [Boston] Lectures, mem[orandum] for, <lb/>\np. 40, Gould, Dr., on Bayfields paper, <lb/>\np. 52, Sweet Briar Lane, Conglom[erate] smoothed [and] pol[ished], Lectures - See \"Boston\", above <lb/>\np. 34, New Jersey Green Sand, 5 groups of, <lb/>\np. 122, - [New Jersey] New Red of, <lb/>\np. 52, Conglomerate smoothed [and] polished, <lb/>\np. 94, 95, - [Conglomerate] of New Red, furrows in, <lb/>\np. 55, Lewis, Mr., how to send to Boston <lb/> \np. 66, Niagara, old writers on falls of, <lb/>\np. 69, 71, 73, 76, 86, - [Niagara] recession of <lb/>\np. 85, - [Niagara] width of ravine <lb/>\np. 136, - [Niagara] Eaton on, <lb/>\np. 66, 69, Kalm on Falls of Niagara, 1750, <lb/>\np. 67, Hennipin, Father, on D'o [Ditto] <lb/>\np. 62, 68, 71, 78, 83, 85, 86, Hall, Ja[me]s, queries for, [and] answers to, <lb/>\np. 80, - [Hall, James] on future recess[io]n of Falls of Niagara <lb/>\np. 68, Bloody Run, distance from falls <lb/>\np. 72, Welland Canal <lb/>\np. 72, Canals, water taken from great Lakes by, <lb/>\np. 76, Canada Fall 1/2 mile farther back than Amer[ica]n <lb/>\np. 92, Newhaven, conglom[erate] with quartz pebbles <lb/>\np. 92, - [Newhaven] dip of conglom[erate] <lb/>\np. 92, 104, - [Newhaven] hills of trap [and] hardened sandstone <lb/>\np. 94, 106, 110, - [Newhaven] crescent-form of trap <lb/>\np. 102, - [Newhaven] New Red sandstone of <lb/>\np. 102, - [Newhaven] ice-furrows near, <lb/>\np. 108, - [Newhaven] denudation of sandstone <lb/>\np. 103, East Rock, Newhaven, dip of rocks <lb/>\np. 104, 106, - [East Rock, Newhaven] trap [and] sandstone of, <lb/>\np. 114, - [East Rock, Newhaven] drawing of, <lb/>\np. 94, 95, North Haven, New Red Conglom[erate] furrowed, <lb/>\np. 94, 98, Durham, fossil plants, <lb/>\np. 97, - [Durham] section at little falls <lb/>\np. 98, 99, - [Durham] fossil fish [and] plants <lb/>\np. 94, Silliman on Calamites in New Red, <lb/>\np. 98, Slickensides <lb/>\np. 96, 101, Anthracite, Liebig on convers[io]n of Coal into, <lb/>\np. 98, 99, Fish, fossil, at Durham <lb/>\np. 100, Snow-storm, Oct[obe]r 1841 <lb/>\np. 96, Liebig on conversion of Coal into anthracite, <lb/>\np. 102, Denudation - M[oun]t Carmel <lb/>\np. 108, - [Denudation] of sandstone, Newhaven <lb/>\np. 102, M[oun]t Carmel <lb/>\np. 103, Whelpley, Mr., on rocks of Newhaven <lb/>\np. 104, - [Whelpley, Mr.] found no dikes in Apallachians [sic] <lb/>\np. 107, - [Whelpley, Mr.] on Ripple-mark <lb/>\np. 112, Connecticut trap, section, <lb/>\np. 120, Peat-swamps, mastodon found in, <lb/>\np. 120, New York, great Cedar Swamp in, <lb/>\np. 120, 143, Mastodon, where found, <lb/>\np. 120, Cedar Swamp, New York <lb/>\np. 122, Chalk fossils common to Europe [and] U[nited] S[tates] <lb/>\np. 122, Cretaceous strata at Bordenton [sic] <lb/>\np. 124 to 130, Phillips's Devonian fossils, notes on, <lb/>\np. 132, 146, Megatherium in Georgia <lb/>\np. 124, 130, 132, 134, 138, Philadelphia Mem[orandum] <lb/>\np. 148, - [Philadelphia] to Baltimore, strata between <lb/>\np. 140 to 146, Route <lb/>\np. 143, Wilmington fossils <lb/>\np. 146, Upper Silurian, classific[atio]n of <lb/>\np. 146, Trilobites <lb/>\nAddresses <lb/>\np. 124, Conrad <lb/>\np. 124, Frazer <lb/>\np. 55, Hayes <lb/>\np. 54, Johnston <lb/>\np. 118, Johnson <lb/>\np. 41, Jackson <lb/>\np. 124, McIlvaine <lb/>\np. 118, Miller <lb/>\np. 55, Pickering <lb/>\np. 124, Rogers <lb/>\np. 36, White",
+                    "desc": "index"
+                }
+            ],
+            "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~108762~442262/full/!512,512/0/default.jpg",
+            "iiifmanifest": "data/manifest_A1-94.json"
+        },
+        {
             "title": "Notebook No.155",
             "level": "item",
             "uri": "/repositories/2/archival_objects/180313",
@@ -9450,125 +9419,6 @@
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~111066~444845/full/!512,512/0/default.jpg"
         },
         {
-            "title": "Notebook No.94",
-            "level": "item",
-            "uri": "/repositories/2/archival_objects/180252",
-            "component_id": "Coll-203/A1/94",
-            "display_string": "Notebook No.94, October 1841- December 1841",
-            "creators": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
-            },
-            "subjects": {
-                "Appalachian Mountains": "geographic"
-            },
-            "dates": {
-                "expression": "October 1841- December 1841",
-                "begin": "1841-10-01",
-                "end": "1841-12-31"
-            },
-            "linked_agents": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person",
-                "Gould, Augustus Addison, 1805-1866 (American conchologist and malacologist)": "person",
-                "Beck, Lewis Caleb, 1798-1853 ( American physician, botanist, chemist, and mineralogist)": "person",
-                "Eaton, Amos, 1776-1842 (American botanist, geologist, and educator)": "person",
-                "Kalm, Pehr, 1716-1779 (Finnish explorer, botanist, naturalist, and agricultural economist)": "person",
-                "Hennepin, Louis, 1626-1704 (Belgian Roman Catholic priest | Explorer of North America)": "person",
-                "Liebig, Justus von, 1803-1873 (German agricultural engineer)": "person",
-                "Whelpley, James Davenport, 1817-1872 (American physician)": "person",
-                "Jackson, Charles Thomas, 1805-1880 (American physician and scientist)": "person"
-            },
-            "notes": [
-                {
-                    "type": "scopecontent",
-                    "content": "This notebook contains field and travel notes by Charles Lyell while in North America, traveling between Philadelphia and Boston. There are multiple sketches and sections of geological formations, notes of lecture tickets and items 'to do' on certain dates, notes referring to lectures attended, and items borrowed.",
-                    "desc": "dis"
-                },
-                {
-                    "label": "   ",
-                    "type": "scopecontent",
-                    "content": "The following table of contents is Lyell's own words, copied from Lyell's own \"Index\", found at the beginning and end of the notebook, transcribed from digital surrogates using the platform Transkribus. When known, Lyell's abbreviations and contractions have been expanded using brackets []. When writing is unclear, and transcription is not possible, this is denoted using [...]. Quotation marks are Lyell's own notation for ditto, as is the abbreviation \"d'o\". The inclusion of [sic] indicates the misspelling of a word is deliberate and taken from the notebook.\n",
-                    "desc": "tguide"
-                },
-                {
-                    "label": "Lyell's Own Index",
-                    "type": "scopecontent",
-                    "content": "N[umber] 94. Index. Oct[obe]r to Dec[embe]r 1841. <lb/>\np. 3, 5, Maunch Chunk mines, drawings of, <lb/>\np. 6, 7, 8, Ideal Sect[ion]s of Apallachians [sic] [and] Sidlaws, <lb/>\np. 28, 32, 33, 116, Journal <lb/>\np. 10, Beaver Meadow Coal-field, foss[il] plants <lb/>\np. 12, Stigmaria clay at top [and] bottom in D'o [Ditto] <lb/>\np. 12, Apallachians [sic], age of upheaval <lb/>\np. 6, 7, 8, - [Apallachians] [sic] ideal sect[ion]s of the Sidlaws [et cetera], <lb/>\np. 24, - [Apallachians] [sic] length [and] breadth of, <lb/>\np. 24, - [Apallachians] [sic] great curves in, <lb/>\np. 104, - [Apallachians] [sic] absence of dikes in <lb/>\np. 12, Catskill Mountains <lb/>\np. 14, Room Run Coal Mine <lb/>\np. 16, - [Room Run Coal Mine] soot at junct[io]n of coal [and] conglom[erate] <lb/>\np. 16, - [Room Run Coal Mine] fossil plants of, <lb/>\np. 18, - [Room Run Coal Mine] curved beds of Coal <lb/>\np. 10, 14, Coal Mines <lb/>\np. 10, 16, - [Coal Mines] plants <lb/>\np. 20, - [Coal Mines] of anthracite <lb/>\np. 18, -, [Coal Mines] curved beds of, <lb/>\np. 12, -, [Coal Mines] Stigmaria above [and] below, <lb/>\np. 14, - [Coal Mines] shale [and] conglom[erate], sect[io]n of, <lb/>\np. 14, Nesquahoning [sic] valley, sect[io]n of Coal shale [et cetera] <lb/>\np. 14, - [Nesquahoning [sic] valley] fallen rocks at foot of cliffs, <lb/>\np. 12, Stigmaria Clay <lb/>\np. 20, 22, Cleavage of Slate <lb/>\np. 22, Thinning out of beds of limest[one] [and] conglom[erate] <lb/>\np. 22, 24, Lehigh water-gap <lb/>\np. 26, Easton to Munro, strata between, <lb/>\np. 26, 28, Potomac Conglomerate <lb/>\np. 26, Delaware, R[iver], strata on right bank of, <lb/>\np. 30, - [Delaware River] Canal on D'o [Ditto] <lb/>\np. 30, - [Delaware River] trees cut into by ice on, <lb/>\np. 26, New Red, and gneiss junct[io]n of, <lb/>\np. 28, - [New Red] ripple-mark in, <lb/>\np. 30, - [New Red] outlier of, <lb/>\np. 94, 95, - [New Red] furrows in Conglom[erate] of, <lb/>\np. 94, - [New Red] fossil plants and fish of, <lb/>\np. 103, - [New Red] of formed in deep water - birds tracks, <lb/>\np. 122, - [New Red] of New Jersey <lb/>\np. 28, 107, Ripple-marked rocks <lb/>\np. 30, Albany Clay elevated by local upheaval <lb/>\np. 122, - [Albany Clay] in the Highlands <lb/>\np. 34, Trap, shale [and] sandstone altered by, <lb/>\np. 92, 104, -, [Trap, shale [and] sandstone] hills of hardened sandstone and, <lb/>\np. 94, 106, 110, -, [Trap, shale [and] sandstone] crescent-shape of, at Newhaven, <lb/>\np. 34, Lignite deposit at junction of rivers <lb/>\np. 34, Green Sand of N[ew] Jersey, 5 groups of, <lb/>\np. 36, Ralston's Receipt for 25 dollars <lb/>\np. 38, 40, Boston Mem[orandum] <lb/>\np. 42, 46, 49, to 65, 79, 81, - [Boston] Lectures, mem[orandum] for, <lb/>\np. 40, Gould, Dr., on Bayfields paper, <lb/>\np. 52, Sweet Briar Lane, Conglom[erate] smoothed [and] pol[ished], Lectures - See \"Boston\", above <lb/>\np. 34, New Jersey Green Sand, 5 groups of, <lb/>\np. 122, - [New Jersey] New Red of, <lb/>\np. 52, Conglomerate smoothed [and] polished, <lb/>\np. 94, 95, - [Conglomerate] of New Red, furrows in, <lb/>\np. 55, Lewis, Mr., how to send to Boston <lb/> \np. 66, Niagara, old writers on falls of, <lb/>\np. 69, 71, 73, 76, 86, - [Niagara] recession of <lb/>\np. 85, - [Niagara] width of ravine <lb/>\np. 136, - [Niagara] Eaton on, <lb/>\np. 66, 69, Kalm on Falls of Niagara, 1750, <lb/>\np. 67, Hennipin, Father, on D'o [Ditto] <lb/>\np. 62, 68, 71, 78, 83, 85, 86, Hall, Ja[me]s, queries for, [and] answers to, <lb/>\np. 80, - [Hall, James] on future recess[io]n of Falls of Niagara <lb/>\np. 68, Bloody Run, distance from falls <lb/>\np. 72, Welland Canal <lb/>\np. 72, Canals, water taken from great Lakes by, <lb/>\np. 76, Canada Fall 1/2 mile farther back than Amer[ica]n <lb/>\np. 92, Newhaven, conglom[erate] with quartz pebbles <lb/>\np. 92, - [Newhaven] dip of conglom[erate] <lb/>\np. 92, 104, - [Newhaven] hills of trap [and] hardened sandstone <lb/>\np. 94, 106, 110, - [Newhaven] crescent-form of trap <lb/>\np. 102, - [Newhaven] New Red sandstone of <lb/>\np. 102, - [Newhaven] ice-furrows near, <lb/>\np. 108, - [Newhaven] denudation of sandstone <lb/>\np. 103, East Rock, Newhaven, dip of rocks <lb/>\np. 104, 106, - [East Rock, Newhaven] trap [and] sandstone of, <lb/>\np. 114, - [East Rock, Newhaven] drawing of, <lb/>\np. 94, 95, North Haven, New Red Conglom[erate] furrowed, <lb/>\np. 94, 98, Durham, fossil plants, <lb/>\np. 97, - [Durham] section at little falls <lb/>\np. 98, 99, - [Durham] fossil fish [and] plants <lb/>\np. 94, Silliman on Calamites in New Red, <lb/>\np. 98, Slickensides <lb/>\np. 96, 101, Anthracite, Liebig on convers[io]n of Coal into, <lb/>\np. 98, 99, Fish, fossil, at Durham <lb/>\np. 100, Snow-storm, Oct[obe]r 1841 <lb/>\np. 96, Liebig on conversion of Coal into anthracite, <lb/>\np. 102, Denudation - M[oun]t Carmel <lb/>\np. 108, - [Denudation] of sandstone, Newhaven <lb/>\np. 102, M[oun]t Carmel <lb/>\np. 103, Whelpley, Mr., on rocks of Newhaven <lb/>\np. 104, - [Whelpley, Mr.] found no dikes in Apallachians [sic] <lb/>\np. 107, - [Whelpley, Mr.] on Ripple-mark <lb/>\np. 112, Connecticut trap, section, <lb/>\np. 120, Peat-swamps, mastodon found in, <lb/>\np. 120, New York, great Cedar Swamp in, <lb/>\np. 120, 143, Mastodon, where found, <lb/>\np. 120, Cedar Swamp, New York <lb/>\np. 122, Chalk fossils common to Europe [and] U[nited] S[tates] <lb/>\np. 122, Cretaceous strata at Bordenton [sic] <lb/>\np. 124 to 130, Phillips's Devonian fossils, notes on, <lb/>\np. 132, 146, Megatherium in Georgia <lb/>\np. 124, 130, 132, 134, 138, Philadelphia Mem[orandum] <lb/>\np. 148, - [Philadelphia] to Baltimore, strata between <lb/>\np. 140 to 146, Route <lb/>\np. 143, Wilmington fossils <lb/>\np. 146, Upper Silurian, classific[atio]n of <lb/>\np. 146, Trilobites <lb/>\nAddresses <lb/>\np. 124, Conrad <lb/>\np. 124, Frazer <lb/>\np. 55, Hayes <lb/>\np. 54, Johnston <lb/>\np. 118, Johnson <lb/>\np. 41, Jackson <lb/>\np. 124, McIlvaine <lb/>\np. 118, Miller <lb/>\np. 55, Pickering <lb/>\np. 124, Rogers <lb/>\np. 36, White",
-                    "desc": "index"
-                }
-            ],
-            "iiifmanifest": "data/manifest_A1-94.json",
-            "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~108762~442262/full/!512,512/0/default.jpg"
-        },
-        {
-            "title": "Notebook No.116",
-            "level": "item",
-            "uri": "/repositories/2/archival_objects/180274",
-            "component_id": "Coll-203/A1/116",
-            "display_string": "Notebook No.116, May 1844-11 June 1844",
-            "creators": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
-            },
-            "subjects": {
-                "South Carolina United States of America": "geographic",
-                "Virginia (United States)": "geographic",
-                "New Jersey (United States)": "topical",
-                "Maryland United States of America": "geographic",
-                "Nova Scotia (Canada)": "geographic",
-                "Georgia (United States)": "geographic",
-                "Miocene Epoch": "topical",
-                "Echinoderms": "topical",
-                "Schools": "topical",
-                "Glaciers": "topical",
-                "Leaves": "topical",
-                "Martha's Vineyard (Massachusetts, U.S.A.)": "geographic",
-                "Flint": "topical",
-                "Anthracite coal": "topical",
-                "Fossils": "topical",
-                "Cape Breton Island (Nova Scotia, Canada)": "geographic",
-                "Sigillaria": "topical",
-                "United States -- Ohio": "geographic",
-                "Chalk": "topical",
-                "Echinoida": "topical",
-                "Cidaroida, Fossil": "topical",
-                "Mosses": "topical",
-                "Schists": "topical",
-                "Canada": "geographic",
-                "Yantlet Battery (England)": "geographic"
-            },
-            "dates": {
-                "expression": "May 1844-11 June 1844",
-                "begin": "1844-05-01",
-                "end": "1844-06-11"
-            },
-            "linked_agents": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person",
-                "Forbes, Edward, 1815-1854 (Manx naturalist | Professor of Natural History, University of Edinburgh 1854)": "person",
-                "Sowerby, George Brettingham, 1788-1854 (British naturalist, conchologist and artist)": "person",
-                "Woodward, Samuel Pickworth, 1821-1865 (English geologist and malacologist)": "person",
-                "Tennant, James, 1808-1881 (mineralogist)": "person",
-                "Lonsdale, William , 1794-1871 (Geologist and Paleontologist)": "person",
-                "Scouler, John, 1804-1871 (surgeon and naturalist)": "person",
-                "Webster, Daniel, 1782-1852 (Lawyer and Statesman)": "person",
-                "Bache, Alexander Dallas, 1806-1867 (Physicist, Scientist and Surveyor)": "person",
-                "Pusey, Edward Bouverie, 1800-1882 (Anglican Cleric, Professor of Hebrew, Oxford)": "person"
-            },
-            "notes": [
-                {
-                    "type": "scopecontent",
-                    "content": "The notebook contains Charles Lyell\u2019s notes from May to June 11th 1844 while in London. It then continues through June 13th to July 27th in Scotland. Much of the content is about an upcoming trip to the United States - and also covers research on Canada. Notes are in penci and ink. The notebook index is located in the back of the notebook on pages 112-115. Pages 67-72 is an Essay on the 'Constitution of the United States'. ",
-                    "desc": "dis"
-                },
-                {
-                    "label": "Lyell's own index",
-                    "type": "scopecontent",
-                    "content": "Index 1844. <br>\nLondon, May to June 11th. <br>\np. 2 Amphidetus, James R[iver]. Scutella, Jacksonboro\u2019 with Forbes <br>\np. 4 Beaufort, additions to list, with Sowerby, <br>\np. 6, 8 Petersburg and Williamsburg, miocene representatives and identical forms, - [with Sowerby] <br>\np. 9 School system in England, Prof[essor]. Bache <br>\np. 10, 12 Echinoderms and echinus of Petersburg, Williamsburg, Jacksonboro\u2019, et cetera, et cetera <br>\np. 12 James River, Beaufort, Mulberry, and N[ew]. Jersey, miocene of, <br>\np. 12, 13 Pecopteris from Frostberg, [sic Frostburg] and Marietta coal, with Woodward<br>  \np. 14 Glaciers, Edinburgh Review <br>\np. 15 Miocene of U.S. results, peculiar forms <br>\np. 17 Coal Plants of Horton Bluff &amp; Windsor <br>\np. 18, 20 Martha's Vineyard rocks, with Tennant <br>\np. 20 Cumberland and Wrentham coal plants, with Woodward <br>\np. 20, 21, 22 Stony Bluff Flints Millhaven flint and chert with Tennant <br>\np. 22, 24 Kaolin, clay, et cetera of Aikin, [sic Aiken] Tiger's Leap, Augusta, Reeve\u2019s Mill, et cetera <br>\nIndex. 1844. <br>\np. 26 Worcester anthracite and plumbago, composition of, <br>\np. 27 Stoudenmire shells <br>\np. 27 Fossils of recent species common to U.S. and Europe, list of, <br>\np. 27, 28 Recent species of European miocene and not found recent in America, list of, <br>\np. 28, 29 30 Plumbago, Coke, Anthracite, Graphite, et cetera analysis of, <br>\np. 30, 32 Cape Breton coal plants, with Woodward<br> \np. 15 and 34 G Sowerby, acc[ount] with, <br>\np. 35 Vance's Ferry, Streeble's Mill, and Cave Hall, shells of, <br>\np. 36 Corals sent to Mr. Lonsdale, mem[oradum]. of, <br>\np. 37, 38 Millhaven, Wilmington, and White Creek shells, list of, &amp; Orangeburg Burrstone, with Sowerby  <br>\np. 40 Sigillaria, list of, [\u2018list of\u2019 is interlined] Ohio, with Woodward <br>\np. 41, 42 New Jersey chalk, Frostburg Coal, with Sowerby <br>\np. 44 Scutella and Cidaris, Streeble\u2019s Mill &amp; Vance\u2019s Ferry, with Forbes <br>\np. 46 Publication expenses of Journal, estimate of, with Forbes <br>\np. 49 Plants of U.S. Hepatica, Arbutus, et cetera list <br>\np. 54, 55 Coal of U.S. Woodward on the, <br>\np. 56 Webster administr[ation] U.S. [\u2018U.S.\u2019 is interlined] policy of the, <br>\np. 57, 58 Orderly and quiet proceedings in U.S. <br>\np. 60 Fossil Pecten, Dr. Scouler <br>\np. 62 Himalaya Fossils, with Forbes <br>\np. 64 Sister's Ferry, rocks of, with Tennant <br>\np. 66 Indian Mosses <br>\np. 67 to 72 Constitution of U.S., article on the, <br>\np. 72 Yantlet Island, near Sheerness, composed of cockle shells <br>\np. 73 to 79 Puseyism, article on, <br>\np. 74 Expenses of journey to Scotland <br>\nScotland June 13th to July 27th <br>\np. 80 to 107 Plants in Scotland, list of 254 <br>\np. 84 Loch Whorral, blocks of mica schist [\u2018c\u2019 is interlined] <br>\np. 94 Barrier of hillocks, near Rottal <br>\np. 106, 108, 110, 111 Estimate of pages in Journal <br>\np. 108 Canada, climate, prejudices, expenditure, et cetera, et cetera <br>",
-                    "desc": "index"
-                }
-            ],
-            "iiifmanifest": "data/manifest_A1-116.json",
-            "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~113181~446724/full/!512,512/0/default.jpg"
-        },
-        {
             "title": "Notebook No.84",
             "level": "item",
             "uri": "/repositories/2/archival_objects/180242",
@@ -9658,6 +9508,75 @@
             ],
             "iiifmanifest": "data/manifest_A1-50.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~124551~464171/full/!512,512/0/default.jpg"
+        },
+        {
+            "title": "Notebook No.116",
+            "level": "item",
+            "uri": "/repositories/2/archival_objects/180274",
+            "component_id": "Coll-203/A1/116",
+            "display_string": "Notebook No.116, May 1844-11 June 1844",
+            "creators": {
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
+            },
+            "subjects": {
+                "South Carolina United States of America": "geographic",
+                "Virginia (United States)": "geographic",
+                "New Jersey (United States)": "topical",
+                "Maryland United States of America": "geographic",
+                "Nova Scotia (Canada)": "geographic",
+                "Georgia (United States)": "geographic",
+                "Miocene Epoch": "topical",
+                "Echinoderms": "topical",
+                "Schools": "topical",
+                "Glaciers": "topical",
+                "Leaves": "topical",
+                "Martha's Vineyard (Massachusetts, U.S.A.)": "geographic",
+                "Flint": "topical",
+                "Anthracite coal": "topical",
+                "Fossils": "topical",
+                "Cape Breton Island (Nova Scotia, Canada)": "geographic",
+                "Sigillaria": "topical",
+                "United States -- Ohio": "geographic",
+                "Chalk": "topical",
+                "Echinoida": "topical",
+                "Cidaroida, Fossil": "topical",
+                "Mosses": "topical",
+                "Schists": "topical",
+                "Canada": "geographic",
+                "Yantlet Battery (England)": "geographic"
+            },
+            "dates": {
+                "expression": "May 1844-11 June 1844",
+                "begin": "1844-05-01",
+                "end": "1844-06-11"
+            },
+            "linked_agents": {
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person",
+                "Forbes, Edward, 1815-1854 (Manx naturalist | Professor of Natural History, University of Edinburgh 1854)": "person",
+                "Sowerby, George Brettingham, 1788-1854 (British naturalist, conchologist and artist)": "person",
+                "Woodward, Samuel Pickworth, 1821-1865 (English geologist and malacologist)": "person",
+                "Tennant, James, 1808-1881 (mineralogist)": "person",
+                "Lonsdale, William , 1794-1871 (Geologist and Paleontologist)": "person",
+                "Scouler, John, 1804-1871 (surgeon and naturalist)": "person",
+                "Webster, Daniel, 1782-1852 (Lawyer and Statesman)": "person",
+                "Bache, Alexander Dallas, 1806-1867 (Physicist, Scientist and Surveyor)": "person",
+                "Pusey, Edward Bouverie, 1800-1882 (Anglican Cleric, Professor of Hebrew, Oxford)": "person"
+            },
+            "notes": [
+                {
+                    "type": "scopecontent",
+                    "content": "The notebook contains Charles Lyell\u2019s notes from May to June 11th 1844 while in London. It then continues through June 13th to July 27th in Scotland. Much of the content is about an upcoming trip to the United States - and also covers research on Canada. Notes are in penci and ink. The notebook index is located in the back of the notebook on pages 112-115. Pages 67-72 is an Essay on the 'Constitution of the United States'. ",
+                    "desc": "dis"
+                },
+                {
+                    "label": "Lyell's own index",
+                    "type": "scopecontent",
+                    "content": "Index 1844. <br>\nLondon, May to June 11th. <br>\np. 2 Amphidetus, James R[iver]. Scutella, Jacksonboro\u2019 with Forbes <br>\np. 4 Beaufort, additions to list, with Sowerby, <br>\np. 6, 8 Petersburg and Williamsburg, miocene representatives and identical forms, - [with Sowerby] <br>\np. 9 School system in England, Prof[essor]. Bache <br>\np. 10, 12 Echinoderms and echinus of Petersburg, Williamsburg, Jacksonboro\u2019, et cetera, et cetera <br>\np. 12 James River, Beaufort, Mulberry, and N[ew]. Jersey, miocene of, <br>\np. 12, 13 Pecopteris from Frostberg, [sic Frostburg] and Marietta coal, with Woodward<br>  \np. 14 Glaciers, Edinburgh Review <br>\np. 15 Miocene of U.S. results, peculiar forms <br>\np. 17 Coal Plants of Horton Bluff &amp; Windsor <br>\np. 18, 20 Martha's Vineyard rocks, with Tennant <br>\np. 20 Cumberland and Wrentham coal plants, with Woodward <br>\np. 20, 21, 22 Stony Bluff Flints Millhaven flint and chert with Tennant <br>\np. 22, 24 Kaolin, clay, et cetera of Aikin, [sic Aiken] Tiger's Leap, Augusta, Reeve\u2019s Mill, et cetera <br>\nIndex. 1844. <br>\np. 26 Worcester anthracite and plumbago, composition of, <br>\np. 27 Stoudenmire shells <br>\np. 27 Fossils of recent species common to U.S. and Europe, list of, <br>\np. 27, 28 Recent species of European miocene and not found recent in America, list of, <br>\np. 28, 29 30 Plumbago, Coke, Anthracite, Graphite, et cetera analysis of, <br>\np. 30, 32 Cape Breton coal plants, with Woodward<br> \np. 15 and 34 G Sowerby, acc[ount] with, <br>\np. 35 Vance's Ferry, Streeble's Mill, and Cave Hall, shells of, <br>\np. 36 Corals sent to Mr. Lonsdale, mem[oradum]. of, <br>\np. 37, 38 Millhaven, Wilmington, and White Creek shells, list of, &amp; Orangeburg Burrstone, with Sowerby  <br>\np. 40 Sigillaria, list of, [\u2018list of\u2019 is interlined] Ohio, with Woodward <br>\np. 41, 42 New Jersey chalk, Frostburg Coal, with Sowerby <br>\np. 44 Scutella and Cidaris, Streeble\u2019s Mill &amp; Vance\u2019s Ferry, with Forbes <br>\np. 46 Publication expenses of Journal, estimate of, with Forbes <br>\np. 49 Plants of U.S. Hepatica, Arbutus, et cetera list <br>\np. 54, 55 Coal of U.S. Woodward on the, <br>\np. 56 Webster administr[ation] U.S. [\u2018U.S.\u2019 is interlined] policy of the, <br>\np. 57, 58 Orderly and quiet proceedings in U.S. <br>\np. 60 Fossil Pecten, Dr. Scouler <br>\np. 62 Himalaya Fossils, with Forbes <br>\np. 64 Sister's Ferry, rocks of, with Tennant <br>\np. 66 Indian Mosses <br>\np. 67 to 72 Constitution of U.S., article on the, <br>\np. 72 Yantlet Island, near Sheerness, composed of cockle shells <br>\np. 73 to 79 Puseyism, article on, <br>\np. 74 Expenses of journey to Scotland <br>\nScotland June 13th to July 27th <br>\np. 80 to 107 Plants in Scotland, list of 254 <br>\np. 84 Loch Whorral, blocks of mica schist [\u2018c\u2019 is interlined] <br>\np. 94 Barrier of hillocks, near Rottal <br>\np. 106, 108, 110, 111 Estimate of pages in Journal <br>\np. 108 Canada, climate, prejudices, expenditure, et cetera, et cetera <br>",
+                    "desc": "index"
+                }
+            ],
+            "iiifmanifest": "data/manifest_A1-116.json",
+            "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~113181~446724/full/!512,512/0/default.jpg"
         },
         {
             "title": "Notebook No.62",
@@ -9905,6 +9824,80 @@
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~108552~441839/full/!512,512/0/default.jpg"
         },
         {
+            "level": "item",
+            "display_string": "Notebook No.148, September 1846 - December 1846",
+            "component_id": "Coll-203/A1/148",
+            "title": "Notebook No.148",
+            "uri": "/repositories/2/archival_objects/180306",
+            "creators": {
+                "Lyell, Lady Mary, 1808-1873 (nee Horner)": "person",
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
+            },
+            "subjects": {
+                "America": "geographic",
+                "Slavery--United States": "topical",
+                "Bowood House (England)": "geographic"
+            },
+            "dates": {
+                "expression": "September 1846 - December 1846",
+                "begin": "1846-09-01",
+                "end": "1846-12-31"
+            },
+            "linked_agents": {
+                "Lyell, Lady Mary, 1808-1873 (nee Horner)": "person",
+                "Agassiz, Jean Louis, 1807-1873 (Swiss-American naturalist and professor of natural history)": "person",
+                "Sue, Euge\u0300ne (Marie-Joseph), 1804-1857": "person",
+                "Jerdan, William, 1782-1869": "person",
+                "Hopkins, William, 1793-1866 (English mathematician and geologist)": "person",
+                "Forbes, Edward, 1815-1854 (Manx naturalist | Professor of Natural History, University of Edinburgh 1854)": "person",
+                "Elie de Beaumont, Leonce, 1798-1874 (French geologist)": "person",
+                "Bunbury, Sir Charles James Fox, 1809-1886 (8th Baronet of  Barton Hall, Sussex (England) | English naturalist)": "person",
+                "Bunbury, Edward Herbert, 1811-1895 (English barrister, politician and geographer)": "person",
+                "Dewey, Orville, 1794-1882 (American Unitarian minister)": "person",
+                "Bunsen, Christian Charles Josias von, 1791-1860 (German diplomat and scholar)": "person",
+                "Verneuil, \u00c9douard de, 1805-1873 (French palaeontologist)": "person",
+                "Hall, James, 1811-1898 (American geologist and paleontologist)": "person",
+                "Marcet , Jane , 1769-1858 (English writer )": "person",
+                "Sismonda, Angelo, 1807-1878 (Italian mineralogist and geologist)": "person",
+                "Merivale, Herman, 1806-1874 (under secretary of state for India)": "person",
+                "Dewey, Chester, 1784-1867 (American botanist, antislavery activist, clergyman and educator)": "person",
+                "Grote, George, 1794-1871 (English political radical and classical historian)": "person",
+                "Pickett, William, fl 1845-1849 (American friend of Albert Koch)": "person",
+                "Rogers, Samuel, 1763-1855 (English poet)": "person",
+                "Macaulay, Thomas Babington, 1800-1859 (English writer, politician)": "person",
+                "Bonnycastle, Charles, 1792-1840 (American professor of natural philosophy and mathematics )": "person",
+                "Milman, Henry Hart, 1791-1868 (English historian and ecclesiastic)": "person",
+                "Villiers, George William Frederick, 4th Earl of Clarendon, 1800-1870 (British foreign secretary)": "person",
+                "Delane, John Thadeus, 1817-1879 (Editor, The Times)": "person",
+                "Lewis, M.G. (Matthew Gregory), 1775-1818": "person",
+                "Dana, Richard Henry, 1787-1879 (American lawyer, politician and writer)": "person",
+                "Smith, Robert Percy, 1770-1845 (British lawyer, Member of Parliament, and Judge Advocate-General of Bengal, India)": "person",
+                "Talleyrand-Pe\u0301rigord, Charles Maurice de, Prince de Be\u0301ne\u0301vent, 1754-1838 (French secularized clergyman, statesman, and diplomat)": "person",
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
+            },
+            "notes": [
+                {
+                    "type": "scopecontent",
+                    "content": "This black notebook contains a record on Charles Lyell\u2019s discussions, theories, and ideas in London - with detailed notes of a social nature, of a visit to Bowood - after his return from his second visit to the U.S (Notebooks 121-145). In this notebook, he covers events and locations from both the U.S and the U.K including Durham, Richmond Valley, Harley Street, Prince Edward Island, Mildenhall, New York, etc. Lyell\u2019s comments on America are profuse, but they don\u2019t appear to have made it into his published works. This notebook has detailed notes of geological features, flora and fauna political debates, religious discussions as well as recording his notes on traditions and religion in the Wandering Jew by Eugene Sue. Lyell looks at and speaks with key individuals such Agassiz (Biologist and Geologist), Edward Forbes (Naturalist), Chester Dewey (Botanist and Antislavery Activist), Charles Bunsen (Diplomat and Scholar), Henry Milman (Historian and Ecclesiastic), Thomas Macaulay (Whig Politian), C Moore (Geologist), and Richard Dana (American Lawyer and Politian). A reference to Mrs Jane Marcet is of note, as a  renowned female writer of popular science books. Lyell also mentions 'Two Years Before the Mast' and  slavery. These subjects are interjected by notes on writing progress; p.59 has details of work for Principles 7th Edition \u2013 with it noted as being sent to Printer on pg. 73, and more details on pg. 101.  ",
+                    "desc": "dis"
+                },
+                {
+                    "label": "Transcription note:",
+                    "type": "scopecontent",
+                    "content": "This notebook is written in ink and pencil and contains many crossed out memorandum. The index is located in the back of the notebook on six unnumbered pages. There are also two of his own drawings on p.19 and p.115. When known, Lyell\u2019s abbreviations, contractions, and known people, have been expanded using square brackets ( [] ). The inclusion of [sic] indicates the misspelling of a word is deliberate and taken from the notebook. ",
+                    "desc": "tguide"
+                },
+                {
+                    "label": "Lyell's own index:",
+                    "type": "scopecontent",
+                    "content": "Index <lb></lb>\np.1 Agassiz names of Old Red fossil fish given at Southton [sic Southampton?] <lb></lb>\np.3 [Agassiz] Durham Connect[icut[ fish <lb></lb>\np.7 [Agassiz] Richmond V[irgini]a do. <lb></lb>\np.8 Harley St[reet] width of measured 19 <lb></lb>\np.14 &amp; 15 Wandering Jew, \u201cRespectable\u201d Traditions \u2013 nothingarian  <lb></lb>\np.16 &amp; 17 Address Jerdan \u2013 Laing [painter, Villiers St] <lb></lb>\np.18 Wandering Jew. Miracles  <lb></lb>\nOctober 5th, 1846 <lb></lb>\np.19 Hopkins on pressure of rocks  <lb></lb>\np.20 Wandering Jew \u2013 Hardy\u2019s relapse  <lb></lb>\np.20 [Wandering Jew] goodness of God <lb></lb>\nOctober 6th  <lb></lb>\np.21 Harnden\u2019s express William F. Harnden - Wikipedia <lb></lb>\np.23 E. Forbes on approach of Glacial per[io]d  <lb></lb>\np.25 [E. Forbes] S[outhern] &amp; Northern flora etc.  <lb></lb>\np.28 Wandering Jew <lb></lb>\np.28 Clatheriena a Wealden land plant in the marine upper Green S[an]d <lb></lb>\np.29 Iguanodon Jaw <lb></lb>\np.30 Heel ball &amp; tracing paper Mantell [Man-tell, with tell interlined on line above] <lb></lb>\np.31 [Joseph] Clark\u2019s address Cincinnati [Race Street] <lb></lb>\np.31 Rev[eren]d Dr Hamilton Temple Serapis [Rev W.T. Hamilton of Mobile] <lb></lb>\np.34 Geol[og]y orthodox in metropolis &amp; heresy in country <lb></lb>\np.34 Trotter on repudiation    <lb></lb>\np.34 Paupers 2 millions of in England  <lb></lb>\np.34 &amp; 36 Estimate cost of 7. Ed[ition] Principles <lb></lb>\np. 36 Geol[og]y Prince Edw[ard] Isl[and] coal &amp; C[ape] Blomindon  <lb></lb>\np.36 [Geology] Marietta &amp; Autumn [fern] beds seam? <lb></lb>\np.38 Geol[og]y Ramsay on Denudation  <lb></lb>\np.39 [Geology] E. De Beaumont\u2019s sudden upheaval  <lb></lb>\np.39 [Geology] Plants of Richm[on]d Coal field &amp; C[harles] Bunbury in Pterii etc.  <lb></lb>\np.40 Peat of Cambridgsh [sic Cambridgeshire]. No sphagnum  <lb></lb>\nOct[ober] 21st <lb></lb>\np.40 Geol[og]y clay pit Mildenhall <lb></lb>\np.40 &amp;42 Plants at Do. <lb></lb>\np.42 Stigmaria in drift Mildenhall<lb></lb>   \np.44 Wandering Jew \u201cDragon\u201d for \u201cdragoon\u201d <lb></lb> \np.46 [Wandering Jew] confusion of right &amp; wrong  <lb></lb>\np.46 Theatricals given up. Reading of novels in U.S substitut[e]d <lb></lb>\np.46 Rouge\u2019s movement in Germany <lb></lb>\np.47 Indiana, mosses &amp; black fungus  <lb></lb>\np.48 [Indiana] coal plants named <lb></lb>\np.48 Waverly Sands[tone] Devonian? <lb></lb>\np.49 Methodism Q[uarterly] R[eview] animal emotions <lb></lb>\nOct[ober] 26th 1846 <lb></lb>\np.49 Dewey\u2019s work. <lb></lb>\np.49 Balls &amp; amusements in Eng[land] wicked    <lb></lb>\np.51 Rotation of crops, Mr Eagle on  <lb></lb>\np.52 Creole term explained <lb></lb>\np.57 Bunsen, no deluge in Egypt <lb></lb>\np.57 Scriptural prejudices in England  <lb></lb>\np.58 Agassiz address Boston &amp; Liverpool  <lb></lb>\n[p.59 has details of work for Principles 7th Ed] <lb></lb>\np.59 America, Electric telegraph on trees  <lb></lb>\np.60 Convention N.Y Gibbard  <lb></lb>\np.60 [Convention] Judges, negros, De Verneuil  <lb></lb>\np.60 ? Silurian groups, N.Y De V[erneuil] on <lb></lb>\np.60 ? Natchez human bone Dickenson on  <lb></lb>\np.61 ? De Verneuil on Silurian, &amp; Orthoceras  <lb></lb>\np.62 J. Halls palaeontology, cost of plates  <lb></lb>\np.63 to 66 X Wandering Jew criticism on <lb></lb>\np.66 Miocene and continuat[io]n of <lb></lb>\np.67 Bookbinder of J[ohn] Murray address  <lb></lb>\np.67 Wandering Jew, Mrs Marcet on  <lb></lb>\np.69 Irish \u2013 non commiss[ione]d officers in a regiment chiefly from  <lb></lb>\np.69 Travelling in U.S. facilities De Verneuil  <lb></lb>\np.70 Chewing tobacco, Sir Rob[er]t Walpole  <lb></lb>\np.71 Morning Post on Lyell\u2019s America  <lb></lb>\nNov[ember] 3rd  <lb></lb>\np.72 Sismonda on nummulite limest[one] of Var &amp; the Maritime alps [sic Alpes-Maritime], age of  <lb></lb>\np.72 Alpine coal-plants in lias proved <lb></lb>\np.72 Education making Germany infidel B[isho]p of London  <lb></lb>\np.73 C Lyell on Miocene isthmus, references  <lb></lb>\np.75 Expatriation of English, Americans on  <lb></lb>\np.75 Liturgy \u2013 multiplicat[io]n of services <lb></lb>\np.76 Oxf[or]d, Tractarianism says H. Merivale followed by deism  <lb></lb>\np.77 Education in Engl[an]d &amp; religion  <lb></lb>\np.78 Slavery, foreign interference \u2013 infanticide  <lb></lb>\np.78 Dewey \u2013 Aristocracy in Engl[an]d  <lb></lb>\n[p. 79 relates to American interference concerning Hindoo widows, reference from Dewey\u2019s sermon] <lb></lb>\np.80 [Dewey] Public amusements \u2013 effect of debt etc. <lb></lb>\np.82 [Dewey] \u2013 Fear of speaking out the truth  <lb></lb>\np.82 [Dewey] Free trade enemies of the U.S <lb></lb>\np.82 Dewey, Scotch &amp; N[orthern] Englanders like  <lb></lb>\np.84 [Dewey] English anti-Americanism \u2013 copyright  <lb></lb>\np.84 Pickett W[illiam] &amp; Blounts [sic Blount County] addresses, Ala[bama]  <lb></lb>\np.84 War parties in U.S &amp; England in/46 <lb></lb>\np.86 Geology &amp; Sculpture, Grote\u2019s Greece  <lb></lb>\np.87 Sam. Rogers, on America War <lb></lb>\np.87 [Sam Rogers on America War] feeling in Engl[an]d ag[ains]t it <lb></lb>\np.88 Democracy in U.S want new States <lb></lb>\np.89 Falconer Dr on rain in India <lb></lb>\np.94 Letters sent to U.S list of  <lb></lb>\np.96 Irish hatred in U.S says Bonycastle <lb></lb>\np.96 Wandering Jew not much sold. <lb></lb>\np.96 [Wandering Jew] Irish Romanist copy says [Henry Hart] Milman with Jesuits left out <lb></lb>\np.98 Lords in America. J[ames] Spedding on  <lb></lb>\np.98 At Milman\u2019s [Thomas] Talfourds son, John <lb></lb>\np.98 [At Milman\u2019s] [Archibald] Alison \u201cTimber\u201d Timber duties   <lb></lb>\np.98 [Michael] Faraday at Dela Rives, dine with servants  <lb></lb>\np.100 Geologist, [Thomas Babington] Macaulay \u201csermons in stones! <lb></lb>  \np.100 H[enry] Drummond, Byron &amp; Cunningham   <lb></lb>\np.100 Macaulay \u201clarks\u201d &amp; feeding on blubber <lb></lb>\np.100 [Macaulay] if \u201cfathers bought &amp; sold now <lb></lb>\n[p.103 Biot on Earthquakes] <lb></lb>\np.104 Volcanic band Biot on <lb></lb>\np.105 Flood at Balize [sic Belize] of 1846 qy. <lb></lb>\np.107 Dry sand in [James] Nasmyth\u2019s experiment?   <lb></lb>\np.108 Wilberforce B[isho]p on be-bishoping  <lb></lb>\np.109 Three old mottoes of Principles lost  <lb></lb>\np.109 Railway carriages U.S stoves in &amp; advantages of <lb></lb>\np.110 Springs in Nassau metal found in by Deissenbach [Talking to Darwin] <lb></lb>\np.111 Bowood party at &amp; ages  <lb></lb>\np.112 Mexico, Von Geroldt\u2019s opinion on use of being conquered <lb></lb>\np.112 Mr C Moore on no progress in religious matters. Anti-megatherium <lb></lb>  \np.113 De Lane Editor of Times <lb></lb>\np.114 Bowood \u2013 Sheridan &amp; Monk Lewis [regarding a bet on the value of Castle Spectre] <lb></lb>\nDec[ember] 16th 1846 <lb></lb>\np.114 Bowood Devil fish in America <lb></lb>\np.114 [Bowood] L[or]d Clarendon \u201cjobbing a trump\u201d [a hired cook, a trump card, \u2018not by his own cook\u2019] <lb></lb>\np.115 Searles Wood specimens of Crag shells borrowed by  <lb></lb>\np.115 Bowood, Section from to Obelisk  <lb></lb>\np.115 [Bowood] pictures at <lb></lb>\np.116 [Bowood] L[or]d Clarendon hiring a cook <lb></lb>\np.116 [Richard Henry] Dana before the mast, slavery <lb></lb>\np.117 Bowood Dickens father a butler <lb></lb>\np.117 [Bowood] Pope reigning wished to be in Napol[eon]s or national Guard <lb></lb>\np.117 [Bowood Pope] epileptic  <lb></lb>\np.117 [Bowood Pope] Bobus Smith &amp; Talleyrand <lb></lb>\np.118 L[or]d Dudley &amp; Sam Rogers  <lb></lb>\np.118 Daily News Crow Editor  \n\n                                        \n",
+                    "desc": "index"
+                }
+            ],
+            "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~92835~422320/full/!512,512/0/default.jpg",
+            "iiifmanifest": "data/manifest_A1-148.json"
+        },
+        {
             "title": "Notebook No.112",
             "level": "item",
             "uri": "/repositories/2/archival_objects/180270",
@@ -10016,6 +10009,34 @@
             ],
             "iiifmanifest": "data/manifest_A1-91.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~108445~441736/full/!512,512/0/default.jpg"
+        },
+        {
+            "title": "Notebook No.147",
+            "level": "item",
+            "uri": "/repositories/2/archival_objects/180305",
+            "component_id": "Coll-203/A1/147",
+            "display_string": "Notebook No.147, 15 June 1846- July 1846",
+            "creators": {
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
+            },
+            "subjects": {},
+            "dates": {
+                "expression": "15 June 1846- July 1846",
+                "begin": "1846-06-15",
+                "end": "1846-07-31"
+            },
+            "linked_agents": {
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
+            },
+            "notes": [
+                {
+                    "type": "scopecontent",
+                    "content": "London. List of tasks at the start include 'paging of notebooks' and 'pasting newspaper cutting into American notebook', 'Slaves in the US - drivers and gangs'. Lists of books, maps and MS taken to Kinnordy, and items held in store at Hart Street. ",
+                    "desc": "dis"
+                }
+            ],
+            "iiifmanifest": "data/manifest_A1-147.json",
+            "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~115631~449434/full/!512,512/0/default.jpg"
         },
         {
             "title": "Notebook No.119",
@@ -10702,11 +10723,11 @@
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~88383~397652/full/!512,512/0/default.jpg"
         },
         {
-            "title": "Notebook No.241",
             "level": "item",
-            "uri": "/repositories/2/archival_objects/180399",
-            "component_id": "Coll-203/A1/241",
             "display_string": "Notebook No.241, 14 September 1859-21 October 1859",
+            "component_id": "Coll-203/A1/241",
+            "title": "Notebook No.241",
+            "uri": "/repositories/2/archival_objects/180399",
             "creators": {
                 "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
             },
@@ -10744,7 +10765,7 @@
             "notes": [
                 {
                     "type": "scopecontent",
-                    "content": "This green leather bound Notebook records Lyell's travels in Aberdeenshire then on down the East coast to Scarborough, Filey, Cromer and Diss. Page 71 onwards are Lyell's notes on Darwin's 'Creation of Species' with further discussion thereafter. There is a black and white photograph of Roydon Oolite on page 171. Page 74 references a specimen Cephalaspis lyelli Agassiz at GLammis, now held by the Cockburn Museum.",
+                    "content": "This green leather bound Notebook records Lyell's travels in Aberdeenshire then on down the East coast to Scarborough, Filey, Cromer and Diss. Page 71 onwards are Lyell's notes on Darwin's 'Creation of Species' with further discussion thereafter. There is a black and white photograph of Roydon Oolite on page 171. Page 74 references a specimen Cephalaspis lyelli Agassiz at Glammis, now held by the Cockburn Museum.",
                     "desc": "dis"
                 },
                 {
@@ -10759,8 +10780,8 @@
                     "desc": "index"
                 }
             ],
-            "iiifmanifest": "data/manifest_A1-241.json",
-            "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~99123~431668/full/!512,512/0/default.jpg"
+            "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~99123~431668/full/!512,512/0/default.jpg",
+            "iiifmanifest": "data/manifest_A1-241.json"
         },
         {
             "title": "Notebook No.99",
@@ -11696,6 +11717,80 @@
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~120404~457415/full/!512,512/0/default.jpg"
         },
         {
+            "level": "item",
+            "display_string": "Notebook No.145, 28 May 1846 - June 1846",
+            "component_id": "Coll-203/A1/145",
+            "title": "Notebook No.145",
+            "uri": "/repositories/2/archival_objects/180303",
+            "creators": {
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
+            },
+            "subjects": {
+                "Sea Serpents": "topical",
+                "Mastodon": "topical"
+            },
+            "dates": {
+                "expression": "28 May 1846 - June 1846",
+                "begin": "1846-05-28",
+                "end": "1846-06-30"
+            },
+            "linked_agents": {
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person",
+                "Polk, James Knox, 1795-1849 (11th President of the United States)": "person",
+                "Hagan, James , d 1843 (Editor of the Vicksburg Sentinel)": "person",
+                "Webster, Daniel, 1782-1852 (Lawyer and Statesman)": "person",
+                "Perkins, Thomas Handasyd, 1764-1854 (American merchant, slave trader, smuggler and philanthropist)": "person",
+                "Samuel, Cabot, 1784-1863 (American businessman)": "person",
+                "Jackson, J. B. S. (John Barnard Swett), 1806-1879 (American surgeon and pathologist)": "person",
+                "Bancroft, George, 1800-1891 (American historian, statesman and Democratic politician)": "person",
+                "Grahame, James, 1790-1842 (Scottish historian, writer of American history)": "person",
+                "Norton, Andrews, 1786-1853 (American preacher and theologian)": "person",
+                "Peabody, Ephraim, 1807-1856 (American Unitarian clergyman, preacher, and philanthropist)": "person",
+                "Sumner, Charles, 1811 - 1874 (American senator and statesman )": "person",
+                "Guizot, Franc\u0327ois Pierre Guillaume , 1787-1874 (French historian, orator, and statesman)": "person",
+                "Jackson, P. T. (Patrick Tracy), 1780-1847 (American manufacturer, a founder of Lowell, Massachusetts.)": "person",
+                "Binney, Amos, 1803-1847 (American physician and malacologist)": "person",
+                "Appleton, Nathan, 1779 - 1861 (American merchant and politician)": "person",
+                "Ticknor, George, 1791-1871 (American academician and Hispanist)": "person",
+                "Prescott, William Hickling, 1796-1859 (American historian and Hispanist)": "person",
+                "Elliot, Captain, fl June 1846 (noted in Lyell's Notebooks)": "person",
+                "Leonard, Gilbert, d 1845 (American Judge, killed in a duel)": "person",
+                "Calhoun, John Caldwell, 1782-1850 ( American statesman, seventh vice president of the United States)": "person",
+                "Jackson, Andrew, 1767-1845 (7th President of the United States)": "person",
+                "Rothe, Hans Peter, 1813-1905 (Naval Commander)": "person",
+                "Himes, Joshua V. (Joshua Vaughan), 1805-1895 (Christian leader, publisher, and promoter )": "person",
+                "Evans, George Henry, 1805-1856 (English radical reformer and publisher)": "person",
+                "George Washington, Warren, 1813-1883 (American attorney, jurist, and politician )": "person",
+                "Olin, Stephen, 1797-1851 (American educator and minister)": "person"
+            },
+            "notes": [
+                {
+                    "type": "scopecontent",
+                    "content": "This notebook contains Charles Lyell\u2019s notes from 28 May , 1846 to 6 June [actual date of 6th presumed, as that is the last date of the previous notebook] 1846, covering the end of the Lyells\u2019 visit in the United States through the approximate first half of their ocean passage to England. They had returned to Boston on 21 May, and spent ten days socializing there, prior to embarking their voyage home to England. They departed from Boston on 1 June , aboard the RMS Britannia, stopping at Halifax, and arriving in Liverpool on 13 June, 1846. There are additional notes about sea-serpents and mastodons. The discussions written during the voyage are mostly about politics in the United States, including an incident concerning a judge and bribery that Lyell had originally heard and recounted during his visit to Louisiana in Notebook 135, reflecting the experiences during his travels and conversations he had with passengers onboard. Upon arrival in Liverpool, Lyell memorializes a delay in baggage collection and records the names of some of the passengers. Notes are in ink and pencil.The index is located on six unnumbered pages at the back of the notebook and is on blue paper, stitched in place with white thread, added into the notebook at a presumed indeterminate later date. This notebook is soft backed, unlike the others which are hardback. ",
+                    "desc": "dis"
+                },
+                {
+                    "label": "Content warning:",
+                    "type": "scopecontent",
+                    "content": "Lyell uses his Scientific Notebooks to gather evidence, based on both his own observation, by reviewing other people's works, by correspondence, asking questions and analyses. The language used in this index is historical, can be discriminatory and may cause offence."
+                },
+                {
+                    "label": "Transcription note:",
+                    "type": "scopecontent",
+                    "content": "The following table of contents is Lyell's own words, copied from Lyell's own \"Index\", found at the end of the notebook, transcribed from digital surrogates using the platform Transkribus. When known, Lyell's abbreviations and contractions have been expanded using brackets [ ].  Abbreviations in standard use, such as two letter abbreviations for United States place names, have not been expanded. When writing is unclear, and transcription is not possible, this is denoted using [...]. Quotation marks are Lyell's own notation for ditto, as is the abbreviation \"do\"; The inclusion of [sic] indicates the misspelling of a word is deliberate and taken from the notebook. There are numerous margin notations in this index. X is used to mark a pencil cross, and ? also marked in pencil, made at certain entries. It is not clear if this notation is written contemporaneously or later. At times Lyell has included dates (inner left margin) and these have been inserted at the beginning of the appropriate section.    ",
+                    "desc": "tguide"
+                },
+                {
+                    "label": "Lyell's own index:",
+                    "type": "scopecontent",
+                    "content": "May 28th. 1846 <lb></lb>\np. 1 X Boston residence at <lb></lb>\np. 2    Connecticut foot-prints museum of <lb></lb>\np. 2 X Norton on books of Moses not authentic. <lb></lb>\np. 2 ? Hagan repudiat[ion] Edit[or]. shot in duel <lb></lb>\np. 2 X Bennet &amp; Owen anti English as renegades <lb></lb>\np. 3 X Sea-serpent at Nahant. vis <lb></lb>\np. 4 X - [Sea-serpent] vis D. Webster on evidence <lb></lb>\np. 4 X - [Sea-serpent] Perkins &amp; Cabot <lb></lb>\np. 6    Mastodon skeleton f[ound]. entire N.Y.  [faint-erased \u2018?\u2019 in margin] <lb></lb>\np. 6 X Irish labourers in Mass[achusetts] unpopular <lb></lb>\np. 6 X - [Irish labourers] bring down wages \u2013 mud huts <lb></lb>\np. 6    Mastodon osteology of - Jackson  <lb></lb>\np. 6 X Sea-serpent Cabot on <lb></lb>\np. 8 X Toleration - numerous sects equal <lb></lb>\np. 8 X Fogs at Boston, backward spring <lb></lb>\np. 10    Mastodon, 20 dorsal vertebrae <lb></lb>\np. 10 X Houses price of in Boston - rents <lb></lb>\np. 10 ? Debts of States \u2013 Al[abama] <lb></lb>\np. 10 ? Bancrofts &amp; Grahame\u2019s hist[ories]. U.S. <lb></lb>\np. 10 ? Cannon practising at Boston <lb></lb>\np. 11 ? Chastity &amp; illegitimate children <lb></lb>\np. 11 X Sea-serpent, witness knowing sea monsters <lb></lb>\np. 11 X Norton Unitarian Pope <lb></lb>\np. 11 X Unitarian creed <lb></lb>\np. 11 X War with Engl[and]. Norton, on effects of <lb></lb>\n1846 <lb></lb>\np. 13 ? Peabody\u2019s sermon on religious meetings <lb></lb>\np. 13 X War. C. Sumner on best man ag[ainst]. it. <lb></lb>\np. 15 ? Mexico, Norton on effect of annexing <lb></lb>\np. 15 ? Guizot on latin races coloniz[ing] America <lb></lb>\np. 16 X War &amp; borrowing for. Dr Jackson <lb></lb>\np. 16 X Dr. J. on D. Webster \u2013 Boston <lb></lb>\np. 16 ? Mexico annexat[ion]. of 8 million. <lb></lb>\np. 16 &amp; 17 X Jealousy of S[outh]. &amp; N[orth]. Then N. grew richer in the war by manufactures.  [\u2018&amp; 17\u2019 added at end of line] <lb></lb>\np. 17 X Dr Binney not believer in sea-serpent  <lb></lb>                 \np. 17 X War expenses w[ould]. cause political revol[ution]. <lb></lb>\np. 18 ? Investments of money in Mass[achusetts]. Prescott. <lb></lb>\np. 18 ? - [Investments] Ticknor &amp; Lowell <lb></lb>\np. 18 X - [Investments] Mass[achusetts] railways better than S.S. bonds. <lb></lb>\np. 20 X Judges in Mass[achusetts]. small pay but honor great <lb></lb>\np. 20 ? N. Appleton\u2019s investm[ents] in Lowell factory <lb></lb>\np. 20 ? W. Prescotts literary profits. <lb></lb>\np. 20 X Mastodon daguereotyped [sic daguerreotyped] <lb></lb>\nJune 1st. <lb></lb>\np. 22 X Sailed in Britannia Steamer <lb></lb>\np. 22 X Recruiting for war in L[ouisiana]. Falkner\u2019s [sic Faulkner Lake] <lb></lb>\np. 22 X Exciteability [sic Excitability] of Americans, Eliot [sic Elliot] <lb></lb>\np. 22 X Independance [obsolete form of\u202findependence] of Judges endangered    <lb></lb>\np. 22 X President, or executive council best <lb></lb>\np. 24 X Bribery of a Judge in L[ouisiana]. <lb></lb>\n[Note: This is referring to Judge Leonard; named with expanded account in Notebook 135.] <lb></lb>\np. 24 ? Irish fraudulent voters. <lb></lb>\n. 24 X Mexican war, danger of, Elliot [2nd \u2018l\u2019 of \u2018Elliot\u2019 added-written in] <lb></lb>\np. 26 X A difficulty, a man shot, <lb></lb>\np. 26 ? Texas extension of its boundaries <lb></lb>\np. 26 X Judges in L[ouisiana]. why cashiered <lb></lb>\np. 26 X - [Judges] evil of small salaries of <lb></lb>\np. 28 X War, Elliot Atlantic cities sh[ould]. not be burnt, but commerce warred ag[ainst]. <lb></lb>\np. 28 ? The West &amp; not N[ew]. Engl[and]. has the power <lb></lb>\np. 28 X Emigration from N[ew]. Engl[and]. 3 percent of popul[ation]. <lb></lb>\np. 30 X The three curses of Americ[an]. Govern[ment]. Elliot <lb></lb>\np. 30 X 4th July Oration do harm <lb></lb>\np. 32 X Repudiat[ation]. &amp; borrowing for war <lb></lb>\np. 32 X Gr[eat]. Britain cannot cede an inch <lb></lb>\np. 32 X Slavery, internal slave trade <lb></lb>\np. 34 ? West Indies sugar &amp; S[outhern] States Cotton <lb></lb>\np. 34 X Canada sh[ould]. have been retained by France       <lb></lb>\np. 34 X Coloured race, mixed whether inferior <lb></lb>\np. 36 X Negro very improveable, Elliot. <lb></lb>\np. 36 X Politicks [sic Politics] a trade in U.S. intrigue <lb></lb>\np. 36 X West Indies, Emancipation, effects of <lb></lb>\np. 40 X - [West Indies] Coulies [sic Coolies] in returning, Barbados <lb></lb>\np. 40 ? Mexico population of, Elliot. <lb></lb>\np. 42 X Passengers, names of in Britannia <lb></lb>\np. 42 X \u201cRecuperative power\u201d of the West <lb></lb>\np. 42 X East Indies raised by British. <lb></lb>\np. 44 X West Indies, Coolies in <lb></lb>\np. 46 X Bowie Knives in South <lb></lb>\np. 46 ? Governm[ent]. of Primary Assemblies <lb></lb>\np. 46 X Calquoun [sic Calhoun] &amp; Texas <lb></lb>\np. 46 X Polk &amp; Mexican War <lb></lb>\np. 48 X Free trade, insincerity of Democrats <lb></lb>\np. 48 ? Senate of U.S. more than Privy Council, an executive body <lb></lb>\np. 48 X Coolies W. Indies <lb></lb>\np. 48 X Politeness to women. N.Y. <lb></lb>\np. 48 X Artists ill educated in England <lb></lb>\np. 50 X Educat[ion]. in U.S. causes new men to take their place well <lb></lb>\np. 50 X Halifax arrival at <lb></lb>\np. 50 X War, spirit of cherished in U.S. <lb></lb>\np. 52 X Convention N.Y. ag[ainst]. negro votes - <lb></lb>\np. 52 X - [Convention N.Y.] not for judges being election <lb></lb>\np. 52 X Pres[ident]. U.S. places in gift of <lb></lb>\np. 52 X Free blacks why miserable <lb></lb>\np. 52 ? Holford Mr on repudiation <lb></lb>\np. 54 X Universal suffrage whether unalterable <lb></lb>\np. 54 X Repudiat[ion] hurts English more than any Americans imagine <lb></lb>\np. 54    Poliliticks [sic Politics] in U.S. none enriched by <lb></lb>\np. 56 X unprincipled, Holf[ord]., Elliot <lb></lb>\np. 56 X Southern slave-holders rule North <lb></lb>\np. 58 X - [Southern slave-holders] places in Gift of Gen[eral]. Govern[ment]. <lb></lb>\n[Note: \u2018... gift of the federal Government\u2019 is stated on p. 58 in the notebook.] <lb></lb>\np. 58 X Texas annexed to please South <lb></lb>\np. 60 X Annexat[ion]. popular because of the passion in South for more land <lb></lb>\np. 60 X War uncongenial to American except to the borderers <lb></lb>\np. 62 ? American Credit, Holford on <lb></lb>\np. 62 ? Alabama taxes - on unoccup[ied]. land<lb></lb>  \np. 62 X Icebergs seen in Britannia <lb></lb>\np. 64    Intrigue in the U.S. more than in Engl[and]. <lb></lb>\np. 64    Annexation really disliked by Northern Democrats <lb></lb>\np. 66    Polk why set up to Gen[eral]. Jackson <lb></lb>\np. 68    Drilling of North[ern]. democrats to obedience <lb></lb>\np. 70    Slaves, chained in gangs travelling <lb></lb>\np. 70    - [Slaves] will be emancipated by a collision <lb></lb>\np. 70    Polk\u2019s inaugural <lb></lb>\np. 70    Woman in U.S. as to chastity Elliot. <lb></lb>\np. 72    American Constitut[ion]- New Engl[and] fettered <lb></lb>\np. 74    War, effect of military man will become King, &amp; make them pay troops, &amp; for that revolutionize <lb></lb>\np. 76    Canada &amp; U.S. treatment of by England - estrangement <lb></lb>\np. 78    Americans wondering at Canadians proposing annexat[ion]. to them <lb></lb>\np. 78    Democratic choice of coarser candidates <lb></lb>\np. 78    Recruits in P[ort]. Hudson Miss[issippi]. for war <lb></lb>\np. 80 X Iceberg near approach in hazy weather <lb></lb>\np. 80 X Military glory in U.S. <lb></lb>\np. 82 X England more peaceful, U.S contra <lb></lb>\np. 82 X Women in U.S. pure conversat[ion]. <lb></lb>\np. 82 X - [Women] in business men less high-mind[ed]. <lb></lb>\np. 84 X Roth [sic Rothe], Dane in Britannia <lb></lb>\np. 84 X - [Roth [sic Rothe]] on protection in N.Y. ag[ainst]. English Insurances <lb></lb>\np. 84 X War \u201cmen who have nothing to lose govern in U.S. <lb></lb>\np. 86 X Inferiority of political and commercial classes in U.S. <lb></lb>\np. 88    Military influence in U.S. <lb></lb>\np. 88    - [Military] They are good marksmen <lb></lb>\np. 88    War sh[ould]. be waged on their commerce <lb></lb>\nFollowing several blank pages are two pages of apparently unconnected writing. <lb></lb>\np. 95 [continued from?  top half crossed-deleted?] <lb></lb>\np. 96 The Britannia left Boston Monday [...] &amp; arrived at Liverpool Sat[urday] at 1/2 past 10[clock] \u2026 <lb></lb>\n[Lyell notes a delay in retrieving baggage and it seems like then has handed over his notebook for his fellow passengers to write in their names:] <lb></lb>\nJ.V. Himes  <lb></lb>\nLt Col. Freer [K.A.?] <lb></lb>\nNH Harenc <lb></lb>\nCo. Antognini <lb></lb>\nA. Tomasi <lb></lb>\n[AG ? ] <lb></lb>\nGeo[rge]. H. Evans<lb></lb>  \nC. Fallon <lb></lb>\nC. Lyell <lb></lb>\nG. Philips [Phipps?] <lb></lb>  \nG.W. Warren <lb></lb>\nJa[me]s. Hartly <lb></lb>\nTho[ma]s. Lysaght <lb></lb>\nRothe <lb></lb>\nStephen Olin \n",
+                    "desc": "index"
+                }
+            ],
+            "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~90318~417993/full/!512,512/0/default.jpg",
+            "iiifmanifest": "data/manifest_A1-145.json"
+        },
+        {
             "title": "Notebook No.139",
             "level": "item",
             "uri": "/repositories/2/archival_objects/180297",
@@ -12366,84 +12461,6 @@
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~114568~448273/full/!512,512/0/default.jpg"
         },
         {
-            "title": "Notebook No.124",
-            "level": "item",
-            "uri": "/repositories/2/archival_objects/180282",
-            "component_id": "Coll-203/A1/124",
-            "display_string": "Notebook No.124, 12 October 1845 - 3 November 1845",
-            "creators": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
-            },
-            "subjects": {
-                "New Hampshire (United States)": "geographic",
-                "Merrimack River New Hampshire United States of America North America": "geographic",
-                "Boston (Massachusetts, United States)": "geographic",
-                "Cambridge (Massachusetts, United States)": "geographic",
-                "Sea Monsters": "topical",
-                "Missourium ": "topical",
-                "Sable Island (N.S.)": "geographic"
-            },
-            "dates": {
-                "expression": "12 October 1845 - 3 November 1845",
-                "begin": "1845-10-12",
-                "end": "1845-11-03"
-            },
-            "linked_agents": {
-                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person",
-                "Dickens, Charles John Huffam, 1812-1870 (novelist and journalist)": "person",
-                "Polk, James Knox, 1795-1849 (11th President of the United States)": "person",
-                "Adams, John Quincey, 1767-1848 (6th President of the United States)": "person",
-                "Hammond, James Henry, 1807-1864 (American attorney, politician and planter)": "person",
-                "Bigelow, John, 1804-1878 (American physician and botanist)": "person",
-                "Webster, Daniel, 1782-1852 (Lawyer and Statesman)": "person",
-                "Everett, Edward, 1794-1865 (American politician, Unitarian pastor, educator, diplomat, and orator)": "person",
-                "Anthony, John Gould, 1804-1877 (American naturalist, mollusks)": "person",
-                "Oakes, William, 1799-1848 (American botanist)": "person",
-                "White, Joseph Blanco, 1775-1841 (Anglo-Spanish political thinker, theologian, and poet)": "person",
-                "Smith, Adam, 1723-1790 (Scottish economist, philosopher, author)": "person",
-                "Sparks, Jared, 1789-1866 (American historian, educator, and Unitarian minister)": "person",
-                "Dallas, George Mifflin, 1792-1864 (American politician and diplomat )": "person",
-                "Himes, Joshua V. (Joshua Vaughan), 1805-1895 (Christian leader, publisher, and promoter )": "person",
-                "Philip, Sachem of the Wampanoags, -1676 (Sachem (elected chief) to the Wampanoag people)": "person",
-                "Gould, Augustus Addison, 1805-1866 (American conchologist and malacologist)": "person",
-                "Channing, William Ellery, 1780-1842 (American Unitarian preacher and theologian)": "person",
-                "Bowditch, Mary Ingersoll  (Widow of American mathematician, navigator and writer Nathaniel Bowditch. )": "person",
-                "Cushing, Caleb, 1800-1879 (American Democratic politician and diplomat )": "person",
-                "Jackson, J. B. S. (John Barnard Swett), 1806-1879 (American surgeon and pathologist)": "person",
-                "Lawrence, Abbott, 1792-1855 (American businessman, politician, and philanthropist)": "person",
-                "Ronge, Johannes, 1813-1887 (Prussian priest, founder of New Catholics)": "person",
-                "Prescott, William Hickling, 1796-1859 (American historian and Hispanist)": "person",
-                "Ware, Henry, 1764-1845 (American preacher and theologian)": "person",
-                "Ticknor, George, 1791-1871 (American academician and Hispanist)": "person"
-            },
-            "notes": [
-                {
-                    "content": "This notebook contains a record of Charles Lyell\u2019s visit to the United States of America (started in notebook, Number 121) continuing his travels throughout parts of New England, including Massachusetts with notable site visits in and around Boston. It is dated from October 12 to November 3, 1845. For the last two thirds of this notebook (and the entirety of the next one, notebook 125) Lyell is centred in Boston for the presentation of his Lowell Lectures, embarking on numerous (possibly daily) excursions to various sites around Boston including Plymouth, Plymouth Beach, Mount Auburn Cemetery and New Hampshire. The field observations and sketches are supplemented by notes on politics, religion and social life in New England (and the United States more broadly), including discussion of Sea Serpents and Koch's 'Missourium' exhibit. Notes are in ink and pencil. The index is located in the back of the notebook on pages 113-121, plus an unnumbered page at the end.",
-                    "type": "scopecontent",
-                    "desc": "dis"
-                },
-                {
-                    "content": "Transcription Note: <lb></lb> \nThe following table of contents is Lyell's own words, copied from Lyell's own \"Index\", found at the end of the notebook, transcribed from digital surrogates using the platform Transkribus. When known, Lyell's abbreviations and contractions have been expanded using brackets [ ]. Abbreviations in standard use, such as two letter abbreviations for United States place names, have not been expanded. Terms have been designated by their common, anglicized spelling where applicable (e.g., moutonn\u00e9es). When writing is unclear, and transcription is not possible, this is denoted using [...]. Quotation marks are Lyell's own notation for ditto, as is the abbreviation \"do\". The inclusion of [sic] indicates the misspelling of a word is deliberate and taken from the notebook. There are numerous margin notations in this index. X is used to mark a pencil cross made at certain entries. It is not clear if this notation is written contemporaneously or later. At times Lyell has included dates (inner left margin) and these have been inserted at the beginning of the appropriate section. ",
-                    "type": "scopecontent",
-                    "desc": "tguide"
-                },
-                {
-                    "label": "Lyell's own index",
-                    "type": "scopecontent",
-                    "content": "Index<lb></lb> \nOct. 12. 1845<lb></lb> \n12. Oct. <lb></lb>\np. 1 X Preacher at Plymouth N[orth]. Hants [sic Hampshire] <lb></lb>\np. 1 X Ministers only stay 2 years <lb></lb>\np. 1 Free-will Baptists. <lb></lb>\np. 3 X Methodist sermon. Returning from World of Spirits [\u2018Spirits\u2019 interlined] <lb></lb>\np. 3 X Indians. <lb></lb>\n11th. <lb></lb>\np. 3 Service like English \u2013 at Plymouth <lb></lb>\np. 5 X Plants, micaschist \u2013 emerge from mount[ains]. <lb></lb>\np. 7 X Wagon load of red pumpkins &amp; oxen <lb></lb>\np. 7 X Plymouth, bare rock meadow-flats - <lb></lb>\np. 9 X Poison ivy - red-oak, roches moutonnes [sic moutonn\u00e9es] \np. 10 X Ice on river at Plymouth - Indians <lb></lb>\np. 11 X Methodists \u2013 Millerites <lb></lb>\np. 11 Dickens on cutting up the Merrikins <lb></lb>\n12th. <lb></lb>\np. 12 Holderness - children bare foot <lb></lb>\np. 12 X Railroad from Boston to White Mount[ains]. <lb></lb>\np. 12 X Distances W[hite]. Mount[ains]. to Boston <lb></lb>\np. 12 Cost of stocking a farm in N[ew]. Hampsh[ire]. <lb></lb>\np. 14 Stumps last how long \u2013 uprooting of <lb></lb>\n13[th] <lb></lb>\np. 15 X Millerites Blacksmith &amp; farmer<lb></lb>\np. 15 X Last rent of millerite lessee <lb></lb>\np. 15 X Antideluvian patriarchs a myth <lb></lb>\np. 15 X Changing of Ministers allows progress <lb></lb>\np. 15 X - [Changing of Ministers] in 2. or 6. years. \u2013 seraphim \u2018\u2018Giants\u201d <lb></lb>\n[p. 16] Bakers river \u2013 fossil wood - [smudge or tick or begun-erased \u2018X\u2019 in margin?] <lb></lb>   \np. 16 Polk &amp; Dallas, Pork &amp; Dollars <lb></lb>\np. 16 X Harrison\u2019s election Pork &amp; roast beef <lb></lb>\np. 16 Factory towns, in new Engl[and]. rising   <lb></lb>\np. 16 X Himes the Millerite. <lb></lb>\np. 16 Concord as [\u2018as\u2019 interlined] Kennebeck [sic Kennebec] river so Merrimac [sic Merrimack] for terraces [\u2018terraces\u2019 interlined] <lb></lb>\nOct 13[th] <lb></lb>\np. 17 X Millerite tabernacle at Boston <lb></lb>\np. 17 X Interference of authorities <lb></lb>\np. 17 X - [Interference of authorities] Excitement did good - <lb></lb>\np. 17 X - [Interference of authorities] Himes \u2013 \u201ctonguey Jade\u201d <lb></lb>\np. 17 X Temperance movement does good <lb></lb>\np. 18 Hay stored up - small farms best [\u2018best\u2019 interlined] <lb></lb>\np. 18 Consumption Elijah [? Isiah; sic Isaiah] - <lb></lb>\np. 18 Children little men <lb></lb>\np. 18 No bells to ring in Inns <lb></lb>\np. 18 X Concord letters missent <lb></lb>\n[p. 19] X Railway car <lb></lb>\np. 19  - [Railway car] journey by on Merrimac [sic Merrimack] Manchester <lb></lb>\np. 20  - [Railway car] going for numbers <lb></lb>\np. 20, 26 X Massachus[etts]. granite blown sand yet rich! [\u2018rich!\u2019 interlined] [\u2018(26)\u2019 above line] <lb></lb>\n14th. <lb></lb>\np. 20  Plucking chicken on tour <lb></lb>\np. 22 X Term \u2018spry\u201d- \u201cthink the best of us\u201d -<lb></lb> \n15[th] <lb></lb>\np. 22 New Streets built in S[outh]. Cove Boston <lb></lb>\np. 22 X Gained land, lanes called Streets - <lb></lb>\np. 22 X \u201cGod made the country\u201d <lb></lb>\np. 24 X Fine view of harbour &amp; islands - <lb></lb>\np. 24 X Cedar growing by salt marshes <lb></lb>\np. 24 X Quincey [sic Quincy] town - candleberry &amp; sweet fern<lb></lb>\np. 26 X Shoes in winter, fish in summer <lb></lb>\np. 26 X Barren country twixt Bost[on] &amp; Plym[outh] <lb></lb>\n[p. 26] No game offences [\u2018offences\u2019 interlined] wild animals no game laws<lb></lb> \np. 28 Pumpkins for cattle <lb></lb>\np. 28 X Millerites \u2013 hardships of Pilgrim fathers <lb></lb>\nOct 15[th]. <lb></lb>\np. 30 X Blue birds \u2013 Pitch pine. <lb></lb>\np. 30 X Branch railway survey <lb></lb>\n[p. 30] &amp; 46 Plymouth hard frost [p. 30] X Millerites <lb></lb>\np. 32 X Antiquities. K[ing]. Philip <lb></lb>\np. 32 X Mayflower. chest. pewter dish <lb></lb>\np. 35 X Pilgrim hall \u2013 embroidery, coffin. [Note: p. 35 is blank, the commentary is on p. 34.] <lb></lb>\n[p. 36] X Doubts of genuineness. [page number covered with ink splotch] <lb></lb>\np. 36 Mixture of Pompeii &amp; Pilgrim antiquit[ies]. <lb></lb>\np. 36 Great age of Pilgrims on tomb stones [sic tombstones] <lb></lb>\n[p. 36] X Pilgrim stone <lb></lb>\np. 37 X Infidels flogged. Pilgrim\u2019s relics. <lb></lb>\np. 38 X Millerites  Names on tombs Old Plym[outh] <lb></lb>\np. 38 X \u201cI want to know\u201d. <lb></lb>\np. 38, 40 &amp; 44 &amp; 46 X Long tongue of land <lb></lb>\np. 39 Buffalo hides <lb></lb>\np. 41 &amp; 43 X Shells on Plymouth beach <lb></lb>\n[p. 42] X Long beach, fine view <lb></lb>\np. 44 X Churches at Plymouth - Sea beach <lb></lb>\np. 44 X Winslow family <lb></lb>\np. 46, 48 X Pilgrim relics. pitch pines, wild grape [\u2018(48)\u2019 interlined at wild grape] <lb></lb>\np. 46 X Weakest link in chain of evidence, Helena <lb></lb>\n17th. <lb></lb>\np. 48 Pines. Post offices. Martin houses - <lb></lb>\np. 48 X Wages \u2013 Irish labourers Corporations. <lb></lb>\np. 50 X Prices of old &amp; New England compared <lb></lb>\np. 50 &amp; 54 X Scenery uniform in N[ew]. Engl[and]. - <lb></lb>\np. 50 Irish rising &amp; tho\u2019 illiterate <lb></lb>\np. 52 X Riches influence of in N[ew]. Engl[and]. <lb></lb>\np. 52 X Decoy ponds Martin houses Skunk <lb></lb>\np. 54 X Cobblers sitting with their guns loaded <lb></lb>\np. 54 X Scenery \u2013 granite \u2013 barn travelling <lb></lb>\nOct. 17th <lb></lb>\np. 56 Railway (Old Colony) Experim[ental]. Train [\u20186\u2019 written over \u20187\u2019] <lb></lb>\np. 56 X Charles Adams train <lb></lb>\np. 56 X Names at Plymouth, Puritan, <lb></lb>\np. 56 &amp; 61 Cushing Caleb v. Engl[and]. <lb></lb>\np. 57 Irish sails from N[ew]f[oun]dl[and]. fishery<lb></lb> \np. 57 New Engl[and]. hoss for horse [\u20187\u2019 written over \u20188\u2019] <lb></lb>\np. 58 X Glacial beds, shells Gould on, fish <lb></lb>\np. 59 X Mrs Bowditch &amp; Channings work in Engl[and]. [England interlined] <lb></lb>\np. 60 With Dr. Gould to sea beach n[ea]r Bost[on]. <lb></lb>\np. 60 X List of shells, marks on beach <lb></lb>\np. 61 X Caleb Cushing. <lb></lb>\np. 61 X Newness of N[ew]. Engl[and] - Peregrine White. <lb></lb>\np. 62 Marks on sea beach saw shrimp <lb></lb>\np. 62 &amp; 64 Shells on - [sea beach] \u2013 bird-track - [sea beach] replacing \u201cdo (ditto)\u201d <lb></lb>\np. 64 X Baptist\u2019s progress of in New Engl[and]  <lb></lb>\np. 65 Copper mine strata L[ake]. Super[ior]. Potsdam? <lb></lb>\np. 65 Old books 15000 sold at Boston  <lb></lb>\n[p. 65] Polk [approved or opposed?] by all the higher set <lb></lb>   \np. 66 Living trilobite <lb></lb>\np. 66 Adams John Pres[ident]. U.S. on N[ew].Y[ork]. State <lb></lb>\np. 67 Children in U.S. not obed[ient]. Putnam <lb></lb>\n[p. 67] X Title of Madam [\u2018Madam\u2019 underlined] <lb></lb>\np. 68 Hoax on resuscitation of human subject [\u2018subject\u2019 interlined] <lb></lb>\np. 68 X Sea serpent Bigelow\u2019s snake <lb></lb>\np. 69 Judge Hammond on What Lombardy w[ould]. be if but a slave-state <lb></lb> \n[Note: This commentary is on page 68 of the notebook.] <lb></lb>\np. 69 X Ease in public speaking <lb></lb>\np. 69 Member of each sect American Almanack<lb></lb> \np. 69 X Many of no sect \u2013 so in Engl[and]. <lb></lb>\np. 70 X Harvard Coll[ege]. Prof[essors]. Not sectarian <lb></lb>\nOct. 18[th]. <lb></lb>\np. 70 X Orthodox &amp; now [\u2018now\u2019 underlined] Baptists conservative <lb></lb>\np. 71 Repudiat[ion] why less bitterly thought of in the U.S. <lb></lb>\np. 71 Suit of clothes given to Pastor <lb></lb>\np. 71 Mastodon osteology. J.B.S. Jackson <lb></lb>\np. 72 D. Webster\u2019s advice to Everett <lb></lb>\np. 72 Influence of literature, - [Everett replacing ditto] <lb></lb> \n24th. <lb></lb>\np. 72 Have you no hot bread? Boston <lb></lb>\np. 72 Missourium reduc[ed]. from 30 to 16 ft. <lb></lb>\np. 72 Mastodon 20 dorsal vert[ebrae]. &amp; ribs <lb></lb>\n[p. 73] X Fossil fish, Saco R[iver]. <lb></lb>\np. 73 Antislavery \u2013 Gould \u2013 Oaks \u2013 <lb></lb>\n25th <lb></lb>\np. 74 Dyspepsia bread \u2013 <lb></lb>\np. 74 Negro music the only native in U.S. <lb></lb>\np. 74 Nicene for Athanasian creed! <lb></lb>\np. 74 X Unitarian service. <lb></lb>\np. 75 X Episcopal &amp; congregational sermons <lb></lb>\np. 75 X Unitarians, their ascendancy &amp; talent <lb></lb>\np. 75 X Why they have not increased <lb></lb>\np. 76 X Not proselytizing \u2013 too philosoph[ical]? <lb></lb>\np. 76 W[illiam]. Prescott \u2013 M.S. of Charles Vth. <lb></lb>\n[p. 76] - [W[illiam]. Prescott] Signature of Ferdin[and]. &amp; Isabelle [\u2018\u2013\u2019 in margin] <lb></lb>\np. 77 W.P. [sic William Prescott] thoughts lose in transfer to ink <lb></lb>\nOct 26[th]. <lb></lb>\np. 77 Dr. Warren \u2013 skulls facial angle <lb></lb>\np. 77 New Eng[and]. aristocracy. Irish helots <lb></lb>\np. 77 Slavery - visit to South softens all <lb></lb>\np. 78 Lake Superior scenery Mr Gray, <lb></lb>\np. 78 Steam boat \u201copportunity of going below\u201d <lb></lb>\np. 78 Polk turning out Tylerites. <lb></lb>\np. 78 Pensylvania [sic Pennsylvania] wealthy German ignorance <lb></lb>\n[p. 78] Mormons quitting the West. <lb></lb>\np. 79 Channing - corrects sermon on Mond[a]y. <lb></lb>\np. 79 Slavery, Advertiz[ers]. for negros. <lb></lb>\np. 80 Ronge\u2019s new sect. lay-church <lb></lb>\np. 80 X Unitarian - [new sect. replacement for ditto] - Channing<lb></lb>\np. 80 X American sensitiveness will decrease <lb></lb>\np. 80 X Servants in Boston, high wages <lb></lb>\np. 81 X - [Servants in Boston replacement for ditto] no show or style \u2013 no idlers <lb></lb>\np. 81 Cherochee [sic Cherokee] &amp; choctaws Mason <lb></lb>\np. 82 Longevity in N[ew]. Hants [abbreviation of Hampshire] <lb></lb>\np. 82 X Temperance how enforced by law <lb></lb>\np. 82 X Burials speedy in Mass[achusetts] <lb></lb>\np. 82 X Chairs set vis a vis. <lb></lb>\np. 82 X Pilgrim fathers \u2013 religious sentim[ent]. <lb></lb>\np. 83 X Work done by New Englanders <lb></lb>\np. 83 X Temperance L[ord]. Eldon's bottle <lb></lb>\np. 83 X Sea-serpent \u2013 Kraken - <lb></lb>\np. 84 X Abbot Lawrences' [sic Abbot Lawrence's] partner Frostburg <lb></lb>\np. 84 Railway impeded by snow <lb></lb>\np. 84 A whip to to whip little negros. <lb></lb> \np. 84 Railway projected to Oregon. <lb></lb>\np. 85 X \u201cAn eastern connexion\u201d <lb></lb>\np. 85 Steamers on Mississippi dangers of <lb></lb>\np. 85 X Texas &amp; Oregon much talk of <lb></lb>\np. 86 Mr Oakes advantage of not having travelled in Eng[land]. &amp; disadvant[age]. <lb></lb>\np. 86 Mr Tom [sic Thom] (of Liverpool) on Slavery [\u2018Thom\u2019 added in pencil] <lb></lb>\np. 86 Newspapers on Tariff Abolitionism Church &amp; State <lb></lb>\np. 87 X \u20a450,000 for schools, a y[ea]r! Boston! <lb></lb>\np. 87 Maps of plants &amp; animals Pickering <lb></lb>\np. 87 Spirula peronii floated to Sable Isl[and]. <lb></lb>\np. 87 Lymnea gracilis [sic Lymnaea gracilis] Cayuga Lake <lb></lb>\np. 88 Blacksmith fellow traveller Buffey <lb></lb>\np. 88 X Glover - [fellow traveler replacement for ditto] who was in Plymouth coach<lb></lb>\np. 88 Repeal meeting \u2013 pocket picker <lb></lb>\np. 89 X Unitarian ministers from 50 to 500 [3rd \u20180\u2019 deleted-crossed out] <lb></lb>\np. 89 Channing on humanity of Christ <lb></lb>\np. 90 Henry Ware deemed him \u201ca man\u201d <lb></lb>\np. 90 &amp; 108 X Unitarians in the great cities. <lb></lb>\np. 90 Channing first a Calvanist [sic Calvinist] - <lb></lb>\np. 90 Blanco White. <lb></lb>\np. 90 X Unitarians at first Liberal Xt[ians]. [sic Christians] <lb></lb>\np. 91 X Sea serpent when seen Ticknor. <lb></lb>\np. 92 - [Sea serpent] believed in by Sir J. Banks - [Banks or Bankes?]<lb></lb>                                          \np. 92 X Roman Catholics taxing the Irish. <lb></lb>\nOct. 29th. <lb></lb>\np. 92  Appleton on high pay requir[ed]. wages [\u2018wages\u2019 interlined] <lb></lb>\np. 92 X Irish dislike of. <lb></lb>\np. 92 Education making progress in V[irginia]. <lb></lb>\np. 93 X Mount Auburn Cemetery <lb></lb>\np. 93 X - [Mount Auburn Cemetery] new chapel  <lb></lb> \np. 94, 95 X Fires in Boston owing to White Pine [\u201895\u2019 interlined] <lb></lb>\np. 94  Population of Boston 127000 - <lb></lb>\np. 94 X Coot caught by Mactra solidissima <lb></lb>\np. 95 Geology \u2013 oppos[ed]. on scriptural grounds in Phil[adelphia]. <lb></lb>\np. 95 X Fires Boston \u2013 <lb></lb>\np. 96 Free trade P[ennsylvania] \u2013 McIlvain [sic McIlvaine] - Adam Smith on Home Trade<lb></lb> \np. 96 X Philadelphia, Puseyism evil of <lb></lb>\np. 96 Norton on scripture &amp; the Old Testament. <lb></lb>\np. 97 Free trade, moderate tariff best. <lb></lb>\np. 98 X Caleb Cushing on China. <lb></lb>\np. 98 X Millerism movement before Miller <lb></lb>\np. 99 N[ew]. York Herald <lb></lb>\np. 99 X Abolitionists impracticable, w[ould] <lb></lb>\n     X    not vote with Whigs. <lb></lb>\np. 99 Democratic change of U.S. constitution in election of P[resident]. U.S. <lb></lb>\np. 99 Doctrine of \u201cInstructions\u201d to members <lb></lb>\np. 99 X \u201cBy Jesus in an for the opposit[ion]\u201d  <lb></lb> \n[Note: These last 2 discussions are on p. 100 of the notebook.] <lb></lb>\np. 100 Repudiation of P[ennsylvania] income bad faith <lb></lb>\np. 100 Nativism - why bad, tho\u2019 right. <lb></lb>\np. 100 Law ag[ainst]. a State borrowing <lb></lb>\n[Note: The above 3 discussions are on p. 101] <lb></lb>\np. 102 Texas annexat[ion]. will it reduce slavery <lb></lb>\np. 102 Quakers, platonists Bancrofts <lb></lb>\np. 102 Puseyism N. Y. triennial meeting <lb></lb>\np. 103 X Sabbath ending Sunday Ev[ening] <lb></lb>\np. 103 X Ronge - a W. before his name - <lb></lb>\np. 103 Presbyterians liberal in science. <lb></lb>\np. 103 Puseyites calling others dissenters! <lb></lb>\np. 104 X Methodists &amp; Baptists much raised  <lb></lb> \n[p. 104] X J. Sparkes [sic Sparks] on Episcopacy. <lb></lb>\np. 104 X Clay &amp; Polk what relig[ious]. sect? <lb></lb>\np. 105 X Clergy paid by men of other sects - <lb></lb>\np. 105 D. Webster for free trade in 1820 <lb></lb>\np. 105 Caleb Cushing \u2013 represent[ed] Engl[and] as stationary in Colonies <lb></lb>\np. 105 X Electioneering Polk &amp; Dollars <lb></lb>\np. 105 X Putnams sermon on Christ\u2019s preaching <lb></lb>\np. 106 X Popes universal prayer in school <lb></lb>\np. 106 X Unitarian service \u2013 with McIlvaine <lb></lb>\np. 107 D. Webster got $10000 for Kents opinion. <lb></lb>\np. 107 Free trade. Whig bribery, rejoice in extravagance of Democrats <lb></lb>\np. 108 State debts Iowa - <lb></lb>\np. 108 Trinitarianism spurious passage in St. John. B[isho]p. Doane [\u2018Doane\u2019 interlined] <lb></lb>                                   \np. 108 The Continent down to the Isthmus <lb></lb>\n[p. 108, 109] Unitarians why growing slowly <lb></lb>\np. 109 Houghton geolog[ist]. drowned <lb></lb>    \np. 109 X Sea-serpent account of McIlvaines friend <lb></lb>\np. 109 X [Sea-serpent] Horse Mackerel <lb></lb>\n[This account is noted on p. 110, also continues sea-serpent story.] <lb></lb>\np. 111 Sea sickness like tunes haunting us <lb></lb> \np. 111 California separate state - <lb></lb>\np. 111 Boston dark at night <lb></lb>\np. 111 X Early marriages in N[ew]. Engl[and]. <lb></lb>\np. 111 X Unitarian bible retains \u201c3 witnesses\u201d Porson <lb></lb>\np. 112 American women not gracious. <lb></lb>\n[p. 112] X Puritans - why intolerant <lb></lb>\np. 112 X          Day of Doom inquisit[ion] <lb></lb>\np. 112 Guizot. introd[uction]. to Life of Washington \n",
-                    "desc": "index"
-                },
-                {
-                    "label": "Content warning",
-                    "type": "scopecontent",
-                    "content": "<emph render=\"underline\">Content warning:</emph> Lyell uses his Scientific Notebooks to gather evidence, based on both his own observation, by reviewing other people's works, by correspondence, asking questions and analyses. The language used in this index is historical, can be discriminatory and may cause offence.",
-                    "desc": "cw"
-                }
-            ],
-            "iiifmanifest": "data/manifest_A1-124.json",
-            "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~114314~448015/full/!512,512/0/default.jpg"
-        },
-        {
             "title": "Notebook No.121",
             "level": "item",
             "uri": "/repositories/2/archival_objects/180279",
@@ -12514,6 +12531,85 @@
             ],
             "iiifmanifest": "data/manifest_A1-121.json",
             "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~89834~417521/full/!512,512/0/default.jpg"
+        },
+        {
+            "level": "item",
+            "display_string": "Notebook No.124, 12 October 1845 - 3 November 1845",
+            "component_id": "Coll-203/A1/124",
+            "title": "Notebook No.124",
+            "uri": "/repositories/2/archival_objects/180282",
+            "creators": {
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person"
+            },
+            "subjects": {
+                "New Hampshire (United States)": "geographic",
+                "Merrimack River New Hampshire United States of America North America": "geographic",
+                "Boston (Massachusetts, United States)": "geographic",
+                "Cambridge (Massachusetts, United States)": "geographic",
+                "Sea Monsters": "topical",
+                "Missourium ": "topical",
+                "Sable Island (N.S.)": "geographic"
+            },
+            "dates": {
+                "expression": "12 October 1845 - 3 November 1845",
+                "begin": "1845-10-12",
+                "end": "1845-11-03"
+            },
+            "linked_agents": {
+                "Lyell, Sir Charles, 1797-1875 (1st Baronet | Scottish geologist)": "person",
+                "Dickens, Charles John Huffam, 1812-1870 (novelist and journalist)": "person",
+                "Polk, James Knox, 1795-1849 (11th President of the United States)": "person",
+                "Adams, John Quincey, 1767-1848 (6th President of the United States)": "person",
+                "Hammond, James Henry, 1807-1864 (American attorney, politician and planter)": "person",
+                "Bigelow, John, 1804-1878 (American physician and botanist)": "person",
+                "Webster, Daniel, 1782-1852 (Lawyer and Statesman)": "person",
+                "Everett, Edward, 1794-1865 (American politician, Unitarian pastor, educator, diplomat, and orator)": "person",
+                "Anthony, John Gould, 1804-1877 (American naturalist, mollusks)": "person",
+                "Oakes, William, 1799-1848 (American botanist)": "person",
+                "White, Joseph Blanco, 1775-1841 (Anglo-Spanish political thinker, theologian, and poet)": "person",
+                "Smith, Adam, 1723-1790 (Scottish economist, philosopher, author)": "person",
+                "Sparks, Jared, 1789-1866 (American historian, educator, and Unitarian minister)": "person",
+                "Dallas, George Mifflin, 1792-1864 (American politician and diplomat )": "person",
+                "Himes, Joshua V. (Joshua Vaughan), 1805-1895 (Christian leader, publisher, and promoter )": "person",
+                "Philip, Sachem of the Wampanoags, -1676 (Sachem (elected chief) to the Wampanoag people)": "person",
+                "Gould, Augustus Addison, 1805-1866 (American conchologist and malacologist)": "person",
+                "Channing, William Ellery, 1780-1842 (American Unitarian preacher and theologian)": "person",
+                "Bowditch, Mary Ingersoll  (Widow of American mathematician, navigator and writer Nathaniel Bowditch. )": "person",
+                "Cushing, Caleb, 1800-1879 (American Democratic politician and diplomat )": "person",
+                "Jackson, J. B. S. (John Barnard Swett), 1806-1879 (American surgeon and pathologist)": "person",
+                "Lawrence, Abbott, 1792-1855 (American businessman, politician, and philanthropist)": "person",
+                "Ronge, Johannes, 1813-1887 (Prussian priest, founder of New Catholics)": "person",
+                "Prescott, William Hickling, 1796-1859 (American historian and Hispanist)": "person",
+                "Ware, Henry, 1764-1845 (American preacher and theologian)": "person",
+                "Ticknor, George, 1791-1871 (American academician and Hispanist)": "person",
+                "Banks, Joseph, 1743-1820 (English naturalist, botanist, and patron of the natural sciences)": "person"
+            },
+            "notes": [
+                {
+                    "type": "scopecontent",
+                    "content": "This notebook contains a record of Charles Lyell\u2019s visit to the United States of America (started in notebook, Number 121) continuing his travels throughout parts of New England, including Massachusetts with notable site visits in and around Boston and New Hampshire. It is dated from October 12 to November 3, 1845. For the last two thirds of this notebook (and the entirety of the next one, notebook 125) Lyell is centred in Boston for the presentation of his Lowell Lectures, embarking on numerous (possibly daily) excursions to various sites around Boston including Plymouth and Plymouth Beach, and, Mount Auburn Cemetery. The field observations and sketches are supplemented by notes on politics, religion and social life in New England (and the United States more broadly), including discussion of Sea Serpents and Koch's 'Missourium' exhibit. Notes are in ink and pencil. The index is located in the back of the notebook on pages 113-121, plus one unnumbered page opposite page 1.",
+                    "desc": "dis"
+                },
+                {
+                    "label": "Content warning:",
+                    "type": "scopecontent",
+                    "content": "Lyell uses his Scientific Notebooks to gather evidence, based on both his own observation, by reviewing other people's works, by correspondence, asking questions and analyses. The language used in this index is historical, can be discriminatory and may cause offence."
+                },
+                {
+                    "label": "Transcription note:",
+                    "type": "scopecontent",
+                    "content": "The following table of contents is Lyell's own words, copied from Lyell's own \"Index\", found at the end of the notebook, transcribed from digital surrogates using the platform Transkribus. When known, Lyell's abbreviations and contractions have been expanded using brackets [ ]. Abbreviations in standard use, such as two letter abbreviations for United States place names, have not been expanded. Terms have been designated by their common, anglicized spelling where applicable (e.g., moutonn\u00e9es). When writing is unclear, and transcription is not possible, this is denoted using [...]. Quotation marks are Lyell's own notation for ditto, as is the abbreviation \"do\". The inclusion of [sic] indicates the misspelling of a word is deliberate and taken from the notebook. There are numerous margin notations in this index. X is used to mark a pencil cross made at certain entries. It is not clear if this notation is written contemporaneously or later. At times Lyell has included dates (inner left margin) and these have been inserted at the beginning of the appropriate section. ",
+                    "desc": "tguide"
+                },
+                {
+                    "label": "Lyell's own index:",
+                    "type": "scopecontent",
+                    "content": "Index<lb></lb> \nOct. 12. 1845<lb></lb> \n12. Oct. <lb></lb>\np. 1 X Preacher at Plymouth N[orth]. Hants [sic Hampshire] <lb></lb>\np. 1 X Ministers only stay 2 years <lb></lb>\np. 1 Free-will Baptists. <lb></lb>\np. 3 X Methodist sermon. Returning from World of Spirits [\u2018Spirits\u2019 interlined] <lb></lb>\np. 3 X Indians. <lb></lb>\n11th. <lb></lb>\np. 3 Service like English \u2013 at Plymouth <lb></lb>\np. 5 X Plants, micaschist \u2013 emerge from mount[ains]. <lb></lb>\np. 7 X Wagon load of red pumpkins &amp; oxen <lb></lb>\np. 7 X Plymouth, bare rock meadow-flats - <lb></lb>\np. 9 X Poison ivy - red-oak, roches moutonnes [sic moutonn\u00e9es] \np. 10 X Ice on river at Plymouth - Indians <lb></lb>\np. 11 X Methodists \u2013 Millerites <lb></lb>\np. 11 Dickens on cutting up the Merrikins <lb></lb>\n12th. <lb></lb>\np. 12 Holderness - children bare foot <lb></lb>\np. 12 X Railroad from Boston to White Mount[ains]. <lb></lb>\np. 12 X Distances W[hite]. Mount[ains]. to Boston <lb></lb>\np. 12 Cost of stocking a farm in N[ew]. Hampsh[ire]. <lb></lb>\np. 14 Stumps last how long \u2013 uprooting of <lb></lb>\n13[th] <lb></lb>\np. 15 X Millerites Blacksmith &amp; farmer<lb></lb>\np. 15 X Last rent of millerite lessee <lb></lb>\np. 15 X Antideluvian patriarchs a myth <lb></lb>\np. 15 X Changing of Ministers allows progress <lb></lb>\np. 15 X - [Changing of Ministers] in 2. or 6. years. \u2013 seraphim \u2018\u2018Giants\u201d <lb></lb>\n[p. 16] Bakers river \u2013 fossil wood - [smudge or tick or begun-erased \u2018X\u2019 in margin?] <lb></lb>   \np. 16 Polk &amp; Dallas, Pork &amp; Dollars <lb></lb>\np. 16 X Harrison\u2019s election Pork &amp; roast beef <lb></lb>\np. 16 Factory towns, in new Engl[and]. rising   <lb></lb>\np. 16 X Himes the Millerite. <lb></lb>\np. 16 Concord as [\u2018as\u2019 interlined] Kennebeck [sic Kennebec] river so Merrimac [sic Merrimack] for terraces [\u2018terraces\u2019 interlined] <lb></lb>\nOct 13[th] <lb></lb>\np. 17 X Millerite tabernacle at Boston <lb></lb>\np. 17 X Interference of authorities <lb></lb>\np. 17 X - [Interference of authorities] Excitement did good - <lb></lb>\np. 17 X - [Interference of authorities] Himes \u2013 \u201ctonguey Jade\u201d <lb></lb>\np. 17 X Temperance movement does good <lb></lb>\np. 18 Hay stored up - small farms best [\u2018best\u2019 interlined] <lb></lb>\np. 18 Consumption Elijah [? Isiah; sic Isaiah] - <lb></lb>\np. 18 Children little men <lb></lb>\np. 18 No bells to ring in Inns <lb></lb>\np. 18 X Concord letters missent <lb></lb>\n[p. 19] X Railway car <lb></lb>\np. 19  - [Railway car] journey by on Merrimac [sic Merrimack] Manchester <lb></lb>\np. 20  - [Railway car] going for numbers <lb></lb>\np. 20, 26 X Massachus[etts]. granite blown sand yet rich! [\u2018rich!\u2019 interlined] [\u2018(26)\u2019 above line] <lb></lb>\n14th. <lb></lb>\np. 20  Plucking chicken on tour <lb></lb>\np. 22 X Term \u2018spry\u201d- \u201cthink the best of us\u201d -<lb></lb> \n15[th] <lb></lb>\np. 22 New Streets built in S[outh]. Cove Boston <lb></lb>\np. 22 X Gained land, lanes called Streets - <lb></lb>\np. 22 X \u201cGod made the country\u201d <lb></lb>\np. 24 X Fine view of harbour &amp; islands - <lb></lb>\np. 24 X Cedar growing by salt marshes <lb></lb>\np. 24 X Quincey [sic Quincy] town - candleberry &amp; sweet fern<lb></lb>\np. 26 X Shoes in winter, fish in summer <lb></lb>\np. 26 X Barren country twixt Bost[on] &amp; Plym[outh] <lb></lb>\n[p. 26] No game offences [\u2018offences\u2019 interlined] wild animals no game laws<lb></lb> \np. 28 Pumpkins for cattle <lb></lb>\np. 28 X Millerites \u2013 hardships of Pilgrim fathers <lb></lb>\nOct 15[th]. <lb></lb>\np. 30 X Blue birds \u2013 Pitch pine. <lb></lb>\np. 30 X Branch railway survey <lb></lb>\n[p. 30] &amp; 46 Plymouth hard frost [p. 30] X Millerites <lb></lb>\np. 32 X Antiquities. K[ing]. Philip <lb></lb>\np. 32 X Mayflower. chest. pewter dish <lb></lb>\np. 35 X Pilgrim hall \u2013 embroidery, coffin. [Note: p. 35 is blank, the commentary is on p. 34.] <lb></lb>\n[p. 36] X Doubts of genuineness. [page number covered with ink splotch] <lb></lb>\np. 36 Mixture of Pompeii &amp; Pilgrim antiquit[ies]. <lb></lb>\np. 36 Great age of Pilgrims on tomb stones [sic tombstones] <lb></lb>\n[p. 36] X Pilgrim stone <lb></lb>\np. 37 X Infidels flogged. Pilgrim\u2019s relics. <lb></lb>\np. 38 X Millerites  Names on tombs Old Plym[outh] <lb></lb>\np. 38 X \u201cI want to know\u201d. <lb></lb>\np. 38, 40 &amp; 44 &amp; 46 X Long tongue of land <lb></lb>\np. 39 Buffalo hides <lb></lb>\np. 41 &amp; 43 X Shells on Plymouth beach <lb></lb>\n[p. 42] X Long beach, fine view <lb></lb>\np. 44 X Churches at Plymouth - Sea beach <lb></lb>\np. 44 X Winslow family <lb></lb>\np. 46, 48 X Pilgrim relics. pitch pines, wild grape [\u2018(48)\u2019 interlined at wild grape] <lb></lb>\np. 46 X Weakest link in chain of evidence, Helena <lb></lb>\n17th. <lb></lb>\np. 48 Pines. Post offices. Martin houses - <lb></lb>\np. 48 X Wages \u2013 Irish labourers Corporations. <lb></lb>\np. 50 X Prices of old &amp; New England compared <lb></lb>\np. 50 &amp; 54 X Scenery uniform in N[ew]. Engl[and]. - <lb></lb>\np. 50 Irish rising &amp; tho\u2019 illiterate <lb></lb>\np. 52 X Riches influence of in N[ew]. Engl[and]. <lb></lb>\np. 52 X Decoy ponds Martin houses Skunk <lb></lb>\np. 54 X Cobblers sitting with their guns loaded <lb></lb>\np. 54 X Scenery \u2013 granite \u2013 barn travelling <lb></lb>\nOct. 17th <lb></lb>\np. 56 Railway (Old Colony) Experim[ental]. Train [\u20186\u2019 written over \u20187\u2019] <lb></lb>\np. 56 X Charles Adams train <lb></lb>\np. 56 X Names at Plymouth, Puritan, <lb></lb>\np. 56 &amp; 61 Cushing Caleb v. Engl[and]. <lb></lb>\np. 57 Irish sails from N[ew]f[oun]dl[and]. fishery<lb></lb> \np. 57 New Engl[and]. hoss for horse [\u20187\u2019 written over \u20188\u2019] <lb></lb>\np. 58 X Glacial beds, shells Gould on, fish <lb></lb>\np. 59 X Mrs Bowditch &amp; Channings work in Engl[and]. [England interlined] <lb></lb>\np. 60 With Dr. Gould to sea beach n[ea]r Bost[on]. <lb></lb>\np. 60 X List of shells, marks on beach <lb></lb>\np. 61 X Caleb Cushing. <lb></lb>\np. 61 X Newness of N[ew]. Engl[and] - Peregrine White. <lb></lb>\np. 62 Marks on sea beach saw shrimp <lb></lb>\np. 62 &amp; 64 Shells on - [sea beach] \u2013 bird-track - [sea beach] replacing \u201cdo (ditto)\u201d <lb></lb>\np. 64 X Baptist\u2019s progress of in New Engl[and]  <lb></lb>\np. 65 Copper mine strata L[ake]. Super[ior]. Potsdam? <lb></lb>\np. 65 Old books 15000 sold at Boston  <lb></lb>\n[p. 65] Polk [approved or opposed?] by all the higher set <lb></lb>   \np. 66 Living trilobite <lb></lb>\np. 66 Adams John Pres[ident]. U.S. on N[ew].Y[ork]. State <lb></lb>\np. 67 Children in U.S. not obed[ient]. Putnam <lb></lb>\n[p. 67] X Title of Madam [\u2018Madam\u2019 underlined] <lb></lb>\np. 68 Hoax on resuscitation of human subject [\u2018subject\u2019 interlined] <lb></lb>\np. 68 X Sea serpent Bigelow\u2019s snake <lb></lb>\np. 69 Judge Hammond on What Lombardy w[ould]. be if but a slave-state <lb></lb> \n[Note: This commentary is on page 68 of the notebook.] <lb></lb>\np. 69 X Ease in public speaking <lb></lb>\np. 69 Member of each sect American Almanack<lb></lb> \np. 69 X Many of no sect \u2013 so in Engl[and]. <lb></lb>\np. 70 X Harvard Coll[ege]. Prof[essors]. Not sectarian <lb></lb>\nOct. 18[th]. <lb></lb>\np. 70 X Orthodox &amp; now [\u2018now\u2019 underlined] Baptists conservative <lb></lb>\np. 71 Repudiat[ion] why less bitterly thought of in the U.S. <lb></lb>\np. 71 Suit of clothes given to Pastor <lb></lb>\np. 71 Mastodon osteology. J.B.S. Jackson <lb></lb>\np. 72 D. Webster\u2019s advice to Everett <lb></lb>\np. 72 Influence of literature, - [Everett replacing ditto] <lb></lb> \n24th. <lb></lb>\np. 72 Have you no hot bread? Boston <lb></lb>\np. 72 Missourium reduc[ed]. from 30 to 16 ft. <lb></lb>\np. 72 Mastodon 20 dorsal vert[ebrae]. &amp; ribs <lb></lb>\n[p. 73] X Fossil fish, Saco R[iver]. <lb></lb>\np. 73 Antislavery \u2013 Gould \u2013 Oaks \u2013 <lb></lb>\n25th <lb></lb>\np. 74 Dyspepsia bread \u2013 <lb></lb>\np. 74 Negro music the only native in U.S. <lb></lb>\np. 74 Nicene for Athanasian creed! <lb></lb>\np. 74 X Unitarian service. <lb></lb>\np. 75 X Episcopal &amp; congregational sermons <lb></lb>\np. 75 X Unitarians, their ascendancy &amp; talent <lb></lb>\np. 75 X Why they have not increased <lb></lb>\np. 76 X Not proselytizing \u2013 too philosoph[ical]? <lb></lb>\np. 76 W[illiam]. Prescott \u2013 M.S. of Charles Vth. <lb></lb>\n[p. 76] - [W[illiam]. Prescott] Signature of Ferdin[and]. &amp; Isabelle [\u2018\u2013\u2019 in margin] <lb></lb>\np. 77 W.P. [sic William Prescott] thoughts lose in transfer to ink <lb></lb>\nOct 26[th]. <lb></lb>\np. 77 Dr. Warren \u2013 skulls facial angle <lb></lb>\np. 77 New Eng[and]. aristocracy. Irish helots <lb></lb>\np. 77 Slavery - visit to South softens all <lb></lb>\np. 78 Lake Superior scenery Mr Gray, <lb></lb>\np. 78 Steam boat \u201copportunity of going below\u201d <lb></lb>\np. 78 Polk turning out Tylerites. <lb></lb>\np. 78 Pensylvania [sic Pennsylvania] wealthy German ignorance <lb></lb>\n[p. 78] Mormons quitting the West. <lb></lb>\np. 79 Channing - corrects sermon on Mond[a]y. <lb></lb>\np. 79 Slavery, Advertiz[ers]. for negros. <lb></lb>\np. 80 Ronge\u2019s new sect. lay-church <lb></lb>\np. 80 X Unitarian - [new sect. replacement for ditto] - Channing<lb></lb>\np. 80 X American sensitiveness will decrease <lb></lb>\np. 80 X Servants in Boston, high wages <lb></lb>\np. 81 X - [Servants in Boston replacement for ditto] no show or style \u2013 no idlers <lb></lb>\np. 81 Cherochee [sic Cherokee] &amp; choctaws Mason <lb></lb>\np. 82 Longevity in N[ew]. Hants [abbreviation of Hampshire] <lb></lb>\np. 82 X Temperance how enforced by law <lb></lb>\np. 82 X Burials speedy in Mass[achusetts] <lb></lb>\np. 82 X Chairs set vis a vis. <lb></lb>\np. 82 X Pilgrim fathers \u2013 religious sentim[ent]. <lb></lb>\np. 83 X Work done by New Englanders <lb></lb>\np. 83 X Temperance L[ord]. Eldon's bottle <lb></lb>\np. 83 X Sea-serpent \u2013 Kraken - <lb></lb>\np. 84 X Abbot Lawrences' [sic Abbot Lawrence's] partner Frostburg <lb></lb>\np. 84 Railway impeded by snow <lb></lb>\np. 84 A whip to to whip little negros. <lb></lb> \np. 84 Railway projected to Oregon. <lb></lb>\np. 85 X \u201cAn eastern connexion\u201d <lb></lb>\np. 85 Steamers on Mississippi dangers of <lb></lb>\np. 85 X Texas &amp; Oregon much talk of <lb></lb>\np. 86 Mr Oakes advantage of not having travelled in Eng[land]. &amp; disadvant[age]. <lb></lb>\np. 86 Mr Tom [sic Thom] (of Liverpool) on Slavery [\u2018Thom\u2019 added in pencil] <lb></lb>\np. 86 Newspapers on Tariff Abolitionism Church &amp; State <lb></lb>\np. 87 X \u20a450,000 for schools, a y[ea]r! Boston! <lb></lb>\np. 87 Maps of plants &amp; animals Pickering <lb></lb>\np. 87 Spirula peronii floated to Sable Isl[and]. <lb></lb>\np. 87 Lymnea gracilis [sic Lymnaea gracilis] Cayuga Lake <lb></lb>\np. 88 Blacksmith fellow traveller Buffey <lb></lb>\np. 88 X Glover - [fellow traveler replacement for ditto] who was in Plymouth coach<lb></lb>\np. 88 Repeal meeting \u2013 pocket picker <lb></lb>\np. 89 X Unitarian ministers from 50 to 500 [3rd \u20180\u2019 deleted-crossed out] <lb></lb>\np. 89 Channing on humanity of Christ <lb></lb>\np. 90 Henry Ware deemed him \u201ca man\u201d <lb></lb>\np. 90 &amp; 108 X Unitarians in the great cities. <lb></lb>\np. 90 Channing first a Calvanist [sic Calvinist] - <lb></lb>\np. 90 Blanco White. <lb></lb>\np. 90 X Unitarians at first Liberal Xt[ians]. [sic Christians] <lb></lb>\np. 91 X Sea serpent when seen Ticknor. <lb></lb>\np. 92 - [Sea serpent] believed in by Sir J. Bankes - [sic Banks]<lb></lb>                                          \np. 92 X Roman Catholics taxing the Irish. <lb></lb>\nOct. 29th. <lb></lb>\np. 92  Appleton on high pay requir[ed]. wages [\u2018wages\u2019 interlined] <lb></lb>\np. 92 X Irish dislike of. <lb></lb>\np. 92 Education making progress in V[irginia]. <lb></lb>\np. 93 X Mount Auburn Cemetery <lb></lb>\np. 93 X - [Mount Auburn Cemetery] new chapel  <lb></lb> \np. 94, 95 X Fires in Boston owing to White Pine [\u201895\u2019 interlined] <lb></lb>\np. 94  Population of Boston 127000 - <lb></lb>\np. 94 X Coot caught by Mactra solidissima <lb></lb>\np. 95 Geology \u2013 oppos[ed]. on scriptural grounds in Phil[adelphia]. <lb></lb>\np. 95 X Fires Boston \u2013 <lb></lb>\np. 96 Free trade P[ennsylvania] \u2013 McIlvain [sic McIlvaine] - Adam Smith on Home Trade<lb></lb> \np. 96 X Philadelphia, Puseyism evil of <lb></lb>\np. 96 Norton on scripture &amp; the Old Testament. <lb></lb>\np. 97 Free trade, moderate tariff best. <lb></lb>\np. 98 X Caleb Cushing on China. <lb></lb>\np. 98 X Millerism movement before Miller <lb></lb>\np. 99 N[ew]. York Herald <lb></lb>\np. 99 X Abolitionists impracticable, w[ould] <lb></lb>\n     X    not vote with Whigs. <lb></lb>\np. 99 Democratic change of U.S. constitution in election of P[resident]. U.S. <lb></lb>\np. 99 Doctrine of \u201cInstructions\u201d to members <lb></lb>\np. 99 X \u201cBy Jesus in an for the opposit[ion]\u201d  <lb></lb> \n[Note: These last 2 discussions are on p. 100 of the notebook.] <lb></lb>\np. 100 Repudiation of P[ennsylvania] income bad faith <lb></lb>\np. 100 Nativism - why bad, tho\u2019 right. <lb></lb>\np. 100 Law ag[ainst]. a State borrowing <lb></lb>\n[Note: The above 3 discussions are on p. 101] <lb></lb>\np. 102 Texas annexat[ion]. will it reduce slavery <lb></lb>\np. 102 Quakers, platonists Bancrofts <lb></lb>\np. 102 Puseyism N. Y. triennial meeting <lb></lb>\np. 103 X Sabbath ending Sunday Ev[ening] <lb></lb>\np. 103 X Ronge - a W. before his name - <lb></lb>\np. 103 Presbyterians liberal in science. <lb></lb>\np. 103 Puseyites calling others dissenters! <lb></lb>\np. 104 X Methodists &amp; Baptists much raised  <lb></lb> \n[p. 104] X J. Sparkes [sic Sparks] on Episcopacy. <lb></lb>\np. 104 X Clay &amp; Polk what relig[ious]. sect? <lb></lb>\np. 105 X Clergy paid by men of other sects - <lb></lb>\np. 105 D. Webster for free trade in 1820 <lb></lb>\np. 105 Caleb Cushing \u2013 represent[ed] Engl[and] as stationary in Colonies <lb></lb>\np. 105 X Electioneering Polk &amp; Dollars <lb></lb>\np. 105 X Putnams sermon on Christ\u2019s preaching <lb></lb>\np. 106 X Popes universal prayer in school <lb></lb>\np. 106 X Unitarian service \u2013 with McIlvaine <lb></lb>\np. 107 D. Webster got $10000 for Kents opinion. <lb></lb>\np. 107 Free trade. Whig bribery, rejoice in extravagance of Democrats <lb></lb>\np. 108 State debts Iowa - <lb></lb>\np. 108 Trinitarianism spurious passage in St. John. B[isho]p. Doane [\u2018Doane\u2019 interlined] <lb></lb>                                   \np. 108 The Continent down to the Isthmus <lb></lb>\n[p. 108, 109] Unitarians why growing slowly <lb></lb>\np. 109 Houghton geolog[ist]. drowned <lb></lb>    \np. 109 X Sea-serpent account of McIlvaines friend <lb></lb>\np. 109 X [Sea-serpent] Horse Mackerel <lb></lb>\n[This account is noted on p. 110, also continues sea-serpent story.] <lb></lb>\np. 111 Sea sickness like tunes haunting us <lb></lb> \np. 111 California separate state - <lb></lb>\np. 111 Boston dark at night <lb></lb>\np. 111 X Early marriages in N[ew]. Engl[and]. <lb></lb>\np. 111 X Unitarian bible retains \u201c3 witnesses\u201d Porson <lb></lb>\np. 112 American women not gracious. <lb></lb>\n[p. 112] X Puritans - why intolerant <lb></lb>\np. 112 X          Day of Doom inquisit[ion] <lb></lb>\np. 112 Guizot. introd[uction]. to Life of Washington \n",
+                    "desc": "index"
+                }
+            ],
+            "thumbnail": "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~114314~448015/full/!512,512/0/default.jpg",
+            "iiifmanifest": "data/manifest_A1-124.json"
         },
         {
             "title": "Notebook No.125",

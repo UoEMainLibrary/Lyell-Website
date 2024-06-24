@@ -43,13 +43,9 @@
         {
             "label": "Repro Publication Status",
             "value": "Full public access"
-        },
-        {
-            "label": "Content warning",
-            "value": "<emph render=\"underline\">Content warning:</emph> Lyell uses his Scientific Notebooks to gather evidence, based on both his own observation, by reviewing other people's works, by correspondence, asking questions and analyses. The language used in this index is historical, can be discriminatory and may cause offence."
         }
     ],
-    "description": "This notebook contains a record of Charles Lyell\u2019s visit to the United States of America (started in notebook, Number 121) continuing his travels throughout parts of New England, including Massachusetts with notable site visits in and around Boston. It is dated from October 12 to November 3, 1845. For the last two thirds of this notebook (and the entirety of the next one, notebook 125) Lyell is centred in Boston for the presentation of his Lowell Lectures, embarking on numerous (possibly daily) excursions to various sites around Boston including Plymouth, Plymouth Beach, Mount Auburn Cemetery and New Hampshire. The field observations and sketches are supplemented by notes on politics, religion and social life in New England (and the United States more broadly), including discussion of Sea Serpents and Koch's 'Missourium' exhibit. Notes are in ink and pencil. The index is located in the back of the notebook on pages 113-121, plus an unnumbered page at the end.",
+    "description": "This notebook contains a record of Charles Lyell\u2019s visit to the United States of America (started in notebook, Number 121) continuing his travels throughout parts of New England, including Massachusetts with notable site visits in and around Boston and New Hampshire. It is dated from October 12 to November 3, 1845. For the last two thirds of this notebook (and the entirety of the next one, notebook 125) Lyell is centred in Boston for the presentation of his Lowell Lectures, embarking on numerous (possibly daily) excursions to various sites around Boston including Plymouth and Plymouth Beach, and, Mount Auburn Cemetery. The field observations and sketches are supplemented by notes on politics, religion and social life in New England (and the United States more broadly), including discussion of Sea Serpents and Koch's 'Missourium' exhibit. Notes are in ink and pencil. The index is located in the back of the notebook on pages 113-121, plus one unnumbered page opposite page 1.",
     "viewingDirection": "left-to-right",
     "viewingHint": "paged",
     "license": "https://creativecommons.org/licenses/by/3.0/",
@@ -67,7 +63,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114314~448015/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Cover",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page uncounted",
                     "description": "",
                     "metadata": [
                         {
@@ -113,7 +109,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114315~448014/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "page uncounted",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page uncounted",
                     "description": "",
                     "metadata": [
                         {
@@ -155,7 +151,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114316~448013/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.1",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.1",
                     "description": "",
                     "metadata": [
                         {
@@ -201,7 +197,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114317~448012/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.2",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.2",
                     "description": "",
                     "metadata": [
                         {
@@ -247,7 +243,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114318~448011/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.3",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.3",
                     "description": "",
                     "metadata": [
                         {
@@ -293,7 +289,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114319~448010/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.4",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.4",
                     "description": "",
                     "metadata": [
                         {
@@ -339,7 +335,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114320~448009/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.5",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.5",
                     "description": "",
                     "metadata": [
                         {
@@ -385,7 +381,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114321~448008/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.6",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.6",
                     "description": "",
                     "metadata": [
                         {
@@ -431,7 +427,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114322~448007/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.7",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.7",
                     "description": "",
                     "metadata": [
                         {
@@ -477,7 +473,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114323~448006/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.8",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.8",
                     "description": "",
                     "metadata": [
                         {
@@ -523,7 +519,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114324~448005/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.9",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.9",
                     "description": "",
                     "metadata": [
                         {
@@ -569,7 +565,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114325~448004/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.10",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.10",
                     "description": "",
                     "metadata": [
                         {
@@ -615,7 +611,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114326~448003/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.11",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.11",
                     "description": "",
                     "metadata": [
                         {
@@ -661,7 +657,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114327~448002/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.12",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.12",
                     "description": "",
                     "metadata": [
                         {
@@ -707,7 +703,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114328~448001/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.13",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.13",
                     "description": "",
                     "metadata": [
                         {
@@ -753,7 +749,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114329~448000/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.14",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.14",
                     "description": "",
                     "metadata": [
                         {
@@ -799,7 +795,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114330~447999/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.15",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.15",
                     "description": "",
                     "metadata": [
                         {
@@ -845,7 +841,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114331~447998/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.16",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.16",
                     "description": "",
                     "metadata": [
                         {
@@ -891,7 +887,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114332~447997/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.17",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.17",
                     "description": "",
                     "metadata": [
                         {
@@ -937,7 +933,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114333~447996/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.18",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.18",
                     "description": "",
                     "metadata": [
                         {
@@ -983,7 +979,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114334~447995/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.19",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.19",
                     "description": "",
                     "metadata": [
                         {
@@ -1029,7 +1025,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114335~447994/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.20",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.20",
                     "description": "",
                     "metadata": [
                         {
@@ -1075,7 +1071,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114336~447993/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.21",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.21",
                     "description": "",
                     "metadata": [
                         {
@@ -1121,7 +1117,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114337~447992/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.22",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.22",
                     "description": "",
                     "metadata": [
                         {
@@ -1167,7 +1163,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114338~447991/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.23",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.23",
                     "description": "",
                     "metadata": [
                         {
@@ -1213,7 +1209,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114339~447990/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.24",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.24",
                     "description": "",
                     "metadata": [
                         {
@@ -1259,7 +1255,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114340~447989/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.25",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.25",
                     "description": "",
                     "metadata": [
                         {
@@ -1305,7 +1301,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114341~447988/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.26",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.26",
                     "description": "",
                     "metadata": [
                         {
@@ -1351,7 +1347,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114342~447987/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.27",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.27",
                     "description": "",
                     "metadata": [
                         {
@@ -1397,7 +1393,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114343~447986/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.28",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.28",
                     "description": "",
                     "metadata": [
                         {
@@ -1443,7 +1439,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114344~447985/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.29",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.29",
                     "description": "",
                     "metadata": [
                         {
@@ -1489,7 +1485,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114345~447984/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.30",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.30",
                     "description": "",
                     "metadata": [
                         {
@@ -1535,7 +1531,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114346~447983/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.31",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.31",
                     "description": "",
                     "metadata": [
                         {
@@ -1581,7 +1577,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114347~447982/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.32",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.32",
                     "description": "",
                     "metadata": [
                         {
@@ -1627,7 +1623,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114348~447981/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.33",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.33",
                     "description": "",
                     "metadata": [
                         {
@@ -1673,7 +1669,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114349~447980/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.34",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.34",
                     "description": "",
                     "metadata": [
                         {
@@ -1719,7 +1715,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114350~447979/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.35",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.35",
                     "description": "",
                     "metadata": [
                         {
@@ -1765,7 +1761,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114351~447978/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.36",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.36",
                     "description": "",
                     "metadata": [
                         {
@@ -1811,7 +1807,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114352~447977/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.37",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.37",
                     "description": "",
                     "metadata": [
                         {
@@ -1857,7 +1853,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114353~447976/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.38",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.38",
                     "description": "",
                     "metadata": [
                         {
@@ -1903,7 +1899,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114354~447975/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.39",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.39",
                     "description": "",
                     "metadata": [
                         {
@@ -1949,7 +1945,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114355~447974/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.40",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.40",
                     "description": "",
                     "metadata": [
                         {
@@ -1995,7 +1991,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114356~447973/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.41",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.41",
                     "description": "",
                     "metadata": [
                         {
@@ -2041,7 +2037,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114357~447972/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.42",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.42",
                     "description": "",
                     "metadata": [
                         {
@@ -2087,7 +2083,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114358~447971/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.43",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.43",
                     "description": "",
                     "metadata": [
                         {
@@ -2133,7 +2129,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114359~447970/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.44",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.44",
                     "description": "",
                     "metadata": [
                         {
@@ -2179,7 +2175,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114360~447969/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.45",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.45",
                     "description": "",
                     "metadata": [
                         {
@@ -2225,7 +2221,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114361~447968/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.46",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.46",
                     "description": "",
                     "metadata": [
                         {
@@ -2271,7 +2267,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114362~447967/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.47",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.47",
                     "description": "",
                     "metadata": [
                         {
@@ -2317,7 +2313,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114363~447966/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.48",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.48",
                     "description": "",
                     "metadata": [
                         {
@@ -2363,7 +2359,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114364~447965/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.49",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.49",
                     "description": "",
                     "metadata": [
                         {
@@ -2409,7 +2405,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114365~447964/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.50",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.50",
                     "description": "",
                     "metadata": [
                         {
@@ -2455,7 +2451,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114366~447963/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.51",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.51",
                     "description": "",
                     "metadata": [
                         {
@@ -2501,7 +2497,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114367~447962/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.52",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.52",
                     "description": "",
                     "metadata": [
                         {
@@ -2547,7 +2543,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114368~447961/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.53",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.53",
                     "description": "",
                     "metadata": [
                         {
@@ -2593,7 +2589,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114369~447960/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.54",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.54",
                     "description": "",
                     "metadata": [
                         {
@@ -2639,7 +2635,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114370~447959/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.55",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.55",
                     "description": "",
                     "metadata": [
                         {
@@ -2685,7 +2681,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114371~447958/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.56",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.56",
                     "description": "",
                     "metadata": [
                         {
@@ -2731,7 +2727,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114372~447957/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.57",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.57",
                     "description": "",
                     "metadata": [
                         {
@@ -2777,7 +2773,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114373~447956/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.58",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.58",
                     "description": "",
                     "metadata": [
                         {
@@ -2823,7 +2819,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114374~447955/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.59",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.59",
                     "description": "",
                     "metadata": [
                         {
@@ -2869,7 +2865,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114375~447954/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.60",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.60",
                     "description": "",
                     "metadata": [
                         {
@@ -2915,7 +2911,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114376~447953/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.61",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.61",
                     "description": "",
                     "metadata": [
                         {
@@ -2961,7 +2957,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114377~447952/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.62",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.62",
                     "description": "",
                     "metadata": [
                         {
@@ -3007,7 +3003,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114378~447951/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.63",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.63",
                     "description": "",
                     "metadata": [
                         {
@@ -3053,7 +3049,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114379~447950/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.64",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.64",
                     "description": "",
                     "metadata": [
                         {
@@ -3099,7 +3095,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114380~447949/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.65",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.65",
                     "description": "",
                     "metadata": [
                         {
@@ -3145,7 +3141,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114381~447948/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.66",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.66",
                     "description": "",
                     "metadata": [
                         {
@@ -3191,7 +3187,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114382~447947/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.67",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.67",
                     "description": "",
                     "metadata": [
                         {
@@ -3237,7 +3233,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114383~447946/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.68",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.68",
                     "description": "",
                     "metadata": [
                         {
@@ -3283,7 +3279,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114384~447945/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.69",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.69",
                     "description": "",
                     "metadata": [
                         {
@@ -3329,7 +3325,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114385~447944/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.70",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.70",
                     "description": "",
                     "metadata": [
                         {
@@ -3375,7 +3371,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114386~447943/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.71",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.71",
                     "description": "",
                     "metadata": [
                         {
@@ -3421,7 +3417,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114387~447942/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.72",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.72",
                     "description": "",
                     "metadata": [
                         {
@@ -3467,7 +3463,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114388~447941/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.73",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.73",
                     "description": "",
                     "metadata": [
                         {
@@ -3513,7 +3509,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114389~447940/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.74",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.74",
                     "description": "",
                     "metadata": [
                         {
@@ -3559,7 +3555,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114390~447939/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.75",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.75",
                     "description": "",
                     "metadata": [
                         {
@@ -3605,7 +3601,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114391~447938/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.76",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.76",
                     "description": "",
                     "metadata": [
                         {
@@ -3651,7 +3647,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114392~447937/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.77",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.77",
                     "description": "",
                     "metadata": [
                         {
@@ -3697,7 +3693,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114393~447936/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.78",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.78",
                     "description": "",
                     "metadata": [
                         {
@@ -3743,7 +3739,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114394~447935/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.79",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.79",
                     "description": "",
                     "metadata": [
                         {
@@ -3789,7 +3785,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114395~447934/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.80",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.80",
                     "description": "",
                     "metadata": [
                         {
@@ -3835,7 +3831,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114396~447933/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.81",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.81",
                     "description": "",
                     "metadata": [
                         {
@@ -3881,7 +3877,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114397~447932/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.82",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.82",
                     "description": "",
                     "metadata": [
                         {
@@ -3927,7 +3923,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114398~447931/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.83",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.83",
                     "description": "",
                     "metadata": [
                         {
@@ -3973,7 +3969,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114399~447930/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.84",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.84",
                     "description": "",
                     "metadata": [
                         {
@@ -4019,7 +4015,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114400~447929/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.85",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.85",
                     "description": "",
                     "metadata": [
                         {
@@ -4065,7 +4061,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114401~447928/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.86",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.86",
                     "description": "",
                     "metadata": [
                         {
@@ -4111,7 +4107,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114402~447927/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.87",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.87",
                     "description": "",
                     "metadata": [
                         {
@@ -4157,7 +4153,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114403~447926/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.88",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.88",
                     "description": "",
                     "metadata": [
                         {
@@ -4203,7 +4199,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114404~447925/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.89",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.89",
                     "description": "",
                     "metadata": [
                         {
@@ -4249,7 +4245,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114405~447924/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.90",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.90",
                     "description": "",
                     "metadata": [
                         {
@@ -4295,7 +4291,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114406~447923/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.91",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.91",
                     "description": "",
                     "metadata": [
                         {
@@ -4341,7 +4337,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114407~447922/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.92",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.92",
                     "description": "",
                     "metadata": [
                         {
@@ -4387,7 +4383,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114408~447921/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.93",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.93",
                     "description": "",
                     "metadata": [
                         {
@@ -4433,7 +4429,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114409~447920/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.94",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.94",
                     "description": "",
                     "metadata": [
                         {
@@ -4479,7 +4475,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114410~447919/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.95",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.95",
                     "description": "",
                     "metadata": [
                         {
@@ -4525,7 +4521,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114411~447918/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.96",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.96",
                     "description": "",
                     "metadata": [
                         {
@@ -4571,7 +4567,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114412~447917/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.97",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.97",
                     "description": "",
                     "metadata": [
                         {
@@ -4617,7 +4613,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114413~447916/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.98",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.98",
                     "description": "",
                     "metadata": [
                         {
@@ -4663,7 +4659,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114414~447915/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.99",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.99",
                     "description": "",
                     "metadata": [
                         {
@@ -4709,7 +4705,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114415~447914/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.100",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.100",
                     "description": "",
                     "metadata": [
                         {
@@ -4755,7 +4751,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114416~447913/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.101",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.101",
                     "description": "",
                     "metadata": [
                         {
@@ -4801,7 +4797,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114417~447912/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.102",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.102",
                     "description": "",
                     "metadata": [
                         {
@@ -4847,7 +4843,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114418~447911/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.103",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.103",
                     "description": "",
                     "metadata": [
                         {
@@ -4893,7 +4889,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114419~447910/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.104",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.104",
                     "description": "",
                     "metadata": [
                         {
@@ -4939,7 +4935,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114420~447909/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.105",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.105",
                     "description": "",
                     "metadata": [
                         {
@@ -4985,7 +4981,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114421~447908/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.106",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.106",
                     "description": "",
                     "metadata": [
                         {
@@ -5031,7 +5027,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114422~447907/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.107",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.107",
                     "description": "",
                     "metadata": [
                         {
@@ -5077,7 +5073,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114423~447906/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.108",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.108",
                     "description": "",
                     "metadata": [
                         {
@@ -5123,7 +5119,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114424~447905/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.109",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.109",
                     "description": "",
                     "metadata": [
                         {
@@ -5169,7 +5165,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114425~447904/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.110",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.110",
                     "description": "",
                     "metadata": [
                         {
@@ -5215,7 +5211,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114426~447903/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.111",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.111",
                     "description": "",
                     "metadata": [
                         {
@@ -5261,7 +5257,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114427~447902/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.112",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.112",
                     "description": "",
                     "metadata": [
                         {
@@ -5307,7 +5303,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114428~447901/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.113",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.113",
                     "description": "",
                     "metadata": [
                         {
@@ -5353,7 +5349,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114429~447900/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.114",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.114",
                     "description": "",
                     "metadata": [
                         {
@@ -5399,7 +5395,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114430~447899/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.115",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.115",
                     "description": "",
                     "metadata": [
                         {
@@ -5445,7 +5441,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114431~447898/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.116",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.116",
                     "description": "",
                     "metadata": [
                         {
@@ -5491,7 +5487,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114432~447897/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.117",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.117",
                     "description": "",
                     "metadata": [
                         {
@@ -5537,7 +5533,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114433~447896/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.118",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.118",
                     "description": "",
                     "metadata": [
                         {
@@ -5583,7 +5579,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114434~447895/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.119",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.119",
                     "description": "",
                     "metadata": [
                         {
@@ -5629,7 +5625,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114435~447894/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.120",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.120",
                     "description": "",
                     "metadata": [
                         {
@@ -5675,7 +5671,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114436~447893/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "p.121",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page p.121",
                     "description": "",
                     "metadata": [
                         {
@@ -5721,7 +5717,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114437~447892/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Cover",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page uncounted",
                     "description": "",
                     "metadata": [
                         {
@@ -5767,7 +5763,7 @@
                 {
                     "@id": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEsha~5~5~114438~447891/canvas/c1",
                     "@type": "sc:Canvas",
-                    "label": "Cover",
+                    "label": "Notebook No.124, Lyell, Sir Charles - page uncounted",
                     "description": "",
                     "metadata": [
                         {

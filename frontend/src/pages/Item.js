@@ -38,16 +38,20 @@ function IiifItem({objFull}) {
 }
 
 function PlainItem({objFull}) {
+    let link;
+    if (objFull["component_id"]==="Coll-203/A1/178") { link = "https://openbooks.is.ed.ac.uk//record/122506"}
+    if (objFull["component_id"]==="Coll-203/A1/177") { link = "https://openbooks.is.ed.ac.uk//record/122505"}
+    if (objFull["component_id"]==="Coll-203/A1/103") { link = "https://openbooks.is.ed.ac.uk//record/122504"}
     const {id} = useParams();
     return (
         <div className="py-3 row">
             <NavigationButtons id={id} title={objFull["title"]}/>
-            <Sidebar objFull={objFull}/>
+            <Sidebar objFull={objFull} link={link}/>
         </div>
     )
 }
 
-function Sidebar({objFull}) {
+function Sidebar({objFull, link}) {
     const location = useLocation();
     const [showIndex, setShowIndex] = useState(false);
     const [contentWarning, setContentWarning] = useState(false)
@@ -60,7 +64,6 @@ function Sidebar({objFull}) {
     const handleInfoClick = () => {
         setShowIndex(false);
     };
-    console.log(objFull)
 
     const infoStyle = {
         overflow: "scroll",
@@ -81,6 +84,9 @@ function Sidebar({objFull}) {
     const description = b
         .replace(/<lb><\/lb>/g, "<br/>")
         .split('<br/>')
+    if(link) {
+        description[0] = <>This notebook is absent from Lyell's original run of 266 Scientific notebooks. Through the work of Leonard G. Wilson, microfilm copies have been identified and have been used to create this catalogue entry. Digital images of the microfilm copies are available here: <a href={link} target="_blank">{link}</a> </>
+    }
 
     const url = "https://archives.collections.ed.ac.uk" + objFull["uri"]
     let intro = false
@@ -153,6 +159,7 @@ function Sidebar({objFull}) {
                     {description.map((line, index) => (
                         <p key={index}>{line}</p>
                     ))}
+
                     <br/>
                     <h5>Catalogue Entry</h5>
                     <p><a href={url} target="_blank">{url}</a></p>
