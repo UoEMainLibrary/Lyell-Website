@@ -1364,7 +1364,8 @@
             "Coll-203/A1/111",
             "Coll-203/A1/93",
             "Coll-203/A1/115",
-            "Coll-203/A1/126"
+            "Coll-203/A1/126",
+            "Coll-203/A4/1"
         ]
     },
     {
@@ -1557,7 +1558,8 @@
         "id": "/subjects/2652",
         "published": true,
         "entries": [
-            "Coll-203/A1/244"
+            "Coll-203/A1/244",
+            "Coll-203/A4/1"
         ]
     },
     {
@@ -1916,6 +1918,38 @@
         "published": true,
         "entries": [
             "Coll-203/A1/139"
+        ]
+    },
+    {
+        "title": "Craters, Volcanic",
+        "id": "/subjects/2519",
+        "published": true,
+        "entries": [
+            "Coll-203/A4/2"
+        ]
+    },
+    {
+        "title": "Volcanological Research",
+        "id": "/subjects/2527",
+        "published": true,
+        "entries": [
+            "Coll-203/A4/2"
+        ]
+    },
+    {
+        "title": "Upheaval",
+        "id": "/subjects/2466",
+        "published": true,
+        "entries": [
+            "Coll-203/A4/2"
+        ]
+    },
+    {
+        "title": "Geology, Publications",
+        "id": "/subjects/2620",
+        "published": true,
+        "entries": [
+            "Coll-203/A4/1"
         ]
     }
 ]

@@ -176,7 +176,7 @@ def remove_sets(sets, obj):
 
 
 def series_count(obj):
-    count = {"A1": 0, "A2": 0, "A5": 0}
+    count = {"A1": 0, "A2": 0, "A3": 0, "A4": 0, "A5": 0}
     for item in obj:
         cid = ""
         if isinstance(item, dict):
