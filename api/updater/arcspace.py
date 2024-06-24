@@ -1,5 +1,6 @@
 import json, logging
 import os
+import re
 
 # import asnake
 from asnake.client import ASnakeClient
@@ -60,6 +61,7 @@ def simplify_data(notebook_object):
                     "type": "scopecontent",
                     "content": "-"
                 }]
+            better_object["notes"] = withDesc(better_object)
         if key == "dates":
             if notebook_object[key]:
                 dates = notebook_object[key][0]
@@ -278,3 +280,47 @@ def separate_warning_new(notes):
             notes.remove(note)
             break
     return notes
+
+
+def withDesc(notebook):
+    notes = notebook["notes"]
+    newNotes = []
+    regex = re.compile(
+        r'(The following table of content|Transcription note|Transcripton note|This index is not in Lyell|There is no actual index|There is no index)')
+    i = 0
+    for note in notes:
+        found = False
+        label = note.get("label")
+        if label:
+            label = label.lower()
+        if note["type"] == "processinfo" or note["type"] == "accessrestrict":
+            continue
+        if note["type"] == "phystech" or note["type"] == "bioghist" or note["type"] == "relatedmaterial":
+            found = True
+        if note["type"] == "scopecontent":
+            if note["content"].count("p.") > 7:
+                found = True
+                note["desc"] = "index"
+            elif label == "content warning":
+                found = True
+                note["desc"] = "cw"
+            elif "[]" in note["content"] or "[ ]" in note["content"] or "square brackets" in note["content"]:
+                found = True
+                note["desc"] = "tguide"
+            elif regex.search(note["content"]) or label == "transcription note":
+                found = True
+                note["desc"] = "ixinfo"
+            elif i == 0:
+                found = True
+                note["desc"] = "dis"
+            elif notebook["component_id"] == "Coll-203/A2/5":
+                found = True
+                note["desc"] = "index"
+            elif label == "lyell's own index":
+                found = True
+                note["desc"] = "ixinfo"
+            i += 1
+        if not found:
+            print(notebook["component_id"], label, i, note["content"])
+        newNotes.append(note)
+    return newNotes

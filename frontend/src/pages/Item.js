@@ -60,6 +60,7 @@ function Sidebar({objFull}) {
     const handleInfoClick = () => {
         setShowIndex(false);
     };
+    console.log(objFull)
 
     const infoStyle = {
         overflow: "scroll",
@@ -69,7 +70,15 @@ function Sidebar({objFull}) {
         border: "2px solid black",
 
     }
-    const description = objFull["notes"][0]["content"]
+    let b = ""
+    objFull["notes"].forEach((i) => {
+        if (i["type"] === "scopecontent") {
+            if (i["desc"] === "dis") {
+                b = i["content"]
+            }
+        }
+    });
+    const description = b
         .replace(/<lb><\/lb>/g, "<br/>")
         .split('<br/>')
 
@@ -252,7 +261,7 @@ export default function Item() {
                 let notes = data["notes"]
                 data["index"] = false
                 for (let i = 0; i < notes.length; i++) {
-                    if (notes[i]["content"].includes("p.")) {
+                    if (notes[i]["desc"] === "index") {
                         const formattedIndex = notes[i]["content"]
                             .replace(/<lb\/>/g, "<br/>")
                             .replace(/<lb><\/lb>/g, "<br/>")

@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+import traceback
 from datetime import datetime, date
 from .arcspace import call_archive, simplify_data, TagsAgain
 from .iiif import make_manifest_v2, get_luna_iiif
@@ -20,8 +21,9 @@ def process_notebook(notebook):
     """
     arcImproved = simplify_data(notebook)
     arcID = arcImproved["uri"].rsplit('/', 1)[-1]
-    notebookNo = arcImproved["component_id"].rsplit('/', 1)[-1]
     lunaResponse = get_item(arcID, arcImproved["component_id"])
+    compID = arcImproved["component_id"].rsplit('/')
+    code = "-".join(compID[-2:])
     arcImproved = expand_tags(arcImproved)
 
     if lunaResponse['pages']:
@@ -31,11 +33,11 @@ def process_notebook(notebook):
         meta, pages = get_luna_iiif(lunaResponse["pages"])
         pages.sort(key=lambda x: x["metadata"][0]["value"])
         manifest = make_manifest_v2(arcImproved, meta, pages)
-        logger.info("making manifest file " + notebookNo)
-        with open(manifestPath + '/manifest_A1-' + notebookNo + '.json', 'w') as outFile:
+        logger.info("making manifest file " + code)
+        with open(manifestPath + '/manifest_' + code + '.json', 'w') as outFile:
             json.dump(manifest, outFile, indent=4)
         arcImproved["thumbnail"] = get_thumbnail(manifest)
-        arcImproved["iiifmanifest"] = 'data/manifest_A1-' + notebookNo + '.json'
+        arcImproved["iiifmanifest"] = 'data/manifest_' + code + '.json'
     else:
         arcImproved["iiifmanifest"] = False
 
@@ -54,12 +56,13 @@ def process_notebook_noiiif(notebook):
     arcImproved = simplify_data(notebook)
     arcID = arcImproved["uri"].rsplit('/', 1)[-1]
     lunaResponse = get_item(arcID, arcImproved["component_id"])
-    notebookNo = arcImproved["component_id"].rsplit('/', 1)[-1]
+    compID = arcImproved["component_id"].rsplit('/')
+    notebookSM = "-".join(compID[-2:])
     logger.info(str(arcImproved["component_id"]))
     arcImproved = expand_tags(arcImproved)
     if lunaResponse['pages']:
-        arcImproved["iiifmanifest"] = 'data/manifest A1-' + notebookNo + '.json'
-        with open('../data/manifests/manifest_A1-' + notebookNo + '.json', 'r') as file:
+        arcImproved["iiifmanifest"] = 'data/manifest_' + notebookSM + '.json'
+        with open('../data/manifests/manifest_' + notebookSM + '.json', 'r') as file:
             manifest = json.load(file)
         arcImproved["thumbnail"] = get_thumbnail(manifest)
     else:
@@ -81,13 +84,15 @@ def search(params, page=1):
     logging.info("getting ArchivesSpace results for lyell")
     result = get_entire_search(params, page)
     notebooks = []
-    print(result['total_hits'])
     if result['total_hits'] != 0:
         i = 1
         for response in result['results']:
             i = i + 1
             if response.get("component_id"):
-                if "Coll-203/A1/" in response.get("component_id"):
+                if "Coll-203/A1/" in response.get("component_id") or "Coll-203/A2/" in response.get(
+                        "component_id") or "Coll-203/A5/" in response.get(
+                        "component_id") or "Coll-203/A3/" in response.get(
+                        "component_id") or "Coll-203/A4/" in response.get("component_id"):
                     notebooks.append(json.loads(response["json"]))
     notebookResult = {
         "title": "notebooks",
@@ -95,7 +100,7 @@ def search(params, page=1):
         "total_hits": len(notebooks),
         "results": notebooks
     }
-
+    logger.info("Got arc data")
     return notebookResult
 
 
@@ -207,6 +212,7 @@ class Updater:
                             logger.info("updated notebook " + oldN["component_id"])
                         except Exception as e:
                             logger.error(f"Failed to update notebook {newN['component_id']}, keeping old data. {e}")
+                            logger.error(traceback.print_exc())
                             self.updatedNotebooks["results"].append(oldN)
                     break
             if not found:
@@ -215,3 +221,4 @@ class Updater:
                     self.updatedNotebooks["results"].append(process_notebook(newN))
                 except Exception as e:
                     logger.error(f"Failed to add new notebook {newN['component_id']}. {e}")
+                    logger.error(traceback.print_exc())

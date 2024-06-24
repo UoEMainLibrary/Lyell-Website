@@ -1,10 +1,50 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
-import {NavLink} from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import next from '../images/next.png';
-import logoSml from '../images/logo-stacked.svg'
+import logoSml from '../images/logo-stacked.svg';
 
 const Navbar = () => {
+    useEffect(() => {
+        const handleHover = () => {
+            const dropdowns = document.querySelectorAll('.dropdown');
+            dropdowns.forEach(dropdown => {
+                dropdown.addEventListener('mouseover', () => {
+                    dropdown.classList.add('show');
+                    dropdown.querySelector('.dropdown-menu').classList.add('show');
+                });
+                dropdown.addEventListener('mouseout', () => {
+                    dropdown.classList.remove('show');
+                    dropdown.querySelector('.dropdown-menu').classList.remove('show');
+                });
+            });
+
+            const dropdownToggles = document.querySelectorAll('.dropdown-toggle');
+            dropdownToggles.forEach(toggle => {
+                toggle.addEventListener('click', (event) => {
+                    event.preventDefault();
+                    window.location = toggle.href;
+                });
+            });
+        };
+
+        handleHover();
+
+        return () => {
+            const dropdowns = document.querySelectorAll('.dropdown');
+            dropdowns.forEach(dropdown => {
+                dropdown.removeEventListener('mouseover', handleHover);
+                dropdown.removeEventListener('mouseout', handleHover);
+            });
+
+            const dropdownToggles = document.querySelectorAll('.dropdown-toggle');
+            dropdownToggles.forEach(toggle => {
+                toggle.removeEventListener('click', handleHover);
+            });
+        };
+    }, []);
+
     const dropdownStyle = {
         color: 'white',
     };
@@ -20,7 +60,6 @@ const Navbar = () => {
                     />
                 </NavLink>
 
-                {/* Toggle button for small screens */}
                 <button
                     className="navbar-toggler"
                     type="button"
@@ -35,11 +74,6 @@ const Navbar = () => {
 
                 <div className="collapse navbar-collapse justify-content-center" id="navbarNav">
                     <ul className="navbar-nav ml-auto">
-                        {/*<li className="nav-item">*/}
-                        {/*    <NavLink className="nav-link text-light" to="/">*/}
-                        {/*        Home*/}
-                        {/*    </NavLink>*/}
-                        {/*</li>*/}
                         <li className="nav-item">
                             <NavLink className="nav-link text-light" to="/about">
                                 About
@@ -53,7 +87,7 @@ const Navbar = () => {
                         <li className="nav-item dropdown">
                             <NavLink
                                 className="nav-link dropdown-toggle text-light"
-                                to="/collection"
+                                to="/collections"
                                 id="navbarDropdown"
                                 role="button"
                                 data-bs-toggle="dropdown"
@@ -72,42 +106,27 @@ const Navbar = () => {
                                     </NavLink>
                                 </li>
                                 <li>
-                                    <NavLink
-                                        className="dropdown-item"
-                                        to="/collections/about/overview"
-                                    >
+                                    <NavLink className="dropdown-item" to="/collections/about/overview">
                                         Overview
                                     </NavLink>
                                 </li>
                                 <li>
-                                    <NavLink
-                                        className="dropdown-item"
-                                        to="/collections/about/notebooks"
-                                    >
+                                    <NavLink className="dropdown-item" to="/collections/about/notebooks">
                                         Notebooks
                                     </NavLink>
                                 </li>
                                 <li>
-                                    <NavLink
-                                        className="dropdown-item"
-                                        to="/collections/about/specimens"
-                                    >
+                                    <NavLink className="dropdown-item" to="/collections/about/specimens">
                                         Specimens
                                     </NavLink>
                                 </li>
                                 <li>
-                                    <NavLink
-                                        className="dropdown-item"
-                                        to="/collections/about/offprints"
-                                    >
+                                    <NavLink className="dropdown-item" to="/collections/about/offprints">
                                         Offprints
                                     </NavLink>
                                 </li>
                                 <li>
-                                    <NavLink
-                                        className="dropdown-item"
-                                        to="/collections/about/papers"
-                                    >
+                                    <NavLink className="dropdown-item" to="/collections/about/papers">
                                         Papers
                                     </NavLink>
                                 </li>
@@ -126,12 +145,12 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="d-flex align-items-center text-center">
-                    <NavLink className="navbar-text" style={{textDecoration: "none"}} to="/">
+                    <NavLink className="navbar-text" style={{ textDecoration: "none" }} to="/">
                         Charles Lyell
                     </NavLink>
                     <NavLink to="/">
                         <img
-                            style={{height: '50px'}}
+                            style={{ height: '50px' }}
                             src={next}
                             alt="Logo"
                             className="logo mx-3"

@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import {useSearch} from '../api/Search';
-import {Link, useSearchParams} from "react-router-dom";
+import {Link, useLocation, useSearchParams} from "react-router-dom";
 import TagList from '../components/DropdownOptions'
 import lyell_2 from "../images/N13p24.jpg";
 import Top from "../components/Header";
@@ -17,7 +17,7 @@ function SingleResult({obj}) {
                     <Link to={obj.link} style={{textDecoration: 'none'}}><h3
                         className="font-weight-light custom-heading">{obj.title}</h3></Link>
                 </div>
-                <p className="my-1"><strong> {obj.date}</strong></p>
+                <p className="my-1"><strong> date: {obj.date}</strong></p>
                 <p className="my-1"><strong> shelfmark: </strong> {obj.shelfmark}</p>
                 <p>{description[0]}</p>
             </div>
@@ -42,6 +42,14 @@ function Results({result}) {
                 if (Array.isArray(t)) {
                     t = t[0]
                 }
+                let b = ""
+                t["notes"].forEach((i) => {
+                    if (i["type"] === "scopecontent") {
+                        if (i["desc"] === "dis") {
+                            b = i["content"]
+                        }
+                    }
+                });
                 const id = t["component_id"].split("/")
                 return (
                     <SingleResult
@@ -51,7 +59,7 @@ function Results({result}) {
                             title: t["title"],
                             shelfmark: t["component_id"],
                             date: t["dates"]["expression"],
-                            body: t["notes"][0]["content"],
+                            body: b,
                             image: t["thumbnail"],
                             link: "/collections/object/"+ id[1] +"-" + id[2]
                         }}
@@ -117,8 +125,6 @@ function DateSearch({searchParams, setSearchParams}) {
     const handleApply = (event) => {
         const isAfterNumber = !Number.isNaN(afterYear) || afterYear === '';
         const isBeforeNumber = !Number.isNaN(beforeYear) || beforeYear === '';
-        console.log(afterYear, isAfterNumber)
-        console.log(beforeYear, isBeforeNumber)
         if (isAfterNumber && isBeforeNumber) {
             setErrorMsg("vaild");
 
@@ -151,7 +157,7 @@ function DateSearch({searchParams, setSearchParams}) {
 
     return (
         <div className="row pb-2">
-            <div className="col">
+            <div className="col  pe-1">
                 <div className="form-group">
                     <label htmlFor="afterYear">After</label>
                     <input
@@ -164,7 +170,7 @@ function DateSearch({searchParams, setSearchParams}) {
                     />
                 </div>
             </div>
-            <div className="col">
+            <div className="col px-1">
                 <div className="form-group">
                     <label htmlFor="beforeYear">Before</label>
                     <input
@@ -177,7 +183,7 @@ function DateSearch({searchParams, setSearchParams}) {
                     />
                 </div>
             </div>
-            <div className="col-3" style={{position: "relative", bottom: "0"}}><br></br>
+            <div className="col-3 px-1" style={{position: "relative", bottom: "0"}}><br></br>
                 <button className="btn btn-blue" onClick={handleApply}>apply</button>
             </div>
             <p className="mb-0">{errorMsg}</p>
@@ -185,16 +191,34 @@ function DateSearch({searchParams, setSearchParams}) {
     );
 }
 
-function SetsFilter({searchParams, setSearchParams, amounts}) {
-    const initialParams = {a1: true, a2: true, a5: true};
-    const [params, setParams] = useState(initialParams);
+function SetsFilter({ searchParams, setSearchParams, amounts }) {
+    const location = useLocation();
+
+    // Function to get initial params from URL
+    const getInitialParams = () => {
+        const params = new URLSearchParams(location.search);
+        const setsParam = params.get('sets');
+        const initialParams = { a1: true, a2: true, a3: true, a4: true, a5: true };
+
+        if (setsParam) {
+            const setsArray = setsParam.split(' ');
+            setsArray.forEach((set) => {
+                if (initialParams.hasOwnProperty(set)) {
+                    initialParams[set] = false;
+                }
+            });
+        }
+
+        return initialParams;
+    };
+
+    const [params, setParams] = useState(getInitialParams);
 
     const handleCheckboxChange = (event) => {
-        const {name, checked} = event.target;
-
-        setParams(prevParams => ({
+        const { name, checked } = event.target;
+        setParams((prevParams) => ({
             ...prevParams,
-            [name]: checked
+            [name]: checked,
         }));
     };
 
@@ -224,7 +248,9 @@ function SetsFilter({searchParams, setSearchParams, amounts}) {
                     checked={params.a1}
                     onChange={handleCheckboxChange}
                 />
-                <label htmlFor="a1">Scientific Notebooks, 1825-1874 <span className="text-muted small">({amounts["A1"]})</span></label>
+                <label htmlFor="a1">
+                    Scientific Notebooks, 1825-1874 <span className="text-muted small">({amounts["A1"]})</span>
+                </label>
             </div>
             <div className="pb-2">
                 <input
@@ -235,7 +261,35 @@ function SetsFilter({searchParams, setSearchParams, amounts}) {
                     checked={params.a2}
                     onChange={handleCheckboxChange}
                 />
-                <label htmlFor="a2">Daily and Travel Journals, 1818 - 1830 <span className="text-muted small">({amounts["A2"]})</span></label>
+                <label htmlFor="a2">
+                    Daily and Travel Journals, 1818 - 1830 <span className="text-muted small">({amounts["A2"]})</span>
+                </label>
+            </div>
+            <div className="pb-2">
+                <input
+                    type="checkbox"
+                    id="a3"
+                    name="a3"
+                    className="me-3"
+                    checked={params.a3}
+                    onChange={handleCheckboxChange}
+                />
+                <label htmlFor="a3">
+                    Manuscript Notebooks, 1855 - 1861 <span className="text-muted small">({amounts["A3"]})</span>
+                </label>
+            </div>
+            <div className="pb-2">
+                <input
+                    type="checkbox"
+                    id="a4"
+                    name="a4"
+                    className="me-4"
+                    checked={params.a4}
+                    onChange={handleCheckboxChange}
+                />
+                <label htmlFor="a4">
+                    Madeira and Canary Notebooks, 1856-1859 <span className="text-muted small">({amounts["A4"]})</span>
+                </label>
             </div>
             <div>
                 <input
@@ -246,13 +300,10 @@ function SetsFilter({searchParams, setSearchParams, amounts}) {
                     checked={params.a5}
                     onChange={handleCheckboxChange}
                 />
-                <label htmlFor="a5">Index Notebooks, 1855 - 1871 <span className="text-muted small">({amounts["A5"]})</span></label>
+                <label htmlFor="a5">
+                    Index Notebooks, 1855 - 1871 <span className="text-muted small">({amounts["A5"]})</span>
+                </label>
             </div>
-
-            {/*<div>*/}
-            {/*    <h4>Params State:</h4>*/}
-            {/*    <pre>{JSON.stringify(params, null, 2)}</pre>*/}
-            {/*</div>*/}
         </div>
     );
 }
@@ -302,7 +353,7 @@ function Explore() {
     // const {searchData, fetchDataFromAPI} = useSearch();
     const [searchParams, setSearchParams] = useSearchParams();
     const [filterTags, setFilterTags] = useState([]);
-    const [itemsPerPage, setItemsPerPage] = useState(25); // Initial items per page
+    const [itemsPerPage, setItemsPerPage] = useState(50); // Initial items per page
     const [currentPage, setCurrentPage] = useState(1);
     const [sortBy, setSortBy] = useState("r");
     const [searchData, setSearchData] = useState({
@@ -316,10 +367,8 @@ function Explore() {
 
         async function fetchDataFromAPI() {
             const data = await fetchData("search?" + searchParams);
-            console.log(data)
             if (data !== {}) {
                 if (data.results && data.results.length > 0) {
-                    console.log(data.results)
                     let n = data.results[0]
                     if (n.constructor === Object) {
                         data.results.sort((a, b) => {
@@ -343,7 +392,6 @@ function Explore() {
                         });
 
                     } else if (Array.isArray(n)) {
-                        console.log("not here!");
                         if (sortBy !== "r") {
                             data.results.sort((a, b) => {
                                 const idA = parseInt(a[0]["component_id"].split('/').pop());

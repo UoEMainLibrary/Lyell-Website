@@ -290,7 +290,16 @@
             "Coll-203/A1/150",
             "Coll-203/A1/127",
             "Coll-203/A1/121",
-            "Coll-203/A1/124"
+            "Coll-203/A1/124",
+            "Coll-203/A3/1",
+            "Coll-203/A3/5",
+            "Coll-203/A3/4",
+            "Coll-203/A3/3",
+            "Coll-203/A4/2",
+            "Coll-203/A3/6",
+            "Coll-203/A3/2",
+            "Coll-203/A4/1",
+            "Coll-203/A3/7"
         ]
     },
     {
@@ -348,7 +357,11 @@
             "Coll-203/A1/99",
             "Coll-203/A1/128",
             "Coll-203/A1/125",
-            "Coll-203/A1/155"
+            "Coll-203/A1/155",
+            "Coll-203/A3/1",
+            "Coll-203/A3/5",
+            "Coll-203/A3/2",
+            "Coll-203/A3/7"
         ]
     },
     {
@@ -372,7 +385,10 @@
             "Coll-203/A1/260",
             "Coll-203/A1/103",
             "Coll-203/A1/135",
-            "Coll-203/A1/137"
+            "Coll-203/A1/137",
+            "Coll-203/A3/1",
+            "Coll-203/A4/2",
+            "Coll-203/A4/1"
         ]
     },
     {
@@ -705,7 +721,8 @@
             "Coll-203/A1/249",
             "Coll-203/A1/85",
             "Coll-203/A1/114",
-            "Coll-203/A1/115"
+            "Coll-203/A1/115",
+            "Coll-203/A3/5"
         ]
     },
     {
@@ -942,7 +959,9 @@
         "entries": [
             "Coll-203/A1/258",
             "Coll-203/A1/245",
-            "Coll-203/A1/249"
+            "Coll-203/A1/249",
+            "Coll-203/A3/1",
+            "Coll-203/A3/3"
         ]
     },
     {
@@ -951,7 +970,8 @@
         "published": true,
         "entries": [
             "Coll-203/A1/258",
-            "Coll-203/A1/248"
+            "Coll-203/A1/248",
+            "Coll-203/A3/7"
         ]
     },
     {
@@ -1237,7 +1257,8 @@
             "Coll-203/A1/119",
             "Coll-203/A1/120",
             "Coll-203/A1/150",
-            "Coll-203/A1/155"
+            "Coll-203/A1/155",
+            "Coll-203/A3/1"
         ]
     },
     {
@@ -1476,7 +1497,8 @@
             "Coll-203/A1/239",
             "Coll-203/A1/244",
             "Coll-203/A1/119",
-            "Coll-203/A1/120"
+            "Coll-203/A1/120",
+            "Coll-203/A4/1"
         ]
     },
     {
@@ -1541,7 +1563,8 @@
         "published": false,
         "entries": [
             "Coll-203/A1/74",
-            "Coll-203/A1/75"
+            "Coll-203/A1/75",
+            "Coll-203/A3/7"
         ]
     },
     {
@@ -1739,7 +1762,8 @@
             "Coll-203/A1/115",
             "Coll-203/A1/119",
             "Coll-203/A1/112",
-            "Coll-203/A1/150"
+            "Coll-203/A1/150",
+            "Coll-203/A3/7"
         ]
     },
     {
@@ -2809,7 +2833,8 @@
         "id": "/agents/people/335",
         "published": 0,
         "entries": [
-            "Coll-203/A1/244"
+            "Coll-203/A1/244",
+            "Coll-203/A3/7"
         ]
     },
     {
@@ -4558,6 +4583,104 @@
         "published": true,
         "entries": [
             "Coll-203/A1/91"
+        ]
+    },
+    {
+        "title": "Wollaston, Thomas Vernon, 1822-1878 (English entomologist and malacologist)",
+        "id": "/agents/people/183",
+        "published": true,
+        "entries": [
+            "Coll-203/A3/1",
+            "Coll-203/A4/2"
+        ]
+    },
+    {
+        "title": "Dana, James Dwight, 1813-1895 (American geologist, mineralogist, and naturalist)",
+        "id": "/agents/people/8836",
+        "published": 0,
+        "entries": [
+            "Coll-203/A3/5"
+        ]
+    },
+    {
+        "title": "Gray, Asa, 1810-1888 (American botanist)",
+        "id": "/agents/people/20900",
+        "published": true,
+        "entries": [
+            "Coll-203/A3/5"
+        ]
+    },
+    {
+        "title": "Hartung, Georg, 1821 - 1891 (German geologist)",
+        "id": "/agents/people/173",
+        "published": true,
+        "entries": [
+            "Coll-203/A4/2",
+            "Coll-203/A4/1"
+        ]
+    },
+    {
+        "title": "Vidal, A. T. E (Alexander Thomas Emeric), 1792-1863 (Vice-Admiral of the Royal Navy, surveyor)",
+        "id": "/agents/people/24557",
+        "published": true,
+        "entries": [
+            "Coll-203/A4/2"
+        ]
+    },
+    {
+        "title": "Smyth, Charles Piazzi, 1819-1900 (Italian-born British astronomer )",
+        "id": "/agents/people/23996",
+        "published": true,
+        "entries": [
+            "Coll-203/A4/2"
+        ]
+    },
+    {
+        "title": "Johnson, James Yate, 1820 - 1900 (English naturalist, based in Madeira)",
+        "id": "/agents/people/24558",
+        "published": true,
+        "entries": [
+            "Coll-203/A4/2"
+        ]
+    },
+    {
+        "title": "Reiss, Wilhelm, 1838-1908 (German geologist and explorer)",
+        "id": "/agents/people/24559",
+        "published": true,
+        "entries": [
+            "Coll-203/A4/2"
+        ]
+    },
+    {
+        "title": "Heer, Oswald, 1809-1883 (Swiss botanist, palaeontologist, entomologist | Professor of Botany, University of Zurich)",
+        "id": "/agents/people/72",
+        "published": true,
+        "entries": [
+            "Coll-203/A4/1"
+        ]
+    },
+    {
+        "title": "Wood, Searles Valentine, February 14, 1798 \u2013 October 26, 1880 (English palaeontologist)",
+        "id": "/agents/people/24012",
+        "published": true,
+        "entries": [
+            "Coll-203/A4/1"
+        ]
+    },
+    {
+        "title": "Jamieson, Thomas Francis, 1829-1913 (Scottish scientist)",
+        "id": "/agents/people/20902",
+        "published": true,
+        "entries": [
+            "Coll-203/A3/7"
+        ]
+    },
+    {
+        "title": "Staring, Winand Carel Hugo, 5 October 1808 \u2013 4 June 1877 (Founder of geology in the Netherlands, soil scientist, pioneer in agronomy and forestry, advocate of educational improvement)",
+        "id": "/agents/people/23997",
+        "published": true,
+        "entries": [
+            "Coll-203/A3/7"
         ]
     }
 ]
