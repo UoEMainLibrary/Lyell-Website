@@ -86,7 +86,9 @@
             "Coll-203/A1/119",
             "Coll-203/A1/150",
             "Coll-203/A1/132",
-            "Coll-203/A1/139"
+            "Coll-203/A1/139",
+            "Coll-203/A1/148",
+            "Coll-203/A1/147"
         ]
     },
     {
@@ -529,7 +531,8 @@
             "Coll-203/A1/245",
             "Coll-203/A1/4",
             "Coll-203/A1/249",
-            "Coll-203/A1/240"
+            "Coll-203/A1/240",
+            "Coll-203/A1/145"
         ]
     },
     {
@@ -684,7 +687,8 @@
         "id": "/subjects/5192",
         "published": true,
         "entries": [
-            "Coll-203/A1/105"
+            "Coll-203/A1/105",
+            "Coll-203/A1/177"
         ]
     },
     {
@@ -1901,7 +1905,8 @@
         "published": true,
         "entries": [
             "Coll-203/A1/157",
-            "Coll-203/A1/155"
+            "Coll-203/A1/155",
+            "Coll-203/A1/145"
         ]
     },
     {
@@ -1950,6 +1955,38 @@
         "published": true,
         "entries": [
             "Coll-203/A4/1"
+        ]
+    },
+    {
+        "title": "Minerals, Collection and Preservation",
+        "id": "/subjects/3136",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/147"
+        ]
+    },
+    {
+        "title": "American (cultural identity)",
+        "id": "/subjects/7610",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/147"
+        ]
+    },
+    {
+        "title": "Irish Studies",
+        "id": "/subjects/3357",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/147"
+        ]
+    },
+    {
+        "title": "Religion and science",
+        "id": "/subjects/21175",
+        "published": true,
+        "entries": [
+            "Coll-203/A1/147"
         ]
     }
 ]
