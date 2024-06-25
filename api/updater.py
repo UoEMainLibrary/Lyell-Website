@@ -7,7 +7,6 @@ from updater.main import Updater
 
 
 def setup_logging():
-    # Create a logger
     # Create logger
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
