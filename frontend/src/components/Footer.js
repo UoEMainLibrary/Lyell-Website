@@ -34,7 +34,7 @@ export default function Footer() {
               <a href="https://archives.collections.ed.ac.uk/agents/people/86" target="__blank" className="text-light text-decoration-none">Collection in ArchivesSpace</a>
               <a href="https://www.ed.ac.uk/about/website/privacy" target="__blank" className="text-light text-decoration-none">Privacy & Cookies</a>
               <a href="https://www.ed.ac.uk/information-services/library-museum-gallery/crc/services/copying-and-digitisation/image-licensing/takedown-policy" target="__blank" className="text-light text-decoration-none">Takedown Policy</a>
-              <a href="https://www.ed.ac.uk/information-services/library-museum-gallery/cultural-heritage-collections/crc/using-the-collections/digitisation/image-licensing" target="__blank" className="text-light text-decoration-none">Licensing & Copyright</a>
+              <a href="https://library.ed.ac.uk/heritage-collections/using-the-collections/digitisation" target="__blank" className="text-light text-decoration-none">Licensing & Copyright</a>
               <NavLink className="nav-link text-light" to="/Accessibility">Accessibility</NavLink>
             </div>
           </div>

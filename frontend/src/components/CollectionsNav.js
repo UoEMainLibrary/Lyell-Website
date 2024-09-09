@@ -13,7 +13,7 @@ export default function InfoNav() {
                     <AltBox
                         page={{
                             id: 5,
-                            title: "overview",
+                            title: "Overview",
                             image: overviewImg,
                         }}
                     /></div> : null}
@@ -53,7 +53,7 @@ export default function InfoNav() {
                     <AltBox
                         page={{
                             id: 4,
-                            title: "OffPrints",
+                            title: "Offprints",
                             image: offPrintImg,
                         }}
                     />

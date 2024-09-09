@@ -104,8 +104,7 @@ function Content({image, data, nav = false, col = false, nb = false}) {
                     </div>
                 }
                 <div className="body-d col-12 col-lg-7 order-lg-0">
-                    {col && <div className="mt-4"><h2>Papers</h2>
-                        <h4 className="mt-4">Correspondence, notes, lectures and manuscripts</h4>
+                    {col && <div className="mt-4"><h2>Papers, Correspondence, notes, lectures and manuscripts</h2>
                         <p>Lyell’s papers held at the University of Edinburgh comprise two main tranches - the original
                             collection of material donated in 1927 by Lady Lyell of Kinnordy, and a second tranche
                             accepted under the UK Government's 'Acceptance in Lieu of Inheritance Tax' scheme in 2020.
