@@ -149,6 +149,11 @@ function Books() {
                                    target="_blank">Lectures on Geology, 1842-1853 | University of Edinburgh Archive and
                                 Manuscript Collections </a></li>
                         </ul>
+                        <p>Stuart A. Baldwin (1930-2021) used his expertise as an antiquarian bookseller to compile
+                            ‘Charles Lyell - a brief Bibliography’ in 2013. It provides a comprehensive guide to Lyell’s
+                            literary career, detailing the thirty three editions of his books issued up to 1911, all of
+                            the articles written by Lyell, biographies of Lyell, and articles and other content written
+                            on Lyell and his ideas.</p>
                     </div>
                     <div className="col order-lg-1 sidebar top-bar-green">
                         <div className="sidebar1-section">
