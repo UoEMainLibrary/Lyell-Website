@@ -315,11 +315,9 @@ const AccessibilityStatement = ({
                     is
                     not possible to reach all content
                 </li>
-                <ul>
-                    <li><a href="https://www.w3.org/TR/WCAG22/#name-role-value" style={styles.link}>4.1.2 - Name,
+                <li><a href="https://www.w3.org/TR/WCAG22/#name-role-value" style={styles.link}>4.1.2 - Name,
                         Role,
                         Value</a></li>
-                </ul>
             </ul>
             <p>We
                 aim to improve our websites accessibility on a regular and continuous
