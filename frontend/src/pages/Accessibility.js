@@ -59,21 +59,6 @@ const AccessibilityStatement = ({
                                         "Voice recognition software is not fully compatible with the website",
                                         "On Android devices all functionalities cannot be accessed"
                                     ],
-                                    nonComDesc = [
-                                        "1.1.1 – Non-text Content: Not all non-text items presented to users have alternative text",
-                                        "1.3.4 Orientation: The site has functionality issues in portrait mode on Android devices",
-                                        "1.4.1 - Use of Color: Some hyperlinks are conveyed with colour only",
-                                        "1.4.3 - Contrast (Minimum): Some text may not have sufficient colour contrast between font and background colours",
-                                        "1.4.5 – Images of Text: Some items are examples of text as an image and do not contain the appropriate alternative text",
-                                        "1.4.10 – Reflow: Reflow is not operational up to 400%",
-                                        "2.4.1 - Bypass Blocks: No skip to main content button is enabled on some pages of the site",
-                                        "2.4.4 - Link Purpose (in Context): Some links do not contain meaningful hypertext to inform the user of their target location",
-                                        "2.4.6 - Headings and Labels: Headings are not formatted correctly and some heading levels are missed, which affects screen reader software",
-                                        "2.4.7 Focus Visible: It is not always clear where you have tabbed to using a keyboard",
-                                        "3.2.2 - On Input: Some hyperlinks open link in new tab/window, and some pop-ups do not alert the user this will happen",
-                                        "3.2.6 Consistent Help: Help such as contact us and the chat function are not located in the same place on every page",
-                                        "4.1.2 – Name, Role, Value: The website is not fully compatible with assistive software e.g. using assistive software it is not possible to reach all content"
-                                    ],
                                     improveTargetDate = "September 2025",
                                     prepareDate = "20th September 2021",
                                     reviewDate = "4th October 2024",
@@ -81,11 +66,11 @@ const AccessibilityStatement = ({
                                 }) => {
     return (
         <div style={styles.body} className="container">
-            <h1 style={styles.h1}>Accessibility statement for <a href={URL} style={styles.link} style={styles.link}>{websiteName}</a></h1>
+            <h1 style={styles.h1}>Accessibility statement for <a href={URL} style={styles.link}>{websiteName}</a></h1>
             <p>Website accessibility statement inline with Public Sector Body (Websites and Mobile Applications) (No. 2)
                 Accessibility Regulations 2018</p>
             <p>This accessibility statement applies to:</p>
-            <p><a href={URL} style={styles.link} style={styles.link}>{URL}</a></p>
+            <p><a href={URL} style={styles.link}>{URL}</a></p>
             <p>This website is run by, Library and University Collections Directorate, Information Services Group at the
                 University of Edinburgh. We want as many people as possible to be able to use this application. For
                 example, that means you should be able to:</p>
@@ -359,7 +344,7 @@ const AccessibilityStatement = ({
                 review accessibility and retest the accessibility of this website.
             </p>
             <h2 style={styles.h2}>Preparation of this accessibility statement</h2>
-            <p><b>This statement was prepared on {prepareDate}. It was last reviewed on {reveiewDate}. The website
+            <p><b>This statement was prepared on {prepareDate}. It was last reviewed on {reviewDate}. The website
                 was last
                 tested in {testDate}.</b></p>
             <p>The
