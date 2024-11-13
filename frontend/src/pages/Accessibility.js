@@ -135,8 +135,6 @@ const AccessibilityStatement = ({
                 accessible PDF, large print, audio recording or braille please
                 contact us:
             </p>
-
-            <!-- {{You may need to change the contact details}} -->
             <ul>
                 <li>Or phoning:</li>
                 <ul>
@@ -338,10 +336,6 @@ const AccessibilityStatement = ({
                 aim to improve our websites accessibility on a regular and continuous
                 basis. See the section below ('What we're doing to improve
                 accessibility') on how we are improving our site accessibility.
-            </p>
-            <p>
-
-                <!-- {{The site may not be in full control. If it isn't, the below is likely incorrect}} -->
             </p>
             <p>We
                 are working towards solving these problems and expect significant
