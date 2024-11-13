@@ -46,8 +46,8 @@ const AccessibilityStatement = ({
   testDate = "October 2024"
 }) => {
   return (
-    <div>
-      <h1>Accessibility statement for <a href={URL}>{websiteName}</a></h1>
+    <div className="container">
+      <h1 style={{fontSize: "60px"}}>Accessibility statement for <a href={URL}>{websiteName}</a></h1>
 
       <p>Website accessibility statement in line with Public Sector Body (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018</p>
 
