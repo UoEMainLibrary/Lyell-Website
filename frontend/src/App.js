@@ -13,7 +13,6 @@ import Navigation from "./components/Navigation";
 import Footer from "./components/Footer";
 import Tootop from "./components/Tootop";
 import Acknowledgements from "./pages/Acknowledgements";
-import BetaBanner from "./components/BetaBanner";
 import Accessibility from "./pages/Accessibility"
 
 function App() {
@@ -21,7 +20,6 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Tootop/>
-        <BetaBanner/>
         <Navigation />
         <Routes>
           <Route path="/" element={<Home />} />
