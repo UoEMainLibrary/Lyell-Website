@@ -13,7 +13,7 @@ export default function Footer() {
               <img src="https://collections.ed.ac.uk/theme/stcecilia/images/UoETransparentWhite.png" alt="Logo" className="footer-logo" />
               </a>
             </p>
-            <p>Unless explicitly stated otherwise, all material is copyright © 2024 <a style={{color:'#dbe9f4'}} href="https://www.ed.ac.uk/">University of Edinburgh</a></p>
+            <p>Unless explicitly stated otherwise, all material is copyright © 2024 <a style={{color:'#C4D7EE'}} href="https://www.ed.ac.uk/">University of Edinburgh</a></p>
           </div>
           <div className="col-md-3">
             <h4></h4>
