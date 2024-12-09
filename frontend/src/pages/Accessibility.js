@@ -13,8 +13,9 @@ const styles = {
         background: 'transparent',
         marginBottom: '0.25cm',
     },
-    h1: {
+    test: {
         color: headingColor,
+        fontFamily: 'sans-serif',
         fontSize: '24pt',
         marginBottom: '0.5cm',
     },
@@ -66,7 +67,7 @@ const AccessibilityStatement = ({
                                 }) => {
     return (
         <div style={styles.body} className="container">
-            <h1 style={styles.h1}>Accessibility statement for <a href={URL} style={styles.link}>{websiteName}</a></h1>
+            <h1 style={styles.test}>Accessibility statement for <a href={URL} style={styles.link}>{websiteName}</a></h1>
             <p>Website accessibility statement inline with Public Sector Body (Websites and Mobile Applications) (No. 2)
                 Accessibility Regulations 2018</p>
             <p>This accessibility statement applies to:</p>
@@ -348,9 +349,10 @@ const AccessibilityStatement = ({
                 review accessibility and retest the accessibility of this website.
             </p>
             <h2 style={styles.h2}>Preparation of this accessibility statement</h2>
-            <p><b>This statement was prepared on {prepareDate}. It was last reviewed on {reviewDate}. The website
+            <p><b><strong>This statement was prepared on {prepareDate}. It was last reviewed on {reviewDate}. The
+                website
                 was last
-                tested in {testDate}.</b></p>
+                tested in {testDate}.</strong></b></p>
             <p>The
                 testing was carried out by the Library
                 and University Collections Directorate which is part of Information
