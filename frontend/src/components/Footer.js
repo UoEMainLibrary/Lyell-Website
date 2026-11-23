@@ -20,22 +20,22 @@ export default function Footer() {
 
 
             <div className="d-flex flex-column pb-3 pb-md-0">
-              <NavLink className="nav-link text-light" to="/">Home</NavLink>
-              <NavLink className="nav-link text-light" to="/about">About</NavLink>
-              <NavLink className="nav-link text-light" to="/publications">Publications</NavLink>
-              <NavLink className="nav-link text-light" to="/collections">Collection</NavLink>
-              <NavLink className="nav-link text-light" to="/elsewhere">Lyell elsewhere</NavLink>
-              <NavLink className="nav-link text-light" to="/acknowledgements">Acknowledgements</NavLink>
+              <NavLink className="nav-link text-light" to="/" style={{textDecoration: "underline", color:'#5E8FC1'}}>Home</NavLink>
+              <NavLink className="nav-link text-light" to="/about" style={{textDecoration: "underline", color:'#5E8FC1'}}>About</NavLink>
+              <NavLink className="nav-link text-light" to="/publications" style={{textDecoration: "underline", color:'#5E8FC1'}}>Publications</NavLink>
+              <NavLink className="nav-link text-light" to="/collections" style={{textDecoration: "underline", color:'#5E8FC1'}}>Collection</NavLink>
+              <NavLink className="nav-link text-light" to="/elsewhere" style={{textDecoration: "underline", color:'#5E8FC1'}}>Lyell elsewhere</NavLink>
+              <NavLink className="nav-link text-light" to="/acknowledgements" style={{textDecoration: "underline", color:'#5E8FC1'}}>Acknowledgements</NavLink>
             </div>
           </div>
           <div className="col-md-3">
             <h4>Resources</h4>
             <div className="d-flex flex-column">
-              <a href="https://archives.collections.ed.ac.uk/agents/people/86" target="__blank" className="text-light text-decoration-none">Collection in ArchivesSpace</a>
-              <a href="https://www.ed.ac.uk/about/website/privacy" target="__blank" className="text-light text-decoration-none">Privacy & Cookies</a>
-              <a href="https://www.ed.ac.uk/information-services/library-museum-gallery/crc/services/copying-and-digitisation/image-licensing/takedown-policy" target="__blank" className="text-light text-decoration-none">Takedown Policy</a>
-              <a href="https://library.ed.ac.uk/heritage-collections/using-the-collections/digitisation" target="__blank" className="text-light text-decoration-none">Licensing & Copyright</a>
-              <NavLink className="nav-link text-light" to="/Accessibility">Accessibility</NavLink>
+              <a href="https://archives.collections.ed.ac.uk/agents/people/86" target="__blank" className="text-light text-decoration-none" style={{textDecoration: "underline", color:'#5E8FC1'}}>Collection in ArchivesSpace</a>
+              <a href="https://www.ed.ac.uk/about/website/privacy" target="__blank" className="text-light text-decoration-none" style={{textDecoration: "underline", color:'#5E8FC1'}}>Privacy & Cookies</a>
+              <a href="https://www.ed.ac.uk/information-services/library-museum-gallery/crc/services/copying-and-digitisation/image-licensing/takedown-policy" target="__blank" className="text-light text-decoration-none" style={{textDecoration: "underline", color:'#5E8FC1'}}>Takedown Policy</a>
+              <a href="https://library.ed.ac.uk/heritage-collections/using-the-collections/digitisation" target="__blank" className="text-light text-decoration-none" style={{textDecoration: "underline", color:'#5E8FC1'}}>Licensing & Copyright</a>
+              <NavLink className="nav-link text-light" to="/Accessibility" style={{textDecoration: "underline", color:'#5E8FC1'}}>Accessibility</NavLink>
             </div>
           </div>
         </div>

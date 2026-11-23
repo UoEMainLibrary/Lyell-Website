@@ -21,8 +21,8 @@ export default function About() {
                     support and efforts of many individuals and institutions. The University of Edinburgh acknowledges
                     and thanks these generous and vital contributions.</p>
                 <div className="d-flex mb-4">
-                    <img className="me-3" src={NHMFlogo} alt="Image 1" style={{height: "150px"}}/>
-                    <img src={IASlogo} alt="Image 2" style={{height: "150px"}}/>
+                    <img className="me-3" src={NHMFlogo} alt="National Heritage Memorial Fund Logo" style={{height: "150px"}}/>
+                    <img src={IASlogo} alt="International Association of Sedimentologists logo" style={{height: "150px"}}/>
                 </div>
                 <h3 id="notebook">Notebooks</h3>
                 <p>The 2019 acquisition of the Lyell notebooks required a remarkable combination of societies, grant

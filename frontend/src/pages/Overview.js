@@ -39,6 +39,7 @@ export default function Items() {
                                 title: "Collection Overview",
                                 detail: "",
                                 image: shelf,
+                                alt: "Books on a shelf"
                             }}
                         />
                         <div className="col">
@@ -48,7 +49,8 @@ export default function Items() {
                                         id: 1,
                                         title: "Notebooks",
                                         image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~121185~458574/full/!500,500/0/default.jpg",
-                                        detail: "five series of Lyell’s original handwritten notebooks"
+                                        detail: "five series of Lyell’s original handwritten notebooks",
+                                        alt: "Cover page of book no. 1"
                                     }}
                                 />
                                 <AltBox
@@ -56,7 +58,8 @@ export default function Items() {
                                         id: 2,
                                         title: "Specimens",
                                         image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~84801~103462/full/717,/0/default.jpg",
-                                        detail: "collected by Lyell to evidence his work"
+                                        detail: "collected by Lyell to evidence his work",
+                                        alt: "Shells from the collection pictured"
                                     }}
                                 />
                             </div>
@@ -66,7 +69,8 @@ export default function Items() {
                                         id: 3,
                                         title: "Papers",
                                         image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~84062~103420/full/!500,500/0/default.jpg",
-                                        detail: "including correspondence, notes, lectures and manuscripts"
+                                        detail: "including correspondence, notes, lectures and manuscripts",
+                                        alt: "letter addressed to Charles Lyell at 53 Harley Road"
                                     }}
                                 />
                                 <AltBox
@@ -74,7 +78,8 @@ export default function Items() {
                                         id: 4,
                                         title: "Offprints",
                                         image: offImg,
-                                        detail: "articles and publications collected by Lyell"
+                                        detail: "articles and publications collected by Lyell",
+                                        alt: "Books"
                                     }}
                                 />
                             </div>

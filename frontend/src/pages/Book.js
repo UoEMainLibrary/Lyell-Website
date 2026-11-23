@@ -19,8 +19,8 @@ function BookInfo({textContent, image}) {
                 {image.map((img) => (
                     <img className="col col-sm-5 col-lg-12 mx-2 my-4"
                          style={{maxWidth: "350px", height: "auto", objectFit: "contain"}}
-                         src={img}
-                         alt="notebook cover"/>
+                         src={img.src}
+                         alt={img.alt}/>
                 ))}
 
             </div>
@@ -69,7 +69,7 @@ function ToggleTable({data}) {
                             <td className="table-link" style={{wordWrap: "break-word"}}>
                                 <a href={item.Link} style={{wordWrap: "break-word"}} target="_blank"
                                    rel="">
-                                    {item.Link}
+                                    View {item.Document}
                                 </a>
                             </td>
                         </tr>
@@ -84,8 +84,8 @@ function ToggleTable({data}) {
 
 function Books() {
     const images = {
-        "Principles of Geology": ["https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130439~471142/pct:15,15,75,75/max/0/default.jpg"],
-        "Elements of Geology": [el_ft],
+        "Principles of Geology": [{src: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130439~471142/pct:15,15,75,75/max/0/default.jpg", alt: "Cover of Principles of Geology"}],
+        "Elements of Geology": [{src: el_ft, alt: "Cover of Elements of Geology"}],
         "Travels in North America": [],
         "Antiquity of Man": [],
         "Life, Letters and Journals": []
@@ -176,7 +176,7 @@ function Books() {
                                         <li
                                             key={bookName}
                                         >
-                                    <span style={{color: "blue", cursor: "pointer"}}
+                                    <span style={{textDecoration: 'underline', color: "blue", cursor: "pointer"}}
                                           onClick={() => handleKeyClick(bookName)}>
                                       {bookName}
                                     </span>

@@ -191,6 +191,7 @@ export default function Elsewhere() {
                     text="National Library of Scotland"
                     link="https://www.nls.uk/"
                     img={libScotImg}
+                    alt = "Principles of Geology by Charles Lyell, dated July 21, 1830"
                     body={
                         <p>
                             The National Library of Scotland holds the business archive of Charles Lyell's publisher
@@ -241,6 +242,7 @@ export default function Elsewhere() {
                     text="Oxford University Museum of Natural History"
                     link="https://oumnh.ox.ac.uk/"
                     img={oxHisImg}
+                    alt = "A few specimens pictured"
                     body={
                         <p>
                             The Charles Lyell fossils at Oxford University Museum of Natural History were donated by
@@ -257,6 +259,7 @@ export default function Elsewhere() {
                     text="University of Cambridge: Sedgewick Museum of Earth Sciences: Charles Lyell Collections"
                     link="https://sedgwickmuseum.cam.ac.uk/"
                     img={segImg}
+                    alt = "Geological Hammer and Correspondence from Charles Lyell"
                     body={
                         <p>
                             The <a href="https://sedgwickmuseum.cam.ac.uk/">Sedgwick Museum of Earth Sciences</a> is the oldest of the University of Cambridge museums,
@@ -309,6 +312,7 @@ export default function Elsewhere() {
                     text="University of Minnesota"
                     link="https://www.lib.umn.edu/collections/special/uarchives"
                     img={minImg}
+                    alt = "Cropped image of Wilson's writings on Lyell"
                     body={
                         <p>
                             The <a href="https://en.wikipedia.org/wiki/Leonard_Gilchrist_Wilson">Leonard G. Wilson</a> papers at the University of Minnesota Archives include Wilson's

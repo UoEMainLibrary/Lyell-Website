@@ -46,6 +46,7 @@ function TextNavRender({items}) {
         <ul className="">
             {navConvert().map((item, index) => (
                 <li key={index} onClick={() => handleHeaderClick(item)} style={{
+                    textDecoration: "underline",
                     color: "blue",
                     cursor: "pointer"
                 }}>
@@ -53,6 +54,7 @@ function TextNavRender({items}) {
                         <ul className="">
                             {item.map((subItem, subIndex) => (
                                 <li key={subIndex} onClick={() => handleHeaderClick(subItem)} style={{
+                                    textDecoration: "underline",
                                     color: "blue",
                                     cursor: "pointer"
                                 }}>{subItem}</li>
