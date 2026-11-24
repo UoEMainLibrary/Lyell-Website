@@ -16,7 +16,7 @@ function Section({content, img}) {
 
             <div className="row align-items-center top-bar-red pt-3">
                 <div className={`col-lg-3 col-md-4 order-2 order-md-1 pt-3`}>
-                    <img src={img} alt="Image" className="" style={imageStyle}/>
+                    <img src={img} alt="Charles Lyell pictured in the history of geological Society book" className="" style={imageStyle}/>
                     <figcaption>Charles Lyell Collection, University of Edinburgh Heritage Collections reference
                         Coll-203/B21/2
                     </figcaption>

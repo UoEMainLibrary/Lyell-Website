@@ -52,7 +52,7 @@ export default function Home() {
                             content={{
                                 detail: "Find out about Lyell’s publications – held in the archive in Edinburgh, and online",
                                 image: "https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130439~471142/0,2000,6000,5000/750,/0/default.jpg",
-                                alt: "Book Cover",
+                                alt: "Book Cover of Principles of Geology by Charles Lyell",
                                 title: "Publications"
                             }}
                             img="https://images.is.ed.ac.uk/luna/servlet/iiif/UoEsha~5~5~130439~471142/0,2000,6000,5000/750,/0/default.jpg"
@@ -63,7 +63,7 @@ export default function Home() {
                                 title: "Lyell elsewhere",
                                 detail: "Details and links to Lyell related material held by other organisations",
                                 image: {map},
-                                alt: "Book Cover"
+                                alt: "Depiction of two projections of earth, with text Extreme of Heat at the bottom "
                             }}
                             img={map}
                         />
