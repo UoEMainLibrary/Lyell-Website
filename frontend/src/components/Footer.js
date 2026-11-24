@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="col-md-4">
             <p>
               <a href="https://www.ed.ac.uk/">
-              <img src="https://collections.ed.ac.uk/theme/stcecilia/images/UoETransparentWhite.png" alt="Logo" className="footer-logo" />
+              <img src="https://collections.ed.ac.uk/collections/stcecilia/images/UoETransparentWhite.png" alt="Logo" className="footer-logo" />
               </a>
             </p>
             <p>Unless explicitly stated otherwise, all material is copyright © 2024 <a style={{color:'#C4D7EE'}} href="https://www.ed.ac.uk/">University of Edinburgh</a></p>
